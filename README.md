@@ -1,21 +1,28 @@
 # FactShecker
 
-بوابة مفتوحة المصدر لرصد الأخبار والادعاءات وتجميع التغطيات المتشابهة، مصممة لتعمل بتكلفة تشغيلية صفرية على GitHub Actions + GitHub Pages.
+بوابة مفتوحة المصدر لرصد الأخبار والادعاءات وتجميع التغطيات المتشابهة ومطابقة مواد تحقق سابقة، مصممة لتعمل بتكلفة تشغيلية صفرية على GitHub Actions + GitHub Pages.
 
-> **مهم:** FactShecker v0.1 لا يصدر حكمًا آليًا من نوع True/False. النظام يعرض مقدار دعم الأدلة المرصودة ويضع الحالات التي تحتاج تحققًا في قائمة مراجعة.
+> **مهم:** FactShecker v0.2 لا يصدر حكمًا آليًا من نوع True/False. النظام يعرض إشارات triage قابلة للتفسير: دعم التغطيات المستقلة، قابلية العنوان للفحص، ومطابقات نصية أولية مع مواد تحقق سابقة.
+
+## الموقع
+
+GitHub Pages: https://ahdmarwan.github.io/FactShecker/
 
 ## كيف تعمل
 
 ```text
 Google News RSS / public RSS
             ↓
-      GitHub Actions
+      collect + normalize
             ↓
-  collect + normalize
-            ↓
-   deduplicate/cluster
-            ↓
- evidence-support score
+   ┌────────┴─────────┐
+   │                  │
+news coverage      fact-check feeds
+   │                  │
+cluster + support   separate corpus
+score + claim score   │
+   │          previous-check matching
+   └────────┬─────────┘
             ↓
       data/index.json
             ↓
@@ -24,14 +31,24 @@ Google News RSS / public RSS
 
 لا توجد قاعدة بيانات خارجية، ولا API مدفوع، ولا خادم دائم.
 
+## ما الجديد في v0.2
+
+- إزالة suffix الناشر الشائع من عناوين Google News قبل المقارنة.
+- `claim_score` heuristics لترشيح العناوين التي تبدو ادعاءات قابلة للفحص، مع أسباب قابلة للتدقيق.
+- فصل مواد جهات التحقق عن مصادر corroboration؛ مادة fact-check لا تُحتسب تلقائيًا كمصدر يؤيد الادعاء.
+- مطابقة نصية أولية بين clusters ومواد تحقق سابقة باستخدام character similarity + token overlap.
+- قنوات مغربية أكثر استهدافًا، بما فيها MAP/Maroc.ma وSNRTnews وقنوات AFP Fact Check/Africa Check.
+- CI مستقل للـPull Requests حتى تمر syntax checks وunit tests قبل الدمج.
+
 ## المكونات
 
-- `scripts/collect.py` — يجمع RSS، يوحد البيانات، يحتفظ بآخر 30 يومًا، ويجمع العناوين المتشابهة.
-- `sources/sources.json` — قنوات الرصد وقائمة المصادر المنسقة وأوزانها.
+- `scripts/collect.py` — يجمع RSS، يوحد البيانات، يحتفظ بآخر 30 يومًا، يجمع العناوين المتشابهة، يحسب إشارات triage ويطابق fact-checks.
+- `sources/sources.json` — قنوات الرصد وأدوار المصادر وأوزانها.
 - `data/index.json` — قاعدة البيانات الحالية بصيغة JSON.
-- `site/` — واجهة عربية static تعمل مباشرة على GitHub Pages.
-- `.github/workflows/monitor.yml` — تحديث كل ساعة + نشر Pages عند تفعيلها.
-- `docs/METHODOLOGY.md` — تعريف الـscore والقيود المنهجية.
+- `site/` — واجهة عربية static تعمل على GitHub Pages.
+- `.github/workflows/monitor.yml` — تحديث كل ساعة + نشر Pages.
+- `.github/workflows/test.yml` — فحص collector والاختبارات على Pull Requests.
+- `docs/METHODOLOGY.md` — تعريف الإشارات والقيود المنهجية.
 
 ## التشغيل المحلي
 
@@ -39,6 +56,7 @@ Google News RSS / public RSS
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\\Scripts\\activate
 python -m pip install -r requirements.txt
+python -m unittest discover -s tests -p "test_*.py" -v
 python scripts/collect.py
 mkdir -p site/data
 cp data/index.json site/data/index.json
@@ -49,56 +67,65 @@ python -m http.server 8000 -d site
 
 ## GitHub Pages
 
-يلزم تفعيل GitHub Pages **مرة واحدة فقط** من إعدادات المستودع لأن `GITHUB_TOKEN` الخاص بالـworkflow يستطيع النشر إلى Pages بعد إنشائها، لكنه لا يملك صلاحية إنشاء Pages site لأول مرة في هذا المستودع.
+المستودع مضبوط على GitHub Pages عبر GitHub Actions. الـworkflow يجمع البيانات، يحفظ التغييرات الجوهرية في `data/index.json`، يرفع artifact ثم ينشر الموقع.
 
-اذهب إلى:
-
-`Settings → Pages → Build and deployment → Source → GitHub Actions`
-
-بعد هذا الإعداد لمرة واحدة، يتولى workflow الجمع والتحديث والنشر تلقائيًا. إذا لم تكن Pages مفعلة بعد، يستمر جمع الأخبار وحفظ `data/index.json` بنجاح ولا يفشل workflow بسبب النشر. الجدولة الحالية كل ساعة في الدقيقة 17 لتجنب الضغط المعتاد في بداية الساعة.
+الجدولة الحالية كل ساعة في الدقيقة 17 لتجنب الضغط المعتاد في بداية الساعة.
 
 ## إضافة مصادر
 
-عدل `sources/sources.json`. يدعم v0.1 نوعين:
+عدل `sources/sources.json`. يدعم النظام:
 
 1. `google_news`: بحث Google News RSS بدون API key.
 2. RSS مباشر بإضافة `type` مختلف عن `google_news` وحقول `url`, `name`, `language`.
 
-مثال RSS مباشر:
+يمكن للقناة المستهدفة أن تفرض دورًا معروفًا عندما يكون رابط المصدر الذي يرجعه aggregator غير كافٍ للتصنيف:
 
 ```json
 {
-  "name": "Example RSS",
-  "type": "rss",
-  "url": "https://example.org/feed.xml",
-  "language": "ar",
-  "limit": 40,
+  "name": "Targeted fact-check feed",
+  "type": "google_news",
+  "query": "site:example.org Morocco",
+  "language": "en",
+  "source_category": "fact_checker",
+  "source_weight": 0.95,
   "enabled": true
 }
 ```
 
-## حالات النظام
+هذا override ينبغي استعماله فقط عندما تكون query نفسها محصورة في المصدر المقصود.
 
-| الحالة | المعنى |
-|---|---|
-| `needs_review` | مصدر واحد ظاهر حاليًا؛ يحتاج مراجعة |
-| `medium_evidence` | تغطية مشابهة من مصدرين أو أكثر |
-| `corroborated` | تغطية من 3 مصادر أو أكثر مع score كافٍ |
+## إشارات النظام
 
-هذه الحالات ليست أحكامًا على صدق الخبر. التفاصيل في [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
+### Evidence-support
+
+- `needs_review`: مصدر دعم واحد ظاهر حاليًا.
+- `medium_evidence`: مصدران مستقلان أو أكثر ظاهرون.
+- `corroborated`: ثلاثة مصادر دعم أو أكثر مع evidence score كافٍ.
+
+مواد `fact_checker` لا تدخل في حساب هذا الدعم.
+
+### Claim score
+
+يرشّح العناوين القابلة للفحص اعتمادًا على مؤشرات مثل أفعال التصريح، الأرقام والقيم الكمية، مع خفض عناوين السؤال والرأي والتحليل. هذا **check-worthiness score** وليس احتمال صدق.
+
+### Fact-check matches
+
+تُعرض مواد تحقق سابقة عندما يتجاوز التشابه النصي threshold محددًا. المطابقة لا تنقل الحكم القديم إلى الادعاء الحالي؛ يجب مراجعة التاريخ والجهة والكمية والسياق يدويًا.
+
+التفاصيل في [`docs/METHODOLOGY.md`](docs/METHODOLOGY.md).
 
 ## خارطة الطريق
 
-- مطابقة semantic متعددة اللغات AR/FR/EN.
-- فصل الادعاء عن عنوان الخبر واستخراج claim candidates أدق.
-- قاعدة fact-checks منشورة ومطابقة ادعاءات سابقة.
-- لوحة مراجعة بشرية عبر GitHub Issues أو ملفات review JSON.
+- semantic embeddings متعددة اللغات AR/FR/EN مع benchmark قبل الاستعمال الإنتاجي.
+- استخراج claim span من النص الكامل بدل الاعتماد على العنوان فقط.
+- استرجاع الأدلة الأولية وربط كل claim بـprovenance واضح.
+- لوحة مراجعة بشرية وسجل قرارات وتصحيحات.
 - تتبع provenance للصور والفيديو ومؤشرات C2PA.
-- تقييم benchmark قبل نشر أي تصنيف True/False/Misleading.
+- benchmark منشور قبل أي تصنيف True/False/Misleading.
 
 ## التكلفة
 
-المشروع مصمم لمستودع GitHub عام باستخدام standard GitHub-hosted runners وGitHub Pages، بدون خدمات مدفوعة أو مفاتيح API مطلوبة في v0.1.
+المشروع مصمم لمستودع GitHub عام باستخدام standard GitHub-hosted runners وGitHub Pages، بدون خدمات مدفوعة أو مفاتيح API مطلوبة في v0.2.
 
 ## License
 

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="FactShecker: مرصد مفتوح المصدر لرصد الأخبار والادعاءات وتقدير قوة الأدلة المتاحة.">
+  <meta name="description" content="FactShecker: مرصد مفتوح المصدر لرصد الأخبار والادعاءات ومطابقة مواد تحقق سابقة دون إصدار أحكام آلية.">
   <title>FactShecker — مرصد الأخبار والادعاءات</title>
   <link rel="stylesheet" href="./style.css">
 </head>
@@ -24,7 +24,7 @@
       <div>
         <span class="eyebrow">OPEN-SOURCE · ZERO-COST</span>
         <h2>رصد الأخبار قبل إصدار الحكم</h2>
-        <p>تجمع المنصة العناوين من مصادر عامة، وتجمع الأخبار المتشابهة، ثم تعرض درجة دعم الأدلة المتاحة. الدرجة ليست حكمًا آليًا على الحقيقة أو الكذب.</p>
+        <p>تجمع المنصة العناوين من مصادر عامة، وتجمع التغطيات المتشابهة، وترشّح الادعاءات القابلة للفحص، ثم تبحث عن مواد تحقق سابقة ذات تشابه نصي. لا يصدر النظام حكمًا آليًا على الحقيقة أو الكذب.</p>
       </div>
       <div class="last-update">
         <span>آخر تحديث</span>
@@ -36,13 +36,14 @@
       <article><span>الأخبار</span><strong id="articlesCount">0</strong></article>
       <article><span>المجموعات</span><strong id="clustersCount">0</strong></article>
       <article><span>المصادر</span><strong id="sourcesCount">0</strong></article>
+      <article><span>تحققات مرصودة</span><strong id="factChecksCount">0</strong></article>
       <article><span>تحتاج مراجعة</span><strong id="reviewCount">0</strong></article>
     </section>
 
     <section class="controls">
       <label class="search-box">
         <span>بحث</span>
-        <input id="searchInput" type="search" placeholder="ابحث في العناوين أو المصادر…">
+        <input id="searchInput" type="search" placeholder="ابحث في العناوين أو المصادر أو مطابقات التحقق…">
       </label>
       <label>
         <span>الحالة</span>
@@ -66,7 +67,7 @@
 
     <section class="method-note">
       <strong>تنبيه منهجي:</strong>
-      <span>Evidence score يقيس مقدار الدعم الظاهر في المصادر التي يرصدها النظام، ولا يمثل احتمالًا رياضيًا لصحة الخبر.</span>
+      <span>Evidence score يقيس دعم التغطيات المستقلة المرصودة فقط. Claim score يقدّر قابلية العنوان للفحص. مطابقات fact-check هي تشابه نصي أولي. لا تمثل أي من هذه الإشارات احتمالًا رياضيًا لصحة الخبر أو حكمًا نهائيًا عليه.</span>
     </section>
 
     <section>
@@ -80,7 +81,7 @@
   </main>
 
   <footer>
-    <p>FactShecker v0.1 · البيانات تُحدّث آليًا عبر GitHub Actions.</p>
+    <p>FactShecker v0.2 · البيانات تُحدّث آليًا عبر GitHub Actions.</p>
   </footer>
 
   <script src="./app.js" defer></script>

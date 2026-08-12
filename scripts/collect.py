@@ -2,9 +2,9 @@
 """Zero-cost RSS/Google News collector for FactShecker.
 
 The collector intentionally does not label stories as true/false. It groups
-similar headlines and estimates how much *independent public-source support*
-is visible in the monitored feeds. Final fact-check verdicts require human
-review and evidence inspection.
+similar headlines, estimates how much *independent public-source support* is
+visible in monitored feeds, and separately surfaces textually related items
+from known fact-checking sources. Final verdicts require human review.
 """
 
 from __future__ import annotations
@@ -30,7 +30,9 @@ DATA_PATH = ROOT / "data" / "index.json"
 MAX_ARTICLES = 1200
 RETENTION_DAYS = 30
 SIMILARITY_THRESHOLD = 0.76
-USER_AGENT = "FactShecker/0.1 (+https://github.com/AHDMarwan/FactShecker)"
+FACT_CHECK_MATCH_THRESHOLD = 0.46
+MAX_FACT_CHECK_MATCHES = 3
+USER_AGENT = "FactShecker/0.2 (+https://github.com/AHDMarwan/FactShecker)"
 
 
 def utc_now() -> datetime:
@@ -57,6 +59,19 @@ def clean_text(value: str) -> str:
     value = html.unescape(value or "")
     value = re.sub(r"<[^>]+>", " ", value)
     return re.sub(r"\s+", " ", value).strip()
+
+
+def strip_publisher_suffix(title: str, source_name: str = "") -> str:
+    """Remove common Google News publisher suffixes without rewriting headlines."""
+    title = clean_text(title)
+    source_name = clean_text(source_name)
+    if source_name:
+        suffix = f" - {source_name}"
+        if title.casefold().endswith(suffix.casefold()):
+            return title[: -len(suffix)].rstrip()
+
+    # Safe fallback for domain-like suffixes: "Headline - example.com".
+    return re.sub(r"\s+-\s+[\w.-]+\.[a-z]{2,}$", "", title, flags=re.IGNORECASE).strip()
 
 
 def stable_id(*parts: str) -> str:
@@ -113,19 +128,23 @@ def origin_from_entry(entry: Any, channel: dict[str, Any]) -> tuple[str, str]:
 
 
 def article_from_entry(entry: Any, channel: dict[str, Any], trusted_sources: list[dict[str, Any]]) -> dict[str, Any] | None:
-    title = clean_text(entry.get("title", ""))
+    raw_title = clean_text(entry.get("title", ""))
     link = entry.get("link", "")
-    if not title or not link:
+    if not raw_title or not link:
         return None
 
     source_name, source_url = origin_from_entry(entry, channel)
+    title = strip_publisher_suffix(raw_title, source_name)
     domain = domain_of(source_url)
     profile = source_profile(domain, trusted_sources)
+    source_weight = float(channel.get("source_weight", profile["weight"]))
+    source_category = channel.get("source_category", profile["category"])
     normalized = normalize_text(title)
 
     return {
         "id": stable_id(normalized, link),
         "title": title,
+        "raw_title": raw_title,
         "normalized_title": normalized,
         "url": link,
         "published_at": entry_time(entry),
@@ -135,8 +154,8 @@ def article_from_entry(entry: Any, channel: dict[str, Any], trusted_sources: lis
             "name": source_name,
             "url": source_url,
             "domain": domain,
-            "weight": profile["weight"],
-            "category": profile["category"],
+            "weight": source_weight,
+            "category": source_category,
         },
     }
 
@@ -175,6 +194,9 @@ def load_previous_articles() -> list[dict[str, Any]]:
         for article in cluster.get("articles", []):
             if article.get("id"):
                 articles[article["id"]] = article
+    for article in previous.get("fact_checks", []):
+        if article.get("id"):
+            articles[article["id"]] = article
     return list(articles.values())
 
 
@@ -203,17 +225,69 @@ def similarity(a: str, b: str) -> float:
     return SequenceMatcher(None, a, b).ratio()
 
 
-def is_claim_candidate(title: str) -> bool:
+def token_jaccard(a: str, b: str) -> float:
+    tokens_a = {token for token in normalize_text(a).split() if len(token) > 1}
+    tokens_b = {token for token in normalize_text(b).split() if len(token) > 1}
+    if not tokens_a or not tokens_b:
+        return 0.0
+    return len(tokens_a & tokens_b) / len(tokens_a | tokens_b)
+
+
+def claim_features(title: str) -> dict[str, Any]:
+    """Heuristic check-worthiness signals; this is not a truth classifier."""
+    title = strip_publisher_suffix(title)
     normalized = normalize_text(title)
-    if not normalized or title.rstrip().endswith(("?", "؟")):
-        return False
-    indicators = (
-        "قال", "أعلن", "أكد", "يزعم", "ينفي", "ارتفع", "انخفض", "منع", "إلغاء",
-        "affirme", "annonce", "confirme", "dément", "interdit", "hausse", "baisse",
-        "claims", "says", "announces", "confirms", "denies", "bans", "rises", "falls",
+    reasons: list[str] = []
+    if not normalized:
+        return {"candidate": False, "score": 0.0, "reasons": ["empty"]}
+
+    if title.rstrip().endswith(("?", "؟")):
+        return {"candidate": False, "score": 0.0, "reasons": ["question"]}
+
+    score = 0.0
+    tokens = normalized.split()
+    if len(tokens) >= 5:
+        score += 0.10
+        reasons.append("specific_statement")
+
+    reporting_indicators = (
+        "قال", "اعلن", "اكد", "يزعم", "ينفي", "نفى", "صرح", "قرر", "سجل", "بلغ",
+        "affirme", "annonce", "confirme", "dement", "declare", "decide", "atteint",
+        "claims", "says", "announces", "confirms", "denies", "declares", "decides", "reaches",
     )
-    has_number = bool(re.search(r"\d", title))
-    return has_number or any(token in normalized for token in indicators)
+    event_indicators = (
+        "ارتفع", "انخفض", "منع", "الغاء", "توقف", "افتتاح", "اطلاق",
+        "hausse", "baisse", "interdit", "annule", "lance",
+        "rises", "falls", "bans", "cancels", "launches",
+    )
+    opinion_indicators = (
+        "راي", "تحليل", "لماذا", "كيف يمكن", "وجهة نظر",
+        "opinion", "analyse", "pourquoi", "chronique",
+        "analysis", "why", "commentary", "editorial",
+    )
+
+    if any(token in normalized for token in reporting_indicators):
+        score += 0.30
+        reasons.append("reported_assertion")
+    if any(token in normalized for token in event_indicators):
+        score += 0.20
+        reasons.append("event_assertion")
+    if re.search(r"\d", title):
+        score += 0.25
+        reasons.append("numeric_detail")
+    if re.search(r"[%٪$€£]|\b(?:dh|mad|usd|eur)\b", title, flags=re.IGNORECASE):
+        score += 0.10
+        reasons.append("quantified_value")
+    if any(token in normalized for token in opinion_indicators):
+        score -= 0.35
+        reasons.append("opinion_or_analysis")
+
+    score = round(max(0.0, min(1.0, score)), 3)
+    return {"candidate": score >= 0.35, "score": score, "reasons": reasons}
+
+
+def is_claim_candidate(title: str) -> bool:
+    return bool(claim_features(title)["candidate"])
 
 
 def cluster_articles(articles: list[dict[str, Any]]) -> list[list[dict[str, Any]]]:
@@ -236,10 +310,15 @@ def cluster_articles(articles: list[dict[str, Any]]) -> list[list[dict[str, Any]
     return clusters
 
 
+def support_articles(cluster: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [article for article in cluster if article.get("source", {}).get("category") != "fact_checker"]
+
+
 def score_cluster(cluster: list[dict[str, Any]]) -> tuple[float, str]:
-    sources = {article["source"]["name"] for article in cluster}
-    languages = {article.get("language", "und") for article in cluster}
-    weights = [float(article["source"].get("weight", 0.35)) for article in cluster]
+    supporting = support_articles(cluster)
+    sources = {article["source"]["name"] for article in supporting}
+    languages = {article.get("language", "und") for article in supporting}
+    weights = [float(article["source"].get("weight", 0.35)) for article in supporting]
 
     best_source = max(weights, default=0.35)
     corroboration = min(1.0, max(0, len(sources) - 1) / 2)
@@ -255,8 +334,59 @@ def score_cluster(cluster: list[dict[str, Any]]) -> tuple[float, str]:
     return evidence_score, status
 
 
+def fact_check_similarity(claim_title: str, fact_check_title: str, same_language: bool = False) -> float:
+    a = normalize_text(strip_publisher_suffix(claim_title))
+    b = normalize_text(strip_publisher_suffix(fact_check_title))
+    if not a or not b:
+        return 0.0
+    seq = similarity(a, b)
+    overlap = token_jaccard(a, b)
+    score = 0.45 * seq + 0.55 * overlap
+    if same_language:
+        score += 0.05
+    return round(min(1.0, score), 3)
+
+
+def match_fact_checks(
+    cluster: list[dict[str, Any]],
+    fact_checks: list[dict[str, Any]],
+    limit: int = MAX_FACT_CHECK_MATCHES,
+) -> list[dict[str, Any]]:
+    if not cluster or not fact_checks:
+        return []
+
+    representative = cluster[0]
+    matches: list[dict[str, Any]] = []
+    for fact_check in fact_checks:
+        same_language = representative.get("language") == fact_check.get("language")
+        score = fact_check_similarity(representative["title"], fact_check["title"], same_language)
+        if score < FACT_CHECK_MATCH_THRESHOLD:
+            continue
+        matches.append({
+            "id": fact_check["id"],
+            "title": fact_check["title"],
+            "url": fact_check["url"],
+            "published_at": fact_check.get("published_at"),
+            "language": fact_check.get("language", "und"),
+            "source": fact_check.get("source", {}),
+            "similarity": score,
+        })
+
+    matches.sort(key=lambda item: (item["similarity"], item.get("published_at") or ""), reverse=True)
+    return matches[:limit]
+
+
 def build_index(articles: list[dict[str, Any]]) -> dict[str, Any]:
-    clusters = cluster_articles(articles)
+    fact_checks = [
+        article for article in articles
+        if article.get("source", {}).get("category") == "fact_checker"
+    ]
+    news_articles = [
+        article for article in articles
+        if article.get("source", {}).get("category") != "fact_checker"
+    ]
+
+    clusters = cluster_articles(news_articles)
     items: list[dict[str, Any]] = []
 
     for cluster in clusters:
@@ -265,7 +395,8 @@ def build_index(articles: list[dict[str, Any]]) -> dict[str, Any]:
         evidence_score, status = score_cluster(cluster)
         sources = sorted({article["source"]["name"] for article in cluster})
         languages = sorted({article.get("language", "und") for article in cluster})
-        claim_candidate = any(is_claim_candidate(article["title"]) for article in cluster)
+        claim = max((claim_features(article["title"]) for article in cluster), key=lambda item: item["score"])
+        fact_check_matches = match_fact_checks(cluster, fact_checks)
 
         items.append({
             "id": stable_id(*(article["id"] for article in cluster[:8])),
@@ -273,7 +404,10 @@ def build_index(articles: list[dict[str, Any]]) -> dict[str, Any]:
             "published_at": representative["published_at"],
             "status": status,
             "evidence_score": evidence_score,
-            "claim_candidate": claim_candidate,
+            "claim_candidate": claim["candidate"],
+            "claim_score": claim["score"],
+            "claim_reasons": claim["reasons"],
+            "fact_check_matches": fact_check_matches,
             "source_count": len(sources),
             "article_count": len(cluster),
             "sources": sources,
@@ -282,21 +416,27 @@ def build_index(articles: list[dict[str, Any]]) -> dict[str, Any]:
         })
 
     items.sort(key=lambda item: item.get("published_at", ""), reverse=True)
+    fact_checks.sort(key=lambda item: item.get("published_at", ""), reverse=True)
     statuses = Counter(item["status"] for item in items)
     unique_sources = {article["source"]["name"] for article in articles}
+    matched_clusters = sum(bool(item["fact_check_matches"]) for item in items)
 
     return {
         "generated_at": iso_now(),
-        "methodology_version": "0.1",
-        "notice": "Evidence-support score only; not an automated truth verdict.",
+        "methodology_version": "0.2",
+        "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
         "stats": {
-            "articles": len(articles),
+            "records": len(articles),
+            "articles": len(news_articles),
+            "fact_checks": len(fact_checks),
             "clusters": len(items),
             "sources": len(unique_sources),
+            "matched_clusters": matched_clusters,
             "needs_review": statuses.get("needs_review", 0),
             "medium_evidence": statuses.get("medium_evidence", 0),
             "corroborated": statuses.get("corroborated", 0),
         },
+        "fact_checks": fact_checks[:250],
         "items": items,
     }
 

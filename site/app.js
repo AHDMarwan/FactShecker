@@ -43,12 +43,36 @@ function matches(item) {
     item.title,
     ...(item.sources || []),
     ...(item.articles || []).map((article) => article.title),
+    ...(item.fact_check_matches || []).map((match) => match.title),
   ].join(' ').toLowerCase();
 
   if (state.query && !haystack.includes(state.query.toLowerCase())) return false;
   if (state.status !== 'all' && item.status !== state.status) return false;
   if (state.language !== 'all' && !(item.languages || []).includes(state.language)) return false;
   return true;
+}
+
+function factCheckBlock(item) {
+  const matches = item.fact_check_matches || [];
+  if (!matches.length) return '';
+
+  const rows = matches.map((match) => `
+    <li>
+      <a href="${escapeHtml(safeUrl(match.url))}" target="_blank" rel="noopener noreferrer">${escapeHtml(match.title)}</a>
+      <small>${escapeHtml(match.source?.name || 'جهة تحقق')} · تشابه نصي ${scorePercent(match.similarity)}% · ${formatDate(match.published_at)}</small>
+    </li>
+  `).join('');
+
+  return `
+    <div class="fact-check-box">
+      <div class="fact-check-head">
+        <strong>مطابقات تحقق سابقة</strong>
+        <span>${matches.length}</span>
+      </div>
+      <p>مطابقة نصية أولية مع مواد من جهات تحقق معروفة؛ لا تعني أن الحكم المنشور ينطبق تلقائيًا على هذا الخبر.</p>
+      <ul>${rows}</ul>
+    </div>
+  `;
 }
 
 function card(item) {
@@ -59,12 +83,15 @@ function card(item) {
       <small>${escapeHtml(article.source?.name || 'مصدر غير محدد')} · ${formatDate(article.published_at)}</small>
     </li>
   `).join('');
+  const claimBadge = item.claim_candidate
+    ? `<span class="claim-badge">ادعاء قابل للفحص · ${scorePercent(item.claim_score)}%</span>`
+    : '';
 
   return `
     <article class="news-card">
       <div class="card-top">
         <span class="status status-${escapeHtml(item.status)}">${labels[item.status] || escapeHtml(item.status)}</span>
-        ${item.claim_candidate ? '<span class="claim-badge">ادعاء قابل للفحص</span>' : ''}
+        ${claimBadge}
       </div>
       <h3>${escapeHtml(item.title)}</h3>
       <div class="meta">
@@ -74,12 +101,13 @@ function card(item) {
       </div>
       <div class="evidence">
         <div class="evidence-head">
-          <span>دعم الأدلة المرصودة</span>
+          <span>دعم التغطيات المستقلة المرصودة</span>
           <strong>${scorePercent(item.evidence_score)}%</strong>
         </div>
         <div class="meter"><span style="width:${scorePercent(item.evidence_score)}%"></span></div>
       </div>
       <div class="source-tags">${sources}</div>
+      ${factCheckBlock(item)}
       <details>
         <summary>عرض التغطيات والمصادر</summary>
         <ul class="article-list">${articles}</ul>
@@ -101,6 +129,7 @@ function renderStats() {
   $('articlesCount').textContent = stats.articles ?? 0;
   $('clustersCount').textContent = stats.clusters ?? 0;
   $('sourcesCount').textContent = stats.sources ?? 0;
+  $('factChecksCount').textContent = stats.fact_checks ?? 0;
   $('reviewCount').textContent = stats.needs_review ?? 0;
   $('generatedAt').textContent = formatDate(state.data?.generated_at);
 }
