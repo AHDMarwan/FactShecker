@@ -19,13 +19,23 @@ function formatDate(value) {
 }
 
 function escapeHtml(value = '') {
-  return value.replace(/[&<>'"]/g, (char) => ({
+  return String(value).replace(/[&<>'"]/g, (char) => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
   }[char]));
 }
 
+function safeUrl(value = '') {
+  try {
+    const parsed = new URL(value, window.location.href);
+    if (!['http:', 'https:'].includes(parsed.protocol)) return '#';
+    return parsed.href;
+  } catch {
+    return '#';
+  }
+}
+
 function scorePercent(score) {
-  return Math.round((Number(score) || 0) * 100);
+  return Math.max(0, Math.min(100, Math.round((Number(score) || 0) * 100)));
 }
 
 function matches(item) {
@@ -45,7 +55,7 @@ function card(item) {
   const sources = (item.sources || []).slice(0, 4).map((source) => `<span>${escapeHtml(source)}</span>`).join('');
   const articles = (item.articles || []).slice(0, 5).map((article) => `
     <li>
-      <a href="${escapeHtml(article.url)}" target="_blank" rel="noreferrer">${escapeHtml(article.title)}</a>
+      <a href="${escapeHtml(safeUrl(article.url))}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.title)}</a>
       <small>${escapeHtml(article.source?.name || 'مصدر غير محدد')} · ${formatDate(article.published_at)}</small>
     </li>
   `).join('');
@@ -60,7 +70,7 @@ function card(item) {
       <div class="meta">
         <span>${item.source_count || 0} مصادر</span>
         <span>${item.article_count || 0} تغطيات</span>
-        <span>${(item.languages || []).join(' / ').toUpperCase()}</span>
+        <span>${escapeHtml((item.languages || []).join(' / ').toUpperCase())}</span>
       </div>
       <div class="evidence">
         <div class="evidence-head">
