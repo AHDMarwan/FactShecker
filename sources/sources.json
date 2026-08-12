@@ -34,9 +34,64 @@
       "enabled": true
     },
     {
+      "name": "Google News — MAP / Maroc.ma",
+      "type": "google_news",
+      "query": "site:map.ma Maroc OR site:maroc.ma Maroc",
+      "hl": "fr",
+      "gl": "MA",
+      "ceid": "MA:fr",
+      "language": "fr",
+      "limit": 50,
+      "enabled": true
+    },
+    {
+      "name": "Google News — SNRTnews (AR)",
+      "type": "google_news",
+      "query": "site:snrtnews.com المغرب",
+      "hl": "ar",
+      "gl": "MA",
+      "ceid": "MA:ar",
+      "language": "ar",
+      "limit": 50,
+      "enabled": true
+    },
+    {
       "name": "Google News — Fact-check Morocco",
       "type": "google_news",
-      "query": "Morocco fact check OR Maroc fact-check",
+      "query": "Morocco fact check OR Maroc fact-check OR المغرب تحقق",
+      "hl": "en",
+      "gl": "MA",
+      "ceid": "MA:en",
+      "language": "en",
+      "limit": 40,
+      "enabled": true
+    },
+    {
+      "name": "Google News — AFP Fact Check Morocco",
+      "type": "google_news",
+      "query": "site:factcheck.afp.com Morocco OR Maroc",
+      "hl": "en",
+      "gl": "MA",
+      "ceid": "MA:en",
+      "language": "en",
+      "limit": 40,
+      "enabled": true
+    },
+    {
+      "name": "Google News — AFP Fact Check المغرب",
+      "type": "google_news",
+      "query": "site:factcheck.afp.com المغرب",
+      "hl": "ar",
+      "gl": "MA",
+      "ceid": "MA:ar",
+      "language": "ar",
+      "limit": 30,
+      "enabled": true
+    },
+    {
+      "name": "Google News — Africa Check Morocco",
+      "type": "google_news",
+      "query": "site:africacheck.org Morocco OR Maroc",
       "hl": "en",
       "gl": "MA",
       "ceid": "MA:en",
@@ -46,8 +101,10 @@
     }
   ],
   "trusted_sources": [
-    {"domain": "maroc.ma", "weight": 1.0, "category": "official", "label": "Portail du Maroc"},
-    {"domain": "mapnews.ma", "weight": 0.85, "category": "news_agency", "label": "MAP"},
+    {"domain": "maroc.ma", "weight": 1.0, "category": "official", "label": "Portail officiel du Maroc"},
+    {"domain": "map.ma", "weight": 0.9, "category": "news_agency", "label": "Maghreb Arabe Presse (MAP)"},
+    {"domain": "mapnews.ma", "weight": 0.85, "category": "news_agency", "label": "MAP legacy domain"},
+    {"domain": "snrtnews.com", "weight": 0.8, "category": "public_broadcaster", "label": "SNRTnews"},
     {"domain": "who.int", "weight": 1.0, "category": "primary_institution", "label": "WHO"},
     {"domain": "un.org", "weight": 1.0, "category": "primary_institution", "label": "United Nations"},
     {"domain": "worldbank.org", "weight": 1.0, "category": "primary_institution", "label": "World Bank"},
