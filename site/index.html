@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="FactShecker: مرصد مفتوح المصدر لرصد الأخبار والادعاءات وتقدير قوة الأدلة المتاحة.">
+  <title>FactShecker — مرصد الأخبار والادعاءات</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">FS</span>
+      <div>
+        <h1>FactShecker</h1>
+        <p>مرصد الأخبار والادعاءات</p>
+      </div>
+    </div>
+    <a class="github-link" href="https://github.com/AHDMarwan/FactShecker" target="_blank" rel="noreferrer">GitHub</a>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div>
+        <span class="eyebrow">OPEN-SOURCE · ZERO-COST</span>
+        <h2>رصد الأخبار قبل إصدار الحكم</h2>
+        <p>تجمع المنصة العناوين من مصادر عامة، وتجمع الأخبار المتشابهة، ثم تعرض درجة دعم الأدلة المتاحة. الدرجة ليست حكمًا آليًا على الحقيقة أو الكذب.</p>
+      </div>
+      <div class="last-update">
+        <span>آخر تحديث</span>
+        <strong id="generatedAt">—</strong>
+      </div>
+    </section>
+
+    <section class="stats" aria-label="إحصاءات المرصد">
+      <article><span>الأخبار</span><strong id="articlesCount">0</strong></article>
+      <article><span>المجموعات</span><strong id="clustersCount">0</strong></article>
+      <article><span>المصادر</span><strong id="sourcesCount">0</strong></article>
+      <article><span>تحتاج مراجعة</span><strong id="reviewCount">0</strong></article>
+    </section>
+
+    <section class="controls">
+      <label class="search-box">
+        <span>بحث</span>
+        <input id="searchInput" type="search" placeholder="ابحث في العناوين أو المصادر…">
+      </label>
+      <label>
+        <span>الحالة</span>
+        <select id="statusFilter">
+          <option value="all">الكل</option>
+          <option value="needs_review">تحتاج مراجعة</option>
+          <option value="medium_evidence">أدلة متوسطة</option>
+          <option value="corroborated">مدعومة بعدة مصادر</option>
+        </select>
+      </label>
+      <label>
+        <span>اللغة</span>
+        <select id="languageFilter">
+          <option value="all">الكل</option>
+          <option value="ar">العربية</option>
+          <option value="fr">الفرنسية</option>
+          <option value="en">الإنجليزية</option>
+        </select>
+      </label>
+    </section>
+
+    <section class="method-note">
+      <strong>تنبيه منهجي:</strong>
+      <span>Evidence score يقيس مقدار الدعم الظاهر في المصادر التي يرصدها النظام، ولا يمثل احتمالًا رياضيًا لصحة الخبر.</span>
+    </section>
+
+    <section>
+      <div class="section-head">
+        <h2>آخر ما تم رصده</h2>
+        <span id="resultsCount">0 نتيجة</span>
+      </div>
+      <div id="feed" class="feed" aria-live="polite"></div>
+      <div id="emptyState" class="empty" hidden>لا توجد نتائج مطابقة.</div>
+    </section>
+  </main>
+
+  <footer>
+    <p>FactShecker v0.1 · البيانات تُحدّث آليًا عبر GitHub Actions.</p>
+  </footer>
+
+  <script src="./app.js" defer></script>
+</body>
+</html>
