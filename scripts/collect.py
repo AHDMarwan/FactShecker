@@ -137,6 +137,8 @@ def article_from_entry(entry: Any, channel: dict[str, Any], trusted_sources: lis
     title = strip_publisher_suffix(raw_title, source_name)
     domain = domain_of(source_url)
     profile = source_profile(domain, trusted_sources)
+    source_weight = float(channel.get("source_weight", profile["weight"]))
+    source_category = channel.get("source_category", profile["category"])
     normalized = normalize_text(title)
 
     return {
@@ -152,8 +154,8 @@ def article_from_entry(entry: Any, channel: dict[str, Any], trusted_sources: lis
             "name": source_name,
             "url": source_url,
             "domain": domain,
-            "weight": profile["weight"],
-            "category": profile["category"],
+            "weight": source_weight,
+            "category": source_category,
         },
     }
 
@@ -254,7 +256,7 @@ def claim_features(title: str) -> dict[str, Any]:
         "claims", "says", "announces", "confirms", "denies", "declares", "decides", "reaches",
     )
     event_indicators = (
-        "ارتفع", "انخفض", "منع", "الغاء", "ا لغاء", "توقف", "افتتاح", "اطلاق",
+        "ارتفع", "انخفض", "منع", "الغاء", "توقف", "افتتاح", "اطلاق",
         "hausse", "baisse", "interdit", "annule", "lance",
         "rises", "falls", "bans", "cancels", "launches",
     )
