@@ -1,0 +1,59 @@
+{
+  "feeds": [
+    {
+      "name": "Google News — المغرب (AR)",
+      "type": "google_news",
+      "query": "المغرب",
+      "hl": "ar",
+      "gl": "MA",
+      "ceid": "MA:ar",
+      "language": "ar",
+      "limit": 80,
+      "enabled": true
+    },
+    {
+      "name": "Google News — Maroc (FR)",
+      "type": "google_news",
+      "query": "Maroc",
+      "hl": "fr",
+      "gl": "MA",
+      "ceid": "MA:fr",
+      "language": "fr",
+      "limit": 80,
+      "enabled": true
+    },
+    {
+      "name": "Google News — Morocco (EN)",
+      "type": "google_news",
+      "query": "Morocco",
+      "hl": "en",
+      "gl": "MA",
+      "ceid": "MA:en",
+      "language": "en",
+      "limit": 60,
+      "enabled": true
+    },
+    {
+      "name": "Google News — Fact-check Morocco",
+      "type": "google_news",
+      "query": "Morocco fact check OR Maroc fact-check",
+      "hl": "en",
+      "gl": "MA",
+      "ceid": "MA:en",
+      "language": "en",
+      "limit": 40,
+      "enabled": true
+    }
+  ],
+  "trusted_sources": [
+    {"domain": "maroc.ma", "weight": 1.0, "category": "official", "label": "Portail du Maroc"},
+    {"domain": "mapnews.ma", "weight": 0.85, "category": "news_agency", "label": "MAP"},
+    {"domain": "who.int", "weight": 1.0, "category": "primary_institution", "label": "WHO"},
+    {"domain": "un.org", "weight": 1.0, "category": "primary_institution", "label": "United Nations"},
+    {"domain": "worldbank.org", "weight": 1.0, "category": "primary_institution", "label": "World Bank"},
+    {"domain": "reuters.com", "weight": 0.8, "category": "newsroom", "label": "Reuters"},
+    {"domain": "apnews.com", "weight": 0.8, "category": "newsroom", "label": "Associated Press"},
+    {"domain": "factcheck.afp.com", "weight": 0.95, "category": "fact_checker", "label": "AFP Fact Check"},
+    {"domain": "africacheck.org", "weight": 0.95, "category": "fact_checker", "label": "Africa Check"}
+  ]
+}

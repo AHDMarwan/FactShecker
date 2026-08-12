@@ -1,0 +1,102 @@
+name: Monitor news and deploy Pages
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/index.json"
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: factshecker-pages
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Validate collector syntax
+        run: python -m py_compile scripts/collect.py
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -p "test_*.py" -v
+
+      - name: Snapshot persisted dataset
+        run: cp data/index.json /tmp/index.before.json
+
+      - name: Collect and score monitored headlines
+        run: python scripts/collect.py
+
+      - name: Prepare static site data
+        run: |
+          mkdir -p site/data
+          cp data/index.json site/data/index.json
+
+      - name: Persist substantive dataset changes
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          before = json.loads(Path('/tmp/index.before.json').read_text(encoding='utf-8'))
+          after = json.loads(Path('data/index.json').read_text(encoding='utf-8'))
+          before.pop('generated_at', None)
+          after.pop('generated_at', None)
+          Path('/tmp/substantive_changed').write_text('1' if before != after else '0')
+          PY
+
+          if [ "$(cat /tmp/substantive_changed)" = "1" ]; then
+            git config user.name "FactShecker Bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/index.json
+            git commit -m "data: refresh monitored headlines"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            git restore data/index.json
+            echo "No substantive dataset changes; skipping repository commit."
+          fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
