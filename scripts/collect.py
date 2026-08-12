@@ -43,6 +43,8 @@ def iso_now() -> str:
 
 def normalize_text(value: str) -> str:
     value = html.unescape(value or "")
+    value = unicodedata.normalize("NFKD", value)
+    value = "".join(char for char in value if unicodedata.category(char) != "Mn")
     value = unicodedata.normalize("NFKC", value)
     value = value.lower()
     value = re.sub(r"<[^>]+>", " ", value)
@@ -203,7 +205,7 @@ def similarity(a: str, b: str) -> float:
 
 def is_claim_candidate(title: str) -> bool:
     normalized = normalize_text(title)
-    if not normalized or title.rstrip().endswith("?"):
+    if not normalized or title.rstrip().endswith(("?", "؟")):
         return False
     indicators = (
         "قال", "أعلن", "أكد", "يزعم", "ينفي", "ارتفع", "انخفض", "منع", "إلغاء",
