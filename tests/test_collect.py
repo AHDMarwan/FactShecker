@@ -1,6 +1,7 @@
 import unittest
 
 from scripts.collect import (
+    article_from_entry,
     build_index,
     claim_features,
     cluster_articles,
@@ -48,6 +49,25 @@ class CollectorTests(unittest.TestCase):
             strip_publisher_suffix("خبر اقتصادي جديد - example.com"),
             "خبر اقتصادي جديد",
         )
+
+    def test_channel_can_override_source_role(self):
+        entry = {
+            "title": "Fact check about Morocco - AFP Fact Check",
+            "link": "https://news.google.com/articles/example",
+            "source": {"title": "AFP Fact Check", "href": "https://news.google.com/"},
+        }
+        channel = {
+            "name": "Targeted fact checks",
+            "type": "google_news",
+            "query": "site:factcheck.afp.com Morocco",
+            "language": "en",
+            "source_category": "fact_checker",
+            "source_weight": 0.95,
+        }
+        result = article_from_entry(entry, channel, [])
+        self.assertIsNotNone(result)
+        self.assertEqual(result["source"]["category"], "fact_checker")
+        self.assertEqual(result["source"]["weight"], 0.95)
 
     def test_stable_id_is_deterministic(self):
         self.assertEqual(stable_id("a", "b"), stable_id("a", "b"))
@@ -125,7 +145,7 @@ class CollectorTests(unittest.TestCase):
             "ar",
             "fact_checker",
         )
-        matches = match_fact_checks([[news][0]], [fact_check])
+        matches = match_fact_checks([news], [fact_check])
         self.assertEqual(len(matches), 1)
         self.assertEqual(matches[0]["source"]["category"], "fact_checker")
 
