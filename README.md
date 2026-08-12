@@ -30,7 +30,7 @@ Google News RSS / public RSS
 - `sources/sources.json` — قنوات الرصد وقائمة المصادر المنسقة وأوزانها.
 - `data/index.json` — قاعدة البيانات الحالية بصيغة JSON.
 - `site/` — واجهة عربية static تعمل مباشرة على GitHub Pages.
-- `.github/workflows/monitor.yml` — تحديث كل ساعة + نشر Pages.
+- `.github/workflows/monitor.yml` — تحديث كل ساعة + نشر Pages عند تفعيلها.
 - `docs/METHODOLOGY.md` — تعريف الـscore والقيود المنهجية.
 
 ## التشغيل المحلي
@@ -49,11 +49,13 @@ python -m http.server 8000 -d site
 
 ## GitHub Pages
 
-بعد دمج الـworkflow في `main`، فعّل GitHub Pages مرة واحدة من:
+يلزم تفعيل GitHub Pages **مرة واحدة فقط** من إعدادات المستودع لأن `GITHUB_TOKEN` الخاص بالـworkflow يستطيع النشر إلى Pages بعد إنشائها، لكنه لا يملك صلاحية إنشاء Pages site لأول مرة في هذا المستودع.
+
+اذهب إلى:
 
 `Settings → Pages → Build and deployment → Source → GitHub Actions`
 
-بعدها يتولى workflow الجمع والتحديث والنشر تلقائيًا. الجدولة الحالية كل ساعة في الدقيقة 17 لتجنب الضغط المعتاد في بداية الساعة.
+بعد هذا الإعداد لمرة واحدة، يتولى workflow الجمع والتحديث والنشر تلقائيًا. إذا لم تكن Pages مفعلة بعد، يستمر جمع الأخبار وحفظ `data/index.json` بنجاح ولا يفشل workflow بسبب النشر. الجدولة الحالية كل ساعة في الدقيقة 17 لتجنب الضغط المعتاد في بداية الساعة.
 
 ## إضافة مصادر
 
