@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-13T17:11:43Z",
+  "generated_at": "2026-08-13T18:07:08Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
-    "records": 885,
-    "articles": 860,
+    "records": 894,
+    "articles": 869,
     "fact_checks": 25,
-    "clusters": 535,
-    "sources": 234,
+    "clusters": 543,
+    "sources": 238,
     "matched_clusters": 0,
-    "needs_review": 472,
-    "medium_evidence": 61,
-    "corroborated": 2
+    "needs_review": 477,
+    "medium_evidence": 63,
+    "corroborated": 3
   },
   "fact_checks": [
     {
@@ -441,6 +441,167 @@
     }
   ],
   "items": [
+    {
+      "id": "8ff5c04730deb253f64b",
+      "title": "Two Moroccan Military Cadets Make History at US Service Academies",
+      "published_at": "2026-08-13T17:49:26Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Morocco World News"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "04d7860d3ca8800460cf",
+          "title": "Two Moroccan Military Cadets Make History at US Service Academies",
+          "raw_title": "Two Moroccan Military Cadets Make History at US Service Academies - Morocco World News",
+          "normalized_title": "two moroccan military cadets make history at us service academies",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamRpTGpueW1IME9IUG1oa3dxbzlKdnd5dUVJRGt5dC1RYXhMcGFWeXJHcjczZER1MDB2TnZMNzQxeHJQZmZoV1lXV3Z1SFUtOE1QbDMyZ3Rzb2VlcTNJY2xxb2ZFWC1qVFpSemlfbEpCWVNGcTdXTk1SOVNxTkhIWEVwb2lCYWxRTmZwNjFMYkw0Sm5CMXJfNl9NTGJmaGQteGd4cm5KOUxFbEtObFBGa0JIZHQ?oc=5",
+          "published_at": "2026-08-13T17:49:26Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Morocco World News",
+            "url": "https://www.moroccoworldnews.com",
+            "domain": "moroccoworldnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aa6895bf4b5ebcefd951",
+      "title": "بينها قطر ومصر المغرب.. رؤساء 6 اتحادات عربية لكرة القدم يؤكدون دعمهم لإنفانتينو",
+      "published_at": "2026-08-13T17:32:48Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "جريدة الشرق"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "d9899942efe5d7e90a06",
+          "title": "بينها قطر ومصر المغرب.. رؤساء 6 اتحادات عربية لكرة القدم يؤكدون دعمهم لإنفانتينو",
+          "raw_title": "بينها قطر ومصر المغرب.. رؤساء 6 اتحادات عربية لكرة القدم يؤكدون دعمهم لإنفانتينو - جريدة الشرق",
+          "normalized_title": "بينها قطر ومصر المغرب روساء 6 اتحادات عربية لكرة القدم يوكدون دعمهم لانفانتينو",
+          "url": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxNR1ZHcXZuMG05ZzA1OW5XaGtmSmVJc0lxRmZCU3dTOGpqMjRvbDJLaTg4SzB1blVzV2kyak11eDEzVmNuX3pfbkpaLWdXQVZuMWZqUkhDVUFBZ1FIa0VJM2laTjRNYTJyNzFrcVlXOHRvNVhGMkRvWnc2SzZoYnA2WEktcDRaZnNqSXpOWE94YjlmdW4xUTZoclJ6WTdaeXMwNWw0c3U1cHFJWk9FOXkxbnJvSkVsOVdfNFY0eHA3LTFKdkVUNW9jSDZtbS0zVHhxWFAwN2gxRTZ3RzI5RXNNWEpwQmwyOWNtV19zRVJoVUQ0d3ZjVUdkcDdjcGkxczBDQnoxVkpseVpBUDRieWhCNWN0Y1J0QkotTWxnQjlPd1NBOU1hVUVXYVZUMjNsMmJtYmtwQTVNTGE2RnR6VkVNWWpvbGZaeVlKVnp4Qm40NDdsX21mdWJIWlNDcVZiQnN2LWFFa3J0TzRLN3pLanF2WXZxY3pacUM5N25MdHROdU9wSjZaUUo3Nl9WU3dXZFdna3pwTlBlb2Z3cURnaC1xX05xSVpLTzRkeV9LRnZ6ckJVTVRGYlFWWGs2VW9XZWFlMDlfQTRhN3RhUEJOS196SWNLdnk2amhwUzlydXpjNVFpZmh0YlQ5MTg4U3pya3plc0xackpjeEN3Mm1FVkpZUkluaUNqREJYYXVONExFTm1ySXdGUWFFWElObjJvdWM5NFJuN2pPUVdzeUJ3NjBGNkZoYnN3ejJEQTZyMjVNMFViaVhmZGQxdXZuNS1zcUo0UExURGpzdWlUWVdsLUhLcS1MUzVYOFM2S213?oc=5",
+          "published_at": "2026-08-13T17:32:48Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "جريدة الشرق",
+            "url": "https://al-sharq.com",
+            "domain": "al-sharq.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "69f7c38bcd3192c68fa5",
+      "title": "إشادة أمريكية بعسكرييْن من المغرب",
+      "published_at": "2026-08-13T17:21:30Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "ea030c4fd44cf87e5d89",
+          "title": "إشادة أمريكية بعسكرييْن من المغرب",
+          "raw_title": "إشادة أمريكية بعسكرييْن من المغرب - Hespress",
+          "normalized_title": "اشادة امريكية بعسكريين من المغرب",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMkszc3huazduUERTQTdOZ0ZFeDRIRHF1Ym0walRUd29udFNLaUNPbS1DUjc0OFdEcGNyWTNsQzkzZ1FUc3hOZzJDcVY5R1N0eTJmOWx2ZzlqSXd3Qk1Ibk0zNktVNkhaQjZXd2t0UDRhY3JRSzh0aHdQS21nZldId3hLOFFXVnFndDVSSDJaOWNjY1lzYlA4Sy1PVGRzV2VZdk1CcUU5UjF6MkRJMDJSSGFYTE1CNzgyMXFTcngxMGhmdHhiOG1qcjEwNjJreDJJSTgwTGliQ3o2RkZOWGpYRjFxYzJZRXlESlVJdW9TdXdXQUUtV2dkT3ByX1hLMWxyQ09mNVp0RjdlUWxqRGQ5OXRlRzNkdUlTclVfM3hiZzlpSUZsMGUydGo2RGQwMHFKZWpIUnhkQm9sU09x?oc=5",
+          "published_at": "2026-08-13T17:21:30Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4472866c4d5aec16cd91",
+      "title": "المغرب: هيئة حقوقية تحذر من استمرار «اختلالات بنيوية» تؤثر على أوضاع الشباب",
+      "published_at": "2026-08-13T17:09:27Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "alquds.co.uk"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "8c6bd44d3fc09624319b",
+          "title": "المغرب: هيئة حقوقية تحذر من استمرار «اختلالات بنيوية» تؤثر على أوضاع الشباب",
+          "raw_title": "المغرب: هيئة حقوقية تحذر من استمرار «اختلالات بنيوية» تؤثر على أوضاع الشباب - alquds.co.uk",
+          "normalized_title": "المغرب هيية حقوقية تحذر من استمرار اختلالات بنيوية توثر على اوضاع الشباب",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQQjh0aFpoUWZqanJCeVVla3dRc1ZBOUxSNk1BdklyVGt4R09QWDc0RnlDTzU5YmRVT2IyTEhCdWhrZTM4RkZCXzh4OHBMdXU1T1hwZDlveWUtN1Z3ZzJQVGZWdnE3TjVDVjdkVkYwMFM5elRmZDgwM0lidjI4VW04c05TakFMQ29PbS10cjNhd01iWDFuRGhPaWljZDU3TkdoWXZud1UzTlkzb255MGlhcS1GVUlsNW1HSnpQN0VENTJRNkhxSDA5aUVGSDhrLVlpSG9HaWtVV3BVYVFrWUtYRmFwNnMzbW00Y29LYlhCMThrMEJBcm5ZbFFLeHNjLU5zbUJWb1VXV0VYZUNyWGQ1blF6b0JpeFZ6OFVZUl9HQUtTUnVFRWZSUjNxREE3RXp3ZWVoT3dKQzJPT3pkeUpF?oc=5",
+          "published_at": "2026-08-13T17:09:27Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "alquds.co.uk",
+            "url": "https://www.alquds.co.uk",
+            "domain": "alquds.co.uk",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "3633b7956972842b3443",
       "title": "Maroc : les promoteurs immobiliers en plein âge d’or ?",
@@ -883,8 +1044,8 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Professional Fighters League",
-        "mymmanews.com"
+        "MyMMANews",
+        "Professional Fighters League"
       ],
       "languages": [
         "en"
@@ -893,14 +1054,14 @@
         {
           "id": "460eabd25278dc0715ef",
           "title": "PFL Africa sets semifinal matchups for Morocco",
-          "raw_title": "PFL Africa sets semifinal matchups for Morocco - mymmanews.com",
+          "raw_title": "PFL Africa sets semifinal matchups for Morocco - MyMMANews",
           "normalized_title": "pfl africa sets semifinal matchups for morocco",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KU21DaWptLVRad19sR1lFTDdxNkd4VkZzT3dkdVVqYnNxLW5ocklCaW5LcW5TbmpfcHpUSllUREgwV1dyRElmYks0c1UzR2VhOEVwOXBUU25aaS1qVVBleG95d21PT0hKemNpVnVSOGhqV0J0OU9Bcw?oc=5",
           "published_at": "2026-08-13T16:24:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "mymmanews.com",
+            "name": "MyMMANews",
             "url": "https://mymmanews.com",
             "domain": "mymmanews.com",
             "weight": 0.35,
@@ -967,6 +1128,47 @@
       ]
     },
     {
+      "id": "1ab7b51ccca8c6acbf06",
+      "title": "CAN 2026. Le Cameroun élimine le Maroc de sa CAN aux tirs-au-but et rejoint le Malawi en finale",
+      "published_at": "2026-08-13T16:13:35Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Flashscore.fr"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "7d80dcb8b5bd50a7856f",
+          "title": "CAN 2026. Le Cameroun élimine le Maroc de sa CAN aux tirs-au-but et rejoint le Malawi en finale",
+          "raw_title": "CAN 2026. Le Cameroun élimine le Maroc de sa CAN aux tirs-au-but et rejoint le Malawi en finale - Flashscore.fr",
+          "normalized_title": "can 2026 le cameroun elimine le maroc de sa can aux tirs au but et rejoint le malawi en finale",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcm92SnAyblMwMjJucFc5WkRoNW8wZ0Rxek8wMk5mUkMwc0YtcV9GUnRDSTkxM1pOd01TUW5iLVhNNXc3SUZWOFRxNjJneDJ3aVdqWklXSG9TLXJkbXcwZ1dIbWgzNEdFSHFpbXMxVnFrRFE5aHloYWozUzNrSkVRV2xVbVlzY0xkLTI5ZW90V0U2azdESm9YV1l6Mk4zM1NVRUc0LWFnT0pUdko3UWZDMmZhbm1IRjUxelZiOVdyXzMwT1NyY3libDd3ZHo?oc=5",
+          "published_at": "2026-08-13T16:13:35Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Flashscore.fr",
+            "url": "https://www.flashscore.fr",
+            "domain": "flashscore.fr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "4b4f87d4e69e58c99e02",
       "title": "مناقصة.. إصدار سندات للخزينة بـ 2,53 مليار درهم",
       "published_at": "2026-08-13T16:12:48Z",
@@ -1001,6 +1203,46 @@
             "name": "صوت المغرب",
             "url": "https://thevoice.ma",
             "domain": "thevoice.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1c4f778a35e5a1418d9f",
+      "title": "تراجع الإنجاب.. تحول ديموغرافي عميق في المغرب والجزائر وتونس | التلفزيون العربي",
+      "published_at": "2026-08-13T16:01:22Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "التلفزيون العربي"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "b73b1907916528853e6d",
+          "title": "تراجع الإنجاب.. تحول ديموغرافي عميق في المغرب والجزائر وتونس | التلفزيون العربي",
+          "raw_title": "تراجع الإنجاب.. تحول ديموغرافي عميق في المغرب والجزائر وتونس | التلفزيون العربي - التلفزيون العربي",
+          "normalized_title": "تراجع الانجاب تحول ديموغرافي عميق في المغرب والجزاير وتونس التلفزيون العربي",
+          "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQWDZta2dOQ3MxV2UzMU9kSEdYcC0xMTFUYUM3RFgzSlJaeFdKdWF5RFZuZnA1bUxFckZXbGJTaUtvUzliREtjZkVJVVZkMTNKTkJYRWJGamtDNThYQU9OSFpNczMtaGhSMG1BeVBVak9aYnhRMlgwS2RIZlBZVE13dGs1LW5FY2g4VnFsSU1jXzNtS0R1ejdTT25wb0hldVh2WlZqTmd5MGxmaUFNZnVWWFYyOS00RGR3RUNkOVVnS014cUNtMXRYdGdUQkVfb3VNdDZlU0RHblVDNy1SNTYtVlF4ekJvSDNGWUJ2RURIYTZVQ3Q1SVRvLXBBXzlxMVJ3VW9nQW9vQXRRQ1BwcVpfdzBfQ0h4dEtVRlNRbllyMF9NRnFBS283T2lpYUFPc3MwQWVXc2NlS250YnZzaWRaNjhaQUVjcGs4d3RYYWh4bXJCLTJhN2ZEd0dDb0ZndjNiZkstYXZUd0lMSTJxTTNhX3E5NDFITHdpQzFabUo4djhxMVIyMllQQTZ4WjlqZ1F5VmUxUnpKdF9abjgtTnYzejZxNGZjVXhNT1gwSEllNTVlY1BvVExCQ2k1aG9aUC1xd2lnSHZGSmx5bnREWXpMUXZHSzFKblZDLXVVaU9B0gHjA0FVX3lxTE9tYlZWazRMUXBFVzlCTmlUNGxscE92N3FMQTFtMHFDOTRCcndDY3VNYmkxcW5sLThkalZ5Z0JhbGFyWjZxREhJaXF2ZDYxc3pLN3g3aUwyTVRxMmxlTTJGX0ZZQUtOR0swN2VRVXNlcnZOR2MxdXo5bVROQzB0WW84Vmx5cWNJV0ZEME9PUkxvUmNPRkZtVG9ad0FBT3ctM2d5Q2RMNkpia2RvOERWVFZGRkVmb01pUDVQVGIxQXk1VW9hLUVKcFBNSUlkR0J3bXkxZ1BFT2stMEJHZWJ0M0R4eENwek9keHJwOWExTWhldExaTkxDV1dpNy0zZV8tUFhTVXVUdF9DbzVUYVZucXBYSm1tUU9iWXM4cmdlUng0M0xpVHRYUXM4UWVnQXdxUXRMYmNrREdkRU9QSVgyRkFTYUJXc1VHVmtGby1hLWFkN2VPRGxEanUwOEVXcjBLdXRBZE9jYnBZUXJaeEZ0RXlpYjZfRlFndG9DOWRQOTlORzIwbmVuWmQtMGVteHVDcDhFcEJSOXFHWWI1X0ZJOE52YlpoVGhZNkhyQXg2cWFRaWV0Q091SHRfSTdpbnZQZWJZdHNuZHdZTTJ3V1BycHRpN2hyaDlxTzFGbk01aDRrMDJERQ?oc=5",
+          "published_at": "2026-08-13T16:01:22Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "التلفزيون العربي",
+            "url": "https://www.alaraby.com",
+            "domain": "alaraby.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1081,47 +1323,6 @@
             "name": "دار الهلال",
             "url": "https://darelhilal.com",
             "domain": "darelhilal.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1ab7b51ccca8c6acbf06",
-      "title": "CAN 2026. Le Cameroun élimine le Maroc de sa CAN aux tirs-au-but et rejoint le Malawi en finale",
-      "published_at": "2026-08-13T15:58:23Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Flashscore.fr"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "7d80dcb8b5bd50a7856f",
-          "title": "CAN 2026. Le Cameroun élimine le Maroc de sa CAN aux tirs-au-but et rejoint le Malawi en finale",
-          "raw_title": "CAN 2026. Le Cameroun élimine le Maroc de sa CAN aux tirs-au-but et rejoint le Malawi en finale - Flashscore.fr",
-          "normalized_title": "can 2026 le cameroun elimine le maroc de sa can aux tirs au but et rejoint le malawi en finale",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcm92SnAyblMwMjJucFc5WkRoNW8wZ0Rxek8wMk5mUkMwc0YtcV9GUnRDSTkxM1pOd01TUW5iLVhNNXc3SUZWOFRxNjJneDJ3aVdqWklXSG9TLXJkbXcwZ1dIbWgzNEdFSHFpbXMxVnFrRFE5aHloYWozUzNrSkVRV2xVbVlzY0xkLTI5ZW90V0U2azdESm9YV1l6Mk4zM1NVRUc0LWFnT0pUdko3UWZDMmZhbm1IRjUxelZiOVdyXzMwT1NyY3libDd3ZHo?oc=5",
-          "published_at": "2026-08-13T15:58:23Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Flashscore.fr",
-            "url": "https://www.flashscore.fr",
-            "domain": "flashscore.fr",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1344,7 +1545,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "الصحيفة"
+        "assahifa.com"
       ],
       "languages": [
         "ar"
@@ -1353,14 +1554,14 @@
         {
           "id": "4807cd3d14318fd38efa",
           "title": "بعد تهديد المغرب بتعليق اتفاقية تسليم المطلوبين مع إسبانيا.. الاتحاد الأوروبي يدعو الرباط ومدريد إلى مواصلة التعاون ويعتبر الخلاف شأنا ثنائيا",
-          "raw_title": "بعد تهديد المغرب بتعليق اتفاقية تسليم المطلوبين مع إسبانيا.. الاتحاد الأوروبي يدعو الرباط ومدريد إلى مواصلة التعاون ويعتبر الخلاف شأنا ثنائيا - الصحيفة",
+          "raw_title": "بعد تهديد المغرب بتعليق اتفاقية تسليم المطلوبين مع إسبانيا.. الاتحاد الأوروبي يدعو الرباط ومدريد إلى مواصلة التعاون ويعتبر الخلاف شأنا ثنائيا - assahifa.com",
           "normalized_title": "بعد تهديد المغرب بتعليق اتفاقية تسليم المطلوبين مع اسبانيا الاتحاد الاوروبي يدعو الرباط ومدريد الى مواصلة التعاون ويعتبر الخلاف شانا ثناييا",
           "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNOEJONlBhNnI0Z0dvQ2luUWUzMXNNNGdYY2FTMmR2bjJiLTlnV3hUN1NaTDVKNU1LODNqbmVkUEhDbm52LUtBNXIySnVWa1Q4VXVVSHZwekFzSHZjOEd5VVVXQ205XzVQdGY4WFllNzNNQXRfdFVobm05S1p3eHo0ZWw5VUFBWU5pZW1OamtzWVpsZk94em42RGZkSVNNMnNTNmtpdVFCZkU1SVVPOVR0RVRZX3EwQTVURzZjZkNJV0h5NTMzSEM1X3Z3WklqOXhCd3RUZlZWLUNGZ05aUXBWcUJWek1FZVZ5SVNFbW1jdjFGYkhCSmxNTXZzM3JnYzBxSzJTck8yU2w0NlZwRVQ3YW13MjBIaHEyN2FTYndScnpSbkpCcWFFeldhN1NuTVNiVE1mMWkyNjM5Z29tNUlQMHFqN2c3Zw?oc=5",
           "published_at": "2026-08-13T15:17:37Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "الصحيفة",
+            "name": "assahifa.com",
             "url": "https://www.assahifa.com",
             "domain": "assahifa.com",
             "weight": 0.35,
@@ -1583,7 +1784,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "leconomiste.com"
+        "L'Economiste"
       ],
       "languages": [
         "fr"
@@ -1592,14 +1793,14 @@
         {
           "id": "8503d381c95438d8e2e7",
           "title": "Conseillers du commerce extérieur de la France : Le Comité Maroc s’élargit",
-          "raw_title": "Conseillers du commerce extérieur de la France : Le Comité Maroc s’élargit - leconomiste.com",
+          "raw_title": "Conseillers du commerce extérieur de la France : Le Comité Maroc s’élargit - L'Economiste",
           "normalized_title": "conseillers du commerce exterieur de la france le comite maroc s elargit",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelpuNFZLTHRZbmtVWXVfQnpjaFJOYm1JQTNTZ0stV3NKcUZSUFRoaGdMaERhUVhVWWN0OVdZdkZ0QUQtWlFXSFlaVWYwV1dKQ1VrV3pBcEZKYUVBcUZyTjNpeF93TzJHeTVRRTB4TEV0QjdzVHpHbFFxRzdFZ0ZzWjg3UFdGUG5vNTB5TWtoYXNPZW0xcGJ5N0ljUlh4cEJ3TF9hZmhrU2diem5COXZOeU9R?oc=5",
           "published_at": "2026-08-13T15:02:12Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "leconomiste.com",
+            "name": "L'Economiste",
             "url": "https://www.leconomiste.com",
             "domain": "leconomiste.com",
             "weight": 0.35,
@@ -1731,46 +1932,6 @@
       ]
     },
     {
-      "id": "fbb315730ae943fc27db",
-      "title": "أزمة سبتة تلاحق المغرب أمام القضاء الإسباني.. “الحرب الهجينة” تدخل على خط التحقيق",
-      "published_at": "2026-08-13T14:51:15Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "AL24 News"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "83ee94d08f2354e25833",
-          "title": "أزمة سبتة تلاحق المغرب أمام القضاء الإسباني.. “الحرب الهجينة” تدخل على خط التحقيق",
-          "raw_title": "أزمة سبتة تلاحق المغرب أمام القضاء الإسباني.. “الحرب الهجينة” تدخل على خط التحقيق - AL24 News",
-          "normalized_title": "ازمة سبتة تلاحق المغرب امام القضاء الاسباني الحرب الهجينة تدخل على خط التحقيق",
-          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQdFNtMmpjUHVXd2t2RVdDX2hiLVU2Yl91LWVSUnVranNnTWJoMGpuRHA0aEJENHNXU2l4NXpCYnkyaVhGeEM3Y2RPbUZ3NzljSTAwSnJ5aDREZTZzUmI5dnV4NU1uc1hiNllERXhHU1FiWGNrZ1BSMlZwbXRqYVN4UlJ4cjNnTng5MThGQzNuenBuRnFIOGpzeWJuTm9WNmlGUW9wOW4xamJRRFdYMFZQZ0JqbzNXaXV5YTN2YkVNWUl3TWlaOGlGZVlIbUxRbjI0bVBNNnZ1T0VESDg4MUMwb2tpcXZ5NzV5TDhTc1ZhbDA5T21LTF84N3g1eWN0RGQ5NEhYRkdMRW9RR0kxRVlQRWhPWFMtMGZ0eGx6MmNOQzdvdFVOY0dIMUZrZjlEaU9iVG5VZlAwdHJUT3htQ21GWg?oc=5",
-          "published_at": "2026-08-13T14:51:15Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "AL24 News",
-            "url": "https://al24news.dz",
-            "domain": "al24news.dz",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "edf57c51317c6812be8d",
       "title": "الهجرة إلى سبتة: الرباط تعلن اتخاذ \"تدابير ضرورية\" بعد دعوات جديدة لعبور الحدود",
       "published_at": "2026-08-13T14:51:14Z",
@@ -1804,6 +1965,46 @@
             "name": "InfoMigrants",
             "url": "https://www.infomigrants.net",
             "domain": "infomigrants.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fbb315730ae943fc27db",
+      "title": "أزمة سبتة تلاحق المغرب أمام القضاء الإسباني.. “الحرب الهجينة” تدخل على خط التحقيق",
+      "published_at": "2026-08-13T14:51:12Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "al24news.dz"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "83ee94d08f2354e25833",
+          "title": "أزمة سبتة تلاحق المغرب أمام القضاء الإسباني.. “الحرب الهجينة” تدخل على خط التحقيق",
+          "raw_title": "أزمة سبتة تلاحق المغرب أمام القضاء الإسباني.. “الحرب الهجينة” تدخل على خط التحقيق - al24news.dz",
+          "normalized_title": "ازمة سبتة تلاحق المغرب امام القضاء الاسباني الحرب الهجينة تدخل على خط التحقيق",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQdFNtMmpjUHVXd2t2RVdDX2hiLVU2Yl91LWVSUnVranNnTWJoMGpuRHA0aEJENHNXU2l4NXpCYnkyaVhGeEM3Y2RPbUZ3NzljSTAwSnJ5aDREZTZzUmI5dnV4NU1uc1hiNllERXhHU1FiWGNrZ1BSMlZwbXRqYVN4UlJ4cjNnTng5MThGQzNuenBuRnFIOGpzeWJuTm9WNmlGUW9wOW4xamJRRFdYMFZQZ0JqbzNXaXV5YTN2YkVNWUl3TWlaOGlGZVlIbUxRbjI0bVBNNnZ1T0VESDg4MUMwb2tpcXZ5NzV5TDhTc1ZhbDA5T21LTF84N3g1eWN0RGQ5NEhYRkdMRW9RR0kxRVlQRWhPWFMtMGZ0eGx6MmNOQzdvdFVOY0dIMUZrZjlEaU9iVG5VZlAwdHJUT3htQ21GWg?oc=5",
+          "published_at": "2026-08-13T14:51:12Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "al24news.dz",
+            "url": "https://al24news.dz",
+            "domain": "al24news.dz",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2468,46 +2669,6 @@
       ]
     },
     {
-      "id": "c16532d595ee97a9b5bc",
-      "title": "Le Maroc représente plus de la moitié des importations norvégiennes de fruits rouges",
-      "published_at": "2026-08-13T13:43:54Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "9ff099714331a8064b2b",
-          "title": "Le Maroc représente plus de la moitié des importations norvégiennes de fruits rouges",
-          "raw_title": "Le Maroc représente plus de la moitié des importations norvégiennes de fruits rouges - Yabiladi.com",
-          "normalized_title": "le maroc represente plus de la moitie des importations norvegiennes de fruits rouges",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGhRRlUxWUF1c040UkZtejduX1psUFpzNE16TkFHVkVrdnA3MzJMbHU0Ml9fVTQ4RWJYTGdLMDlhZmg1TGFDdmhGQ2NnSVVGNXI1cnVQbU9md2cybmJxcjdsZUdvby1UX0NzUVZjZ1FYd3FxQjlWU1M5Mk05YnFMelRSTmxIN01HODNDdTdIbVNLUkp0Q2VPc0gzVQ?oc=5",
-          "published_at": "2026-08-13T13:43:54Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://www.yabiladi.com",
-            "domain": "yabiladi.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "e3ccc2322177619efb48",
       "title": "IDE au Maroc : l’industrie et l’automobile tirent l’investissement",
       "published_at": "2026-08-13T13:43:01Z",
@@ -2621,6 +2782,46 @@
             "name": "Le Matin.ma",
             "url": "https://lematin.ma",
             "domain": "lematin.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c16532d595ee97a9b5bc",
+      "title": "Le Maroc représente plus de la moitié des importations norvégiennes de fruits rouges",
+      "published_at": "2026-08-13T13:31:46Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "9ff099714331a8064b2b",
+          "title": "Le Maroc représente plus de la moitié des importations norvégiennes de fruits rouges",
+          "raw_title": "Le Maroc représente plus de la moitié des importations norvégiennes de fruits rouges - Yabiladi.com",
+          "normalized_title": "le maroc represente plus de la moitie des importations norvegiennes de fruits rouges",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGhRRlUxWUF1c040UkZtejduX1psUFpzNE16TkFHVkVrdnA3MzJMbHU0Ml9fVTQ4RWJYTGdLMDlhZmg1TGFDdmhGQ2NnSVVGNXI1cnVQbU9md2cybmJxcjdsZUdvby1UX0NzUVZjZ1FYd3FxQjlWU1M5Mk05YnFMelRSTmxIN01HODNDdTdIbVNLUkp0Q2VPc0gzVQ?oc=5",
+          "published_at": "2026-08-13T13:31:46Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://www.yabiladi.com",
+            "domain": "yabiladi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2773,7 +2974,7 @@
       "title": "CAN féminine : défaite du Maroc face au Cameroun en demi-finales",
       "published_at": "2026-08-13T13:20:03Z",
       "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "evidence_score": 0.608,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -2781,11 +2982,12 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 3,
       "article_count": 3,
       "sources": [
         "Telquel.ma",
-        "mafrique"
+        "mafrique",
+        "telquel.ma"
       ],
       "languages": [
         "fr"
@@ -2794,14 +2996,14 @@
         {
           "id": "443c28123840a9ae5e75",
           "title": "CAN féminine : défaite du Maroc face au Cameroun en demi-finales",
-          "raw_title": "CAN féminine : défaite du Maroc face au Cameroun en demi-finales - Telquel.ma",
+          "raw_title": "CAN féminine : défaite du Maroc face au Cameroun en demi-finales - telquel.ma",
           "normalized_title": "can feminine defaite du maroc face au cameroun en demi finales",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORWxaLWJmNFA5VHB5QXU1R3pFeGswRmd3NktRalAweGdOcVVVMHZXdWNlMEFTRENJLXQwUTlMRUQ5eHhKdVFrV2wtMDZwMEppUTdmaUFfZm83a0dyLUtoLTc1TDZJd2pCMGNQQm9MWmRPSDhqVHh0VXpHTDhMcWd1MG14WFoxNnVRYkJtd0dDc21LaUpfSmhzVVFFVzh1UDNTUENyMEYtajZ5R2JBcGxGM2JPTmdDYnEtenc?oc=5",
           "published_at": "2026-08-13T13:20:03Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Telquel.ma",
+            "name": "telquel.ma",
             "url": "https://mobile.telquel.ma",
             "domain": "mobile.telquel.ma",
             "weight": 0.35,
@@ -3286,7 +3488,7 @@
     {
       "id": "562a28af75c4a6fec6f2",
       "title": "Morocco Among Six Arab Countries Backing FIFA’s Infantino",
-      "published_at": "2026-08-13T12:23:42Z",
+      "published_at": "2026-08-13T12:24:22Z",
       "status": "medium_evidence",
       "evidence_score": 0.585,
       "claim_candidate": false,
@@ -3311,7 +3513,7 @@
           "raw_title": "Morocco Among Six Arab Countries Backing FIFA’s Infantino - Morocco World News",
           "normalized_title": "morocco among six arab countries backing fifa s infantino",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0ZkbEc0Yk1LZDV1Z2V4VDYxRXBCTWZwN3Y2emJXZk1fV3B5Z0pFSDY3aVdGckR4MndPckJIbm9qbU96Q2toRkhrVFo0MkU2MlVCZnhBVmtBY1FCNFR2dG0yZXBVZ3pYUm8tQzF4R2VHR1AtN0djajlRZ01IQi1uYkZjdGZmQkpBaXpBNTk2MzVWMXJfMkFhRkswZVo1ME1pNzctYmNMMGc?oc=5",
-          "published_at": "2026-08-13T12:23:42Z",
+          "published_at": "2026-08-13T12:24:22Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -3902,7 +4104,7 @@
     {
       "id": "a6b06788d33d1a614ee4",
       "title": "Spain’s PP Joins Anti-Morocco Rhetoric After Rabat Calls for Shared Responsibility",
-      "published_at": "2026-08-13T11:40:06Z",
+      "published_at": "2026-08-13T11:41:45Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -3926,7 +4128,7 @@
           "raw_title": "Spain’s PP Joins Anti-Morocco Rhetoric After Rabat Calls for Shared Responsibility - Morocco World News",
           "normalized_title": "spain s pp joins anti morocco rhetoric after rabat calls for shared responsibility",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTk1dmgyZXhqcnVScXJMMEJqZlhWUUkwcmxSUDQtUElOb3JqTDFYaEJhRTk0eHlVSmMtWVFMTms4SndOektUWUM1Y0Z2b2c4dmZBX1VhZXF6TW1oX1FvUTUtQzFZX2NqQkdBaTVNbFpRcjg0TjdJX0ttNmJfWDBhRlF1T0JqMk9nczV4OGhTajhEVmVqUFBnNUozaktPMkNEU3FVWm5hSENuR0RDWmZHRVVSME9tdzBDR05ZTlgwSjh5MHZhQVJ1eHhR?oc=5",
-          "published_at": "2026-08-13T11:40:06Z",
+          "published_at": "2026-08-13T11:41:45Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -3981,7 +4183,7 @@
     },
     {
       "id": "111f3c5d99ce57cd7208",
-      "title": "من \"صفر فرنسا\" لكتابة التاريخ في البرتغال.. قصة ملهمة لمهاجم المغرب",
+      "title": "من «صفر فرنسا» لكتابة التاريخ في البرتغال.. قصة ملهمة لمهاجم المغرب",
       "published_at": "2026-08-13T11:35:09Z",
       "status": "needs_review",
       "evidence_score": 0.158,
@@ -4002,8 +4204,8 @@
       "articles": [
         {
           "id": "6d252bf385eb5e8d5043",
-          "title": "من \"صفر فرنسا\" لكتابة التاريخ في البرتغال.. قصة ملهمة لمهاجم المغرب",
-          "raw_title": "من \"صفر فرنسا\" لكتابة التاريخ في البرتغال.. قصة ملهمة لمهاجم المغرب - العين الإخبارية",
+          "title": "من «صفر فرنسا» لكتابة التاريخ في البرتغال.. قصة ملهمة لمهاجم المغرب",
+          "raw_title": "من «صفر فرنسا» لكتابة التاريخ في البرتغال.. قصة ملهمة لمهاجم المغرب - العين الإخبارية",
           "normalized_title": "من صفر فرنسا لكتابة التاريخ في البرتغال قصة ملهمة لمهاجم المغرب",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qQjVDSHVGZ3NjU0NNRVdJM1dnSkZoYmdCNkNKMVJrYl91MGxSR0hyMjBTQ1Jvc251OFU4YmltX1lmbFdydlUzaEZKM3VvUWZRendJTERDcnE0ODY2S2RUUHNITW44Z00y?oc=5",
           "published_at": "2026-08-13T11:35:09Z",
@@ -4316,7 +4518,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "TRT World"
+        "trtworld.com"
       ],
       "languages": [
         "en"
@@ -4325,14 +4527,14 @@
         {
           "id": "bb461ae535e0ce9dee19",
           "title": "Six Arab football federations, including Qatar and Morocco, back FIFA's Infantino",
-          "raw_title": "Six Arab football federations, including Qatar and Morocco, back FIFA's Infantino - TRT World",
+          "raw_title": "Six Arab football federations, including Qatar and Morocco, back FIFA's Infantino - trtworld.com",
           "normalized_title": "six arab football federations including qatar and morocco back fifa s infantino",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2R1lmaUlEWURYRHo1Nl9aSzQ0elJRLUxjUVh2MVhtUWFlWkQ3aTZwcEpTQUl5U2haanZINlE2Tm5MVlFWVEFFYmVIU2MwLXdLUmZvTXdleDk?oc=5",
           "published_at": "2026-08-13T11:03:19Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "TRT World",
+            "name": "trtworld.com",
             "url": "https://www.trtworld.com",
             "domain": "trtworld.com",
             "weight": 0.35,
@@ -4468,18 +4670,19 @@
       "id": "177a88e55c6fc2e17200",
       "title": "Maroc-Espagne : Abdellatif Ouahbi critique Madrid pour avoir “accepté” et “régularisé” des migrants",
       "published_at": "2026-08-13T10:59:15Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Telquel.ma"
+        "Telquel.ma",
+        "telquel.ma"
       ],
       "languages": [
         "fr"
@@ -4488,14 +4691,14 @@
         {
           "id": "d5187f3d832c2483418e",
           "title": "Maroc-Espagne : Abdellatif Ouahbi critique Madrid pour avoir “accepté” et “régularisé” des migrants",
-          "raw_title": "Maroc-Espagne : Abdellatif Ouahbi critique Madrid pour avoir “accepté” et “régularisé” des migrants - Telquel.ma",
+          "raw_title": "Maroc-Espagne : Abdellatif Ouahbi critique Madrid pour avoir “accepté” et “régularisé” des migrants - telquel.ma",
           "normalized_title": "maroc espagne abdellatif ouahbi critique madrid pour avoir accepte et regularise des migrants",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNzBKaTU0R2xUc1ZJNWQ1eC1EUXVSU1VidjNQamtGZzF2eFUxcjlBWmltS0o1YVFlZWlSWTVqZ3R6VEprSzNiZjhkRWs4WVNvTVZhdXBVQWQ1VTQxa0pXdjhyWWR4a055dDZRS2RJRGZLRFRXdUllc2hhTEZiS09ZcWFFVjc2ekxoV0MtY295U1AtcWNrRDFmbHFFX0tzMzJlcl9LeVZneTFwdXFyNHVlNGkwVjloSHNiN3laTVZKQ2x3QU1FRFJEZEw0MGxxQmc4WnAyWGoyaWlWMmRBTzNXbXF3NA?oc=5",
           "published_at": "2026-08-13T10:59:15Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Telquel.ma",
+            "name": "telquel.ma",
             "url": "https://mobile.telquel.ma",
             "domain": "mobile.telquel.ma",
             "weight": 0.35,
@@ -4555,47 +4758,6 @@
             "name": "الهيئة الوطنية للإعلام",
             "url": "https://www.maspero.eg",
             "domain": "maspero.eg",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "633ca3d0e9c4587e0b9f",
-      "title": "Le Maroc et 5 fédérations arabes soutiennent le maintien d’Infantino à la tête de la FIFA",
-      "published_at": "2026-08-13T10:53:50Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "56e58a0dfa5661d962f3",
-          "title": "Le Maroc et 5 fédérations arabes soutiennent le maintien d’Infantino à la tête de la FIFA",
-          "raw_title": "Le Maroc et 5 fédérations arabes soutiennent le maintien d’Infantino à la tête de la FIFA - Yabiladi.com",
-          "normalized_title": "le maroc et 5 federations arabes soutiennent le maintien d infantino a la tete de la fifa",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkJIVEJrMHR5b0h1NGNSS21OczdmZ3ZjaFdqWmVnTUhKWW4zRG9fZzFhWlU4Q0NBSEk5UWlHQW1GOFRManZ4MUd1SzZQQjNmMk5nMFZpbmpFWkNVU0o0cWtDcXByOUx2X3pjOTIxREVrbFA5THRtUlNOb0hzcXZPbUN4YW50eTFfLXZwdVdnWTJnX01mWHBDS1dQdGNqTE5K?oc=5",
-          "published_at": "2026-08-13T10:53:50Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://www.yabiladi.com",
-            "domain": "yabiladi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -4677,6 +4839,47 @@
             "name": "Morocco World News",
             "url": "https://www.moroccoworldnews.com",
             "domain": "moroccoworldnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "633ca3d0e9c4587e0b9f",
+      "title": "Le Maroc et 5 fédérations arabes soutiennent le maintien d’Infantino à la tête de la FIFA",
+      "published_at": "2026-08-13T10:49:53Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "56e58a0dfa5661d962f3",
+          "title": "Le Maroc et 5 fédérations arabes soutiennent le maintien d’Infantino à la tête de la FIFA",
+          "raw_title": "Le Maroc et 5 fédérations arabes soutiennent le maintien d’Infantino à la tête de la FIFA - Yabiladi.com",
+          "normalized_title": "le maroc et 5 federations arabes soutiennent le maintien d infantino a la tete de la fifa",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkJIVEJrMHR5b0h1NGNSS21OczdmZ3ZjaFdqWmVnTUhKWW4zRG9fZzFhWlU4Q0NBSEk5UWlHQW1GOFRManZ4MUd1SzZQQjNmMk5nMFZpbmpFWkNVU0o0cWtDcXByOUx2X3pjOTIxREVrbFA5THRtUlNOb0hzcXZPbUN4YW50eTFfLXZwdVdnWTJnX01mWHBDS1dQdGNqTE5K?oc=5",
+          "published_at": "2026-08-13T10:49:53Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://www.yabiladi.com",
+            "domain": "yabiladi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -4999,7 +5202,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "leconomiste.com"
+        "L'Economiste"
       ],
       "languages": [
         "fr"
@@ -5008,14 +5211,14 @@
         {
           "id": "5363fef65db26a5f737e",
           "title": "Maroc Leasing : Les revenus progressent au S1",
-          "raw_title": "Maroc Leasing : Les revenus progressent au S1 - leconomiste.com",
+          "raw_title": "Maroc Leasing : Les revenus progressent au S1 - L'Economiste",
           "normalized_title": "maroc leasing les revenus progressent au s1",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXVMMktWVHRYdjF1TzQyRnNrbExEWGx4bjVHdF92cklyTVg3RTJGaVZpdEQzaVVhckhBUlkzSHcyWjFYSHhMeUtoTlNxVFZRbGxrcnBPeERTQ0wzTGV4RlFjd3ZWc3IwYjhRY2hlSGZmcnMtQ184N1E1ZmFNOWVyWmVLbnVhUTRxb0F5Xw?oc=5",
           "published_at": "2026-08-13T10:20:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "leconomiste.com",
+            "name": "L'Economiste",
             "url": "https://www.leconomiste.com",
             "domain": "leconomiste.com",
             "weight": 0.35,
@@ -5119,7 +5322,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Aujourd'hui le Maroc"
+        "aujourdhui.ma"
       ],
       "languages": [
         "fr"
@@ -5128,14 +5331,14 @@
         {
           "id": "54dde3189ef207b1cde2",
           "title": "Pollution marine accidentelle : Le Maroc renforce son plan d’urgence",
-          "raw_title": "Pollution marine accidentelle : Le Maroc renforce son plan d’urgence - Aujourd'hui le Maroc",
+          "raw_title": "Pollution marine accidentelle : Le Maroc renforce son plan d’urgence - aujourdhui.ma",
           "normalized_title": "pollution marine accidentelle le maroc renforce son plan d urgence",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRU9OWVdCQUN5WXZhVmlwaWVfQWVudUNlejIxQU9aR2RzcXF1UTJ4cWpyUnpFajMwMEt1RE94Q1g5S1VSTXZKU1hka0UyUXd2eFlwM0dPTGdFeGhkZkU2XzNoYzNKUzh5allJdjkxRUJkbm5lZVB0b2tvaEhRVWdvaUtFRU5tR21QZk9YbHJac3EyWktlSmtodnNQZw?oc=5",
           "published_at": "2026-08-13T10:15:17Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Aujourd'hui le Maroc",
+            "name": "aujourdhui.ma",
             "url": "https://aujourdhui.ma",
             "domain": "aujourdhui.ma",
             "weight": 0.35,
@@ -5320,7 +5523,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "aljazeera.com"
+        "Al Jazeera"
       ],
       "languages": [
         "en"
@@ -5329,14 +5532,14 @@
         {
           "id": "7513acc7dc2f295010b9",
           "title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco",
-          "raw_title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco - aljazeera.com",
+          "raw_title": "FIFA’s Infantino backed by six Arab federations including Qatar and Morocco - Al Jazeera",
           "normalized_title": "fifa s infantino backed by six arab federations including qatar and morocco",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXFZNFRWdXFBVERoVDVSSTFvNWUwdGhMQXozNW05OXRrSWRkTUkyVTgtOXF3c1VqYm1KalN1Y0pqNDF1YXRCbTdjSVNtOFViVjdtOGFHLWNzNGRtOENBdWIyY2NaazdpLVd6ZElWNnpBX1pJRGRwdG1BUHlEWUYwTFAyUzgtakJJd21kTkxWQ2tlRElQMHlRbGE3Z0RGVWt6Qmt4TlQzSHRlWnRDTmNESnE0MDNSUHhP0gG-AUFVX3lxTE9rRDQ1aHFsdFg4MGwxeW5QNVU4TnBPaXNWV2ZmOUxlRlhYV2c1R09Zd015RzVYTHdzNTBoVkp5RkZJLTAzdUg5Q1R0WnVlZEhLRnRibzJiTXVYejlaWFNXNDc5V1RCSjhaaEtPMGJoRzNtYjQzVXFZOHFJc0tfSERRd0lEazJGdTNfZE80NU41aEcySUhGX2IzRmNCMnBhR2lfMi10cUN3U2lMTm1JNjBfRkh6R1htQ0dfdTV3Qnc?oc=5",
           "published_at": "2026-08-13T09:52:07Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "aljazeera.com",
+            "name": "Al Jazeera",
             "url": "https://www.aljazeera.com",
             "domain": "aljazeera.com",
             "weight": 0.35,
@@ -5605,7 +5808,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Telquel.ma"
+        "telquel.ma"
       ],
       "languages": [
         "fr"
@@ -5614,14 +5817,14 @@
         {
           "id": "bfc4cc42760a4b86b7aa",
           "title": "Croissance en hausse, fractures persistantes, le CESE met le Maroc face à ses contradictions",
-          "raw_title": "Croissance en hausse, fractures persistantes, le CESE met le Maroc face à ses contradictions - Telquel.ma",
+          "raw_title": "Croissance en hausse, fractures persistantes, le CESE met le Maroc face à ses contradictions - telquel.ma",
           "normalized_title": "croissance en hausse fractures persistantes le cese met le maroc face a ses contradictions",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNTZ6bFJMQWE4N193TVBRaDJub3VMVFR3WHdLdzQzQW1sX2d0My1TYXgwU3ZfbTBzdGZYdmRhTWRndXJvTTB5WGE1anVsNjZXcThfUm5VZ3dVVEJEcjdMX0VQN1pXYUtRQnVYNnBXYUFJUjZWUjVDZUt0a0FxS3FNUDhXM19YRUl5M05tUHlfbzlRV2VsMDNDVVRFcG9BQTVDWnEyZUxsbnE2bkxNNDFwS2hHSWoyRmRaVlRsbFhQNWo3ZmVoa1RF?oc=5",
           "published_at": "2026-08-13T09:24:11Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Telquel.ma",
+            "name": "telquel.ma",
             "url": "https://telquel.ma",
             "domain": "telquel.ma",
             "weight": 0.35,
@@ -6252,7 +6455,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "hafryat.com"
+        "حفريات"
       ],
       "languages": [
         "ar"
@@ -6261,14 +6464,14 @@
         {
           "id": "02eba221bac25fe28627",
           "title": "المغرب... جبهة مناهضة التطرف تُحذر من توظيف الإخوان للدين",
-          "raw_title": "المغرب... جبهة مناهضة التطرف تُحذر من توظيف الإخوان للدين - hafryat.com",
+          "raw_title": "المغرب... جبهة مناهضة التطرف تُحذر من توظيف الإخوان للدين - حفريات",
           "normalized_title": "المغرب جبهة مناهضة التطرف تحذر من توظيف الاخوان للدين",
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNck5mOXo1dzFrVFEwLWNydW55Ym1pNzl0S3dmQkhzMXF3Vk54M2JmdjFycEJaMUVvbl9ZWmNmcXJReWMyUG9NZGFQYWRuRnFKRW5rclhQSWpXRDhwMHdfQkk5ZWFocVROTTcyOW4tQXNjOGZ5OUVGQ2M5aTRxNm40aV9FeUNZSXFXZlhjejlhMGNwR0o3NmxGTlZISTB2cVBKcHFwdGF5bHRnTHcxdDZPWS1vOEw4N3NjUHRPX1NCSVF3Z09RRFEwNy1sMExtRmZOWjNLdUtadGVucFNaYUlLUE5KTUZGVE1NeTF6a09JMElGZEM4Umc4cVZFc1laNzdPclJqZXl3dEswSWQtcHJ2UXpPdVg3QXlnbWRBVjlPM1JrZ1hic3dEc0drcE1rNXZFNlBTN3FMSHJWTmgyZVNQbXRJdEJ5Y2FvLUJQWTdwTjgweHJaU0NZeklXZWxWVGpDaDRsQUZuOFlTWjVCOWVobVBCSVBJcXpLaVZucmhvZldBSm5zZWxLZkFDOUF4OEYyMVVtbW9BUXZmMm1rNEJMeDZRdGdPbXI2cVVBMU0yRWRVVUtiXzJrcUl6MGc?oc=5",
           "published_at": "2026-08-13T08:32:36Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "hafryat.com",
+            "name": "حفريات",
             "url": "https://hafryat.com",
             "domain": "hafryat.com",
             "weight": 0.35,
@@ -6500,8 +6703,8 @@
       "id": "e5b69977d61a45910ff1",
       "title": "المغرب يشدد الإجراءات الأمنية لمنع محاولات العبور الجماعي نحو سبتة",
       "published_at": "2026-08-13T08:06:51Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.3,
       "claim_reasons": [
@@ -6509,10 +6712,9 @@
         "event_assertion"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "royanews.tv",
         "رؤيا الإخباري"
       ],
       "languages": [
@@ -6522,14 +6724,14 @@
         {
           "id": "b49cf6da7143c14b78da",
           "title": "المغرب يشدد الإجراءات الأمنية لمنع محاولات العبور الجماعي نحو سبتة",
-          "raw_title": "المغرب يشدد الإجراءات الأمنية لمنع محاولات العبور الجماعي نحو سبتة - royanews.tv",
+          "raw_title": "المغرب يشدد الإجراءات الأمنية لمنع محاولات العبور الجماعي نحو سبتة - رؤيا الإخباري",
           "normalized_title": "المغرب يشدد الاجراءات الامنية لمنع محاولات العبور الجماعي نحو سبتة",
           "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxOLWx3aGpOZm5uZkZ2WjVKV0k0ZUd5OElZUVdhRHFVYXUwOWR4ZEZkck9mVzJ0ZnkyRXlzOS11Y2RsRjVXLUdoblFENFlxbWhyLUdydlpkbk5VcWRQVFNiUXZCRktnaldIbHZxOGlhYzEzZzAxSlFRZGZSdDdJWG9nTTFPMjZJTjlZZWZsTG5oUFh0X2I4YURfQWx0a3FqaVpJbnpOY09paTA2U2tPQ2pCVm54QklDaXZWYk50Wml3OG5iM3RXRTV1aUxRRUp2NnltUG1wdmsweTdXOU8zZjU4cXpqNTJXMnNpdGF2TlA3eFQ3UHBlSjN3emdOWkY1OVVidzVFNC13Nk0tV0p1Uks3SW11eG5vNXVpekZXbU92Qy1neVpKT0tlank2RmphbUwxY2d5d2tFX3dlMEx0aW9RTzVyQTRqb3pEUkdxREVhQlBGZ1NJeXhBZDJHVlpKWlZfeGVGOGpRRkVFVWR1X3pnNm5BVnhma2luaFpjOVMxakVmeV9yVXJLTUhfTEluUi1IRl9hU0Z2R3o4ZHhNdTFGUmNBN2hmcWhkQWRDRE9kSFkyU2xuZ085LXpYWm9zTVkza2FWUkttRFh5Z0wwQ01fdXFkUVlaaHFxMXZKTWhKSWd3azVSNkpNV3Vram80M3FOVTdOSDFFN1BKaXV2cGp2UTIzcEVJMTZQbFFkMVNPWlE3OUVsZGtUOWNkWQ?oc=5",
           "published_at": "2026-08-13T08:06:51Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "royanews.tv",
+            "name": "رؤيا الإخباري",
             "url": "https://royanews.tv",
             "domain": "royanews.tv",
             "weight": 0.35,
@@ -6932,7 +7134,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "aljazeera.com"
+        "Al Jazeera"
       ],
       "languages": [
         "en"
@@ -6941,14 +7143,14 @@
         {
           "id": "93a7cc4c197b7ee4a037",
           "title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final",
-          "raw_title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final - aljazeera.com",
+          "raw_title": "Malawi shock Algeria and Cameroon beat Morocco to reach WAFCON final - Al Jazeera",
           "normalized_title": "malawi shock algeria and cameroon beat morocco to reach wafcon final",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaTQ5YVBlbHRJVzdhOElEemZnLWUydi1ycWZpY243ZVB1Q01rYzJWTmUza3FvdDBqN2lONDg3bk9QX1lKRVpYQnE0MWFLQWFlYVlGU0RUQ09yTk1sb2YzeTFMYnNDbHc4ZXExaWZ0TTl6dld2YTFMcldPMm1nU3hxbmZ6Y1dhdk82YWc2UE1DRmIxUFZDMllGY1VTYjAtb2lIN2pMTWtwM3I4RnFNVmlqNNIBtgFBVV95cUxPSENSX3ZxWER5V3hFLUNuMV9RN2h3UkNSODJDcnJJTm13SHZybTBDWmQ1cFJBWGdZdDhzcGQxbDdyRFNMcW53bXdNMFBvd1k4UVpEUjQydS1CMDByLVZQalpjeVVNbUtGVUkwYnlSbndBeXVHMVVhZXA2N0pCUmR6TzdmNkplMUhPZml2eTI0c3JxdkxWSFJIdjN0b1lMLTdFLVN1LXN3eDFiaVdiQWhEMVRVRTJ1dw?oc=5",
           "published_at": "2026-08-13T07:46:31Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "aljazeera.com",
+            "name": "Al Jazeera",
             "url": "https://www.aljazeera.com",
             "domain": "aljazeera.com",
             "weight": 0.35,
@@ -7427,6 +7629,47 @@
             "name": "التلفزيون العربي",
             "url": "https://www.alaraby.com",
             "domain": "alaraby.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8f7c7a494a0ec57930d4",
+      "title": "Cameroon defeat Morocco 3-1 to reach Women’s AFCON final",
+      "published_at": "2026-08-13T06:30:38Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "africanews.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "d6f3933e80d9bb6422ea",
+          "title": "Cameroon defeat Morocco 3-1 to reach Women’s AFCON final",
+          "raw_title": "Cameroon defeat Morocco 3-1 to reach Women’s AFCON final - africanews.com",
+          "normalized_title": "cameroon defeat morocco 3 1 to reach women s afcon final",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnRtQWd0TWZlWVdPWnFQS19rVmRfbDBDU2VfM1VqbGlRbkxrdFAzUnhfcFZaOV93WTA5MDB1WVd5dXlsclZQRnBEMS1KQndEdk8yNmhXR0x1X1BCRkhCT29CTVJObFBMeHdJVGE0UWptOEtydHlOS0tDZlpPUmlzdldWOTdDNjV3bTZSZnZQSmZ5TDJrdDRJdFF30gGfAUFVX3lxTE10d29mcDdKZWJoUkJVY3N5UzBROTBNTE02SXFjMHVWM1d1VUI0NDhNbnFvWnprQ3UzcGFsVjdiRnNjSk56bjJERTVqTGdvbTB0bEw5TXVjWUdvbVd4ZGY2T0lmN3BxV3l1QUpvSEk5OXprOWRiZlFnQURaUjktY3VEY29nMkhpQXBfbnZCeUZCSzF4R01ESzM3OHBtRU9PMA?oc=5",
+          "published_at": "2026-08-13T06:30:38Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "africanews.com",
+            "url": "https://www.africanews.com",
+            "domain": "africanews.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -8053,17 +8296,18 @@
       "id": "bf89e944ba016da44ec3",
       "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
       "published_at": "2026-08-13T02:36:51Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.608,
+      "status": "corroborated",
+      "evidence_score": 0.81,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 7,
-      "article_count": 12,
+      "source_count": 8,
+      "article_count": 13,
       "sources": [
+        "AP News",
         "Goshen News",
         "Los Angeles Times",
         "Temple Daily Telegram",
@@ -8273,6 +8517,23 @@
             "domain": "guardonline.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        },
+        {
+          "id": "356f6ee9b5cfd24fa5d7",
+          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
+          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - AP News",
+          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUluUDhBQ1dPN3lQS3hCcWhsb0h6TkVQalZJc3Nsek92NEVFajJ6X2x0MTdWeXpQQnB0aUxPLVFmcTJMN3NCYkl1cS02Tm4tcmRiYUNkcmt2dHhISGdMZW9kS1AtTUxncXFzVVdCNVRQMnVpa0Q0bk9DR2tqUzMwaWQtZ2tUZlFYaFZTMGtPVjIyVk5NZlVzekNoVDF6Zw?oc=5",
+          "published_at": "2026-08-12T17:34:00Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "AP News",
+            "url": "https://apnews.com",
+            "domain": "apnews.com",
+            "weight": 0.8,
+            "category": "newsroom"
           }
         }
       ]
@@ -9257,7 +9518,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "sports.yahoo.com"
+        "Yahoo Sports"
       ],
       "languages": [
         "en"
@@ -9266,14 +9527,14 @@
         {
           "id": "e7a3850cbbe5948f68e5",
           "title": "Keeper Bihina stars as Cameroon upset Morocco to make Wafcon final",
-          "raw_title": "Keeper Bihina stars as Cameroon upset Morocco to make Wafcon final - sports.yahoo.com",
+          "raw_title": "Keeper Bihina stars as Cameroon upset Morocco to make Wafcon final - Yahoo Sports",
           "normalized_title": "keeper bihina stars as cameroon upset morocco to make wafcon final",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEl0SDdVUDlVaE1SNFhFQ0c4Nkt1ckVSUVdZdHQ2R1pfaHVrUGZVWjFQdlBKV1V2MTRDY3JLV1JsSC1uYWlMbkNMcDBjVnVYOUlId2ZUQ1p5QzhwZVNXb2FCUUZJek1TWlBwaW82eTFZZ2cxT1NzenBmeGtiSmNwRkhXdUJOWmRzOFBN?oc=5",
           "published_at": "2026-08-12T23:07:05Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "sports.yahoo.com",
+            "name": "Yahoo Sports",
             "url": "https://sports.yahoo.com",
             "domain": "sports.yahoo.com",
             "weight": 0.35,
@@ -9286,8 +9547,8 @@
       "id": "5f7675f77bca09b6002c",
       "title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars - BBC",
       "published_at": "2026-08-12T23:07:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -9295,10 +9556,11 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "BBC"
+        "BBC",
+        "bbc.com"
       ],
       "languages": [
         "en"
@@ -9323,14 +9585,14 @@
         {
           "id": "8cd7eac50282fab7b094",
           "title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars",
-          "raw_title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars - BBC",
+          "raw_title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars - bbc.com",
           "normalized_title": "wafcon 2026 morocco 0 0 cameroon aet 1 3 on pens michaely bihina stars",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zaGJJUnc2UXhkdDM1Zy1wVFNndUtYTmJPWFpqc0VUbEFHV3Vwc0EzTjRMaTFnalpIV0VQRWh3WEdVUGRPdlBSa0FXMERKWkF2ckFMNGQtSE40QjMyVFpKb0FlVVZPQUE?oc=5",
           "published_at": "2026-08-12T23:07:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "BBC",
+            "name": "bbc.com",
             "url": "https://www.bbc.com",
             "domain": "bbc.com",
             "weight": 0.35,
@@ -16056,6 +16318,46 @@
       ]
     },
     {
+      "id": "3471c3a3f002a1b69614",
+      "title": "المغرب يطالب السلطات الإسبانية بالعمل على تسريع إجراءات إعادة القاصرين من مدينة سبتة",
+      "published_at": "2026-08-12T14:11:53Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "alquds.co.uk"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "59b976dea283c21d4ee6",
+          "title": "المغرب يطالب السلطات الإسبانية بالعمل على تسريع إجراءات إعادة القاصرين من مدينة سبتة",
+          "raw_title": "المغرب يطالب السلطات الإسبانية بالعمل على تسريع إجراءات إعادة القاصرين من مدينة سبتة - alquds.co.uk",
+          "normalized_title": "المغرب يطالب السلطات الاسبانية بالعمل على تسريع اجراءات اعادة القاصرين من مدينة سبتة",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNTG9sdnVaNW5pOXZlbkJDcFZFdjZCWjNJQzZILUczLUlyUzRab19sN1E1c2YwV2FYalJNbjE4NDJsSV9DUUhnQ2dCbnFxM2Q5aVdmX3VnNTZ5WnV0b0NTaExFWVVjWWZNeDhHdm5heGxReTRWVldyc09Pa1p1Sy1tcFQ4SmtaaGdUUlpsM09PbjFZUEtKNGFJZlZWemVJbWZUcnlvOE9sWGY0Ql93X0JGY2owRlZYZlZnbWQ5c3RWdmdPcS1NVTh1UEw5cXVSWC16RUZRWk9mTlB2dzB3a05Fdk1PX3pUOU9NajJTaUxkcWNleC1IVlhiLThmQkt6Y2tnZ0xjZWYyanRnSUNxSWxoUHk5MHpWemF2cHVTMjF1Yk9yOF9DQzZXUGptb0x1TVBwb2ZRdV9vbmdRMllBZ0VfbjlBSG4?oc=5",
+          "published_at": "2026-08-12T14:11:53Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "alquds.co.uk",
+            "url": "https://www.alquds.co.uk",
+            "domain": "alquds.co.uk",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "9b71589023771ddc9545",
       "title": "دعوات لموجة عبور نحو سبتة ومليلية.. المغرب يعلن «تدابير ضرورية» للتصدي - العين الإخبارية",
       "published_at": "2026-08-12T14:11:07Z",
@@ -16365,18 +16667,19 @@
       "id": "c59aebd51048c107b45a",
       "title": "Éclipse solaire au Maroc : la prière de l’éclipse ne sera pas accomplie ce soir - Telquel.ma",
       "published_at": "2026-08-12T13:50:22Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Telquel.ma"
+        "Telquel.ma",
+        "telquel.ma"
       ],
       "languages": [
         "fr"
@@ -16401,14 +16704,14 @@
         {
           "id": "3db3df145daa8db27d09",
           "title": "Éclipse solaire au Maroc : la prière de l’éclipse ne sera pas accomplie ce soir",
-          "raw_title": "Éclipse solaire au Maroc : la prière de l’éclipse ne sera pas accomplie ce soir - Telquel.ma",
+          "raw_title": "Éclipse solaire au Maroc : la prière de l’éclipse ne sera pas accomplie ce soir - telquel.ma",
           "normalized_title": "eclipse solaire au maroc la priere de l eclipse ne sera pas accomplie ce soir",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNktxb0JVOHVabDYyR0xzcmtwZk5EWDFUSnY3UEVxdFZwSGdQbC1vRXRkX1l2YlJYWFhZNnJ6OV9sS254bzZiXzA2Qjg3dElUZ1BKZElERkh3NnZKb2cxdUJWQmF5WlVibHJQS3gtTkkzQVJSR3NqUTBGbDRfSl9sekIya2FVU25mRGF0ZVNXOWhWNWRIUzJoeXpidklEWGFORElyZGRiYVhTcnFnUGdKSkh3ZHZVdDEzZ19ENUdXNkFUMTBBUzhreFRrQTA?oc=5",
           "published_at": "2026-08-12T13:50:22Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Telquel.ma",
+            "name": "telquel.ma",
             "url": "https://mobile.telquel.ma",
             "domain": "mobile.telquel.ma",
             "weight": 0.35,
@@ -17741,14 +18044,14 @@
         {
           "id": "c80a57217b3c50440398",
           "title": "Morocco vs Cameroon: Wafcon 2026 semi finals go see Morocco, Algeria, Cameroon and Algeria battle for final spot",
-          "raw_title": "Morocco vs Cameroon: Wafcon 2026 semi finals go see Morocco, Algeria, Cameroon and Algeria battle for final spot - BBC",
+          "raw_title": "Morocco vs Cameroon: Wafcon 2026 semi finals go see Morocco, Algeria, Cameroon and Algeria battle for final spot - bbc.com",
           "normalized_title": "morocco vs cameroon wafcon 2026 semi finals go see morocco algeria cameroon and algeria battle for final spot",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sZ09jeFgxbTM5YVVvMjNWcFlWRmx2YnBfMHBiYnNVb1F0b21vQlRMMkU3RUhOazJjbDc0T2NuMFZWUVFtOWxqRjVLaGVUaWpKd0k3Q0RDbjJrTks40gFiQVVfeXFMT0VvMllVOE0wQ04tWnZXY3F1UC1BYU9KSFJhUFdHcnJmYzVRTEUtN0tlckcxZTZhVmZ4ZmNwZlpjenB4c3ZDdmNvWDBvbTA5SUgtM0FUSTVIMnQ2VW45Z1AzVWc?oc=5",
           "published_at": "2026-08-12T11:55:46Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "BBC",
+            "name": "bbc.com",
             "url": "https://www.bbc.com",
             "domain": "bbc.com",
             "weight": 0.35,
@@ -18735,14 +19038,14 @@
         {
           "id": "70c0bdeb813411c88c56",
           "title": "Test in Morocco exposes secret cruise missile developed in Israel",
-          "raw_title": "Test in Morocco exposes secret cruise missile developed in Israel - haaretz.com",
+          "raw_title": "Test in Morocco exposes secret cruise missile developed in Israel - Haaretz",
           "normalized_title": "test in morocco exposes secret cruise missile developed in israel",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYXVkYi16ay1kLVVwemcya3FRd0FkVlU3N0gzNlBQckVQSngyWlZ6Q0ZZQmROTlA1LW5vZTgzUGQ1SzZnZllDWmo3US0wbjhFam9Sd2o5YVplaENMSlJ3b3c4azhiMG16TGtxZm83YlM4dUJKbDh6WmVyNHU5aU5CUUp0TkluX3h4TnhUeHNjU2FiTDJlaXRIRF9SQmxkSjVZc3hVRHlVelc1WU1QX0t3aFFqMjhvTEp6OHlzdVFhaXdvVVhlR0lCaFQ1cXZ6SGFCblVISjR3MktDUzRYZktDWTlxMVhwMkhqb2Vrb0t2SnBNWE5LRjZGMGtwNmh6YkxUTVExZTlVdUEzalBtQXc?oc=5",
           "published_at": "2026-08-12T09:51:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "haaretz.com",
+            "name": "Haaretz",
             "url": "https://www.haaretz.com",
             "domain": "haaretz.com",
             "weight": 0.35,
@@ -20135,8 +20438,8 @@
       "id": "681c56063cf2d12f71f6",
       "title": "Maroc-Cameroun (1/2 finale CAN féminine) : quelle heure, quelles chaines - Medias24",
       "published_at": "2026-08-12T06:40:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -20144,10 +20447,11 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Medias24"
+        "Medias24",
+        "medias24.com"
       ],
       "languages": [
         "fr"
@@ -20172,14 +20476,14 @@
         {
           "id": "84ed320ed18dfba1ca1c",
           "title": "Maroc-Cameroun (1/2 finale CAN féminine) : quelle heure, quelles chaines",
-          "raw_title": "Maroc-Cameroun (1/2 finale CAN féminine) : quelle heure, quelles chaines - Medias24",
+          "raw_title": "Maroc-Cameroun (1/2 finale CAN féminine) : quelle heure, quelles chaines - medias24.com",
           "normalized_title": "maroc cameroun 1 2 finale can feminine quelle heure quelles chaines",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWkhMaExrcl9jNk1iX1MxLVhFN0MyaTNvOWtMTy03eXlmVlI1STlicV9KZVFqSmdyd2t6RUFZVWpxMHlUWDFwZkxCWWxZQld2NkNickI4VWxZaFROMGZVck4yX2NwcWl0Wkg2VmdmcnpoTFpyUkZodDBHV0E0VUR4UVNCXzRNczRGUm1veEhxaDY4OWk2a0tNUlZCcUhkaGQ1NERPVl9IdEVrT1Ez?oc=5",
           "published_at": "2026-08-12T06:40:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Medias24",
+            "name": "medias24.com",
             "url": "https://medias24.com",
             "domain": "medias24.com",
             "weight": 0.35,
@@ -20304,8 +20608,8 @@
       "id": "86f6e01b86cdd277d1dd",
       "title": "Éclipse solaire au Maroc du 12 août 2026 : horaires, villes et précautions, tout ce qu’il faut savoir",
       "published_at": "2026-08-12T06:26:35Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -20313,10 +20617,11 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Medias24"
+        "Medias24",
+        "medias24.com"
       ],
       "languages": [
         "fr"
@@ -20325,14 +20630,14 @@
         {
           "id": "70fe462abc6bd31cdce2",
           "title": "Éclipse solaire au Maroc du 12 août 2026 : horaires, villes et précautions, tout ce qu’il faut savoir",
-          "raw_title": "Éclipse solaire au Maroc du 12 août 2026 : horaires, villes et précautions, tout ce qu’il faut savoir - Medias24",
+          "raw_title": "Éclipse solaire au Maroc du 12 août 2026 : horaires, villes et précautions, tout ce qu’il faut savoir - medias24.com",
           "normalized_title": "eclipse solaire au maroc du 12 aout 2026 horaires villes et precautions tout ce qu il faut savoir",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMW9LRWFkU0FlSk9hSTlqU2ZmMEJuSkdEV2NOUGJtbTk1cHZOSG5NTlNFb1pZYkd0Nk91bm54ekRRSXZSeWcxVFppRDFKUENpOGJHREk4Njg5N2hIeW5QMVBfazNkVVNYTU44a3M5OGhvM3J6ZnRuTFBUY1Uzd2UxUHpHU1BHQXY1WEQtdFc5a1VrQVRWdjN1M3pqLWRlbmt3UFR3a01kMnh0UGQwb3ZJbmNUNVhzbjNjdTE3Qlg0Q0JEY1NKOWtULVR3SFh1eWpkVkFv?oc=5",
           "published_at": "2026-08-12T06:26:35Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Medias24",
+            "name": "medias24.com",
             "url": "https://medias24.com",
             "domain": "medias24.com",
             "weight": 0.35,
@@ -20841,6 +21146,46 @@
             "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fd60b46e2242ad592682",
+      "title": "Centres d’appel : le Maroc face au changement des règles françaises",
+      "published_at": "2026-08-11T19:31:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress Français - Actualités du Maroc"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "bc134f88c171df671a15",
+          "title": "Centres d’appel : le Maroc face au changement des règles françaises",
+          "raw_title": "Centres d’appel : le Maroc face au changement des règles françaises - Hespress Français - Actualités du Maroc",
+          "normalized_title": "centres d appel le maroc face au changement des regles francaises",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaG8zNkMyc1V2YzBNNklIdmZVcklrTV9lNjgwTVZmR2d3WksxSWFzZk9DUUxXM1BMNGx3M1VpdW9KTDhUVmtFTDdOak56VUlZakc4Q3E4YW5wbnRvdHpKMndQanFHR2JyXzBmTTVUeG80SmY5R3FqTHZNS203dnNTYXFDekxnTnBCTlBfR0lkREg0elJ4ZW5Hd3RYYS0xNHNJRnc?oc=5",
+          "published_at": "2026-08-11T19:31:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Hespress Français - Actualités du Maroc",
+            "url": "https://fr.hespress.com",
+            "domain": "fr.hespress.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -22546,7 +22891,7 @@
       "title": "CAN féminine Maroc 2026 : Le programme des demi-finales - Medias24",
       "published_at": "2026-08-10T16:06:00Z",
       "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "evidence_score": 0.608,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -22554,11 +22899,12 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 3,
       "article_count": 3,
       "sources": [
         "Le Matin.ma",
-        "Medias24"
+        "Medias24",
+        "medias24.com"
       ],
       "languages": [
         "fr"
@@ -22583,14 +22929,14 @@
         {
           "id": "f6d0405b4d2266808026",
           "title": "CAN féminine Maroc 2026 : Le programme des demi-finales",
-          "raw_title": "CAN féminine Maroc 2026 : Le programme des demi-finales - Medias24",
+          "raw_title": "CAN féminine Maroc 2026 : Le programme des demi-finales - medias24.com",
           "normalized_title": "can feminine maroc 2026 le programme des demi finales",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUUpPTWlEMlBibHNwTEpqWE11aUpOODQ5V05PNXBIa19KTnpFak14bzE3NlZnNUVJTG9BUHlxOVNoaWZadHhhVjlvemJXX25pbkpFdFFsWF9KNWR0cUIyb2lBWnZlWXphSUFWR09JUU5FRktURjlwVm4xbVAtRV9MRDNsTHB5WWpLbTR4cno4VXRoVzZRTHRGYW13?oc=5",
           "published_at": "2026-08-10T16:06:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Medias24",
+            "name": "medias24.com",
             "url": "https://medias24.com",
             "domain": "medias24.com",
             "weight": 0.35,
@@ -22993,8 +23339,8 @@
       "id": "e6ed20967ecdfa23e594",
       "title": "ما قصة سفن المثليين التي منعت في مصر وتركيا ورست في المغرب؟ - الشروق أونلاين",
       "published_at": "2026-08-10T09:20:34Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.3,
       "claim_reasons": [
@@ -23002,10 +23348,9 @@
         "event_assertion"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "echoroukonline.com",
         "الشروق أونلاين"
       ],
       "languages": [
@@ -23031,14 +23376,14 @@
         {
           "id": "015495a1b3b65ce04b31",
           "title": "ما قصة سفن المثليين التي منعت في مصر وتركيا ورست في المغرب؟",
-          "raw_title": "ما قصة سفن المثليين التي منعت في مصر وتركيا ورست في المغرب؟ - echoroukonline.com",
+          "raw_title": "ما قصة سفن المثليين التي منعت في مصر وتركيا ورست في المغرب؟ - الشروق أونلاين",
           "normalized_title": "ما قصة سفن المثليين التي منعت في مصر وتركيا ورست في المغرب؟",
           "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPajh3X2hOUFYwM3JXOWpKZ0VEdHdvQ1VEVGFhT0ZxcS1veDlDQ1BwNml3RG11VDVlOFNibDB4b2psMzFlSXFzRy1PY2hfSGYyM2F3cU5JdVBWMU1zaGFWcVYzOTM3Y3lfSUZTdEViRHRNRmh2bWhmR2JKWGpLNDcxRnFDOF9CVHVVQ1BseFRjSl9SbmpSbUg2Qm1rTnJxUHNUNVlUSy1nN1lURnhaNWwxRHkwdTAzdHk0T3lKWG5zUjBBTGdWcTFKZzFvUy1qZmsySTV2aFZvekYtUXJnYlJlVjFPcVA3WnQ5UlZnLVlmU015UWtrREJSU2JOanZfQTFYU19DTU5fd2gyd2t4dmFGa215QXk2am1qWVBnT0ttNzBCSm1YejczUzctUUxCQzdoYjFJR3A3RjVLeUxuTWR6NjNUalJ6TUtadV9uMUVtMHI?oc=5",
           "published_at": "2026-08-10T09:20:34Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "echoroukonline.com",
+            "name": "الشروق أونلاين",
             "url": "https://www.echoroukonline.com",
             "domain": "echoroukonline.com",
             "weight": 0.35,
@@ -23497,7 +23842,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "aljazeera.com"
+        "Al Jazeera"
       ],
       "languages": [
         "en"
@@ -23506,14 +23851,14 @@
         {
           "id": "678119c405954e60fdf8",
           "title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup",
-          "raw_title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup - aljazeera.com",
+          "raw_title": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup - Al Jazeera",
           "normalized_title": "morocco algeria reach wafcon semifinals and qualify for fifa world cup",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB0gG3AUFVX3lxTE5reU1QRi0xRkdwRWYtVGs3c1lmNktVYXljb0JaWjNIM0E0eW1OM1Bka2NGQjVwbUZXeG4xT2NJVzlkZElpdWJYcERjaHA3enROLU1SVzI4eWJFdUlhLU9mV19HdzduZjlvWGFUekVjOFduUnhQYjBFNVVhTmp2VVBEekwxYWFUQUlPb2dDUm0xdklQTU52aVpuUEJKM05rYXUwNzRubEhvdEtuN3RwY1pVR2tORE12VQ?oc=5",
           "published_at": "2026-08-09T10:16:56Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "aljazeera.com",
+            "name": "Al Jazeera",
             "url": "https://www.aljazeera.com",
             "domain": "aljazeera.com",
             "weight": 0.35,
