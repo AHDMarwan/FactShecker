@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:54:13Z",
+  "generated_at": "2026-08-15T04:47:35Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
@@ -7,10 +7,10 @@
     "articles": 1179,
     "fact_checks": 21,
     "clusters": 803,
-    "sources": 306,
+    "sources": 303,
     "matched_clusters": 0,
-    "needs_review": 714,
-    "medium_evidence": 86,
+    "needs_review": 715,
+    "medium_evidence": 85,
     "corroborated": 3
   },
   "fact_checks": [
@@ -374,9 +374,9 @@
   ],
   "items": [
     {
-      "id": "a70b886128e44caa5551",
-      "title": "إسبانيا تعزز إجراءات الأمن في سبتة بعد دعوات تحث على اقتحام آخر للحدود",
-      "published_at": "2026-08-15T03:21:37Z",
+      "id": "17a887a7abd466c954e4",
+      "title": "Ceuta: l'Espagne et le Maroc se préparent à de nouvelles traversées massives, après des appels en ligne à franchir la frontière",
+      "published_at": "2026-08-15T04:18:07Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -388,6 +388,47 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
+        "BFM"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "4f3ccc34f4b8fad199c4",
+          "title": "Ceuta: l'Espagne et le Maroc se préparent à de nouvelles traversées massives, après des appels en ligne à franchir la frontière",
+          "raw_title": "Ceuta: l'Espagne et le Maroc se préparent à de nouvelles traversées massives, après des appels en ligne à franchir la frontière - BFM",
+          "normalized_title": "ceuta l espagne et le maroc se preparent a de nouvelles traversees massives apres des appels en ligne a franchir la frontiere",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcmJQcTZfejRsbVQwaDdpb25TYW9MNURzdnZfekJsWnRBS0hQOEswZVBfTW1qUGRoNTNleHBfZlRZWWtlVFpLT3J6TlhpNk9GaFA0X2pNckZRMDVFajNrSHNNOXVqcnotVUFRRlZCS1FEM2NWZTJfTlRJcnNiM0NNXzlmWmRlM2UwLUxMY29QZFhzdzZVR1pJdktDX0Vjd2FRNkhRTFhjOGtQT0ZtZEtUcGNpcVAyY0NDV01LNWllX1FDTy0yQ3hJajR0WDU0WmE4LUUtc0Q4ZFVDLWRFZXdoUUtLZi1zZ3NlOGpVM0dvNkhvcVozM0RrU21KQTgxLXVIM2N0Y1BOWmtjeVhSR1M5WHNMVW1XdVd4LU5yeFZ1R1l1WF9PLWhraDhLMA?oc=5",
+          "published_at": "2026-08-15T04:18:07Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "BFM",
+            "url": "https://www.bfmtv.com",
+            "domain": "bfmtv.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7e81d0448f9622af75a2",
+      "title": "إسبانيا تعزز إجراءات الأمن في سبتة بعد دعوات تحث على اقتحام آخر للحدود",
+      "published_at": "2026-08-15T03:21:37Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "alghad.tv",
         "قناة المملكة"
       ],
       "languages": [
@@ -407,6 +448,23 @@
             "name": "قناة المملكة",
             "url": "https://www.almamlakatv.com",
             "domain": "almamlakatv.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "58ac296eac1419e5f78b",
+          "title": "إسبانيا تعزز الأمن في سبتة بعد دعوات على الإنترنت لاقتحام آخر للحدود",
+          "raw_title": "إسبانيا تعزز الأمن في سبتة بعد دعوات على الإنترنت لاقتحام آخر للحدود - alghad.tv",
+          "normalized_title": "اسبانيا تعزز الامن في سبتة بعد دعوات على الانترنت لاقتحام اخر للحدود",
+          "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxPMG5pRHdINHFyd1VQYXJDTzBiQlJBVndqSEU5Y1RBMkI5Q0hKZ0xiTm83MnYwUmZjbXhRVVRGdGlXUWNpRmNUbTAzQnloWjMwX09jdWhfOU9IcVJLM3RTbHNuM0hWZGw2MEQzcHRLUV9SdTJ4T1cxbkNJMnNjWkpIdVJKelZFWF9kRHVUOTVzV2hqUy00cHNSUVRWNGQ1Q3ZnRzNnaW0yZ0pDc1Bvdlh1NDRGNFU1dFBRZ1lQLXhGdmVadXBPSVRxdW5qTUJCaFJZX0ZJT3RzRi1Gek1WdklDNDYyQTJfQmgtMFR5TF9SMDBJUEFYMlVqYklsYjdaM1hPdElyN3FYQUEyVXBxZG9Td3ZBTWtqeXc5Uy00cU1VY0hmT0RjZkNVajMxSVhQZDdZRDZpeW85SmtzMlBuS0lBdGhJRmd3VUpYMzJMdVdUWlhnUXBjeUZON3dIdEVOMjBEWGdGbTNwZFJFVk45T3JVSlpRd3FxbVEzRjRYcTlxUHp2ZnBNeDdwQTdfaVVvbC1nNUFOTTd5Z08tQWl3RkZZLVdxOUg1MnZfRUJFMHlRQmVoYVZiT0ljcjRvNW5fZGRFOG9zQ0kyQmpHQXRhclN4dXpSdVN6VGRXTU1FT2s4b2lUZjg4T1J2cm5NbXFwZ0JqU2p0Y19Uc1BlSnotVko2OHF1Q3NVbDcyX3BnYk5XbURjRVVTRk13NnczMUZCQ2l2TV9jdEhmV0xORW1UcWluR3pKNmpFOG02SjRuclBVaUJDbDlTN2Y5VmhxbVlXVmJqYUZpVERlXzhSdlV3NlhLUHJ3?oc=5",
+          "published_at": "2026-08-15T02:22:54Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "alghad.tv",
+            "url": "https://www.alghad.tv",
+            "domain": "alghad.tv",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -840,7 +898,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "reuters.com"
+        "Reuters"
       ],
       "languages": [
         "en"
@@ -849,14 +907,14 @@
         {
           "id": "80b917eb6470a85943f6",
           "title": "Spain boosts security in Ceuta as calls appear online for another mass border rush",
-          "raw_title": "Spain boosts security in Ceuta as calls appear online for another mass border rush - reuters.com",
+          "raw_title": "Spain boosts security in Ceuta as calls appear online for another mass border rush - Reuters",
           "normalized_title": "spain boosts security in ceuta as calls appear online for another mass border rush",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3FKVjRRZ1lTc2R5V0NjZjRlY0o5aFgyNEN6MmI1NFB0UC16Z0ZJVVF5UkxWTVBZUUR0RElRWGZBYnFHcW5Yei1Fc25Za29xUnBTMjZHSHRHRnpuUV9BSTdHM3ZyVWpXQzE1aHlqNU1vOXE0RmJOSC0zQllXbUVmYzJPaGtkVGItNWZVcVhSNXZSMVVQUUhQWTVxV3NzQTk1VTdhNzhhVUdpV3F3YkcyR2JwNFQ1ZEdCOWQteEdB?oc=5",
           "published_at": "2026-08-14T23:05:25Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "reuters.com",
+            "name": "Reuters",
             "url": "https://www.reuters.com",
             "domain": "reuters.com",
             "weight": 0.8,
@@ -920,7 +978,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "theguardian.com"
+        "The Guardian"
       ],
       "languages": [
         "en"
@@ -929,14 +987,14 @@
         {
           "id": "7e16cb557625c9f9bc5e",
           "title": "Concern grows as British Athletics coach Leon Baptiste vanishes on trip to Morocco",
-          "raw_title": "Concern grows as British Athletics coach Leon Baptiste vanishes on trip to Morocco - theguardian.com",
+          "raw_title": "Concern grows as British Athletics coach Leon Baptiste vanishes on trip to Morocco - The Guardian",
           "normalized_title": "concern grows as british athletics coach leon baptiste vanishes on trip to morocco",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkFIZWQyQzVwVzBkTzY4ZkhIaEZ0T1g1dmlkT25nSURuV0ZSRllfeUM4dVdYazlLcUVfV0EtQ254eExLaVlNck1DSUktak5Bd2F2THBxVHZQUlN3Um01U3pYYnNKa2hWUzFuTFZlOG5UMVlTeWVEMm5JLWhnU0JveG5PeTZlbDRXTXJKRW13bnFLWXZ0Q1BTMG5ram10WDdZUDFkTHNLX3RGZEJ3?oc=5",
           "published_at": "2026-08-14T22:58:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "theguardian.com",
+            "name": "The Guardian",
             "url": "https://www.theguardian.com",
             "domain": "theguardian.com",
             "weight": 0.35,
@@ -1067,7 +1125,47 @@
       ]
     },
     {
-      "id": "7c0b727a37982e8a3d37",
+      "id": "0cf5fb6eb35e2e63a88d",
+      "title": "Festival des plages de Maroc Telecom : la quatrième étape se déroule à Saidia",
+      "published_at": "2026-08-14T22:17:50Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Maroc Hebdo"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "4555a6f915d687d90bf7",
+          "title": "Festival des plages de Maroc Telecom : la quatrième étape se déroule à Saidia",
+          "raw_title": "Festival des plages de Maroc Telecom : la quatrième étape se déroule à Saidia - Maroc Hebdo",
+          "normalized_title": "festival des plages de maroc telecom la quatrieme etape se deroule a saidia",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVhDQ0R2YlZlbDFXekZGS2FpeUFaSkFseEFQVURLWldCM3YxcTVHTjNkVFJvZmc4NjBfMllWdDFVNmhESG9OYm9fV3piajVKN2xVWlFEcXU5OHZiQzFhNzBpdjQ0OERDS2pxaFdwQXlWWGZiOEtZWXZaZ01vNnhWOE9HRWRkZ1BUTWtoazR5aW8xR0Z0ZlI3WkVjRlh3T01mNE5meVMtVVNKQ09UMU1oMQ?oc=5",
+          "published_at": "2026-08-14T22:17:50Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Maroc Hebdo",
+            "url": "https://www.maroc-hebdo.com",
+            "domain": "maroc-hebdo.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8c45162ed3314e31981b",
       "title": "« Bardi » de Tala Hadid : le Maroc de la Tbourida s’invite au New York Film Festival",
       "published_at": "2026-08-14T22:17:41Z",
       "status": "needs_review",
@@ -1079,7 +1177,7 @@
       ],
       "fact_check_matches": [],
       "source_count": 1,
-      "article_count": 1,
+      "article_count": 2,
       "sources": [
         "lopinion.ma"
       ],
@@ -1093,6 +1191,23 @@
           "raw_title": "« Bardi » de Tala Hadid : le Maroc de la Tbourida s’invite au New York Film Festival - lopinion.ma",
           "normalized_title": "bardi de tala hadid le maroc de la tbourida s invite au new york film festival",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTWJMdmlNMktlalV2el9BT3dkRENMOHYxdEV4Wl9YSHlzeGt3eEx1a0c4eDFxMmJUT3Z0S0JmMXBRb1l4cldDMWg4cEhOM1dPa2NsdGtoTUdBcVBUcF9aakdPRm5fUXFtV2NYUTJGZmtfdUs3bEZ3OUE1bTBCZ0RLN2xhSHZKZ1JGWEtab0VtMkY0SFhMYkZka0cwYmVObTFNVWg0eFlUb0hPbGxlaFd2UWJnRmNXM2Jfby1RTXdZYlVSMHdPYk1qd2dkUVo5NHRrdWFqOFNiRGV3WnEyR0xaR04yZG9hQWJmMmlhUDBScmpiZzB4UU40dmw1ZVY4aVMxX0E?oc=5",
+          "published_at": "2026-08-14T22:17:41Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "lopinion.ma",
+            "url": "https://lopinion.ma",
+            "domain": "lopinion.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "245b5f35f76cdaa9a3db",
+          "title": "« Bardi » de Tala Hadid : le Maroc de la Tbourida s’invite au New York Film Festival",
+          "raw_title": "« Bardi » de Tala Hadid : le Maroc de la Tbourida s’invite au New York Film Festival - lopinion.ma",
+          "normalized_title": "bardi de tala hadid le maroc de la tbourida s invite au new york film festival",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRC1RLVBCNll3WHdkVE9EQWNYVW5adlZsOXMtQ1lTalowUUVFWldKcWFEdXRNWDlwd0ZwajdQd29uTS0wNUpLY29ubUdzVXRjdDFjQ083eGFlalRPYzB3aVdscXNpLTByQnlDdDVOdU9QTGxNTHR4OUo2TGtpV0s4bnI2M3lTcmhzcXJyZ2dqaHBDRi1LSl9xNnFaUEtncWN4NzBibmZoOGUtdkdkX3dHeElRc2kyNkF3akcxazdsTWlNYVlkalRGYURNeU1tZ3BNZ3ZGNHFpZk53bnZVbVdDbTFSUmhzbUxiT05CdUV4V09tbXpVejR5Vzdkd0NnZw?oc=5",
           "published_at": "2026-08-14T22:17:41Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
@@ -1399,46 +1514,6 @@
             "name": "مدار21",
             "url": "https://madar21.com",
             "domain": "madar21.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0cf5fb6eb35e2e63a88d",
-      "title": "Festival des plages de Maroc Telecom : la quatrième étape se déroule à Saidia",
-      "published_at": "2026-08-14T21:16:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Maroc Hebdo"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "4555a6f915d687d90bf7",
-          "title": "Festival des plages de Maroc Telecom : la quatrième étape se déroule à Saidia",
-          "raw_title": "Festival des plages de Maroc Telecom : la quatrième étape se déroule à Saidia - Maroc Hebdo",
-          "normalized_title": "festival des plages de maroc telecom la quatrieme etape se deroule a saidia",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVhDQ0R2YlZlbDFXekZGS2FpeUFaSkFseEFQVURLWldCM3YxcTVHTjNkVFJvZmc4NjBfMllWdDFVNmhESG9OYm9fV3piajVKN2xVWlFEcXU5OHZiQzFhNzBpdjQ0OERDS2pxaFdwQXlWWGZiOEtZWXZaZ01vNnhWOE9HRWRkZ1BUTWtoazR5aW8xR0Z0ZlI3WkVjRlh3T01mNE5meVMtVVNKQ09UMU1oMQ?oc=5",
-          "published_at": "2026-08-14T21:16:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Maroc Hebdo",
-            "url": "https://www.maroc-hebdo.com",
-            "domain": "maroc-hebdo.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2427,6 +2502,86 @@
             "name": "Yabiladi.com",
             "url": "https://www.yabiladi.com",
             "domain": "yabiladi.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "639ed188fbf8410166f5",
+      "title": "Migrants à Ceuta: «Certains nous disent: je préfère mourir ici plutôt que d'en repartir!»",
+      "published_at": "2026-08-14T18:06:56Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "RFI"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "a0eafc6fc4325f3211a1",
+          "title": "Migrants à Ceuta: «Certains nous disent: je préfère mourir ici plutôt que d'en repartir!»",
+          "raw_title": "Migrants à Ceuta: «Certains nous disent: je préfère mourir ici plutôt que d'en repartir!» - RFI",
+          "normalized_title": "migrants a ceuta certains nous disent je prefere mourir ici plutot que d en repartir",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2NiMTUwQnhJRm90MzFCcU1BeFI1LWNBMmhjMGRNYVZOUlRxYmc4cS1mYnFBdW5lSWNUenotZjQ3cGVHdGktNG4yeHhKNTVaUnJlWGpkUVdOSGN0ZzEtVk9oNV9ycUQyNV9WRnRIZGtGLW1Mc3BRZ25oRUY4Sk1hQXFjTDJnZ293cUdNX0RDYXQyMElGUzRwOTNPc1EzX2hKdi02Wm5VV215aWdDYXFhLUtTbGtZTzhXbkVZd2k1T2VMMXJsS0RkcEZ3?oc=5",
+          "published_at": "2026-08-14T18:06:56Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "RFI",
+            "url": "https://www.rfi.fr",
+            "domain": "rfi.fr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7a1fb60b59b1cfab0c28",
+      "title": "Vidéo : Influenceurs au Maroc : des revenus dans le radar du fisc",
+      "published_at": "2026-08-14T18:03:22Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "medi1tv.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "2d4682ddae945e038139",
+          "title": "Vidéo : Influenceurs au Maroc : des revenus dans le radar du fisc",
+          "raw_title": "Vidéo : Influenceurs au Maroc : des revenus dans le radar du fisc - medi1tv.com",
+          "normalized_title": "video influenceurs au maroc des revenus dans le radar du fisc",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZkQxdTlMbFd2a1ppU1huck4xTDkzTzN1TXFyZ0tBUjNGREMyQkZTTGl5djB5V2lHTDZqckE4d21kN3o3b3hYMjNveXNXT1Q3MWlPYmJibmZEbzY1WXl3RVFkVlB3OXhTdm1mMThvb0dURWpXR0IyUDhpSWh0ZjkwU1FZVTQ1dWpZY3JPeWszbGpRd3k4MC0yWktXRjRiSklOUHc?oc=5",
+          "published_at": "2026-08-14T18:03:22Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "medi1tv.com",
+            "url": "https://www.medi1tv.com",
+            "domain": "medi1tv.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -3480,8 +3635,8 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "akhbarak.net",
-        "al-ain.com"
+        "al-ain.com",
+        "اخبارك نت"
       ],
       "languages": [
         "ar"
@@ -3490,14 +3645,14 @@
         {
           "id": "e67613f98920904f03af",
           "title": "المغرب والجزائر.. 3 عوامل تحسم صراع البرونزية في أمم أفريقيا للسيدات",
-          "raw_title": "المغرب والجزائر.. 3 عوامل تحسم صراع البرونزية في أمم أفريقيا للسيدات - akhbarak.net",
+          "raw_title": "المغرب والجزائر.. 3 عوامل تحسم صراع البرونزية في أمم أفريقيا للسيدات - اخبارك نت",
           "normalized_title": "المغرب والجزاير 3 عوامل تحسم صراع البرونزية في امم افريقيا للسيدات",
           "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxOd3hlNGlydHNyT2hqX0U3YlhfbWpnbjZoMzFDTWJJVjhIdExpQUpsYnQ1TG9kSU1WU0I0VTB2UXNTSldKQnBGa1NVTEQ1dlJHblY4U1FCQ3pleU1GcFh1dlZYN29pb18tclhSUFRXV1EzS0I1aUQ3VzlVb2UzOVZ5NmFtekgyS0ZzYWpPVEFhcTc0MHhpT0g3UzZPT3RlWXZRb3AzSnd6UGpEN0J0WElHUFRQOC1HUmROX1B2Ukd2aDdUYWpnMnJNM2hUWnhYUG82REk4Ml9aa0ZSTUd3SG5iNTI1SEZBQ2dBb3JHWl9ucWVack13dWVDV21NR090bXRod1Q3YjhYek5mUmZLa0pXOVZ6VjZfSG0xNG9saE9yVE9OR2NWdTlES3ZpZGlGVTZKUTdIQVNHUzBHNEdaYjIzbGxrb0RIRzJHclVKWkZHd1gzZktWTnA1aEZJZjU1bHgxTFJRNERncllDSktvY1hJaldmaGc0d3dzd1B4VktvWS0ycTZmVE0xemNkTV9GcWQtbnFmMU1ZZXNfS0lDNG4yNEtKdHRlX3NRSWVOZ2xCdEEzY2xqdUxlVG54Wm1rRHVHb1U5aVN2MFpLYTF0dmhqaHYyS2Q4RUtDdTVhZzZNai00M3E4Q0ZZelhMemM3YlZnMzhJRUxQQUVhcFRPTGZBTGZmTHJqQ3RvWDdMWkM3YkFsM3A5UUxHUlluNzBzWDNuMlVNRQ?oc=5",
           "published_at": "2026-08-14T15:48:24Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "akhbarak.net",
+            "name": "اخبارك نت",
             "url": "https://www.akhbarak.net",
             "domain": "akhbarak.net",
             "weight": 0.35,
@@ -4553,46 +4708,6 @@
       ]
     },
     {
-      "id": "7f451215c266b0027379",
-      "title": "Au Maroc, les raisons qui poussent les jeunes à émigrer",
-      "published_at": "2026-08-14T14:02:51Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "DW.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "57621ffd61bd9c4b6f63",
-          "title": "Au Maroc, les raisons qui poussent les jeunes à émigrer",
-          "raw_title": "Au Maroc, les raisons qui poussent les jeunes à émigrer - DW.com",
-          "normalized_title": "au maroc les raisons qui poussent les jeunes a emigrer",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mQ0g1U1p4QjZoV0E1U2hhNEJJMU80UWtwQktLTlZaY04xOXRaWnRPd1VpdDdxc0FlM3d0ZHBXYVlBMUR2Z1c2enRvUEw2ajZyUWRSZ2xGb0tkRXJZQ2pEVVU0MVFxLUIxcnBEYVdudEg3QXM4dTA00gF3QVVfeXFMTS1sbHdCdlhEb0hsMmp4aUtoWXQzVHgyd3p6aVhDdEZrcW5HNTRtTlNkemY1V1N0RUJKd195cWN2YkxUSnFOTE84ZWtBak1HRVZRRzBqQ29Oa2RRc0N0aEt5YnM5TzZfNFBSRVljMEtDMThGc29wY3M?oc=5",
-          "published_at": "2026-08-14T14:02:51Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "DW.com",
-            "url": "https://www.dw.com",
-            "domain": "dw.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "8689298ea1357feb61b5",
       "title": "Why Morocco is Pushing Back Against Spain’s Political Exploitation of Ceuta Crisis",
       "published_at": "2026-08-14T13:59:44Z",
@@ -4748,6 +4863,46 @@
             "name": "UA.NEWS",
             "url": "https://ua.news",
             "domain": "ua.news",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f451215c266b0027379",
+      "title": "Au Maroc, les raisons qui poussent les jeunes à émigrer",
+      "published_at": "2026-08-14T13:46:53Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "DW.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "57621ffd61bd9c4b6f63",
+          "title": "Au Maroc, les raisons qui poussent les jeunes à émigrer",
+          "raw_title": "Au Maroc, les raisons qui poussent les jeunes à émigrer - DW.com",
+          "normalized_title": "au maroc les raisons qui poussent les jeunes a emigrer",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mQ0g1U1p4QjZoV0E1U2hhNEJJMU80UWtwQktLTlZaY04xOXRaWnRPd1VpdDdxc0FlM3d0ZHBXYVlBMUR2Z1c2enRvUEw2ajZyUWRSZ2xGb0tkRXJZQ2pEVVU0MVFxLUIxcnBEYVdudEg3QXM4dTA00gF3QVVfeXFMTS1sbHdCdlhEb0hsMmp4aUtoWXQzVHgyd3p6aVhDdEZrcW5HNTRtTlNkemY1V1N0RUJKd195cWN2YkxUSnFOTE84ZWtBak1HRVZRRzBqQ29Oa2RRc0N0aEt5YnM5TzZfNFBSRVljMEtDMThGc29wY3M?oc=5",
+          "published_at": "2026-08-14T13:46:53Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "DW.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -6540,8 +6695,8 @@
       "id": "6008311bacb70f1fd4bd",
       "title": "US Covenant Industries launches new missile test in Tan Tan, Morocco",
       "published_at": "2026-08-14T10:47:52Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.3,
       "claim_reasons": [
@@ -6549,11 +6704,10 @@
         "event_assertion"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "The Jerusalem Post",
-        "jpost.com"
+        "The Jerusalem Post"
       ],
       "languages": [
         "en"
@@ -6562,14 +6716,14 @@
         {
           "id": "67fb28b04e6ba1ce36fb",
           "title": "US Covenant Industries launches new missile test in Tan Tan, Morocco",
-          "raw_title": "US Covenant Industries launches new missile test in Tan Tan, Morocco - jpost.com",
+          "raw_title": "US Covenant Industries launches new missile test in Tan Tan, Morocco - The Jerusalem Post",
           "normalized_title": "us covenant industries launches new missile test in tan tan morocco",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtaVA0NFZUZVZnSGN0OE5TemNQdDhZNXJTUWlTWWI0LWhZR1hFWjVDWURwY0RVVzJBUlA0Rm1mUkFMMThNWlMteDBSNFRfMEhlaFRuSnk4a2lEdU9JYmFZNEdWVQ?oc=5",
           "published_at": "2026-08-14T10:47:52Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "jpost.com",
+            "name": "The Jerusalem Post",
             "url": "https://www.jpost.com",
             "domain": "jpost.com",
             "weight": 0.35,
@@ -9590,6 +9744,46 @@
       ]
     },
     {
+      "id": "76eb62bb64a89508ba8b",
+      "title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta",
+      "published_at": "2026-08-14T04:29:37Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Le Monde.fr"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "ec97bd9183eaf3a281b5",
+          "title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta",
+          "raw_title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta - Le Monde.fr",
+          "normalized_title": "on est en train de perdre notre jeunesse dans le nord du maroc l ombre des noyes de ceuta",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlhTVUlxMU9XdGNlNDFNUWFScFZtZzZ6eDJjV1prRzBkSDdJbzQwQTN6THNkTTJKR1Zua3VJS094cXBnTG1VbUVBcDVpVmdGSHBzR1puWkpPaHpxRS0zVTgxbm5zUTh5allZYlhxYzZYUVBxWHpSaTYzUXRnbUVKYW9Sa0FTcFAzeXJoTVZST2dLWkVXVFEtQVlOamozWUlFaVJSMktzelM1RThqMHJIRkJOdUNhLUxMRkdORkl3aE5NSl9fWENkdWtnYkIzWkVFa2dXVUJweHcwZmg5SUlnMFRFSW03bEFIbFFlU1ln?oc=5",
+          "published_at": "2026-08-14T04:29:37Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Le Monde.fr",
+            "url": "https://www.lemonde.fr",
+            "domain": "lemonde.fr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "6289f952294ca60e9753",
       "title": "نجم المغرب يرفض الانتقال لـ ريال سوسيداد رغم اجتيازه الكشف الطبي (تقرير)",
       "published_at": "2026-08-14T03:20:00Z",
@@ -9704,46 +9898,6 @@
             "name": "middle-east-online.com",
             "url": "https://middle-east-online.com",
             "domain": "middle-east-online.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "76eb62bb64a89508ba8b",
-      "title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta",
-      "published_at": "2026-08-14T02:30:45Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Le Monde.fr"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "ec97bd9183eaf3a281b5",
-          "title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta",
-          "raw_title": "« On est en train de perdre notre jeunesse » : dans le nord du Maroc, l’ombre des noyés de Ceuta - Le Monde.fr",
-          "normalized_title": "on est en train de perdre notre jeunesse dans le nord du maroc l ombre des noyes de ceuta",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNlhTVUlxMU9XdGNlNDFNUWFScFZtZzZ6eDJjV1prRzBkSDdJbzQwQTN6THNkTTJKR1Zua3VJS094cXBnTG1VbUVBcDVpVmdGSHBzR1puWkpPaHpxRS0zVTgxbm5zUTh5allZYlhxYzZYUVBxWHpSaTYzUXRnbUVKYW9Sa0FTcFAzeXJoTVZST2dLWkVXVFEtQVlOamozWUlFaVJSMktzelM1RThqMHJIRkJOdUNhLUxMRkdORkl3aE5NSl9fWENkdWtnYkIzWkVFa2dXVUJweHcwZmg5SUlnMFRFSW03bEFIbFFlU1ln?oc=5",
-          "published_at": "2026-08-14T02:30:45Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Monde.fr",
-            "url": "https://www.lemonde.fr",
-            "domain": "lemonde.fr",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -13263,13 +13417,12 @@
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 4,
+      "source_count": 3,
       "article_count": 4,
       "sources": [
         "CNBC Africa",
         "Reuters",
-        "The Lufkin Daily News",
-        "reuters.com"
+        "The Lufkin Daily News"
       ],
       "languages": [
         "en"
@@ -13295,14 +13448,14 @@
         {
           "id": "e8d078d95a2079507e15",
           "title": "Spain rejects discussing sovereignty of enclaves with Morocco",
-          "raw_title": "Spain rejects discussing sovereignty of enclaves with Morocco - reuters.com",
+          "raw_title": "Spain rejects discussing sovereignty of enclaves with Morocco - Reuters",
           "normalized_title": "spain rejects discussing sovereignty of enclaves with morocco",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW9YV1hRXzRJbmZmejdpLWx5bGl4WHk0VlBJcjJVTDNWaGVDVkhjbkJTNS1GZHp2UlhmYmxXR3cyLXlkaXl5SXBvZ2NMVUVkbEhEWGJpdTBKY0k5OVVGbDI3MGFJS01uRGdVRlNzZUhxLUdmdnMxekRDRXV2RFBEZXJXOG1ibW1pVXR4RGNERkdzV0J6czRDLXZna0hQSENMM29VNGFkcFV1X3M?oc=5",
           "published_at": "2026-08-12T23:38:32Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "reuters.com",
+            "name": "Reuters",
             "url": "https://www.reuters.com",
             "domain": "reuters.com",
             "weight": 0.8,
@@ -15756,7 +15909,7 @@
       "article_count": 2,
       "sources": [
         "Morocco World News",
-        "reuters.com"
+        "Reuters"
       ],
       "languages": [
         "en"
@@ -15782,14 +15935,14 @@
         {
           "id": "35e2571b6b4a6818cf1b",
           "title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino",
-          "raw_title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - reuters.com",
+          "raw_title": "Qatar, Morocco among six Arab federations backing FIFA's Infantino - Reuters",
           "normalized_title": "qatar morocco among six arab federations backing fifa s infantino",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0I4Rl84djB5MTYxcFFjNHoyUlhWbFEzcU13Z2piMlBMREJkeW5WVnhIYlBJUGJGRHl5WV9TbFVQZ2M5RnZsT2ZLT1ZQNFA5SVZLdkFzMkdQU1MyV25kZkRXMklKak5URXJCbzdRN1F6bW5TWVd6aTRUQTdUNHFuMV82clZWUkU2NFl3X295V0ZDVFZmbE5lNUMydjR3SXRzclZtQ2t1aVNPTjR0MnVBTFhSUDk?oc=5",
           "published_at": "2026-08-13T09:41:26Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "reuters.com",
+            "name": "Reuters",
             "url": "https://www.reuters.com",
             "domain": "reuters.com",
             "weight": 0.8,
@@ -20272,8 +20425,8 @@
       "id": "35db318212896603db25",
       "title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars",
       "published_at": "2026-08-13T05:35:46Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -20281,11 +20434,10 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "BBC",
-        "bbc.com"
+        "BBC"
       ],
       "languages": [
         "en"
@@ -20294,14 +20446,14 @@
         {
           "id": "8cd7eac50282fab7b094",
           "title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars",
-          "raw_title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars - bbc.com",
+          "raw_title": "Wafcon 2026: Morocco 0-0 Cameroon (AET, 1-3 on pens) - Michaely Bihina stars - BBC",
           "normalized_title": "wafcon 2026 morocco 0 0 cameroon aet 1 3 on pens michaely bihina stars",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zaGJJUnc2UXhkdDM1Zy1wVFNndUtYTmJPWFpqc0VUbEFHV3Vwc0EzTjRMaTFnalpIV0VQRWh3WEdVUGRPdlBSa0FXMERKWkF2ckFMNGQtSE40QjMyVFpKb0FlVVZPQUE?oc=5",
           "published_at": "2026-08-13T05:35:46Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "bbc.com",
+            "name": "BBC",
             "url": "https://www.bbc.com",
             "domain": "bbc.com",
             "weight": 0.35,
@@ -35026,18 +35178,19 @@
       "id": "c421ebd3e53482c40387",
       "title": "What Morocco Was Saying to Spain in Ceuta - Foreign Policy",
       "published_at": "2026-08-11T04:39:08Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Foreign Policy"
+        "Foreign Policy",
+        "foreignpolicy.com"
       ],
       "languages": [
         "en"
@@ -35062,14 +35215,14 @@
         {
           "id": "b6bd5f67d9053af3f3ac",
           "title": "What Morocco Was Saying to Spain in Ceuta",
-          "raw_title": "What Morocco Was Saying to Spain in Ceuta - Foreign Policy",
+          "raw_title": "What Morocco Was Saying to Spain in Ceuta - foreignpolicy.com",
           "normalized_title": "what morocco was saying to spain in ceuta",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QWGdkUWMtWU93eFJsRXJ1dmdKeVR6bFJteUwzQ21aWnlYYnQ0YV9BOGRXSFJSWlVNLUFjbjR2SzBNaUZKeTY1aGQ0OFRId1QxOFV1eGoxWENsbmFWbWdRT3hTZ0UwWFZo?oc=5",
           "published_at": "2026-08-11T04:39:08Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "Foreign Policy",
+            "name": "foreignpolicy.com",
             "url": "https://foreignpolicy.com",
             "domain": "foreignpolicy.com",
             "weight": 0.35,
@@ -38154,6 +38307,47 @@
       ]
     },
     {
+      "id": "7e26c3bf90ed326daeed",
+      "title": "Morocco ready to cooperate on return of minors from Spain, state media says",
+      "published_at": "2026-08-06T07:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": true,
+      "claim_score": 0.4,
+      "claim_reasons": [
+        "specific_statement",
+        "reported_assertion"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Reuters"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "f64a19ff695d738bd761",
+          "title": "Morocco ready to cooperate on return of minors from Spain, state media says",
+          "raw_title": "Morocco ready to cooperate on return of minors from Spain, state media says - Reuters",
+          "normalized_title": "morocco ready to cooperate on return of minors from spain state media says",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1VzMEZpSkRYYXphZTAxanI3MWFnbHdMOV9tNmFsLWxhbVdoZkstTFEzQmVnUENSeWtnb0Q1YkQ4ZUFGZVV4YjdFRTlWeXV1UVByZjYyYzhuRVM3UEpqX2RFQk5FeG1fV2N4MmRDSU5UZUl3aWI2NWtKS3NVV25LRFk5MU1VVmtBYzFaeDNxcUk0LXNUUXF4WXV6Z2RzeldrTUhNTVJyNGdXVFZuM1E?oc=5",
+          "published_at": "2026-08-06T07:00:00Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "domain": "reuters.com",
+            "weight": 0.8,
+            "category": "newsroom"
+          }
+        }
+      ]
+    },
+    {
       "id": "fbc6049941d2974065d4",
       "title": "120 رياضيا يمثلون المغرب في ألعاب البحر الأبيض المتوسط “تارانتو 2026”",
       "published_at": "2026-08-05T22:25:57Z",
@@ -38314,21 +38508,20 @@
       ]
     },
     {
-      "id": "3603f73c3ce5c5edccfb",
+      "id": "9e4634935cebea9633e7",
       "title": "After Tens of Thousands of Migrants Enter Spanish Territory, Most Return to Morocco",
       "published_at": "2026-08-04T07:00:00Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "PBS",
         "The New York Times"
       ],
       "languages": [
@@ -38348,23 +38541,6 @@
             "name": "The New York Times",
             "url": "https://www.nytimes.com",
             "domain": "nytimes.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "89d432a7ce28556e253a",
-          "title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco",
-          "raw_title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco - PBS",
-          "normalized_title": "tens of thousands of migrants enter spanish territory then return to morocco",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFRSdEliVkJvZ3dVSnAtalRDdzduMWdRZk82a0t4TUpvclk5TDA5NTVaOXBXNE5SUjdxUHpyak83YjNiSzNVaDVYdV9waTl6SFJSSGo2aVFlVElZVHdyQ1JNRklXaFFlclpYMVZCang4dXJIcFFtRXRvTjRBMkhsdW9IaTZ0bVpUeUhmUUdOTHVHNjlqbGpMNy1BMHhuYlpQaFhyazdwT0JLb2ZBR2g0?oc=5",
-          "published_at": "2026-07-31T07:00:00Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "PBS",
-            "url": "https://www.pbs.org",
-            "domain": "pbs.org",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -38828,7 +39004,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "npr.org"
+        "NPR"
       ],
       "languages": [
         "en"
@@ -38837,190 +39013,16 @@
         {
           "id": "31569566dc0f16fdfefe",
           "title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco",
-          "raw_title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco - npr.org",
+          "raw_title": "Death toll in Spain border crisis reaches 67 as tens of thousands cross back in to Morocco - NPR",
           "normalized_title": "death toll in spain border crisis reaches 67 as tens of thousands cross back in to morocco",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rYjRuTnpkTU81eHVrMTBCMUZlaEN6MUNEY2g0NktsX0d4NTlHU2hJVlJQa21fRmN0NmhpcDQ5NHEwaDMta2owMWRYaWtlaXJvTFFrWDU1bmFVRm94UzRZMFBzZVZrSDNxNFdVeHRkcUk3ZjQyQm5fYnYwOA?oc=5",
           "published_at": "2026-08-01T07:00:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "npr.org",
+            "name": "NPR",
             "url": "https://www.npr.org",
             "domain": "npr.org",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6e3cec9d4db4eea7015b",
-      "title": "Spain to put containment fence on Ceuta’s sea border with Morocco after thousands rush through",
-      "published_at": "2026-08-01T07:00:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "NBC News"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "7ba57bf030cd278467bd",
-          "title": "Spain to put containment fence on Ceuta’s sea border with Morocco after thousands rush through",
-          "raw_title": "Spain to put containment fence on Ceuta’s sea border with Morocco after thousands rush through - NBC News",
-          "normalized_title": "spain to put containment fence on ceuta s sea border with morocco after thousands rush through",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPczI1RjJFUXNORUFTaGtSVFdaY1NwMm9xWEUzbWpDRUluWXg1T3M0Z0dRaGZZRWQ3eTRxMFJRUFV2RngwT0l6ZHJtUTNRa3lUZjZiRUJucmQ0RVVFeWNGbDFMR0xETzZ4SUw3UmwtMFZqVTNLTjFMYXcwOHJYTGJVWUVTTnFjXzFqT240MENGZUxiNS1EdWprSlZZbUQ1YW1TTURhcW9HSUdyZnhFSnI0NFA3Y2FsVEsxa2c?oc=5",
-          "published_at": "2026-08-01T07:00:00Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "NBC News",
-            "url": "https://www.nbcnews.com",
-            "domain": "nbcnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a7f909a63824f71e350e",
-      "title": "Fact-checking Spain's Ceuta crisis: What's true, what's spin, what's still unknown - TRT World",
-      "published_at": "2026-07-31T21:03:25Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "TRT World"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "67c5b4cd6353f4c80513",
-          "title": "Fact-checking Spain's Ceuta crisis: What's true, what's spin, what's still unknown - TRT World",
-          "normalized_title": "fact checking spain s ceuta crisis what s true what s spin what s still unknown trt world",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWakNUdnNsZU9XRV9Remx2QWpYSkN1R3ZPUV85bFhYNTF0Yl94M3NRcVFqbFpDcFlTa0hZeENjZXhxbnV6cS14MFM2a0VlZ1FBT0VidVY5ZHI?oc=5",
-          "published_at": "2026-07-31T21:03:25Z",
-          "language": "en",
-          "channel": "Google News — Fact-check Morocco",
-          "source": {
-            "name": "TRT World",
-            "url": "https://www.trtworld.com",
-            "domain": "trtworld.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8463ad0613990a31cb84",
-      "title": "موجة هجرة غير مسبوقة من المغرب إلى سبتة: ما أسبابها وتداعياتها؟ - BBC",
-      "published_at": "2026-07-31T07:00:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "BBC"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "9cd57f778260ca593e73",
-          "title": "موجة هجرة غير مسبوقة من المغرب إلى سبتة: ما أسبابها وتداعياتها؟ - BBC",
-          "normalized_title": "موجة هجرة غير مسبوقة من المغرب الى سبتة ما اسبابها وتداعياتها؟ bbc",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzZDBTMGF3RVdVYmp5RGk2VnRUbUo2WW5GZTJOeWVxTDdhRXlmV1YyM2hRT2N2R05WUkpfNWxocTV5QW9ZS1I0MlBna2Q1eGw2RjlMZV9IWWYyYjlr0gFiQVVfeXFMUFNJNi1iXzlBWHNabHh3RjdyVEh6N2ZqVWFlU3dNQ1dfSEJIRlRiQ3QtZlVIUGR4dXJxRjZZYlc1QkQxeFNsWHl1OEhKWkg1T09ycFNUQ0VnTEtnVFdONmVLSlE?oc=5",
-          "published_at": "2026-07-31T07:00:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.com",
-            "domain": "bbc.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "eb2d6f8160ce5dfd5fa4",
-          "title": "موجة هجرة غير مسبوقة من المغرب إلى سبتة: ما أسبابها وتداعياتها؟",
-          "raw_title": "موجة هجرة غير مسبوقة من المغرب إلى سبتة: ما أسبابها وتداعياتها؟ - BBC",
-          "normalized_title": "موجة هجرة غير مسبوقة من المغرب الى سبتة ما اسبابها وتداعياتها؟",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzZDBTMGF3RVdVYmp5RGk2VnRUbUo2WW5GZTJOeWVxTDdhRXlmV1YyM2hRT2N2R05WUkpfNWxocTV5QW9ZS1I0MlBna2Q1eGw2RjlMZV9IWWYyYjlr0gFiQVVfeXFMUFNJNi1iXzlBWHNabHh3RjdyVEh6N2ZqVWFlU3dNQ1dfSEJIRlRiQ3QtZlVIUGR4dXJxRjZZYlc1QkQxeFNsWHl1OEhKWkg1T09ycFNUQ0VnTEtnVFdONmVLSlE?oc=5",
-          "published_at": "2026-07-31T07:00:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.com",
-            "domain": "bbc.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1de0310c492dcc8155fb",
-      "title": "عشرات الآلاف يعبرون من المغرب إلى إسبانيا: ما قصة سبتة ومليلية؟ - BBC",
-      "published_at": "2026-07-31T07:00:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "BBC"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "d38a7237ee76592adffd",
-          "title": "عشرات الآلاف يعبرون من المغرب إلى إسبانيا: ما قصة سبتة ومليلية؟ - BBC",
-          "normalized_title": "عشرات الالاف يعبرون من المغرب الى اسبانيا ما قصة سبتة ومليلية؟ bbc",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZZ0NMdFJDam1ybXlLMF9kdElXUEJDZ2NPVklIcWd2UnZaNmVBa3RkVmFaM0RZYXRQemxSckU3TEFzM0MxR2d3c0dubFRaTWR4bWo3d1EybTRaX19t0gFiQVVfeXFMUDBNWEd4eVlDc1cyai1ET0dkRk8tcllMN0w2aUJkYTlxU3BLbncyOER3ZEpDOE9yU0NZa0N2MmZHVTBUb2V3Tl9jVGh3b2d1Y1pIMGduOXprRzgxRkdkZ0cyOUE?oc=5",
-          "published_at": "2026-07-31T07:00:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.com",
-            "domain": "bbc.com",
             "weight": 0.35,
             "category": "unrated"
           }
