@@ -1,24 +1,201 @@
 {
-  "generated_at": "2026-08-16T05:43:32Z",
+  "generated_at": "2026-08-16T06:59:57Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1200,
     "fact_checks": 0,
-    "clusters": 883,
-    "sources": 330,
+    "clusters": 884,
+    "sources": 334,
     "matched_clusters": 0,
-    "needs_review": 790,
-    "medium_evidence": 90,
+    "needs_review": 792,
+    "medium_evidence": 89,
     "corroborated": 3
   },
   "fact_checks": [],
   "items": [
     {
+      "id": "3dc905757b2c185e84b3",
+      "title": "Maroc : des dizaines de migrants subsahariens interpellés près de la frontière vers Ceuta",
+      "published_at": "2026-08-16T06:41:39Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 4,
+      "article_count": 4,
+      "sources": [
+        "Le Figaro",
+        "Le Soir",
+        "africaradio.com",
+        "tv5monde"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "1c0b329a4a5ac9c3fa2c",
+          "title": "Maroc : des dizaines de migrants subsahariens interpellés près de la frontière vers Ceuta",
+          "raw_title": "Maroc : des dizaines de migrants subsahariens interpellés près de la frontière vers Ceuta - Le Soir",
+          "normalized_title": "maroc des dizaines de migrants subsahariens interpelles pres de la frontiere vers ceuta",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMy1rR1JCOFoyQi1QcjAzcDc3MUZrejJJcHI2WFRCQXlvT1pnOFhmSGd0bHJLSUZ3YWRiZnJ1bC1Va25HdnBNS19MV1I3MGc0Y0hnbjVmR2ZuZDg3WEZjV2xTc3pXbXVRbG8xajNIb0ZGT2daaFF3RDY2cXpDYm9rbGF0ZTBQZjBrZ1ZydHoyTzlIX2R6TXIySXB6RV9GeHh1aGN0UDFaOEYyNjhGMjZDSjBGWWppLWZfR1BuU24tbndydw?oc=5",
+          "published_at": "2026-08-16T06:41:39Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Le Soir",
+            "url": "https://www.lesoir.be",
+            "domain": "lesoir.be",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "a88422621f1430424929",
+          "title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta",
+          "raw_title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta - africaradio.com",
+          "normalized_title": "maroc pres de 300 migrants interpelles pres de la frontiere avec ceuta",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0M2OHhCZF95VjdZeFJkcmNrY1ZUYkN4cHd3cnpybEZPdnFHWE03aF8tSGdyaGhsdUVNSUtqQjZUZUhUT21Gckc0eElFX0hBU2ZCWm16dFQ0eXp3UE5YYXI1dzZNTnlWLXVQalRlbWZheW9HMHNsaDZCeHJ4RTI5MGt2X3Exa01WaUpFcEwyMTExcjgwNEdsSDNvN1FtOElOSmNhZy1uQ2FzZGVnOWlmcGtIVjl4Zw?oc=5",
+          "published_at": "2026-08-15T20:52:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "africaradio.com",
+            "url": "https://www.africaradio.com",
+            "domain": "africaradio.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "f903f7060aff28c94201",
+          "title": "Maroc : 294 migrants, dont 248 Subsahariens, interpellés près de la frontière avec Ceuta",
+          "raw_title": "Maroc : 294 migrants, dont 248 Subsahariens, interpellés près de la frontière avec Ceuta - tv5monde",
+          "normalized_title": "maroc 294 migrants dont 248 subsahariens interpelles pres de la frontiere avec ceuta",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmZVaGNCYzloLS16LW81alNOclUxUTlkM2JvZ3lkMHVMbnp3Nk1RREdLNlh6ZWZPQThxbXgxZ3pBaE1feGlfYkg4c2U2RGIzYnBRekI2N0k4cTJ2a29qMi1sdm1YN0V1TWJSR2pfb2R2bGFrUE9vSzdiZUVTaS1IZmNnbjQ2aDN1bVNGOVVUVXZNSzRpY3RxSnlhT3hKU1hkbnh2NERtc2NmMVFpOXU2MF9URWFQYXpNRU44dmVUT0syeUF1QUJNWUVJUGEyUQ?oc=5",
+          "published_at": "2026-08-15T20:25:41Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "tv5monde",
+            "url": "https://information.tv5monde.com",
+            "domain": "information.tv5monde.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "bf971bfc153ca4a668e0",
+          "title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta",
+          "raw_title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta - Le Figaro",
+          "normalized_title": "maroc pres de 300 migrants interpelles pres de la frontiere avec ceuta",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDlzSHpObXFCWGVIcWxPNnZ3Ymg0d3U2aHdhSlVOU3JUbF9fSURmUHZfNnMtbVlqd2JmalBvcV9NUDJTdkVsUjhkYTIyQVpFd3BSdDdQUmNOXzRiRnEyV0V3OFN3Ty1XYWFENUhJa3FsN0dycF8wN0IxYTMtb3l1VjU1T19GZzZfRVplSlFUSGUtdWk4cHdDYkJ6UWpjd2lUdHZQT1FIaDc1QmxzeF9tTENCeWxyZnBVQVdXTTRoY2E?oc=5",
+          "published_at": "2026-08-15T12:32:57Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Le Figaro",
+            "url": "https://www.lefigaro.fr",
+            "domain": "lefigaro.fr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e54f30977ffc5025002c",
+      "title": "THE ODYSSEY AND TRAVEL+LEISURE BOOSTING TRAVEL TO MOROCCO’S ESSAOUIRA",
+      "published_at": "2026-08-16T06:20:12Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Breaking Travel News"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "888d4810f140efcd6c35",
+          "title": "THE ODYSSEY AND TRAVEL+LEISURE BOOSTING TRAVEL TO MOROCCO’S ESSAOUIRA",
+          "raw_title": "THE ODYSSEY AND TRAVEL+LEISURE BOOSTING TRAVEL TO MOROCCO’S ESSAOUIRA - Breaking Travel News",
+          "normalized_title": "the odyssey and travel leisure boosting travel to morocco s essaouira",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaDBoTTlsdFRzUGRyUE9aOGlJRDMwRHJVWVAtaUYzclk0Qkd2bWVrVzJxVHdYNzBVT0MyWnpUVDZSUXdPaXlOOHQxU240VTNSaVhtVFZFbVI0Uk84a1diaUVqM0s1cjVHR2hHbmtHQmpHYXZXQUVBbW8xX2VWM3RBWUhvRGhLWGF2VDJzdXlsTF9TYjdMS3hTZ3pKMGo4NFF6Yl9TOHRpZ19OaXhYbTE0c3JJUHpMa1U?oc=5",
+          "published_at": "2026-08-16T06:20:12Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Breaking Travel News",
+            "url": "https://www.breakingtravelnews.com",
+            "domain": "breakingtravelnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca7d3858b0d4ec0b276a",
+      "title": "اعتقال أكثر من-100 مهاجرًا بعد محاولتهم التسلل من المغرب إلى سبتة",
+      "published_at": "2026-08-16T06:17:17Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.65,
+      "claim_reasons": [
+        "specific_statement",
+        "reported_assertion",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "i24news.tv"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "94538d8da75381649bf2",
+          "title": "اعتقال أكثر من-100 مهاجرًا بعد محاولتهم التسلل من المغرب إلى سبتة",
+          "raw_title": "اعتقال أكثر من-100 مهاجرًا بعد محاولتهم التسلل من المغرب إلى سبتة - i24news.tv",
+          "normalized_title": "اعتقال اكثر من 100 مهاجرا بعد محاولتهم التسلل من المغرب الى سبتة",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdFhhcWVyRWVoV01MTS1mT252ZnpqZEdvMFNqWVFnRzJhYll4bF9uSl94N1NTVzZpN3B1dnd3MXZaYnUyODktYWE4UXgzUzBHOGUwcnNER3Nmd1ZKZFVsUHhvY1FKMHVDZ0pHcUI3TlBGUGx0czhVbW9pLVprRGRYVXpPbWRKTVBxRThOQ2hnVWd4d2xtSC14OV9DOWhJckViWHF6TUJtTFZWQWZhNzhHYjY1YkI3QVVfa2htQ0htSGhWT2xsbFJVakVmOE1oY2JrSVpCdw?oc=5",
+          "published_at": "2026-08-16T06:17:17Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "i24news.tv",
+            "url": "https://www.i24news.tv",
+            "domain": "i24news.tv",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "cc3d645c984fa13164a7",
       "title": "À la frontière avec Ceuta, le Maroc déploie un arsenal policier inédit pour contenir une nouvelle «vague» de migrants",
-      "published_at": "2026-08-16T05:40:14Z",
+      "published_at": "2026-08-16T06:03:09Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": true,
@@ -43,7 +220,7 @@
           "raw_title": "À la frontière avec Ceuta, le Maroc déploie un arsenal policier inédit pour contenir une nouvelle «vague» de migrants - Le Temps",
           "normalized_title": "a la frontiere avec ceuta le maroc deploie un arsenal policier inedit pour contenir une nouvelle vague de migrants",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQaWRvRFEtbE03TVh2eGkwdXdhUGU2a09OaDN0aWtndVpCT1hENHpSems3YjhEWTNkVUJNMXJjODRKdzgtTVMyUk5UX1F6ci1UTDFQQkRSb2tMU08xeXY4Z2l6aE5XSjhPM3h5OVZkNVQ5dXpEOVBtZmhPUTVidDN1Z2hoTUQtM05fa00yZ0d5UE84M3pFNS01U3VKTDdQaUdBQmFVYUNwX0l6UVFuV0Z6dXRmZUhBVnpjVmdPaVNRaEJFUHRNa1V2UXluU05oWnplMTZRSkVzUi1KLXdIWWRQX1ZGNEg4QVZpOEliVUZ1VF9sTENVcFNON28zbw?oc=5",
-          "published_at": "2026-08-16T05:40:14Z",
+          "published_at": "2026-08-16T06:03:09Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
@@ -67,6 +244,216 @@
             "name": "Le Temps",
             "url": "https://www.letemps.ch",
             "domain": "letemps.ch",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6589d7ec469064f3f9bf",
+      "title": "أمم أفريقيا للسيدات: الجزائر تفوز على المغرب بركلات الترجيح وتحرز الميدالية البرونزية",
+      "published_at": "2026-08-16T06:01:14Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "France 24"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "e7bf738c3ed6dd96a499",
+          "title": "أمم أفريقيا للسيدات: الجزائر تفوز على المغرب بركلات الترجيح وتحرز الميدالية البرونزية",
+          "raw_title": "أمم أفريقيا للسيدات: الجزائر تفوز على المغرب بركلات الترجيح وتحرز الميدالية البرونزية - France 24",
+          "normalized_title": "امم افريقيا للسيدات الجزاير تفوز على المغرب بركلات الترجيح وتحرز الميدالية البرونزية",
+          "url": "https://news.google.com/rss/articles/CBMizgVBVV95cUxOV1h5LW5YUndKZE1uemJGcktkQ1ZvNllNbUE2YV9fLWx2a2l0UWVKejdJbEVWeVZvMnZGRi1KUnNGc3pIQlA4c1RMSXdFZ2tJU1dZQUFNd3dpSUdEZFRJSzdPQmNzQWdOM2dIUlJRUjJpQlBGaFQ5ZURTSW9xTDRHOVhiTGFrY2ZKamR4OWRtZ1QzNXl3UEt1aTBCMkZ3LWREWGhnSE9Yci1VUjZNRVZqLTNYd19oU0t6M0tubUF0ZldmcVhxbU13RHNHRXBmYm5OX3RSQjFFUkRZcWRzOEIyUkVtV2hrWXpzQlFqOWVTbzNTUkpTOXpVcGhUVUNrTVBVUmJoR2NWSTRlbDBqMm1RM1cxSVNQLVhQdm1wMGpYNGJ5V09fOTRfUGhiV0poTTJEQ2FycG5weGVPeFVnOHB5aHNEVGdPRUdINEQ4OVBmeFVXR1U3eDFUOWQ3VlRndWxOdUtBUGpnbFhiRVA2WmFuWnFxTlBEazBVRUdWZUdCR3BKeVNaaEdwUWo3eTdHRmJHUlRKa2w1Q2xKd3p4NWF2Y3VFbDM4dlZYQzRMQVZadXhsZGZDc3JXUm5tTEJuUTVSQzVGaU9raGp2ZzlpbVo5MFFWZzBmVVdGNkRHWU8zdXVrWWZ1cnkxeHpkZmxwWm4wQzNvMUhuc2M0eVI3VXBfMWJLaVRNeHBwUXlnS2p3NTJwaktDSlJBX2J5TjY2WFMyR1VRejdMNER1cldLYWhfU3hfLS1CYXg0TnB1emVwVTZHcXVFQXZkV2NYZXIwY1lZSlkyTmNmZHdoQ01mRnRDOGRoSjAxR1VXSXlMTVcyMHNVY1hzMjNqRTMxOWJYa2lacWpZNlEwV0FzbDB3QmEzWkRVUDAteU05dHpsVEpQTi1kSWpjSWtqVzJTcy1udGxDalFEZTJteFlldklRS3RuaFRUMnlna2tEU3F3aXB3?oc=5",
+          "published_at": "2026-08-16T06:01:14Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "France 24",
+            "url": "https://www.france24.com",
+            "domain": "france24.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "69343a6a0df02bb690d8",
+      "title": "الجزائر تحصد برونزية أمم إفريقيا للسيدات لأول مرة على حساب المغرب",
+      "published_at": "2026-08-16T05:44:16Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 6,
+      "article_count": 6,
+      "sources": [
+        "Anadolu Ajansı",
+        "akhbarak.net",
+        "annahar.com",
+        "بوابة الأهرام",
+        "بوابة الشروق",
+        "شبكة مصدر الاخبارية"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "d5f98a747c4b6003cfe8",
+          "title": "الجزائر تحصد برونزية أمم إفريقيا للسيدات لأول مرة على حساب المغرب",
+          "raw_title": "الجزائر تحصد برونزية أمم إفريقيا للسيدات لأول مرة على حساب المغرب - شبكة مصدر الاخبارية",
+          "normalized_title": "الجزاير تحصد برونزية امم افريقيا للسيدات لاول مرة على حساب المغرب",
+          "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNMU1FNGRNNmJxc3p6N2EtMnlqTEphTXJ0LXE5VUZoaWZTWHozaDk0TE9KdGZlTTliS1dYSXk1SWhDNUpBXzNmcHNKUl9FdF91Qy1paFlfVE52aHRrN0w1NmNURWVINnMtNXRJcEkyR2dPc0w5TTZPeXRtOGMyZDd3aHJodlBzMDh2dnhQRHJmZDV5Z21NbWNHSW83QUZKTl8zZVFsbkhwcE5BV29zeUtSWTBkU0dLYVZLNDdlWV9NS01iSFMtaThHdVJ3XzVDNVcxaHBhWFdUc0xzdDVqMTRSWWItbzgtZVRwTmx5UW90emZRR1V5R2xXYzl1Z2tKYXZFVjAyRllEWmRGdnM2Q0E4OEFsTmFINWhsc05HRGkwT2N1Wi1ybmNRZXVoeHZ6QS1RRFdKcmZiX1g1VEZkcy1nYWQ0NnNMSmJxX3ZrZTBWTjF0WXNDeDNNeFpJcHBlTVBjSXlTVlkzMVRsUVlRVDhmRExldGxVaVlwU3A2VVA2dWZWZ3h1V2tCYmhrYmlqV08yQTlpbkVrVWlzd01TVXFuMS1qUTl3UlBrQU85MU5ITFdnQThja0h5X0RUV1pwd3lzRlJ0bG9tbW1GMk1GWmhiU3M5bzJXRlVwVEFqVkFlSFp0enQ5UHpfUC1rUm5CWUFRdlRjN1JsaGxMVUFZdTV1T3JtUmhhVVU?oc=5",
+          "published_at": "2026-08-16T05:44:16Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "شبكة مصدر الاخبارية",
+            "url": "https://msdrnews.com",
+            "domain": "msdrnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "63a20217e9fd0b508eec",
+          "title": "الجزائر تحسم برونزية أمم إفريقيا للسيدات على حساب المغرب بركلات الترجيح",
+          "raw_title": "الجزائر تحسم برونزية أمم إفريقيا للسيدات على حساب المغرب بركلات الترجيح - بوابة الأهرام",
+          "normalized_title": "الجزاير تحسم برونزية امم افريقيا للسيدات على حساب المغرب بركلات الترجيح",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LS2x0WU9UM05JeVJtMkdaM2diOTR5TF85bXZJazVGc2VuM0tycF85S3hiakl3WnNjSHllbl94U28ta3NrbEUzemxoVGJZcUFIczV0Zm53?oc=5",
+          "published_at": "2026-08-16T04:12:00Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "بوابة الأهرام",
+            "url": "https://gate.ahram.org.eg",
+            "domain": "gate.ahram.org.eg",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "d7266e90b7333eb80af4",
+          "title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب",
+          "raw_title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب - akhbarak.net",
+          "normalized_title": "الجزاير تحصد برونزية كاس امم افريقيا للسيدات على حساب المغرب",
+          "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPd1FtVG11TWlmbXRFc2h4a05LTDZfU180enZQSWR6Qk5HUy1GYWVzVFBIZGdFd3h1cHFSQTM5d0lQZmNib1FoRFBHYVBlUThXdkJacC1iNUFTTFRoZHFtdWMyaWF5Sjd2QVdpUnVjX0M0MlJtWS1pYzFFSUhUWk5nMEpkZDFfRTd3WGxoaDRhcUdOX1p3SkFFZFN2bWRKeThQM1kyTDZYN2RqVjZkM0UxNFowOXZzV0Q1dmZnSk50NkNVVEVPNmJUeGxKWGdkWlhGbU9hX2ZQZVd4TlAyU0tRcjR3WGRtaUZ6OTFUdGNPT05zU005VGI2UjlLbWwwbEt5VjdqWG96Y19lOW5ZU1FPWkZTNEpRQTZiYmRVcDJhdUtwaWlLZzdYZm9zSVNpTDFYeWRaSnNvUHZxeHJ3X1dMUXpldS1MV3pod0dqR0NpaXRnTktRVlRkb0RhSnVGaW05N2Fnb2xqdUYtZ3NQUzVybjVMckxKNDJGWDFWUENhV05pTURqZ0gxMDNqS0tudVBmNXp5enpKU3hvM0NlVUJqakVMUlUzdEtRWHNxMENPaWFjVEJFMkZhZWZYMFpZT2JyV3JnbzJpQ18zVFJQXzctaks3dnNTeGp4Rk1Iamp1Vlg3SG1uZUpDYmhpbEZud01QSjloTm9wV1VUV0d1TEJPamJn?oc=5",
+          "published_at": "2026-08-15T22:08:25Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "akhbarak.net",
+            "url": "https://www.akhbarak.net",
+            "domain": "akhbarak.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "db1401fc453e15bc2fb2",
+          "title": "الجزائر تحسم برونزية كأس أمم أفريقيا للسيدات أمام المغرب (فيديو)",
+          "raw_title": "الجزائر تحسم برونزية كأس أمم أفريقيا للسيدات أمام المغرب (فيديو) - annahar.com",
+          "normalized_title": "الجزاير تحسم برونزية كاس امم افريقيا للسيدات امام المغرب فيديو",
+          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPbzVwei16VVZvXzk3WVcycXF3UkItd3hWcEpZZ1JORF9kRFE2Ql91TjBPLWR2NXZ3SkZXak9uVUtXWFVPdEJjRFRRODdmdU1qT3QxeTZpU1F2Qzh1cjA1U1piLVMtZGNXWVhZQTJLeUtwaVRqalgxZzlIS2N3SVFDeVpnQU9XVXVHXy1UXzZ5UUFUWTdvTDdWR004dWtLUVJaaEdwTUxlZ3ZLbUJLaFlRRVFNUEMyWkthUzEzNWJjVExfcGNsdEJiMUhkZFFNRlF4ZUdHV2VNZDdVVXpGTmZ2d2ZYN3lhT3BGeXl3ZzRIdGhoNl9wM0lxUXFMNnlQVGstVy1UREJRMU0yUzZSZHNVeU91UGFKZDF3TEpNQlQwMFJLbzJCMVRkM3Q0YjZObWV1WVBGZ2owSTJIWk84cjRTZWROY0ZCelJVaFJTZWthUUY2MUtBcGtuQ1pnSTlUUUNXaXZUbldxMjBOcjdtRG1Xdk1hd1FNd25XcXZ6ZjNLclNadEllUVI0MGtSR2poTDJPQXFTbWZMRy1hRXdRTUo4TWhld1p5VWhCaFJ3MTF2ME9KX1J3SHVqNk1sYnM0MmVMdW9qQzBLc3FyRmdLeGVzVEZ5MHkyNDJnd0dLMUhDalNYektxZzZnSjhkZXltYlV4aHNFZmF3RFJDVEtvdi1CMWpOMA?oc=5",
+          "published_at": "2026-08-15T21:41:00Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "annahar.com",
+            "url": "https://www.annahar.com",
+            "domain": "annahar.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "2e2c1a0255622ed62b62",
+          "title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب",
+          "raw_title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب - بوابة الشروق",
+          "normalized_title": "الجزاير تحصد برونزية كاس امم افريقيا للسيدات على حساب المغرب",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnpfSTBRbkt4aUxfZ3JVMXFacTloYkVHVHE4V1dtY0w0LThxeXYxdWk4U2FTQ3o5czdsSlNFc1QtQkllNFA0dVZtUXlaaWJpdlBqZEttdVFKbDRnNkZHbUV0cFhvWnFmSUUzMEQ1Z3dTY05jQ0RFdnJHYUVwRThTSWxTbUg2ZlVGSEMwcmtnTHRPSTRUNnk1Z0laXzY1ckp5V1RKVW5EZw?oc=5",
+          "published_at": "2026-08-15T20:47:11Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "بوابة الشروق",
+            "url": "https://www.shorouknews.com",
+            "domain": "shorouknews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "7808c302264ca1cac14e",
+          "title": "قدم.. الجزائر تحصد برونزية أمم إفريقيا للسيدات على حساب المغرب",
+          "raw_title": "قدم.. الجزائر تحصد برونزية أمم إفريقيا للسيدات على حساب المغرب - Anadolu Ajansı",
+          "normalized_title": "قدم الجزاير تحصد برونزية امم افريقيا للسيدات على حساب المغرب",
+          "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQbHFRcWRVX2sxOGQzcGM1c2RLTnF4b1ZFQ2l3U0xjdzU2bF9OQ2xNdTdpZDRxc1ltSHNPYnVydU1LZlk0OTg1NWNLZWNfb2pqRlVIaloxN1F5M2tseWFqaW9zWklqWTh3bVFRMl9VcTVLcGx5RmhIQmlRb19TcVIxQWFZcjZhbXUtc2JtLVlEV2QyT1hZT1hlNUlWWGxXcXdiSFNJVzVnWkxhbmI5UVZkWExXaG9uRzBhRlEtVVBSdGxGbDNOeEpLYlI4SEhSb3E4V0YxVnZNUHoxMENkd29wUTN6NlV3UmdSZnFldXIyVXlWb1FTNnVmMVlETW1VRUJmR0t1bE1oNTRwYUxuOGwwRUw1MFlaaUJxXzQ1NGhMM0dGc1dOTTNRVHByUmJIcUpWdXZxc2RlQUZlY2pUaHlzTC16dm5JclhEVHVEaFdJRUYtdnNWZ2hSNS1RbWlRNll4blI2dmJXR1B0ZmRRTXUzdG5XNXJMV3dPMmZUMl9hLTJHNWdtdzBCXzZFcl9KbjNuQzFvVk5wWm5LRWE3WnI2S3hLLTdkMkstMXlYRDdWSGU0TUh2c2Q0anZIOFJ4WEZkSHNxTWJzSmdWNF9vSWRpSkFWVmxEdVdvMDJQazczZG9FNGVBR0p3YVJlbkZqWnp3SFYxVk1BdzBPSE5pTUphazh5STlldmlUd21YTldPUkVOMXVOUHhr?oc=5",
+          "published_at": "2026-08-15T20:10:11Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Anadolu Ajansı",
+            "url": "https://www.aa.com.tr",
+            "domain": "aa.com.tr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "956178f41c1e719d0345",
+      "title": "Family's desperate six-month search for girl in Morocco",
+      "published_at": "2026-08-16T05:31:18Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Sky News"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "71a91b3357ef4b364659",
+          "title": "Family's desperate six-month search for girl in Morocco",
+          "raw_title": "Family's desperate six-month search for girl in Morocco - Sky News",
+          "normalized_title": "family s desperate six month search for girl in morocco",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUhleDFtODdnWlFGdXlwWHdmNVc2d1FBbEVuUFNBRHlheENwS2xGX3V1cnltSWw1bExpSEg2RU9CcFhnSW9TNFBhLWw1em9NVFJISVV3OGJnS3VwWHM2VEM5eEREU2NHN1dWaHFHWWN6aVA5OGRZUkRUanpFOEJPQXl3a3l6SHZ0czFfWFNpQ2tmVmxN?oc=5",
+          "published_at": "2026-08-16T05:31:18Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Sky News",
+            "url": "https://news.sky.com",
+            "domain": "news.sky.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -242,7 +629,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "BFM"
+        "bfmtv.com"
       ],
       "languages": [
         "fr"
@@ -251,14 +638,14 @@
         {
           "id": "889fa49efcc3733bf42d",
           "title": "Ceuta: des dizaines d'interpellations à la frontière entre le Maroc et l'Espagne",
-          "raw_title": "Ceuta: des dizaines d'interpellations à la frontière entre le Maroc et l'Espagne - BFM",
+          "raw_title": "Ceuta: des dizaines d'interpellations à la frontière entre le Maroc et l'Espagne - bfmtv.com",
           "normalized_title": "ceuta des dizaines d interpellations a la frontiere entre le maroc et l espagne",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTmllOWFqdkVOYjJnOXp3U0FzVlZHQTVkTGZKWTFzTXdpcGRvSGdOdF9WUmRZUVVqQWRXX29NdUUtTEtzRmZ2RkVBajg2R2FGcEpUaVRfT2ZNSUZnSnljTUZxNHBnVVZSR0VqTDdHamplWUllSGswMmlibDRUZmRvSm9hcTF5NGtad3FNMmFoZ0xWOXB3YURkWWNBTnk4TGlhZXVhMnJfRU1sNTF2Z2lMSG1rZXhkWklZSU9jY2V2eTYyUFMxbHI1VnlsbnZkMUd6YlZjMjN2MF9rVTZ4VFd6aWxYOWV5WFB2UXVkOWxB?oc=5",
           "published_at": "2026-08-16T04:15:15Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "BFM",
+            "name": "bfmtv.com",
             "url": "https://www.bfmtv.com",
             "domain": "bfmtv.com",
             "weight": 0.35,
@@ -268,9 +655,9 @@
       ]
     },
     {
-      "id": "2d78e78c3a871c6a5fc4",
-      "title": "الجزائر تحسم برونزية أمم إفريقيا للسيدات على حساب المغرب بركلات الترجيح",
-      "published_at": "2026-08-16T04:12:00Z",
+      "id": "0a09a21a2ee61ed40e0c",
+      "title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات",
+      "published_at": "2026-08-16T04:03:50Z",
       "status": "medium_evidence",
       "evidence_score": 0.608,
       "claim_candidate": false,
@@ -279,136 +666,64 @@
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 3,
+      "article_count": 3,
       "sources": [
-        "Anadolu Ajansı",
-        "annahar.com",
-        "middle-east-online.com",
-        "اخبارك نت",
-        "الشرق الأوسط",
-        "بوابة الأهرام",
-        "بوابة الشروق"
+        "alghad.tv",
+        "آخر خبر",
+        "الجزيرة نت"
       ],
       "languages": [
         "ar"
       ],
       "articles": [
         {
-          "id": "63a20217e9fd0b508eec",
-          "title": "الجزائر تحسم برونزية أمم إفريقيا للسيدات على حساب المغرب بركلات الترجيح",
-          "raw_title": "الجزائر تحسم برونزية أمم إفريقيا للسيدات على حساب المغرب بركلات الترجيح - بوابة الأهرام",
-          "normalized_title": "الجزاير تحسم برونزية امم افريقيا للسيدات على حساب المغرب بركلات الترجيح",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LS2x0WU9UM05JeVJtMkdaM2diOTR5TF85bXZJazVGc2VuM0tycF85S3hiakl3WnNjSHllbl94U28ta3NrbEUzemxoVGJZcUFIczV0Zm53?oc=5",
-          "published_at": "2026-08-16T04:12:00Z",
+          "id": "dc55638ae83cdd956b6c",
+          "title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات",
+          "raw_title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات - alghad.tv",
+          "normalized_title": "الجزاير تفوز على المغرب وتحرز برونزية امم افريقيا للسيدات",
+          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOS05FS0ZrQmpELWNpckhXVVUwNUtHVWZ3d0VSN2FyYktJUzFOd3BlM0VEcUlWM2ZhQnhwZ1lXbmFZQ2IwX3pkQXBTbElXcUZHQ1N1RDdSY0VsZFRidlYxZTlmSVdldV81YnNBU0xiLWFJWXRmX2RMcEw5SDVPT2ZNb0p2LXJvY0VvQkpUNWFZV0l5Y2tRTHlGWWVNZzRINWlRT0xFX3hGeW9qeEdzQW85M2FZLTMyaUhfeEJ1aHFtU2gtWlF1Q250ZjZBLWwxMTl1OERfZzZpX1ZDUDh6RWhVWWE2bFdLdTYzb04ycXFKbUVCTUtjYkVLcXR3MXp0VDlZVTA3SmRJcGRJSzlLbFV5VHp2bEdfSnJNT1Y3X2RFVGJvVTcyMTdOcXhlVk5wZkZBXzU4YjUtX1N4UGJTY29kMGgzeEhTM2VyX2M0MktCV3VjUWJWd2h4TFVUYzZNQjkxdFRLa2xveTdNeHMxYXl4ckVuNXdGQ1g2cVNLbWtzLUI3aHVJZl8ydjlSX3hCd2tGVVVNQzk4TFQ1bDZHSnFzUXoyMWpzYmpPYjRmbXNEc1l1WFhYWDF0V3N2MUJIZVh0b2FjWDNLUk1XcUxVa3NVRlhGTEdjQ3JERzFidUxicVJ5Rkx2THM3MFlNNTBvbEROcl9xZFhZenE1YU0wUHE2eE90R0l2SXFsZmt4RmlUUGF5MmFLSG50cDI4emU2QQ?oc=5",
+          "published_at": "2026-08-16T04:03:50Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "بوابة الأهرام",
-            "url": "https://gate.ahram.org.eg",
-            "domain": "gate.ahram.org.eg",
+            "name": "alghad.tv",
+            "url": "https://www.alghad.tv",
+            "domain": "alghad.tv",
             "weight": 0.35,
             "category": "unrated"
           }
         },
         {
-          "id": "d7266e90b7333eb80af4",
-          "title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب",
-          "raw_title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب - اخبارك نت",
-          "normalized_title": "الجزاير تحصد برونزية كاس امم افريقيا للسيدات على حساب المغرب",
-          "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxPd1FtVG11TWlmbXRFc2h4a05LTDZfU180enZQSWR6Qk5HUy1GYWVzVFBIZGdFd3h1cHFSQTM5d0lQZmNib1FoRFBHYVBlUThXdkJacC1iNUFTTFRoZHFtdWMyaWF5Sjd2QVdpUnVjX0M0MlJtWS1pYzFFSUhUWk5nMEpkZDFfRTd3WGxoaDRhcUdOX1p3SkFFZFN2bWRKeThQM1kyTDZYN2RqVjZkM0UxNFowOXZzV0Q1dmZnSk50NkNVVEVPNmJUeGxKWGdkWlhGbU9hX2ZQZVd4TlAyU0tRcjR3WGRtaUZ6OTFUdGNPT05zU005VGI2UjlLbWwwbEt5VjdqWG96Y19lOW5ZU1FPWkZTNEpRQTZiYmRVcDJhdUtwaWlLZzdYZm9zSVNpTDFYeWRaSnNvUHZxeHJ3X1dMUXpldS1MV3pod0dqR0NpaXRnTktRVlRkb0RhSnVGaW05N2Fnb2xqdUYtZ3NQUzVybjVMckxKNDJGWDFWUENhV05pTURqZ0gxMDNqS0tudVBmNXp5enpKU3hvM0NlVUJqakVMUlUzdEtRWHNxMENPaWFjVEJFMkZhZWZYMFpZT2JyV3JnbzJpQ18zVFJQXzctaks3dnNTeGp4Rk1Iamp1Vlg3SG1uZUpDYmhpbEZud01QSjloTm9wV1VUV0d1TEJPamJn?oc=5",
-          "published_at": "2026-08-15T22:08:25Z",
+          "id": "ba628cb0c28603dbb58f",
+          "title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات",
+          "raw_title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات - الجزيرة نت",
+          "normalized_title": "شاهد الجزاير تفوز على المغرب وتحرز برونزية كاس افريقيا للسيدات",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONTdjMFUxVkZ3dFozVWpsNEVLeG1RaldUQ0IzT0dKOFJvbWFlYWJZVW4wWENaNm04SzRnYmhJdkNzc2FvMW9pYnFGamgwTTRZWWh2Z19PbE9HalZzbHdXTzdJelQ1VktVdUFpSEkya3llREtuNUxzWXVMMWwtQmtMY3VlYlhiY0VpbFhSYkRZLWo0NGNQNE1MVVdfMzU2Yll0TllZX2l6WDhYOG81alZidk50ZXVsVDNHS1Q4c1Rtb2ZjMzJ3bXlueU1UOG1lWUV4ZHZmM29yVUlvOEZPZHo0R1JLbEZjR1ZhN2ZDOXlyQzYwYU5rUUNMdGFhU2YtQXNJSm1mZV9LM0hxRVBuaE96X0pYNlFnNTFVb3FxczFrcHBxdW1GTTJOMzE4ZENvN2RpelU2cjZCSVNpX1BHVllxejlVU1lqSWktUHfSAc8CQVVfeXFMTTdRREhCdkZPN3ZPRWZhTHFYZW54bHBjN2JzdGU0T3E2c0cyTUs0eVRWbXFTbTg3NVJPNDNWajhXeGtRUVZLZXJzc0lXczZTdzVJM0hJNkQ3c3VaMTUwUFZINUhrOVVYYjc1cXYxM05aSkpxMG9uOUlpV05vMHZlWktnUmtUYXhfQThXdDFuVzFqUE92aFp3TjU4aGpGclVIS1BoU3o0dzRjVEpFaUQ1bEpzUmdkR2VVdzlyejZpbk1MNzhnbmFfSDVxRWRoemxSbmF4S1NucjE3UnR4TklBdFZsdFNFRmNSemt1Zml4aE5ic1BNNGdxZVJKcFNtMWMtX2tGNFAzRzdZZWs4aWFrVHBlQWNrZDBMQTJ6elpYMnVpZ2lfSDZpY1VOd0lQMXpQc0Z0WTZPVzEydU5PUjZ2elk1VXlVZ0xybnlocHRDZjg?oc=5",
+          "published_at": "2026-08-15T21:32:16Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اخبارك نت",
-            "url": "https://www.akhbarak.net",
-            "domain": "akhbarak.net",
+            "name": "الجزيرة نت",
+            "url": "https://www.aljazeera.net",
+            "domain": "aljazeera.net",
             "weight": 0.35,
             "category": "unrated"
           }
         },
         {
-          "id": "82f48a44d196619e4509",
-          "title": "الجزائر تحرم المغرب من برونزية كأس أمم إفريقيا للسيدات بركلات الترجيح",
-          "raw_title": "الجزائر تحرم المغرب من برونزية كأس أمم إفريقيا للسيدات بركلات الترجيح - الشرق الأوسط",
-          "normalized_title": "الجزاير تحرم المغرب من برونزية كاس امم افريقيا للسيدات بركلات الترجيح",
-          "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxONjExaEcydWxTNnlXMThYQmVWazNiYm5RWHFsVHFCS2VuRkdCaDV5YlB5Y2VqWVNOb0JTbzRYWkNQSHlkODJwd3U4NWtmWF9icjRMSENNM0ZBbVNLQnRLUEdTSmF1NkJmdE5BVGpEdEVKSUhNSy0ycmJsNHVTTFBuUVhZNm95TllUX0RSWXl5UG5LYkg1THpMWE1KZjJrdG9FQUhkLTlCOHRURHItdnZzd1lvTzhMMTd4MWFEamg5NFVNYk4zbzM5ekVzV1JlQmdla3FfQjY2RmV6dTBYd2xFVV9QdVB2emI4M1RoLTFicG5PLUxQLTFyWjBFdko3TllsQ3MwNGx2Y2FQVzlqNTEyTWRrRTNIbUJyQktFVWJQLW9pSGZldmxrMS1XV1ZqT2prbklkYl9tVVVpd2xYOEdzNFRNd0VuOTJaVkVZVS1vZk5FX05ncEl1SElCTzU2LUhoZTgzeThWUjV1akhZWXVLWmZFVTdhQ0JZV2JiWWVDODFIcmUyUHk4YjFiSFlpRVNaSXYxSEJsUmNvam5IT1FEd1RVQzdsNWcwSFZsWTBjREJweTFzNTE4ejlkM1lzdmZhN3YyRjlwTlhEUzZDakVVeXFoaUo0YjBjR3JiU0dRSlgtN3NTbWJsQVdxb1dsYi1BQ1VSN0p2Y3FFYVZTZ0kteXhBbWFZZFVNbWkxdllSbWk1UG9GTkxVZ2ltOXZfcl9raXA0ZVgzZ2FSNHJ4eVpoN19wcmxsWU5BUVRTY2ppcHMtaGE3RnJMT1lLZnNtM2NWc2NMM3RraEdpbHRiMmx0cW1QWkFjSXpIMjJuSXI3UkFmR0g2cUh5Q19BMWlwR3F4RHRfbTF6OEVpYnZJZzRzeHRvc01vS3o1Ui1MblI1T1RJd1pLZE1hOV9zRnBVSFViNHc?oc=5",
-          "published_at": "2026-08-15T21:59:56Z",
+          "id": "add2252ecb2eb9504a3f",
+          "title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات",
+          "raw_title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات - آخر خبر",
+          "normalized_title": "شاهد الجزاير تفوز على المغرب وتحرز برونزية كاس افريقيا للسيدات",
+          "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPQzdGeXNzUGp0WWxRVHA5aXZGLUZDNTV6NHZ2S25TSUhPLW9xalV4THo2ZzFZVEMzSGx1b19HdGZpTWVEYUdDSHJvWFkza3llOEpqSWJXenhmUkNUdkRUM09aRkVvM2E2TEhTcE1HZnhXekw2QlplcWJodXpVT3I4bTRlMjN0VFYtNWdaZjc3SDlQcE9sS0hWN0tNam1PZE9TekVyNFZlcFVZaGtQSExNM2dwTGRGT1VpdFk1dkpxNThfSkdzMU5qMjhFZXAxbWZlbEMwLS1sZTRuWm9YQl9hQ0hSSDQ2d19YU1VQeE9HY1JDQ2I3TnVfRE80QkhCZXh1OE84LWZwYnduMjVfempoMDUtZUNfWTJMUGZJWEJ1N3ZLUk1oa2JSTjliT2xDczBzR1IyUXRNVHEwXzNBUmY0QUswcUZ5MXVWdF9acWRLVDVNSktqclBKLUYwbk1mM2taUGI0TjVxbjJkeUVDUzZWNHFIZ2VfQWk5Zkc4ZWh1emIxaXAwV1A3cm8tM2oyR19wY2hnTXBmVHpnV1lhNEpKWmVfd1JMVkxEckw0bmxzU3NMbFFSYm5jdWVhNFZIcFFZbkxJSG02a0NxRjR1bmhCeWFLUW9KSXQxdnRUNVJZSHRBNjhEcGgzUmZHZmZ5OG9pUS1ySTNlcHNvOGlNdzdtYmlKdlBwM3hXWXJlS3VUeFU?oc=5",
+          "published_at": "2026-08-15T21:12:30Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "الشرق الأوسط",
-            "url": "https://aawsat.com",
-            "domain": "aawsat.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "db1401fc453e15bc2fb2",
-          "title": "الجزائر تحسم برونزية كأس أمم أفريقيا للسيدات أمام المغرب (فيديو)",
-          "raw_title": "الجزائر تحسم برونزية كأس أمم أفريقيا للسيدات أمام المغرب (فيديو) - annahar.com",
-          "normalized_title": "الجزاير تحسم برونزية كاس امم افريقيا للسيدات امام المغرب فيديو",
-          "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPbzVwei16VVZvXzk3WVcycXF3UkItd3hWcEpZZ1JORF9kRFE2Ql91TjBPLWR2NXZ3SkZXak9uVUtXWFVPdEJjRFRRODdmdU1qT3QxeTZpU1F2Qzh1cjA1U1piLVMtZGNXWVhZQTJLeUtwaVRqalgxZzlIS2N3SVFDeVpnQU9XVXVHXy1UXzZ5UUFUWTdvTDdWR004dWtLUVJaaEdwTUxlZ3ZLbUJLaFlRRVFNUEMyWkthUzEzNWJjVExfcGNsdEJiMUhkZFFNRlF4ZUdHV2VNZDdVVXpGTmZ2d2ZYN3lhT3BGeXl3ZzRIdGhoNl9wM0lxUXFMNnlQVGstVy1UREJRMU0yUzZSZHNVeU91UGFKZDF3TEpNQlQwMFJLbzJCMVRkM3Q0YjZObWV1WVBGZ2owSTJIWk84cjRTZWROY0ZCelJVaFJTZWthUUY2MUtBcGtuQ1pnSTlUUUNXaXZUbldxMjBOcjdtRG1Xdk1hd1FNd25XcXZ6ZjNLclNadEllUVI0MGtSR2poTDJPQXFTbWZMRy1hRXdRTUo4TWhld1p5VWhCaFJ3MTF2ME9KX1J3SHVqNk1sYnM0MmVMdW9qQzBLc3FyRmdLeGVzVEZ5MHkyNDJnd0dLMUhDalNYektxZzZnSjhkZXltYlV4aHNFZmF3RFJDVEtvdi1CMWpOMA?oc=5",
-          "published_at": "2026-08-15T21:41:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "annahar.com",
-            "url": "https://www.annahar.com",
-            "domain": "annahar.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "9ae81a68ed0698a53b05",
-          "title": "الجزائر تخطف برونزية أمم إفريقيا للسيدات من المغرب بركلات الترجيح",
-          "raw_title": "الجزائر تخطف برونزية أمم إفريقيا للسيدات من المغرب بركلات الترجيح - middle-east-online.com",
-          "normalized_title": "الجزاير تخطف برونزية امم افريقيا للسيدات من المغرب بركلات الترجيح",
-          "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPLUNGem91UHp4VmNWZEM0MHNVM3NEVkxDdnd3Wi1pSG84Zm9pQktFamZSLTd3U2RCck1vRUVSTXZqWmFGcHFMR09maDJOaHJ4SnkxYXNKWU1ZNmdjQU9oNnFCWHF4SlhMa1lyTzI3VUdwX1l3NkFxcDZUODltS0FIV05XM2NwaVFTMkdXLWhrcHVOdkVPTjlmQlhyVm5IdzZJQ1ZodjVFZEtzTkNEV1lQLVUzcy10TUtQTzF2SHFNMkJaTFV0aDhmelBnaTNtY0lJekdTQ3hyZEpzMHdwUTQ4UXd3aHFfbmJwZmRWM0Vnak84THlTOWRhN1l0Q3hNTEJFSF8tTlZUVkdEaE5mZ3pGamlBSERaMjRSYjdvUGJ2UE5RUENOWUtRaE02TU1ncVNBcm9KSFJIS3lPX2x4eEMwQUt1Q1VlNm5rYkNJSkctTXg3U2ctMkg3aW91dTJHbUZrNExnQ3dhcmJQaU1PQ3RkaVRwVzJhTU0xMmdFN2toZzVTaUhUeWF5a244a2E5NE5fMzREQVJ6dGpNMFpMSEpOclR4a2x5OWpBNWVhd1ZPQjVCYXBzYUF1aURRQlh5ei1pUUF4SHVUWk54WW8wZS03Tmx5c2hSeVdXbDF0VjhyUmFoMlh5aC1BTURFR1FxdXBzQ19hQ2tDQ0Y5OHcxOEExSUNvSDI4V2d0TElodzRPTE9PVWtFUG44?oc=5",
-          "published_at": "2026-08-15T21:15:12Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "middle-east-online.com",
-            "url": "https://www.middle-east-online.com",
-            "domain": "middle-east-online.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "2e2c1a0255622ed62b62",
-          "title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب",
-          "raw_title": "الجزائر تحصد برونزية كأس أمم إفريقيا للسيدات على حساب المغرب - بوابة الشروق",
-          "normalized_title": "الجزاير تحصد برونزية كاس امم افريقيا للسيدات على حساب المغرب",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnpfSTBRbkt4aUxfZ3JVMXFacTloYkVHVHE4V1dtY0w0LThxeXYxdWk4U2FTQ3o5czdsSlNFc1QtQkllNFA0dVZtUXlaaWJpdlBqZEttdVFKbDRnNkZHbUV0cFhvWnFmSUUzMEQ1Z3dTY05jQ0RFdnJHYUVwRThTSWxTbUg2ZlVGSEMwcmtnTHRPSTRUNnk1Z0laXzY1ckp5V1RKVW5EZw?oc=5",
-          "published_at": "2026-08-15T20:46:25Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "بوابة الشروق",
-            "url": "https://www.shorouknews.com",
-            "domain": "shorouknews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "7808c302264ca1cac14e",
-          "title": "قدم.. الجزائر تحصد برونزية أمم إفريقيا للسيدات على حساب المغرب",
-          "raw_title": "قدم.. الجزائر تحصد برونزية أمم إفريقيا للسيدات على حساب المغرب - Anadolu Ajansı",
-          "normalized_title": "قدم الجزاير تحصد برونزية امم افريقيا للسيدات على حساب المغرب",
-          "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQbHFRcWRVX2sxOGQzcGM1c2RLTnF4b1ZFQ2l3U0xjdzU2bF9OQ2xNdTdpZDRxc1ltSHNPYnVydU1LZlk0OTg1NWNLZWNfb2pqRlVIaloxN1F5M2tseWFqaW9zWklqWTh3bVFRMl9VcTVLcGx5RmhIQmlRb19TcVIxQWFZcjZhbXUtc2JtLVlEV2QyT1hZT1hlNUlWWGxXcXdiSFNJVzVnWkxhbmI5UVZkWExXaG9uRzBhRlEtVVBSdGxGbDNOeEpLYlI4SEhSb3E4V0YxVnZNUHoxMENkd29wUTN6NlV3UmdSZnFldXIyVXlWb1FTNnVmMVlETW1VRUJmR0t1bE1oNTRwYUxuOGwwRUw1MFlaaUJxXzQ1NGhMM0dGc1dOTTNRVHByUmJIcUpWdXZxc2RlQUZlY2pUaHlzTC16dm5JclhEVHVEaFdJRUYtdnNWZ2hSNS1RbWlRNll4blI2dmJXR1B0ZmRRTXUzdG5XNXJMV3dPMmZUMl9hLTJHNWdtdzBCXzZFcl9KbjNuQzFvVk5wWm5LRWE3WnI2S3hLLTdkMkstMXlYRDdWSGU0TUh2c2Q0anZIOFJ4WEZkSHNxTWJzSmdWNF9vSWRpSkFWVmxEdVdvMDJQazczZG9FNGVBR0p3YVJlbkZqWnp3SFYxVk1BdzBPSE5pTUphazh5STlldmlUd21YTldPUkVOMXVOUHhr?oc=5",
-          "published_at": "2026-08-15T20:10:11Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Anadolu Ajansı",
-            "url": "https://www.aa.com.tr",
-            "domain": "aa.com.tr",
+            "name": "آخر خبر",
+            "url": "https://a5r5br.net",
+            "domain": "a5r5br.net",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -470,7 +785,7 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "آخر خبر",
+        "a5r5br.net",
         "الجزيرة نت"
       ],
       "languages": [
@@ -497,14 +812,14 @@
         {
           "id": "a3ed226e1cfc63ef77e0",
           "title": "بعد شائعة \"السبت الإسباني\".. المغرب يحبط محاولة جديدة للهجرة إلى سبتة",
-          "raw_title": "بعد شائعة \"السبت الإسباني\".. المغرب يحبط محاولة جديدة للهجرة إلى سبتة - آخر خبر",
+          "raw_title": "بعد شائعة \"السبت الإسباني\".. المغرب يحبط محاولة جديدة للهجرة إلى سبتة - a5r5br.net",
           "normalized_title": "بعد شايعة السبت الاسباني المغرب يحبط محاولة جديدة للهجرة الى سبتة",
           "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxNM0doRzZyNllrRUVabndPRlhZMWo3TmNWT2Y0cU81aEd2XzRhdkFwRGJLUVF1OHo3aS1DVGdFVmllNDlyaHZ6QVRnZ2NOdHJRYkVNZjR3M20ySHhyU05MUW5RMVhMYVAyX2FIMUd1bmp6cUREMG9PYUtVZWlEMGFBcGphWGFlTnFwZGR6cmh4ZEQtSll6X19jSEhjU0RWUXAyalpIb0NXenc2ZHluVE5oMFVSQWJLdnZzYVVTWmVRMFBTQlBEMTVnMlliZXhXVzhBRkFKSkI3R2JQOGZoVWVtcnhQc01OQWJFTVJlb2Etd2szLV85QnRfeVVVelhjemYyZ3paTGUzR2NOelVPdXBPUVVJbXIwYUlaTjAzRzh1S2NxbEVlSXd2OGtJRDEtODZmNnluZFdvM1NYb1BEenZ5enZNRDBhSGI3REFNaWMyc0ltbndoaWVwbGU0aHMtNTBLc1ZmWHRYMVUwU3BhYUxQV1B5QjJEUnRRMGpiRHluNThqWi1NbGt1SExNemR6TjVQM1ZkTTFFV3NQWGd5dFhhYTFEUGJzSVFtTmphdjQ3Mm52bkZUOXJlLUxIcWNDZ051ODhfMHFZcXBLYWoxTmstY3dtYTBYd3VFMkx4VFZiTXVteG5wQzE3Qkh6c0psM1RhYmFkbVhBLUp2STJUdUt1TUdZcDRtUGZkOWM3N1lsS20yanUycnhQaGZLRGNIc0swQTMwWF9n?oc=5",
           "published_at": "2026-08-16T02:20:11Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "آخر خبر",
+            "name": "a5r5br.net",
             "url": "https://a5r5br.net",
             "domain": "a5r5br.net",
             "weight": 0.35,
@@ -529,8 +844,8 @@
       "source_count": 3,
       "article_count": 3,
       "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
         "Reuters",
-        "abc.net.au",
         "news.cgtn.com"
       ],
       "languages": [
@@ -557,14 +872,14 @@
         {
           "id": "630ba0ea87ded158a950",
           "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
-          "raw_title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown - abc.net.au",
+          "raw_title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown - ABC News & Headlines – Australian Broadcasting Corporation",
           "normalized_title": "morocco arrests 111 migrants headed for spain s ceuta in security crackdown",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWx4dGQzMDJxSVAyWC1kOTFOdGJrcS1MR3A5ZlRsdWdtOUZUY2tZazZQYlJCNHliU3FVSkpLWjhIVV9McG5JQ2ZmemNJVDBDSHh3Q1FCeVRkWklkaHZtVEppTHVCaWZ6M3FmZzg1eDBubWJvdnd6d1drWER2RExsb1VqdHNpRjZNaENtQVdLN0s2UUdrYV80a2JsZHVtdnFZR2pzYmNWQXVJd0FW?oc=5",
           "published_at": "2026-08-15T21:39:18Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "abc.net.au",
+            "name": "ABC News & Headlines – Australian Broadcasting Corporation",
             "url": "https://www.abc.net.au",
             "domain": "abc.net.au",
             "weight": 0.35,
@@ -646,10 +961,10 @@
       "article_count": 7,
       "sources": [
         "Anadolu Ajansı",
+        "aawsat.com",
+        "asharq.com",
         "middle-east-online.com",
         "أخبار 24",
-        "الشرق الأوسط",
-        "الشرق للأخبار",
         "مرسال قطر"
       ],
       "languages": [
@@ -676,14 +991,14 @@
         {
           "id": "720c2094a2b1033f399f",
           "title": "المغرب يعلن إحباط محاولة جديدة لاقتحام سبتة",
-          "raw_title": "المغرب يعلن إحباط محاولة جديدة لاقتحام سبتة - الشرق للأخبار",
+          "raw_title": "المغرب يعلن إحباط محاولة جديدة لاقتحام سبتة - asharq.com",
           "normalized_title": "المغرب يعلن احباط محاولة جديدة لاقتحام سبتة",
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQN2FoOGVhMU1CWjhEUjI5SHpqTmUybG93THF1LTFfQXp3RkZzRFlzNGVtWmVUR1A5V0VFTVR2UThxTS0wTmZ1SXhsdlpCZjFZS1JCX0xXQnFuRno3eDlta0pLRDJ4ZXBOYklRNlNEa05wTzEzeGhWNUViYTc5WFZUMkN4QzVYLXY3RFQ4S1J5czItTDRmaEpVLTFpbHAwSEJJMHhCZ1FzWXFha0FCM05wcEVCc0I3TEZNYzF2OVBNcE1PT3FtOXBFSF9kU0xDU1BTUzVkZXpaaFc2bk43MGZUV29uajAtb1pxMEd5cTRLcDZxX1BSc2YteVZqYzlZY2R5QlFIV1RHd3RicF9uTEYwcVRSZ25ZRnFKX040VERHSjF5cE9mbFhUci1UV2dOSGtKTEtBWHlDVTA4MVI5dnlUMjZYRFlsZTZyR0xRamJIR3kwZWR4ZTZpdmFpS0ZGUkR0cnMtQlVFdVRDM21XWlMzVlpfMktZVUFGb0VPejlUY014Zw?oc=5",
           "published_at": "2026-08-15T16:04:55Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "الشرق للأخبار",
+            "name": "asharq.com",
             "url": "https://asharq.com",
             "domain": "asharq.com",
             "weight": 0.35,
@@ -693,14 +1008,14 @@
         {
           "id": "bc2341c8808c6e73eba2",
           "title": "المغرب يعلن إحباط محاولة جديدة لاقتحام سبتة",
-          "raw_title": "المغرب يعلن إحباط محاولة جديدة لاقتحام سبتة - الشرق الأوسط",
+          "raw_title": "المغرب يعلن إحباط محاولة جديدة لاقتحام سبتة - aawsat.com",
           "normalized_title": "المغرب يعلن احباط محاولة جديدة لاقتحام سبتة",
           "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPNjBhSGVjUXE4Z3FGX2JmdkxPYlgzY1VkcGxEM0NVc3lwbUZseGVFSW5VSk96aGxXR3dpeEpLZkNHM1ZISURBenotNGpMRk1idVkxMkdqNUNpSnMxejNHSTNMTVBwUVdTTERaTFQ3S193NC1peWF4aDFmNEd2X2xtRzNyM1ZkOXkwMk1NVDVsN1dweTdBSWE5aXYtT1N6emNWMkJsLVcxb2VUOUkxNDVmMHgwQXQzN0RaRUsxYW5fbmFqQWkwc2Z0V0xXSFU2TVlpMWh0WnU3T3dvQlpqcFBlVW9hcXFObEZSYl9oT2lZVWVfekdXWHkxWm9haWQwX1dhemM1WTFOWHdRd1E4QnM2YUNYQVI4TGVCZFJ6cXNGYWFLcHlxTGlEemotaml5d0xKM3I1TUREd2JqamNMb1J3QWU4VVhQMlVIeUdlYmpuNE5nWGdYMEZhbE1DV1hUTV9GUVNYQkpzNDhsMXMzSVI4Qmg3YzF3eER6?oc=5",
           "published_at": "2026-08-15T16:01:25Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "الشرق الأوسط",
+            "name": "aawsat.com",
             "url": "https://aawsat.com",
             "domain": "aawsat.com",
             "weight": 0.35,
@@ -832,7 +1147,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "youm7.com"
+        "اليوم السابع"
       ],
       "languages": [
         "ar"
@@ -841,14 +1156,14 @@
         {
           "id": "129d84f03087d90bb0c9",
           "title": "المصري يعود إلى القاهرة بعد انتهاء معسكر المغرب غدا الإثنين",
-          "raw_title": "المصري يعود إلى القاهرة بعد انتهاء معسكر المغرب غدا الإثنين - youm7.com",
+          "raw_title": "المصري يعود إلى القاهرة بعد انتهاء معسكر المغرب غدا الإثنين - اليوم السابع",
           "normalized_title": "المصري يعود الى القاهرة بعد انتهاء معسكر المغرب غدا الاثنين",
           "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQcVRFb1lfTUx6VEhKR0g1Zkx1NnFQR2RMNjQxeUtTd0pSNTgxdzZPeTY2VWpwVU44eTZoeno2aXRncDFLSjBjTmE0MDdHQTVmMkR6bXluRmZRWW1rT2UyandRMTUtTW4tajNWcVFMSHB6ZVV3cFJ2ODFRTklYa19YaDViclh3bDE5ajlvWXRJRWp3U1JEQUlweXN3RTY1d1NObzhzVDJfWTRDQTlvLUN6N3BScUloUWlsNldTZG9iMzl4b2FfUGFORmlkRU5tbWhHX2dNV2tWbFJ1bmlFTG9GSEVSUm1FT3ZTRnJHUk5ac1hSRXo2MkluUW5ZTWdtMGRvQkw3djY0NVNuQXNFeU9wS25ldW5TdTBfd25MSU5kUTJWcHVMWl9WUms3QnBQUjQ3bVFKVFZpUVNWMXBraVVoWkxsVnBBTmczeF9wTFg3Y1NGcWh6ZFpocHhYLVZrYy1RQjRnWWVUN3RacGhKODlDSW14UmQtS19qWGdLel9CUzc2Q2o1TWdlMzhRMkM1dFBJQUV5Ry0zM1VXbWhLLXdVRXBCVk5NNlZmSWVoVklEVFkxdG8zS3c2NE56bi1qN2VSWGktWHZYM05IdTBKY001TGF3UnVFdmxNdHhjWXdCemhhZDJtUG1ZczNZS3RMVzBLWS1KaDRB0gHwA0FVX3lxTFBGR1dSQVVvdS1ydDVlQkVUazNmLUpKa1hwZzhENW1sVHZOSzluR3FHT3hSLTFqWUM5SVdDYVRfOXNhdk5zc3A2TlRad3o3dDhRbktYUmxYbTliVGx3Y0NBQlJycXJYTGtwZnFKaVBpT1F1N1NiQ2F2eGlZSHYxMUdXMUVNQUl0OElfQUZsLVBtRmZaUktyVVR6YTdEOVFMc25vQTlLRzlnOEZSN1p6aXp6UFIyZXcyNDZhZWxjTC1OaDJUQlR2dlZSaFZJd2F5bF9GamJmUnl5eGFDSUJZbWRibmJTazFicXYwWDhoVnpfMGVFaU9zZ19sS0JQTHpSb3ZSZXRfcUxrbEFOZGxteWdyUXJySnVqNGh0SmlkcWxPc3lFXzlMZHExdURjQUw4SkpCYkRwdHRiYUVUNmdBSUJIU0pvZGtBYkJRZm9qN1NIdWFVZjM0M3RwRjdZdmJKTTNvYjRpZS01dnp0Y3BoaE9EUWloYTQxbVAweTBDaGFIR1FzdEQ3RWRFVW9RWFE4ZU80dTBHV3ViRzdFbVBDbThERlp0dEJoTG5fVnhTVFgyMHZwbVNzR1BzOXc3RlhqNUFTVkVKZzJicWF5TXI2TE9KUzBucjI2MFAzVS1xaVc0NWU3S3NYdXh3dDl5Zm9sUDM?oc=5",
           "published_at": "2026-08-16T03:00:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "youm7.com",
+            "name": "اليوم السابع",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -1060,7 +1375,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "vietnam.vn"
+        "Vietnam.vn"
       ],
       "languages": [
         "ar"
@@ -1069,14 +1384,14 @@
         {
           "id": "af35d6debd0f7054a3ea",
           "title": "ظهرت موجة هجرة جديدة إلى سبتة، مما دفع المغرب إلى شن حملة قمع.",
-          "raw_title": "ظهرت موجة هجرة جديدة إلى سبتة، مما دفع المغرب إلى شن حملة قمع. - vietnam.vn",
+          "raw_title": "ظهرت موجة هجرة جديدة إلى سبتة، مما دفع المغرب إلى شن حملة قمع. - Vietnam.vn",
           "normalized_title": "ظهرت موجة هجرة جديدة الى سبتة، مما دفع المغرب الى شن حملة قمع",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa1o1UGUxUzI4NV9tQVNFaGQ4di1ZS1ZWZ3F0SWFNY1ZjZWwxV1FMZGU4QUt0UEZJdlNadkt1UW1fQWlZX2duekpkMDZqUmZTVG92NHFIX0w0WEdfT1lVUXV3M0xNWUY5VEhBVVBZTGxSVThKb2tfblhuSVpkTi1PdU16SjF5Tl9XVE9KSXVpVQ?oc=5",
           "published_at": "2026-08-16T02:11:27Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "vietnam.vn",
+            "name": "Vietnam.vn",
             "url": "https://www.vietnam.vn",
             "domain": "vietnam.vn",
             "weight": 0.35,
@@ -1286,82 +1601,6 @@
       ]
     },
     {
-      "id": "0a09a21a2ee61ed40e0c",
-      "title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات",
-      "published_at": "2026-08-16T00:38:16Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.608,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 3,
-      "article_count": 3,
-      "sources": [
-        "alghad.tv",
-        "آخر خبر",
-        "الجزيرة نت"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "dc55638ae83cdd956b6c",
-          "title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات",
-          "raw_title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات - alghad.tv",
-          "normalized_title": "الجزاير تفوز على المغرب وتحرز برونزية امم افريقيا للسيدات",
-          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOS05FS0ZrQmpELWNpckhXVVUwNUtHVWZ3d0VSN2FyYktJUzFOd3BlM0VEcUlWM2ZhQnhwZ1lXbmFZQ2IwX3pkQXBTbElXcUZHQ1N1RDdSY0VsZFRidlYxZTlmSVdldV81YnNBU0xiLWFJWXRmX2RMcEw5SDVPT2ZNb0p2LXJvY0VvQkpUNWFZV0l5Y2tRTHlGWWVNZzRINWlRT0xFX3hGeW9qeEdzQW85M2FZLTMyaUhfeEJ1aHFtU2gtWlF1Q250ZjZBLWwxMTl1OERfZzZpX1ZDUDh6RWhVWWE2bFdLdTYzb04ycXFKbUVCTUtjYkVLcXR3MXp0VDlZVTA3SmRJcGRJSzlLbFV5VHp2bEdfSnJNT1Y3X2RFVGJvVTcyMTdOcXhlVk5wZkZBXzU4YjUtX1N4UGJTY29kMGgzeEhTM2VyX2M0MktCV3VjUWJWd2h4TFVUYzZNQjkxdFRLa2xveTdNeHMxYXl4ckVuNXdGQ1g2cVNLbWtzLUI3aHVJZl8ydjlSX3hCd2tGVVVNQzk4TFQ1bDZHSnFzUXoyMWpzYmpPYjRmbXNEc1l1WFhYWDF0V3N2MUJIZVh0b2FjWDNLUk1XcUxVa3NVRlhGTEdjQ3JERzFidUxicVJ5Rkx2THM3MFlNNTBvbEROcl9xZFhZenE1YU0wUHE2eE90R0l2SXFsZmt4RmlUUGF5MmFLSG50cDI4emU2QQ?oc=5",
-          "published_at": "2026-08-16T00:38:16Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "alghad.tv",
-            "url": "https://www.alghad.tv",
-            "domain": "alghad.tv",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "ba628cb0c28603dbb58f",
-          "title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات",
-          "raw_title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات - الجزيرة نت",
-          "normalized_title": "شاهد الجزاير تفوز على المغرب وتحرز برونزية كاس افريقيا للسيدات",
-          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxONTdjMFUxVkZ3dFozVWpsNEVLeG1RaldUQ0IzT0dKOFJvbWFlYWJZVW4wWENaNm04SzRnYmhJdkNzc2FvMW9pYnFGamgwTTRZWWh2Z19PbE9HalZzbHdXTzdJelQ1VktVdUFpSEkya3llREtuNUxzWXVMMWwtQmtMY3VlYlhiY0VpbFhSYkRZLWo0NGNQNE1MVVdfMzU2Yll0TllZX2l6WDhYOG81alZidk50ZXVsVDNHS1Q4c1Rtb2ZjMzJ3bXlueU1UOG1lWUV4ZHZmM29yVUlvOEZPZHo0R1JLbEZjR1ZhN2ZDOXlyQzYwYU5rUUNMdGFhU2YtQXNJSm1mZV9LM0hxRVBuaE96X0pYNlFnNTFVb3FxczFrcHBxdW1GTTJOMzE4ZENvN2RpelU2cjZCSVNpX1BHVllxejlVU1lqSWktUHfSAc8CQVVfeXFMTTdRREhCdkZPN3ZPRWZhTHFYZW54bHBjN2JzdGU0T3E2c0cyTUs0eVRWbXFTbTg3NVJPNDNWajhXeGtRUVZLZXJzc0lXczZTdzVJM0hJNkQ3c3VaMTUwUFZINUhrOVVYYjc1cXYxM05aSkpxMG9uOUlpV05vMHZlWktnUmtUYXhfQThXdDFuVzFqUE92aFp3TjU4aGpGclVIS1BoU3o0dzRjVEpFaUQ1bEpzUmdkR2VVdzlyejZpbk1MNzhnbmFfSDVxRWRoemxSbmF4S1NucjE3UnR4TklBdFZsdFNFRmNSemt1Zml4aE5ic1BNNGdxZVJKcFNtMWMtX2tGNFAzRzdZZWs4aWFrVHBlQWNrZDBMQTJ6elpYMnVpZ2lfSDZpY1VOd0lQMXpQc0Z0WTZPVzEydU5PUjZ2elk1VXlVZ0xybnlocHRDZjg?oc=5",
-          "published_at": "2026-08-15T21:32:16Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "الجزيرة نت",
-            "url": "https://www.aljazeera.net",
-            "domain": "aljazeera.net",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "add2252ecb2eb9504a3f",
-          "title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات",
-          "raw_title": "شاهد.. الجزائر تفوز على المغرب وتحرز برونزية كأس أفريقيا للسيدات - آخر خبر",
-          "normalized_title": "شاهد الجزاير تفوز على المغرب وتحرز برونزية كاس افريقيا للسيدات",
-          "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxPQzdGeXNzUGp0WWxRVHA5aXZGLUZDNTV6NHZ2S25TSUhPLW9xalV4THo2ZzFZVEMzSGx1b19HdGZpTWVEYUdDSHJvWFkza3llOEpqSWJXenhmUkNUdkRUM09aRkVvM2E2TEhTcE1HZnhXekw2QlplcWJodXpVT3I4bTRlMjN0VFYtNWdaZjc3SDlQcE9sS0hWN0tNam1PZE9TekVyNFZlcFVZaGtQSExNM2dwTGRGT1VpdFk1dkpxNThfSkdzMU5qMjhFZXAxbWZlbEMwLS1sZTRuWm9YQl9hQ0hSSDQ2d19YU1VQeE9HY1JDQ2I3TnVfRE80QkhCZXh1OE84LWZwYnduMjVfempoMDUtZUNfWTJMUGZJWEJ1N3ZLUk1oa2JSTjliT2xDczBzR1IyUXRNVHEwXzNBUmY0QUswcUZ5MXVWdF9acWRLVDVNSktqclBKLUYwbk1mM2taUGI0TjVxbjJkeUVDUzZWNHFIZ2VfQWk5Zkc4ZWh1emIxaXAwV1A3cm8tM2oyR19wY2hnTXBmVHpnV1lhNEpKWmVfd1JMVkxEckw0bmxzU3NMbFFSYm5jdWVhNFZIcFFZbkxJSG02a0NxRjR1bmhCeWFLUW9KSXQxdnRUNVJZSHRBNjhEcGgzUmZHZmZ5OG9pUS1ySTNlcHNvOGlNdzdtYmlKdlBwM3hXWXJlS3VUeFU?oc=5",
-          "published_at": "2026-08-15T21:12:30Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "آخر خبر",
-            "url": "https://a5r5br.net",
-            "domain": "a5r5br.net",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "58eadcbd2b950cf319ce",
       "title": "حملوها على الأعناق.. من هي لينا بوساحة أفضل لاعبة في مباراة المغرب والجزائر؟",
       "published_at": "2026-08-16T00:03:37Z",
@@ -1539,7 +1778,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Atalayar"
+        "atalayar.com"
       ],
       "languages": [
         "fr"
@@ -1548,14 +1787,14 @@
         {
           "id": "fbcccecdf5a3fba53e33",
           "title": "Le Maroc déjoue la tentative de centaines de migrants subsahariens de passer à Ceuta",
-          "raw_title": "Le Maroc déjoue la tentative de centaines de migrants subsahariens de passer à Ceuta - Atalayar",
+          "raw_title": "Le Maroc déjoue la tentative de centaines de migrants subsahariens de passer à Ceuta - atalayar.com",
           "normalized_title": "le maroc dejoue la tentative de centaines de migrants subsahariens de passer a ceuta",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOc0RZOGk0YXRJdDFYVEV4NGI0QkMxSklrMWJ6R3BRRXcxTnpYbjM4Wm5vMmZYLV9tMXQ1d3dpNmJxVUNaaWpnWnBrWXJ2OHE5TUh5NVVscm9zdFd6NGxocWRpSUZ3VkxZWVhld3JqUjV2RHRKUFROcFRrUU9Hbk05VmtKRTR4M2VmNkVyS3RFUl9Uak1heEppLW9zaWp2MWp4RkU0eFZqVDVOM21HNXNjeFBnWVZnUTBXcEMzSlJXak91OEdkbUhmcjlGdGdUa2poSFNVR2pEVdIB3AFBVV95cUxOeC1WdE5takdCMzU1bmJDQURvX29RQ2Y5SFNVVEF6ajdQV0Rrck9HbHlJb0RpX2x5bC1fRmx1bS05VFBtNXREbElFZjlIeWU3cE5JaUJLOXpPUjFFNkhtMkk2c2tsRmpKUE1JQ0MtdlZHZWZ1RDhJWGwyUWZjbXdGaWlPVTIxLTFfOFFtN1NvLWd5ampqM2hSbmVqSkxxX0tDbEhzRzdyemY2SndPNFRVaEIyV3Q4VzFURzdrNVU4ZzluRGFKdDhJMzJZYkR4Q1F4SDJ5VkVWUUVQWUdU?oc=5",
           "published_at": "2026-08-15T23:29:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Atalayar",
+            "name": "atalayar.com",
             "url": "https://www.atalayar.com",
             "domain": "atalayar.com",
             "weight": 0.35,
@@ -1616,14 +1855,13 @@
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 5,
+      "source_count": 4,
       "article_count": 6,
       "sources": [
         "AOL.com",
         "BBC",
         "DW.com",
-        "Yahoo News Canada",
-        "bbc.co.uk"
+        "Yahoo News Canada"
       ],
       "languages": [
         "en"
@@ -1717,14 +1955,14 @@
         {
           "id": "b1552b959cbd65a5d9a4",
           "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - bbc.co.uk",
+          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - BBC",
           "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JUlVoWFZvcXNsVGRhMVJDSWRkNHpJMW05cHJFUFloZVVpaEtIZE9iVjl5bVlzczdPdkRqSXE2UG1RZjNEZkNOMmNXaWZkNkpvRHd5WTF1OFlXZU1f?oc=5",
           "published_at": "2026-08-15T19:16:40Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "bbc.co.uk",
+            "name": "BBC",
             "url": "https://www.bbc.co.uk",
             "domain": "bbc.co.uk",
             "weight": 0.35,
@@ -1891,7 +2129,7 @@
     {
       "id": "b34edc389082b7b1bf59",
       "title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين",
-      "published_at": "2026-08-15T22:51:21Z",
+      "published_at": "2026-08-15T22:52:18Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -1903,7 +2141,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "skynewsarabia.com"
+        "سكاي نيوز عربية"
       ],
       "languages": [
         "ar"
@@ -1912,14 +2150,14 @@
         {
           "id": "e51a980b3ad08aec0ef3",
           "title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين",
-          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين - skynewsarabia.com",
+          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين - سكاي نيوز عربية",
           "normalized_title": "طوق امني قرب سبتة المغرب يوقف ميات المهاجرين",
           "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOOVJBdXhKRDRUOUthWjYxMjJCcUdBRVZhcm83UVRMbWx4c08wWEI5ZHFMRmNCZUdWQy1WVmdmbmc1ZGRNSDdKMzVhZ3VkR19ZdHl5RUg5SmJTblJ3SW1lUXJLVUR2bEwwOGxWazJGQTJxY1BYUlc4VFN0U2xjZ2F5cEw3RjB0LWN2YWowc0hYSy1McF8yOE9pbEtTVlQ2Sk1qRllkLTB1eXZScFU2UnMxcWN4QnkzLWFGd2swZ2FRQXBLV2x0WFp6Y0xKeUFOaWZYU25kRm1xLXlRaWxtczdNUkJVU1VfU1pVUlBxTF9HVzgtZEpnMmJLTWJUSndEN1JYa1NqZ0I1bVNVaXZXZWFXcG1XdnlqaElaX2x3alRva3J2Z3RNbHVLUDRFY3RjQUtfaUhVT05kaEtBQVF5dHpubEtOVnZzQ0ZxNUVNbEwxTzN4T3pCVVdVb3g4YTVYMU9CQUNQaThrWmoxZmg0cVU3OFhOOWQ2WVdHaXF1cjJzQ1NRdkNmei1FNTZDTEo2eVRl0gGWA0FVX3lxTFBrLUtlNDRLXy1ZUjB6VklsZXZIdGJpTzZQRE1OX1pHNkpOb0Myd0FNOWR2THhoeS1jLTZnM2xHdGozSWhLYldmNHRIcnJOZjlfamFNamJ2UUlTVy1SeHJnUXRCUVV4eXFvZnBWcmwxZkdwMTVlVGVaRWNvaXg0QTBfcENrT2FncTIyZnMxcVZ3MzlucG1hVFdFQlRiUzI0M3NTbDNxbHkzWTNhMmQ4WWE5TGxQeGEyZTJXV0E0c0F3VWl5c0NaOWRuSFdaSWk1R2haME5Vck9hQThSUi1sbHo0bGdfNThQWWJzS01ibGhmWVNYaENBTTVHR2dueWpqd3VPQ2dlUUtPTXBRRjRNNUF3MEtVaUlkYW1nbFZDcHN1V3g5OXlzNE5LMEtZdEFycVdkbnMtNWZKeExURllHMGdsY2Q3dUY3cVgyV2o1Slk2MkVWb0NRM2JkSnVPZGhPellBVTJzT08zOWw5NU94ZDhQOFpTSTV6YmJNVGJEUmZHRlhuVlBBNnBnN1ZXRjBQTllCWG1PWXc?oc=5",
-          "published_at": "2026-08-15T22:51:21Z",
+          "published_at": "2026-08-15T22:52:18Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "skynewsarabia.com",
+            "name": "سكاي نيوز عربية",
             "url": "https://www.skynewsarabia.com",
             "domain": "skynewsarabia.com",
             "weight": 0.35,
@@ -2100,6 +2338,64 @@
             "name": "Medi1 News",
             "url": "https://www.medi1news.com",
             "domain": "medi1news.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7a3e7881118909816119",
+      "title": "الجزائر تحرم المغرب من برونزية كأس أمم إفريقيا للسيدات بركلات الترجيح",
+      "published_at": "2026-08-15T21:59:56Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "middle-east-online.com",
+        "الشرق الأوسط"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "82f48a44d196619e4509",
+          "title": "الجزائر تحرم المغرب من برونزية كأس أمم إفريقيا للسيدات بركلات الترجيح",
+          "raw_title": "الجزائر تحرم المغرب من برونزية كأس أمم إفريقيا للسيدات بركلات الترجيح - الشرق الأوسط",
+          "normalized_title": "الجزاير تحرم المغرب من برونزية كاس امم افريقيا للسيدات بركلات الترجيح",
+          "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxONjExaEcydWxTNnlXMThYQmVWazNiYm5RWHFsVHFCS2VuRkdCaDV5YlB5Y2VqWVNOb0JTbzRYWkNQSHlkODJwd3U4NWtmWF9icjRMSENNM0ZBbVNLQnRLUEdTSmF1NkJmdE5BVGpEdEVKSUhNSy0ycmJsNHVTTFBuUVhZNm95TllUX0RSWXl5UG5LYkg1THpMWE1KZjJrdG9FQUhkLTlCOHRURHItdnZzd1lvTzhMMTd4MWFEamg5NFVNYk4zbzM5ekVzV1JlQmdla3FfQjY2RmV6dTBYd2xFVV9QdVB2emI4M1RoLTFicG5PLUxQLTFyWjBFdko3TllsQ3MwNGx2Y2FQVzlqNTEyTWRrRTNIbUJyQktFVWJQLW9pSGZldmxrMS1XV1ZqT2prbklkYl9tVVVpd2xYOEdzNFRNd0VuOTJaVkVZVS1vZk5FX05ncEl1SElCTzU2LUhoZTgzeThWUjV1akhZWXVLWmZFVTdhQ0JZV2JiWWVDODFIcmUyUHk4YjFiSFlpRVNaSXYxSEJsUmNvam5IT1FEd1RVQzdsNWcwSFZsWTBjREJweTFzNTE4ejlkM1lzdmZhN3YyRjlwTlhEUzZDakVVeXFoaUo0YjBjR3JiU0dRSlgtN3NTbWJsQVdxb1dsYi1BQ1VSN0p2Y3FFYVZTZ0kteXhBbWFZZFVNbWkxdllSbWk1UG9GTkxVZ2ltOXZfcl9raXA0ZVgzZ2FSNHJ4eVpoN19wcmxsWU5BUVRTY2ppcHMtaGE3RnJMT1lLZnNtM2NWc2NMM3RraEdpbHRiMmx0cW1QWkFjSXpIMjJuSXI3UkFmR0g2cUh5Q19BMWlwR3F4RHRfbTF6OEVpYnZJZzRzeHRvc01vS3o1Ui1MblI1T1RJd1pLZE1hOV9zRnBVSFViNHc?oc=5",
+          "published_at": "2026-08-15T21:59:56Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "الشرق الأوسط",
+            "url": "https://aawsat.com",
+            "domain": "aawsat.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "9ae81a68ed0698a53b05",
+          "title": "الجزائر تخطف برونزية أمم إفريقيا للسيدات من المغرب بركلات الترجيح",
+          "raw_title": "الجزائر تخطف برونزية أمم إفريقيا للسيدات من المغرب بركلات الترجيح - middle-east-online.com",
+          "normalized_title": "الجزاير تخطف برونزية امم افريقيا للسيدات من المغرب بركلات الترجيح",
+          "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPLUNGem91UHp4VmNWZEM0MHNVM3NEVkxDdnd3Wi1pSG84Zm9pQktFamZSLTd3U2RCck1vRUVSTXZqWmFGcHFMR09maDJOaHJ4SnkxYXNKWU1ZNmdjQU9oNnFCWHF4SlhMa1lyTzI3VUdwX1l3NkFxcDZUODltS0FIV05XM2NwaVFTMkdXLWhrcHVOdkVPTjlmQlhyVm5IdzZJQ1ZodjVFZEtzTkNEV1lQLVUzcy10TUtQTzF2SHFNMkJaTFV0aDhmelBnaTNtY0lJekdTQ3hyZEpzMHdwUTQ4UXd3aHFfbmJwZmRWM0Vnak84THlTOWRhN1l0Q3hNTEJFSF8tTlZUVkdEaE5mZ3pGamlBSERaMjRSYjdvUGJ2UE5RUENOWUtRaE02TU1ncVNBcm9KSFJIS3lPX2x4eEMwQUt1Q1VlNm5rYkNJSkctTXg3U2ctMkg3aW91dTJHbUZrNExnQ3dhcmJQaU1PQ3RkaVRwVzJhTU0xMmdFN2toZzVTaUhUeWF5a244a2E5NE5fMzREQVJ6dGpNMFpMSEpOclR4a2x5OWpBNWVhd1ZPQjVCYXBzYUF1aURRQlh5ei1pUUF4SHVUWk54WW8wZS03Tmx5c2hSeVdXbDF0VjhyUmFoMlh5aC1BTURFR1FxdXBzQ19hQ2tDQ0Y5OHcxOEExSUNvSDI4V2d0TElodzRPTE9PVWtFUG44?oc=5",
+          "published_at": "2026-08-15T21:15:12Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "middle-east-online.com",
+            "url": "https://www.middle-east-online.com",
+            "domain": "middle-east-online.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2478,7 +2774,7 @@
       "article_count": 2,
       "sources": [
         "APAnews - Agence de Presse Africaine",
-        "Lebrief"
+        "lebrief.ma"
       ],
       "languages": [
         "fr"
@@ -2487,14 +2783,14 @@
         {
           "id": "f19097d9a22b059e06c2",
           "title": "CAN féminine 2026 : l’Algérie décroche la 3e place face au Maroc",
-          "raw_title": "CAN féminine 2026 : l’Algérie décroche la 3e place face au Maroc - Lebrief",
+          "raw_title": "CAN féminine 2026 : l’Algérie décroche la 3e place face au Maroc - lebrief.ma",
           "normalized_title": "can feminine 2026 l algerie decroche la 3e place face au maroc",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMmdxYTRtMU0zajBYcnY3cE9Fa1hPbTVJOFFRQjFwMU4tSm51SmF6M0Ewa2gtaXgwRkJ6NWlsSG93YnJ2b2hHa0FxQldGM0RuUUZUT3F6MGxoR3NqR0k0b1RfZWtxSlYycGladDh6WWQ4aGREUjlnb1dSRlBvSkpxR01yVXBySDY3Nmh5LXdEZnhQS0ZSdGN4ZkRtOA?oc=5",
           "published_at": "2026-08-15T20:59:42Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Lebrief",
+            "name": "lebrief.ma",
             "url": "https://www.lebrief.ma",
             "domain": "lebrief.ma",
             "weight": 0.35,
@@ -2573,83 +2869,6 @@
             "name": "KVUE",
             "url": "https://www.kvue.com",
             "domain": "kvue.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e952979ac9f6fae8936e",
-      "title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta",
-      "published_at": "2026-08-15T20:52:00Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.608,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 3,
-      "article_count": 3,
-      "sources": [
-        "Le Figaro",
-        "africaradio.com",
-        "tv5monde"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "a88422621f1430424929",
-          "title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta",
-          "raw_title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta - africaradio.com",
-          "normalized_title": "maroc pres de 300 migrants interpelles pres de la frontiere avec ceuta",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0M2OHhCZF95VjdZeFJkcmNrY1ZUYkN4cHd3cnpybEZPdnFHWE03aF8tSGdyaGhsdUVNSUtqQjZUZUhUT21Gckc0eElFX0hBU2ZCWm16dFQ0eXp3UE5YYXI1dzZNTnlWLXVQalRlbWZheW9HMHNsaDZCeHJ4RTI5MGt2X3Exa01WaUpFcEwyMTExcjgwNEdsSDNvN1FtOElOSmNhZy1uQ2FzZGVnOWlmcGtIVjl4Zw?oc=5",
-          "published_at": "2026-08-15T20:52:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "africaradio.com",
-            "url": "https://www.africaradio.com",
-            "domain": "africaradio.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "f903f7060aff28c94201",
-          "title": "Maroc : 294 migrants, dont 248 Subsahariens, interpellés près de la frontière avec Ceuta",
-          "raw_title": "Maroc : 294 migrants, dont 248 Subsahariens, interpellés près de la frontière avec Ceuta - tv5monde",
-          "normalized_title": "maroc 294 migrants dont 248 subsahariens interpelles pres de la frontiere avec ceuta",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmZVaGNCYzloLS16LW81alNOclUxUTlkM2JvZ3lkMHVMbnp3Nk1RREdLNlh6ZWZPQThxbXgxZ3pBaE1feGlfYkg4c2U2RGIzYnBRekI2N0k4cTJ2a29qMi1sdm1YN0V1TWJSR2pfb2R2bGFrUE9vSzdiZUVTaS1IZmNnbjQ2aDN1bVNGOVVUVXZNSzRpY3RxSnlhT3hKU1hkbnh2NERtc2NmMVFpOXU2MF9URWFQYXpNRU44dmVUT0syeUF1QUJNWUVJUGEyUQ?oc=5",
-          "published_at": "2026-08-15T20:25:41Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "tv5monde",
-            "url": "https://information.tv5monde.com",
-            "domain": "information.tv5monde.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "bf971bfc153ca4a668e0",
-          "title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta",
-          "raw_title": "Maroc : près de 300 migrants interpellés près de la frontière avec Ceuta - Le Figaro",
-          "normalized_title": "maroc pres de 300 migrants interpelles pres de la frontiere avec ceuta",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDlzSHpObXFCWGVIcWxPNnZ3Ymg0d3U2aHdhSlVOU3JUbF9fSURmUHZfNnMtbVlqd2JmalBvcV9NUDJTdkVsUjhkYTIyQVpFd3BSdDdQUmNOXzRiRnEyV0V3OFN3Ty1XYWFENUhJa3FsN0dycF8wN0IxYTMtb3l1VjU1T19GZzZfRVplSlFUSGUtdWk4cHdDYkJ6UWpjd2lUdHZQT1FIaDc1QmxzeF9tTENCeWxyZnBVQVdXTTRoY2E?oc=5",
-          "published_at": "2026-08-15T12:32:57Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Figaro",
-            "url": "https://www.lefigaro.fr",
-            "domain": "lefigaro.fr",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2769,7 +2988,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "youm7.com"
+        "اليوم السابع"
       ],
       "languages": [
         "ar"
@@ -2778,14 +2997,14 @@
         {
           "id": "a82eecb58b694365a6e3",
           "title": "عماد النحاس يطمئن على صفقات المصرى بعد وديتى معسكر المغرب",
-          "raw_title": "عماد النحاس يطمئن على صفقات المصرى بعد وديتى معسكر المغرب - youm7.com",
+          "raw_title": "عماد النحاس يطمئن على صفقات المصرى بعد وديتى معسكر المغرب - اليوم السابع",
           "normalized_title": "عماد النحاس يطمين على صفقات المصرى بعد وديتى معسكر المغرب",
           "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQbUJNTm9HTlNsN2FVNWxxanN2RHBpZC00bV9iODNOWW9qZEFPTXhBaXNUdTNSOXlPRGlwZXJlTXVXb1pZOGdySzQtTHVtREoyYjU5QVZHdklHcEt2MmdBNzVkcUVia05NWXlaV0xmRzBjWHVsRUZwMGE4OWV1MlFNMkt0M2xzNjA1TFBkNDFVSndjVVlJRTJPNDB3ajlyemV3MWw4SDFEV0tTZEdhRDZGRDJobmlpR0czSXdBbUZPd3lsbDhqd2g2NVpmTGF6QzlYandTNG5yWk1FenJYTWlkdzRCQkRRR25KSjdKZkgxX29WTVBYRkg2WlVnQjVUenFyYTV2d0VMeFVJMTFCLTEtUHFlSU9GU3JmZ1E4WHh5T3RzLUZCRHRWNkt3VWZqZnB3NFFZYVB3Y3R3cTlGRkJjRlJwRENnLXlBRzRCSjRGV29ZdTIzLUNZQ3lsY1g3ZFVNdENObzdNdzBMOUR5NU1DRW5UTkxoTWM0bHZTamlFbW0waXRsaE1QbzdMaTlVU1JlS2owSnpVNkJySDJlY1U2THh2bXJrTjB5U3dfNVJQc3d0el90bjZKY1doQ0cxZVU0ay1SY1pPWTdhMnYtZ0FxT3pUMVRIUElBOTF0NkRkeFkwUGJ2U3fSAeADQVVfeXFMTzM0VUxUeGNXZHhPVEZXOERBUGI2OGFiSTJlUG85ME1QUnJodlJJNVU2WWhSaE1xRmxmZWZHd3UyaHRpTHNpS1BwSUs5RnhodzRMOTRSeGJpYkczVzc0cGRQTGJyZXBVRjVoTFVOQzI4MlRUQWdHYkUtT3Q2dnpUTGJMMFdWY09EVldDTTJRMmlpUVRwR2k5YzFWdHAwVHFKQmpCbVptZnJzeG9ELUhUcHk4RkNHSnFZZmF4N05Cbk95aVFzOHpkd0s5Q2wzamZVSHVuT3ZZUGJUQ1NEX1VGRkRORXJkUV9zODF3QXdJMHgtbzVYWXAydXFZZTVxbW51aXFNSXU0dkpOWG5WckR6QjFTajBmbm1nMURSSHExbngzR3YwUXhxVlpXYlZoRXNCU1BXbHo3b09XTmNTMjFlSGFmaGphZ3A5SjBaQV9UcG5rNVhFcVIxeXpSajZ0WmNCdFVKVWhXbkREM0hNZ2psck95emNYSWhET2pGd0tFdDY1Z0hwSXZkSkFwUnBhdXVvdU04eXRudjJfU3ZWZjJ4RndQNkdvcklNWlJjbGhXai1tbVJRZWk1LXZTODdpejc5aWxfOTRKUS05U2x6d0FXT0p6SXZENjJ6STlfdU5VUUZO?oc=5",
           "published_at": "2026-08-15T20:42:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "youm7.com",
+            "name": "اليوم السابع",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -3225,7 +3444,7 @@
         "Bluefield Daily Telegraph",
         "Dayton Daily News",
         "Idaho State Journal",
-        "hjnews.com"
+        "The Herald Journal"
       ],
       "languages": [
         "en"
@@ -3302,14 +3521,14 @@
         {
           "id": "febb0f8f216e94a1364d",
           "title": "APTOPIX Morocco Spain Ceuta",
-          "raw_title": "APTOPIX Morocco Spain Ceuta - hjnews.com",
+          "raw_title": "APTOPIX Morocco Spain Ceuta - The Herald Journal",
           "normalized_title": "aptopix morocco spain ceuta",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2pjYUdCczhTTUpWWHVSOWd5b3I5Ym8tU0JVMmVuSWdyMk4zZE1HRmtlODFuYnhJQVc4aExUaFdpU21MeTZoNmlCWUxvMU9KSG9xanpUZHA0dU0xT3NnZUctQXNGTTJtRnJnbkd6WlNOVlZjSTd4NE9IcnVtUm83Wl9kWFBKWmk4NlJENThoQy1HbTJPY2lsdVZLVFlsWjlqaWJLNDRXNA?oc=5",
           "published_at": "2026-08-15T18:35:52Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "hjnews.com",
+            "name": "The Herald Journal",
             "url": "https://www.hjnews.com",
             "domain": "hjnews.com",
             "weight": 0.35,
@@ -3586,7 +3805,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "frmf.ma"
+        "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
         "fr"
@@ -3595,14 +3814,14 @@
         {
           "id": "2121b9d3201afc2e4d0c",
           "title": "CAN féminine Maroc-2026 (match de classement): les Lionnes de l'Atlas terminent 4èmes",
-          "raw_title": "CAN féminine Maroc-2026 (match de classement): les Lionnes de l'Atlas terminent 4èmes - frmf.ma",
+          "raw_title": "CAN féminine Maroc-2026 (match de classement): les Lionnes de l'Atlas terminent 4èmes - الجامعة الملكية المغربية لكرة القدم",
           "normalized_title": "can feminine maroc 2026 match de classement les lionnes de l atlas terminent 4emes",
           "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNSXV1TUpTSnV6ZHV2b2FNUzBVVWlBMWRTS0I1MzF0RG44Sm45SVc4Q1R1bXZmSTdQTG13VXJONHU4SkNvWGY4dHNicS1LdUF2SjRIT1RGZWVyZ0ZUd0dUOUx6azhRWHNhbU91R3BybUdJSUZjOGRIRjlldXlXSDcwYm51bEZhM1llY1BPdnp2UWljUFJ6VGdYTmNsbWxrUXRTRVByRWlvZ1RIRF9jejhvbDBuaUJsaGRRQWZzeXlDV3ZCeVcyZ0c3SU5sRzNsOGtkY0hRUEhzbFo1VmJlM3FoS09Nd0FDZ21yZ0VTbUlrSnJtUzRHeGhwMm1vZEVsQ1RZbUhxelJlWXdYUjQzV255VThwbGhOdHFFYTJwOEE4Rk0wLTdReGNpOGNWeE9BMkVEQzhtdUczUWtUS3lZQW5FejQycDljTWJKLTAwdDhLQ2Fuczh3WkI0aVVFY0Itdk5WVno2NXF6d1lHem03YXNPU0ptcUN3M3F1cUFyZkw4N24xU3B5MVpUdHY1ZE92UnZ6bGkyRFNnQmI1OXh6V3d2UnJHOGY0UUN1dkFkTC1Cb0dFbTFVZnhBV013LTk2N21kSW5yOQ?oc=5",
           "published_at": "2026-08-15T19:40:25Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "frmf.ma",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -3989,7 +4208,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "الشروق أونلاين"
+        "echoroukonline.com"
       ],
       "languages": [
         "ar"
@@ -3998,14 +4217,14 @@
         {
           "id": "eac80840d349cf97f405",
           "title": "الجزائر تقلب الطاولة على المغرب في البطولة الإفريقية",
-          "raw_title": "الجزائر تقلب الطاولة على المغرب في البطولة الإفريقية - الشروق أونلاين",
+          "raw_title": "الجزائر تقلب الطاولة على المغرب في البطولة الإفريقية - echoroukonline.com",
           "normalized_title": "الجزاير تقلب الطاولة على المغرب في البطولة الافريقية",
           "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNa2ZBY1A5TzlubkU4Z1lHTndxNVBaYXhwRXZ3alR6UjZ0Zkp2dEtMTmpoamY5aERKbDBQTE96MVhuekRHUmlUVHp4MGFJeU1RZkNuamdwRGxHekNISElWRjhnbDdSM0RrU2wtb3luUVF0aU9sOUh2ekp1bUpWdXcwVXpVVWxYdExReGpUenQxZkhUdzZlNGRfZzYzNzY0eEdlSDdRNy00aEpKT0hzLWQ4QS1JM3NPSU80WHVxejZRYUVRQUtHbkxNTW4yWmRCRlZ6alh2ODdYQml0bmUyWGN6Q0tkSVVkclN0Z2lHZEs1bFJjQlV0NDRUTXZvb0hlMkpMV21VMGg0VkRsS3JOOXJPTXRiRW5EeHBYeG1pUjdsODJIWEd2X0tnT0dBOTFuMTRNanZTb0N2cWdvVTlIdE1GNXRDTWNvWFVFN09pMGVB?oc=5",
           "published_at": "2026-08-15T19:18:48Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "الشروق أونلاين",
+            "name": "echoroukonline.com",
             "url": "https://www.echoroukonline.com",
             "domain": "echoroukonline.com",
             "weight": 0.35,
@@ -4234,7 +4453,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "fr.hespress.com"
+        "Hespress Français - Actualités du Maroc"
       ],
       "languages": [
         "fr"
@@ -4243,14 +4462,14 @@
         {
           "id": "6159bab0c7e2a523c328",
           "title": "CAN féminine Maroc: L'Algérie remporte la troisième place face aux Lionnes de l'Atlas",
-          "raw_title": "CAN féminine Maroc: L'Algérie remporte la troisième place face aux Lionnes de l'Atlas - fr.hespress.com",
+          "raw_title": "CAN féminine Maroc: L'Algérie remporte la troisième place face aux Lionnes de l'Atlas - Hespress Français - Actualités du Maroc",
           "normalized_title": "can feminine maroc l algerie remporte la troisieme place face aux lionnes de l atlas",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjU2Y21DTjlHWHZVSHI4ZE9TMUo1QzgzWGlPVlBPZWt3YlJfbk5oVktwN2czQkhfV3dJUVJxQTNZTnJybnNVSGR0RTJWTElrZHo0Mnc5SU9EMjZOeEZtdWltdUZvaGU2dzBRSmp1YmZYczlQZEJjX3p5eGtGS0ZZWDRZTnZNRDgxUk1DU3drZjJxUFdjS28xTTlPZDdBN0lGU2JyLXhEekljMTBZWENaYUJrdFl5bE5tcFE?oc=5",
           "published_at": "2026-08-15T18:48:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "fr.hespress.com",
+            "name": "Hespress Français - Actualités du Maroc",
             "url": "https://fr.hespress.com",
             "domain": "fr.hespress.com",
             "weight": 0.35,
@@ -4717,7 +4936,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "independent.co.uk"
+        "The Independent"
       ],
       "languages": [
         "en"
@@ -4726,14 +4945,14 @@
         {
           "id": "868a2a54e8ff5443312b",
           "title": "Over 100 migrants headed for Spain’s Ceuta arrested by Morocco in latest border surge",
-          "raw_title": "Over 100 migrants headed for Spain’s Ceuta arrested by Morocco in latest border surge - independent.co.uk",
+          "raw_title": "Over 100 migrants headed for Spain’s Ceuta arrested by Morocco in latest border surge - The Independent",
           "normalized_title": "over 100 migrants headed for spain s ceuta arrested by morocco in latest border surge",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVU9wUzBveEgtQVozU2tGM3lmalU2WlBINUFPbFptbzVfdUJhUm5mMllvVnM3b2hnREZwUWJMd2Z6Yjg1QTl0TmlDdjN6ek1HV3RmN056dXFRbzRnOHBLNVhIdHZFS1RTOWxGZW9DbWNEblgyeFgwS2FrcTFPc0tWVnlZbHB1U2F4M21CODNvYnJ0Y0dfUzFDMHRPMDREVDg?oc=5",
           "published_at": "2026-08-15T17:25:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "independent.co.uk",
+            "name": "The Independent",
             "url": "https://www.independent.co.uk",
             "domain": "independent.co.uk",
             "weight": 0.35,
@@ -5164,7 +5383,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "yabiladi.com"
+        "Yabiladi.com"
       ],
       "languages": [
         "fr"
@@ -5173,14 +5392,14 @@
         {
           "id": "4e32e38640655e7faffb",
           "title": "Antonio Tajani à l’Espagne : Vous devriez vous inquiéter du Maroc",
-          "raw_title": "Antonio Tajani à l’Espagne : Vous devriez vous inquiéter du Maroc - yabiladi.com",
+          "raw_title": "Antonio Tajani à l’Espagne : Vous devriez vous inquiéter du Maroc - Yabiladi.com",
           "normalized_title": "antonio tajani a l espagne vous devriez vous inquieter du maroc",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEI1aXNxSnRXTkFXWkl2WWQ4bFpHSEZsOEJDT1V3REpGLVduZmpvU2thTjBXS2hoaFc0b3Bud2VPcW9MV1NKb0J6Q0NkOURxaE8yXzhmZmpFSDF6NUJYcnlwNHhqS2FFWkxMYldEVjhoek5LZUZhcjhwUi1ZbHFtaGNXMnZjYzE5dE5CQkNjbHBERmtndHc?oc=5",
           "published_at": "2026-08-15T16:40:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "yabiladi.com",
+            "name": "Yabiladi.com",
             "url": "https://www.yabiladi.com",
             "domain": "yabiladi.com",
             "weight": 0.35,
@@ -5326,7 +5545,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "yabiladi.com"
+        "Yabiladi.com"
       ],
       "languages": [
         "fr"
@@ -5335,14 +5554,14 @@
         {
           "id": "9e6c3689466b279dd292",
           "title": "Maroc : A Fnideq, les journalistes de la TVE et EFE non grata",
-          "raw_title": "Maroc : A Fnideq, les journalistes de la TVE et EFE non grata - yabiladi.com",
+          "raw_title": "Maroc : A Fnideq, les journalistes de la TVE et EFE non grata - Yabiladi.com",
           "normalized_title": "maroc a fnideq les journalistes de la tve et efe non grata",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPem91MG4tRldudGotN215cGxkbk9XcU1CcU9kY20weF9VSExpX2ZEWDUyejRfUUtaUmh6OVd4X0E0TmkzOXdYZ0I0T2FmSXFQQ1V5bVRoYkYtZDhRa0RUUklXZjdCakZNU2l5c3o1cGNyTXEyUDZJbUVsUk1fNjk0RGlOVnFQSVo2SGVMYmNB?oc=5",
           "published_at": "2026-08-15T16:30:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "yabiladi.com",
+            "name": "Yabiladi.com",
             "url": "https://www.yabiladi.com",
             "domain": "yabiladi.com",
             "weight": 0.35,
@@ -5366,7 +5585,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "fr.hespress.com"
+        "Hespress Français - Actualités du Maroc"
       ],
       "languages": [
         "fr"
@@ -5375,14 +5594,14 @@
         {
           "id": "6551424ff9359e0e9d25",
           "title": "Prospérité : ce que révèle le nouvel indice Legatum sur le Maroc",
-          "raw_title": "Prospérité : ce que révèle le nouvel indice Legatum sur le Maroc - fr.hespress.com",
+          "raw_title": "Prospérité : ce que révèle le nouvel indice Legatum sur le Maroc - Hespress Français - Actualités du Maroc",
           "normalized_title": "prosperite ce que revele le nouvel indice legatum sur le maroc",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDIzeWw0a1BOazA4NHNqNWEzUWFGbmFYQXUxU0h6dEhnWXpsV1pveEhVRWpLS0Y4eXlMem5USGRpM0RPemRDQVBXeVhlQ00xOGJhcFp0U2ExMWtJX0lWeld1ekdiOTU0dWpFM3RIWWVJMnQyTlVsd28yODJYQVgyMDR1X0lYd3NTR3VVdFJYeXN4MnJkZWF2bGxzOWZMVVE?oc=5",
           "published_at": "2026-08-15T16:20:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "fr.hespress.com",
+            "name": "Hespress Français - Actualités du Maroc",
             "url": "https://fr.hespress.com",
             "domain": "fr.hespress.com",
             "weight": 0.35,
@@ -5501,7 +5720,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Article19.ma"
+        "article19.ma"
       ],
       "languages": [
         "fr"
@@ -5510,14 +5729,14 @@
         {
           "id": "6d7565e3b4e8d346ee39",
           "title": "Migration irrégulière | Maroc : près de 300 interpellations après des appels sur les réseaux sociaux à rejoindre Ceuta (Média)",
-          "raw_title": "Migration irrégulière | Maroc : près de 300 interpellations après des appels sur les réseaux sociaux à rejoindre Ceuta (Média) - Article19.ma",
+          "raw_title": "Migration irrégulière | Maroc : près de 300 interpellations après des appels sur les réseaux sociaux à rejoindre Ceuta (Média) - article19.ma",
           "normalized_title": "migration irreguliere maroc pres de 300 interpellations apres des appels sur les reseaux sociaux a rejoindre ceuta media",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oVUx5UnpNVGV5VEhhWDRSNmhnbjRkekRTd09kY3QyWFB6REJxd1I1TjBCM01zMXY4NmZ1eTU3NlhPWDJfbHpmRTdaV1ZDd1llZHFSMGZIdw?oc=5",
           "published_at": "2026-08-15T16:18:27Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Article19.ma",
+            "name": "article19.ma",
             "url": "https://article19.ma",
             "domain": "article19.ma",
             "weight": 0.35,
@@ -5541,7 +5760,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "BFM"
+        "bfmtv.com"
       ],
       "languages": [
         "fr"
@@ -5550,14 +5769,14 @@
         {
           "id": "aa7c004b0d2b639446a5",
           "title": "Ceuta: \"Aujourd'hui il y a des difficultés entre le Maroc et l'Espagne, il faudrait calmer le jeu des deux côtés\", explique Patrick Martin-Genier, enseignant à Sciences Po",
-          "raw_title": "Ceuta: \"Aujourd'hui il y a des difficultés entre le Maroc et l'Espagne, il faudrait calmer le jeu des deux côtés\", explique Patrick Martin-Genier, enseignant à Sciences Po - BFM",
+          "raw_title": "Ceuta: \"Aujourd'hui il y a des difficultés entre le Maroc et l'Espagne, il faudrait calmer le jeu des deux côtés\", explique Patrick Martin-Genier, enseignant à Sciences Po - bfmtv.com",
           "normalized_title": "ceuta aujourd hui il y a des difficultes entre le maroc et l espagne il faudrait calmer le jeu des deux cotes explique patrick martin genier enseignant a sciences po",
           "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcHY2R1VwMzhoczRWS3lMQ3M1dnhrZzJDNFh1SFVKS0hYUmNrbnVTTFdtYlJ0MEN3UkJwcEh2YjFsZUpaUklXMzZrdXBjRHlNbS1ZdmRUWGNSZUZsaXVJUEg2X01Fd3ZBeEFSWmJ3Qy1jOEVqTFBOcmp6dTVWaDdjY3ZQdTQwRnZYLTA0ZVlXOW9ENGVKckZFRjQ4dmIweGh6REY4WlFYYldVdDVKQ0E0b0FmZE5tVlo2SGoyNlhwMU1DNURuZXZnODJzdE90SUJZQ0p1OGdfYVV1RndabFZoX2JBQ2xYbGMzaG9mcGE1ZVZ3R2c3ZWl0cXpTWGFVaF9RTjdOOHNHd1ZZQlo4Yk90QzV3SDQwNzhxR29zaHlkb0ptbFI4b3NxN0xoOGZBR0FzZEtVX2QwX1dRN3Q2dDZ2ZUJtMVRIMEI4NHRhX1A1UTZSYUhDRHlyWjdvczRWRmFW?oc=5",
           "published_at": "2026-08-15T16:17:19Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "BFM",
+            "name": "bfmtv.com",
             "url": "https://www.bfmtv.com",
             "domain": "bfmtv.com",
             "weight": 0.35,
@@ -6503,7 +6722,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "fr.hespress.com"
+        "Hespress Français - Actualités du Maroc"
       ],
       "languages": [
         "fr"
@@ -6512,14 +6731,14 @@
         {
           "id": "8b3bff8fc47854624496",
           "title": "Le Maroc supprime le visa pour les ressortissants albanais",
-          "raw_title": "Le Maroc supprime le visa pour les ressortissants albanais - fr.hespress.com",
+          "raw_title": "Le Maroc supprime le visa pour les ressortissants albanais - Hespress Français - Actualités du Maroc",
           "normalized_title": "le maroc supprime le visa pour les ressortissants albanais",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXBzVkNJVjhOcVkzYjQyR0kyZTluc1h1RUItYU5rYlNiR2VnUEthSnJSRHY5YW1pTnhTZkZPM2tta3Q2ZHhCMlo3YU9vNGY0NnBUdXV5M0hiZC1Jbi04bHZhV3h0aG1yZ1VKS3VJeGIxQktRQTBPWlYyTzRhNkxDNjl5bUMzSGxGOTZ0MzVCaW9WTDRjaHNQZjZB?oc=5",
           "published_at": "2026-08-15T15:03:40Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "fr.hespress.com",
+            "name": "Hespress Français - Actualités du Maroc",
             "url": "https://fr.hespress.com",
             "domain": "fr.hespress.com",
             "weight": 0.35,
@@ -6585,7 +6804,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "fr"
@@ -6594,14 +6813,14 @@
         {
           "id": "5f4871d43746cfec4a87",
           "title": "Éclipse solaire du 2 août 2027: le Maroc se prépare à un phénomène astronomique rare",
-          "raw_title": "Éclipse solaire du 2 août 2027: le Maroc se prépare à un phénomène astronomique rare - SNRTnews",
+          "raw_title": "Éclipse solaire du 2 août 2027: le Maroc se prépare à un phénomène astronomique rare - snrtnews.com",
           "normalized_title": "eclipse solaire du 2 aout 2027 le maroc se prepare a un phenomene astronomique rare",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXJJT1pHd0M2cEVFeDRXa3kwY2FQbXJ5bThYaThtX1M0ZFpBY0Rsd2Y3bWpKb0Rvb2dwalYyYnRuckt6YjIwOEZQaHZZRG9aWmNpYUZuY1lsd3h6WFNscTEwcGRodUd0Q0FCTWxjTWRHdFJsck9HY0lwSXlScDVJUkJJajlhZDlzMmI2S3BGbm5pLUdEU2pjR01EYnZrUlhzVHRPcWV1b3hobU9tQ2V5cWYxdDM2SWN0Y2tLeGFIdw?oc=5",
           "published_at": "2026-08-15T15:00:35Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -7084,7 +7303,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Ouest-France"
+        "ouest-france.fr"
       ],
       "languages": [
         "fr"
@@ -7093,14 +7312,14 @@
         {
           "id": "758aadbc277d2eeb9429",
           "title": "Au Maroc, le chômage ravive les rêves d’Europe de la jeune génération",
-          "raw_title": "Au Maroc, le chômage ravive les rêves d’Europe de la jeune génération - Ouest-France",
+          "raw_title": "Au Maroc, le chômage ravive les rêves d’Europe de la jeune génération - ouest-france.fr",
           "normalized_title": "au maroc le chomage ravive les reves d europe de la jeune generation",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc18xLUZNMkI2aHhHZ0pBWnlGQUotV25TZnFUY0JjRXlQLThvU1V2ZjlmVlNSQ3B4N2poY0p3R0UwRzFURVNxMFA1QkQycnBqQ05DRldsTmZyeWhSTXdnTVMyTGowNkZiYVhHUEhFdVJTNDE1M0Y0T3hEZE9ITEpsOVNmOUNORDh6b1A3ZmR4VURwWElST2Q2RDd4QzJjekV5RTM1YnZxLUtkaW5qc2dPdDNUeWhNMzdjRFhjVEU4eUdZVVJoLVNicTJvMzF6cVQwYVZBZ04wTktKVEl5?oc=5",
           "published_at": "2026-08-15T14:00:10Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Ouest-France",
+            "name": "ouest-france.fr",
             "url": "https://www.ouest-france.fr",
             "domain": "ouest-france.fr",
             "weight": 0.35,
@@ -7619,7 +7838,7 @@
       "source_count": 3,
       "article_count": 3,
       "sources": [
-        "الشرق للأخبار",
+        "asharq.com",
         "الصحيفة",
         "عكاظ"
       ],
@@ -7664,14 +7883,14 @@
         {
           "id": "09bf94f294502a23ef62",
           "title": "المغرب يحبط محاولة جديدة لعبور المهاجرين إلى سبتة",
-          "raw_title": "المغرب يحبط محاولة جديدة لعبور المهاجرين إلى سبتة - الشرق للأخبار",
+          "raw_title": "المغرب يحبط محاولة جديدة لعبور المهاجرين إلى سبتة - asharq.com",
           "normalized_title": "المغرب يحبط محاولة جديدة لعبور المهاجرين الى سبتة",
           "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPQ3c3TmZVR01SU0tVbU9UNTdnOGhEQk5TMmVGaURraUprbUpfb0hqLTQwWk4yeWtaTEZYNU9PLVpVaC01THdXWWxVdTBRZzZHVlh0NFRoUUJjanBCRDV4Wm1IakJYRm8xc0YwMXYxVWlBdlctLXYyNEhubDlSYTM3dGxPMm12cGJSQXJjb2ZySTJTbWlBWjhiSzViY3I5cklidHA2VEpYLXlyTXhSWUF5MEhwRXdDZUV3VER3QUdfU2k3eFA1NDVQeWpqRmZiRnVIMkFSVDdDN1VuT1hKYzhFZmZ1a3hlRUdRUUhiQUlPY05Rdmdmd0Z4aXBXUnQtZjcxUXJWMHV4MVFEWmNXMTQzcVhab2dndlI3NjNHNDNKTXJLSkFMclQ5X0EyZnFPZnBCaEpiN0tLOXJZblB1RG5vdTNpNUNBQ0FDVzctampSalBrYmFHUVV4X3hEVmNJVlhIN1NtalNhaFBvWmNqVlF5SmZaV0NFNWRjcFAxRVBWTVZPbThQYzlfdWJfb3NodjRqTXFMclhtOXl3WFhsa3N3OWNtLV9VUQ?oc=5",
           "published_at": "2026-08-15T11:23:39Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "الشرق للأخبار",
+            "name": "asharq.com",
             "url": "https://asharq.com",
             "domain": "asharq.com",
             "weight": 0.35,
@@ -7777,7 +7996,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Euronews"
+        "Euronews.com"
       ],
       "languages": [
         "fr"
@@ -7786,14 +8005,14 @@
         {
           "id": "8fd20c0b4a346e28b730",
           "title": "Le Maroc affirme avoir déjoué une nouvelle tentative de passage de migrants vers Ceuta",
-          "raw_title": "Le Maroc affirme avoir déjoué une nouvelle tentative de passage de migrants vers Ceuta - Euronews",
+          "raw_title": "Le Maroc affirme avoir déjoué une nouvelle tentative de passage de migrants vers Ceuta - Euronews.com",
           "normalized_title": "le maroc affirme avoir dejoue une nouvelle tentative de passage de migrants vers ceuta",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDlpZWQwa3ozWGNjc29MUU82dmNZeF9jdXY1aUhoVERhYmdfZWNhTTFNb1p2UDlJVzlpQmVQYTBUMVpVektZOTRvUVpHemUweHlEc2V2RHduMTdFM1FEanVqa1RUTGZ2NXRkSk5DOWxnSWtOMjRRRkJ0c2pCVXowMFJxU3pIbEw1ZXdEUmg5WUQxdWhnZHFsRGRIdU9MMUxZWUZab0taMW5IQmhZWW9LTHZyNENMb1AtbXozSWhqVXQ1S3Y0V0VoM2RDNA?oc=5",
           "published_at": "2026-08-15T12:44:15Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Euronews",
+            "name": "Euronews.com",
             "url": "https://fr.euronews.com",
             "domain": "fr.euronews.com",
             "weight": 0.35,
@@ -8059,7 +8278,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "yabiladi.com"
+        "Yabiladi.com"
       ],
       "languages": [
         "fr"
@@ -8068,14 +8287,14 @@
         {
           "id": "10caa2a7b5aaebb61ac2",
           "title": "Le Maroc empêche 300 migrants de passer à Ceuta",
-          "raw_title": "Le Maroc empêche 300 migrants de passer à Ceuta - yabiladi.com",
+          "raw_title": "Le Maroc empêche 300 migrants de passer à Ceuta - Yabiladi.com",
           "normalized_title": "le maroc empeche 300 migrants de passer a ceuta",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTF9tcVB5U3NFcmtCRTRidFFRQjRtZGxoS1hyaXVKWWdreFprbFVaeXNVMlNFR2RfWTl2ZmdNbGtWeXlBelJmLTZYT3k3X1VVTjg2ajVueklWX2RwR2FzRVlEYnhWbG5HMzdmNkpfTjJGbnJfZkRCaVN6RFc4UEgxNmJENzNuMkZPRWotOGVnSkxiZjA?oc=5",
           "published_at": "2026-08-15T12:20:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "yabiladi.com",
+            "name": "Yabiladi.com",
             "url": "https://www.yabiladi.com",
             "domain": "yabiladi.com",
             "weight": 0.35,
@@ -8657,7 +8876,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "DW.com"
+        "dw.com"
       ],
       "languages": [
         "fr"
@@ -8666,14 +8885,14 @@
         {
           "id": "57621ffd61bd9c4b6f63",
           "title": "Au Maroc, les raisons qui poussent les jeunes à émigrer",
-          "raw_title": "Au Maroc, les raisons qui poussent les jeunes à émigrer - DW.com",
+          "raw_title": "Au Maroc, les raisons qui poussent les jeunes à émigrer - dw.com",
           "normalized_title": "au maroc les raisons qui poussent les jeunes a emigrer",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mQ0g1U1p4QjZoV0E1U2hhNEJJMU80UWtwQktLTlZaY04xOXRaWnRPd1VpdDdxc0FlM3d0ZHBXYVlBMUR2Z1c2enRvUEw2ajZyUWRSZ2xGb0tkRXJZQ2pEVVU0MVFxLUIxcnBEYVdudEg3QXM4dTA00gF3QVVfeXFMTS1sbHdCdlhEb0hsMmp4aUtoWXQzVHgyd3p6aVhDdEZrcW5HNTRtTlNkemY1V1N0RUJKd195cWN2YkxUSnFOTE84ZWtBak1HRVZRRzBqQ29Oa2RRc0N0aEt5YnM5TzZfNFBSRVljMEtDMThGc29wY3M?oc=5",
           "published_at": "2026-08-15T11:35:53Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "DW.com",
+            "name": "dw.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -8778,7 +8997,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "medias24.com"
+        "Medias24"
       ],
       "languages": [
         "fr"
@@ -8787,14 +9006,14 @@
         {
           "id": "f14b90400bcbf140fe95",
           "title": "Crise de Ceuta : le Maroc hausse le ton face à son exploitation politique en Espagne",
-          "raw_title": "Crise de Ceuta : le Maroc hausse le ton face à son exploitation politique en Espagne - medias24.com",
+          "raw_title": "Crise de Ceuta : le Maroc hausse le ton face à son exploitation politique en Espagne - Medias24",
           "normalized_title": "crise de ceuta le maroc hausse le ton face a son exploitation politique en espagne",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORktMU2FSNDBNS2Z2TWRwbkx6RFRKMnBqbW1HTDFlQnlDWUYtOGg2eU5VTWwwVlpvMUFoNWY1dXZ5czY0U211Nl9sSkRacEJWQzQzYWtKV2tjSTYwMXdETzVYSkdzTHBoUXhyaWRyejVxZ1FSZlhfRkdZSkswbmoxeklPdHJ0UFZGc3phX3ZNVkZHV2JnLXNvSzI2NHUzczdDRURnYWNHY3BkTTY0YWNnRzN1VS0?oc=5",
           "published_at": "2026-08-15T11:34:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "medias24.com",
+            "name": "Medias24",
             "url": "https://medias24.com",
             "domain": "medias24.com",
             "weight": 0.35,
@@ -9141,7 +9360,7 @@
     {
       "id": "173a333dc92332d58140",
       "title": "المغرب يصد محاولات جديدة لعبور جماعي نحو سبتة.. وتصاعد التوتر بين مدريد وروما- (فيديوهات)",
-      "published_at": "2026-08-15T11:15:56Z",
+      "published_at": "2026-08-15T11:16:52Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -9165,7 +9384,7 @@
           "raw_title": "المغرب يصد محاولات جديدة لعبور جماعي نحو سبتة.. وتصاعد التوتر بين مدريد وروما- (فيديوهات) - القدس العربي",
           "normalized_title": "المغرب يصد محاولات جديدة لعبور جماعي نحو سبتة وتصاعد التوتر بين مدريد وروما فيديوهات",
           "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOWWp3VXVKNkpUNHY3S01FQ25NdVJlSzlwb1NZcHNaYVZqeVdHcjFKX1JUUEFMd01qOW91ZjlMaS12QjAxUlR4WWxwWjRsTzdvX3l5YjFHck9NOGdyLUJoS2ZXZ21kMFkyYjE1UFluRUV1UDdWOUxmSDBmR2pDY2N0U2ptX0hpbWJfNjJoa1Y3MVVnNTE0UF93RHlsckpfNUxZZVAwQkxGdFVJdk5abTQ2cTdMNXQ5TW4zeVRYcHAxaEVaNGtjZjRxbExTdm5YYnRaa3ROelFWc0RNaVI2RGx1Z2EyY0xxQXNjMW1YYXlNdlZ1Y3BPWFNHX2o2RUljeUlPVTQ0OWIzY3dLTVlHemNlcFQxamxiTXowN2xoYzluazNvekRaNzY1S2p1OTc3c1RwVEJWdVlLQ2RPbzVQOU1uXw?oc=5",
-          "published_at": "2026-08-15T11:15:56Z",
+          "published_at": "2026-08-15T11:16:52Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
@@ -9371,7 +9590,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Lebrief"
+        "lebrief.ma"
       ],
       "languages": [
         "fr"
@@ -9380,14 +9599,14 @@
         {
           "id": "cb9cd234ef1afc67e975",
           "title": "IA : quatre Instituts Jazari désormais consacrés au Maroc",
-          "raw_title": "IA : quatre Instituts Jazari désormais consacrés au Maroc - Lebrief",
+          "raw_title": "IA : quatre Instituts Jazari désormais consacrés au Maroc - lebrief.ma",
           "normalized_title": "ia quatre instituts jazari desormais consacres au maroc",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hN1NWRk1ZT1NET2NxWFV0M3N1alVON3A4UUhud001dGd4a0hmWGNTeDl6QWlQWUVyaGxXWF9zbXUwdzdoOVhSdFdYZm41TjBJM3NuYlJ5N2FxdVMyNzlOczhvd19zN28?oc=5",
           "published_at": "2026-08-15T11:03:16Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Lebrief",
+            "name": "lebrief.ma",
             "url": "https://www.lebrief.ma",
             "domain": "lebrief.ma",
             "weight": 0.35,
@@ -10016,7 +10235,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "sport.le360.ma"
+        "Le360 Sport"
       ],
       "languages": [
         "fr"
@@ -10025,14 +10244,14 @@
         {
           "id": "33987202795cae210fb8",
           "title": "Maroc-Algérie: à quelle heure et sur quelles chaînes?",
-          "raw_title": "Maroc-Algérie: à quelle heure et sur quelles chaînes? - sport.le360.ma",
+          "raw_title": "Maroc-Algérie: à quelle heure et sur quelles chaînes? - Le360 Sport",
           "normalized_title": "maroc algerie a quelle heure et sur quelles chaines",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2paMHBHMDlsdERZWEp5cDNiUENLcG1LTXRRLUdDdmJZNzhYVTRIQkp3bkIxX3VOSWNBNjhjSGxPSTdlWFhlZnhrNEhTb1U4RXlWV2xUanZaMUVQOVZzSElMdXpDdF9SeTg5QlR0WTVnYUxZZ0ctSVpEb214WFBpWVVEd1hMSjd4a21WeFo1am1YY1A4OTdkc3NxOHRHc1diLUN0dWpNMzlQUkdveUhSREZhNEJDdw?oc=5",
           "published_at": "2026-08-15T09:36:15Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "sport.le360.ma",
+            "name": "Le360 Sport",
             "url": "https://sport.le360.ma",
             "domain": "sport.le360.ma",
             "weight": 0.35,
@@ -10057,7 +10276,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "BFM"
+        "bfmtv.com"
       ],
       "languages": [
         "fr"
@@ -10066,14 +10285,14 @@
         {
           "id": "aee8f63fbaa8b551d6d2",
           "title": "Ceuta: des appels sur les réseaux sociaux affirment que la frontière entre le Maroc et l’Espagne sera ouverte ce samedi, les autorités démentent",
-          "raw_title": "Ceuta: des appels sur les réseaux sociaux affirment que la frontière entre le Maroc et l’Espagne sera ouverte ce samedi, les autorités démentent - BFM",
+          "raw_title": "Ceuta: des appels sur les réseaux sociaux affirment que la frontière entre le Maroc et l’Espagne sera ouverte ce samedi, les autorités démentent - bfmtv.com",
           "normalized_title": "ceuta des appels sur les reseaux sociaux affirment que la frontiere entre le maroc et l espagne sera ouverte ce samedi les autorites dementent",
           "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdUtSZkJpd3VXeE82SnY2bVA0cG5CbUV1aVJYakZZMnBfMXR3cDlEbDlabUdKOTNEQVVtYzNtWFVoU3dRZGtqQ1d2SmxDYVVaRm8yM01rUEZjamY2X3pMY2ZtRnA3QTRXLTU4TVpjSUV2R2poRTI5T3JSSzVCb2hoakFoSXF3c3Z4dC1TT2JuTkEzUFdGLWhHd1d1dUtiN0cxQlkxY0dPMWh3MVQ2bHcxUUdBOTNWck9ZTXZzbVZkTUtUckhpZmxUX3hkYWVGNlhHdXdrQktaS01BZ0pSMThGRWIwYW45R01Qc2lFcnJKSUNyVm9QelpZdWhqTnpmbFlId1lidzlTblU3YzlGRDBPck5WRWVHcm0zbktEMkJqOVY5MmpNTVhnQ1RsLVlfUEI0MHFFbFVEVy01UQ?oc=5",
           "published_at": "2026-08-15T09:34:39Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "BFM",
+            "name": "bfmtv.com",
             "url": "https://www.bfmtv.com",
             "domain": "bfmtv.com",
             "weight": 0.35,
@@ -10834,7 +11053,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "youm7.com"
+        "اليوم السابع"
       ],
       "languages": [
         "ar"
@@ -10843,14 +11062,14 @@
         {
           "id": "8e8ec6de0dcee4fba88b",
           "title": "المصري يؤدي تدريباته بمعسكر المغرب قبل العودة إلى القاهرة",
-          "raw_title": "المصري يؤدي تدريباته بمعسكر المغرب قبل العودة إلى القاهرة - youm7.com",
+          "raw_title": "المصري يؤدي تدريباته بمعسكر المغرب قبل العودة إلى القاهرة - اليوم السابع",
           "normalized_title": "المصري يودي تدريباته بمعسكر المغرب قبل العودة الى القاهرة",
           "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQVUtleUZzWFBsekhBREtLT3pTb1FUbjBqcVY4ZjBSOU1JQ3kwLWFoUjF5c3pmaXB4SnA2MUFlckRCeFFrdHRhYTM0Z1ByUElDdkF4ZU9OdThBMllKYnFOUG9XRXh3cFpwUzhRYkJfZnBrVm8xWHdxU24yalNKZGt2VHBQRVlNejlLSW53VlFXbFdHbmVGU29TN3c0WGtpTmJRWTFaM04zOEp5bWR0LW43Z1VNc3l4eTIyOXFTUUU4NUxQX3Z0Yng1TGhRX01KWnhOaXlaNEhhQ0ZQRGdzcGQ2aGViNzdyR21QQ0xTZzFaNG1JZlE4Wi1nUEctZXF5LTlDNEJmWW1abVhGWDFON2dtZ2FkaEZKcmtHM2VqVHJEamJwcmZ2N3YzMXlLVm0tUFBLNGdZZTVpVjR4emMtbngwVk1OZzF5MGZzRm9GdkdFRTRxb0xRNDZaR3ctRWtuRkx5d2ZwRzdZZ3NRQWwyTTRaZXFNaHh0YUNMQ2F1N1FiazVaN2dzbnpnc2NBam40d195WjVsZlROb1QtODJHMzFnWTVQa05uaC1hdDVmdERBZ29wWXE2TDlZTlhmM0tScXBBT0RFNU12cWNJTC15VFpTVlByOGo3MVJ4N0FzcDEtTm9qTXlNd2IwNUJjRnPSAecDQVVfeXFMUHdESm5DeWpLcjdNVjktTDg0SE0wSFFXUkVGQlpHREpJeWFTeUYyNlhRX1h5Q1ZpXzlMMnZ3Wl9DTktYcjFMaDlQbEI3aHZwV2trd3JWTVVEbEgxeW9WaTdsYmtHZGl1U3FDaF9wTS1rd0xYOFYyTFBwQ0psalFsWF91VlQyb2kzUDRzRDBFVGZGOUEtTm56bVo1RTZ3NzBOMG5EdVlXamhfdm1oNVBIcDNJOUlMbzVaNEhOSzRpRHdSd1BLMVlwanFDckpIeXd3Y2RHVEN3cGNVTWI1akFpYllYd2VmbEdiYk1WbjBFNVpVUnF5TG9oSFJHZW1sS01RMW5TeEJoVGpid242bXl5Vm9wd25sZjcyR092aEFfM1E3SlVFNE83WE54QmxBeG41YW5aU3lmOGZPeXIweDhwWnhadjZhbTZjdzRvM1dSSUpCbHI1QUY1NHJQb1lxTEE2QWs4MUUyeldtWmN5NXNYMFp3T2RjVVV1eU5XUDZ0Ni0yckQzQkZBMmZGUllWUW1TcXRRcVRXR2xPREpvNG4tOGhTYUlZaXZqbFF2VWtXSjhxWjRacnZDTXBNWWhEUVQyNkQ2TWVkcHhELVJjSWkzdGp5UThKMFFEbE1mTFVNcjNxeC0xY0V2aw?oc=5",
           "published_at": "2026-08-15T07:44:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "youm7.com",
+            "name": "اليوم السابع",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -11470,7 +11689,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Escudo Digital"
+        "escudodigital.com"
       ],
       "languages": [
         "en"
@@ -11479,14 +11698,14 @@
         {
           "id": "d5be1a953da14889313c",
           "title": "US establishes weapons systems testing centre in Morocco",
-          "raw_title": "US establishes weapons systems testing centre in Morocco - Escudo Digital",
+          "raw_title": "US establishes weapons systems testing centre in Morocco - escudodigital.com",
           "normalized_title": "us establishes weapons systems testing centre in morocco",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWVUSFEzamhhaXNuTUMzeFJwLXBQVTIxTVVXdEl5cnlMZGFaSjZyRldFd2RFZHhpWnVfRzluYk1LcE0yTE5xX0V0dVdidG9aOUZJQUVsTmp2WHdjMzFJYkFqSFczUjVYYnJKWlUxODRjSVlOb0YwV0pPWmk2VTRDR0ZDZzNIbWluX0pVQWpTVV81cXNkRVZETWo3VVB0MWY5Vzg4?oc=5",
           "published_at": "2026-08-15T05:52:45Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "Escudo Digital",
+            "name": "escudodigital.com",
             "url": "https://www.escudodigital.com",
             "domain": "escudodigital.com",
             "weight": 0.35,
@@ -12506,7 +12725,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Le Desk"
+        "ledesk.ma"
       ],
       "languages": [
         "fr"
@@ -12515,14 +12734,14 @@
         {
           "id": "6c7c6ffb9e009f4269e4",
           "title": "Ports du Maroc SA fixera les tarifs de ses propres concessionnaires",
-          "raw_title": "Ports du Maroc SA fixera les tarifs de ses propres concessionnaires - Le Desk",
+          "raw_title": "Ports du Maroc SA fixera les tarifs de ses propres concessionnaires - ledesk.ma",
           "normalized_title": "ports du maroc sa fixera les tarifs de ses propres concessionnaires",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHlOanhiTGNDUjdxUFRCRF8zc0M0ZWpjMmZSNUlVTWxVTHRRVy1kejAySTFOcm1OcE43YWJDU21wYnlMNzRhYTNQcTBjaGFtS1FTbmc0bzNVVVRlNzlRVGRBS0U2dExmb20yaWNOUm9VWDVoTGVKZzRrcHdKTlF3SVNBVGlIYTdZeU9ScTA0d0pSTnNRVmhkNXF0OHR2dw?oc=5",
           "published_at": "2026-08-15T00:10:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Le Desk",
+            "name": "ledesk.ma",
             "url": "https://ledesk.ma",
             "domain": "ledesk.ma",
             "weight": 0.35,
@@ -12793,8 +13012,8 @@
       "id": "1b325bff4f9bab6fcfbb",
       "title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie",
       "published_at": "2026-08-14T22:40:18Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -12802,10 +13021,9 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "frmf.ma",
         "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
@@ -12832,14 +13050,14 @@
         {
           "id": "a3a68ca7059ff63a1692",
           "title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie",
-          "raw_title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie - frmf.ma",
+          "raw_title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie - الجامعة الملكية المغربية لكرة القدم",
           "normalized_title": "can feminine maroc 2026 dernier entrainement des lionnes de l atlas avant d affronter l algerie",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYm5MN3ozNENZODBQN2twWERqbndlVVpvaWZqQnF2dHRPSC1MX21XYmkyVmdSLWdvSXZjVU1JX21lbE9jcVJLV2VfYXNwUnYzV3dIMS16SENsLW55bkRyRmRnTjk1UUU4c1ltVlJkYTZsc2NrMHNIbnV3Zy1NNWdFT2o3cWNiOUZ2Wk12WFU1QkF2VXpRanVXTl9XbTUzWVRuVFVDdFVMVVptWDN4NEVEcVVjOUlwTDlTVU5IMg?oc=5",
           "published_at": "2026-08-14T21:35:11Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "frmf.ma",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -21616,6 +21834,46 @@
       ]
     },
     {
+      "id": "3633b7956972842b3443",
+      "title": "Maroc : les promoteurs immobiliers en plein âge d’or ?",
+      "published_at": "2026-08-14T01:58:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Jeune Afrique"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "b407f11454732a18141e",
+          "title": "Maroc : les promoteurs immobiliers en plein âge d’or ?",
+          "raw_title": "Maroc : les promoteurs immobiliers en plein âge d’or ? - Jeune Afrique",
+          "normalized_title": "maroc les promoteurs immobiliers en plein age d or",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm1oeFJpbzJrX2FiUlZmN2puTHpLdmpqTVRENWlkaFFHQ0VZVkI2cDFtcjlraW1pclpGbnBqazVxelJTd2hpM0RsRnItRzRYVExLc1pTQjhRMkY4WEp0X3lyR3h1QnFWbnRuRkQwckFoazViSnJGMkQ2T3FQOUlMSDE3Uzh3R2xUQTBPbzBhQ0UzaU1SbnM3U3BBWXprRUhnY082UXVhaTA0Sk5H?oc=5",
+          "published_at": "2026-08-14T01:58:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Jeune Afrique",
+            "url": "https://www.jeuneafrique.com",
+            "domain": "jeuneafrique.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "4255c3b5ee3e9b2b582c",
       "title": "لماذا يستثمر خصوم المغرب في فجوة التوقعات؟",
       "published_at": "2026-08-14T01:12:00Z",
@@ -21790,7 +22048,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "skynewsarabia.com"
+        "سكاي نيوز عربية"
       ],
       "languages": [
         "ar"
@@ -21799,14 +22057,14 @@
         {
           "id": "89b2ea45c85f7904092c",
           "title": "\"راحة البال\" تقلّص المواليد.. المغرب العربي يشيخ سريعا",
-          "raw_title": "\"راحة البال\" تقلّص المواليد.. المغرب العربي يشيخ سريعا - skynewsarabia.com",
+          "raw_title": "\"راحة البال\" تقلّص المواليد.. المغرب العربي يشيخ سريعا - سكاي نيوز عربية",
           "normalized_title": "راحة البال تقلص المواليد المغرب العربي يشيخ سريعا",
           "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPc0hwRkFqVWNLOTRNTUFSanZlM0ZRVlphaVE4SUM0TEJOaGJ1RHVGVUYtZmFIal8tWXlob3pSRjFzcDdJbTdBSUkxRDVRcTJNU0FMczkwVk00LWFmNUlVN19La2ZRczE1ei1DREdSbEE1ZDZPN05paXU4RWxYTHJsOWphNV9GMkNnY3ZyRnJHd1lwNjRHbUJfMy1QSVFHWDlaNXhVc3c1SjBBVDJfNFJOU1dWOXdXRDlkcmM5blc5N3NOdjVpYjBCRUJ2a0lJWkhKb2xTWFhJSkJOR3hWNDlxWVdnMjVkTE1Bb2tmNjA4RnhHNmNoUEV1UGlNcjVhYVhRN0hjXzJuX0s5eHdVdERMMW9CY3FMa3A2dlZKbXg5SjVFSm1yVDl2bVlKMWRMUk1VUHB1SUk5R0xESVdVSzdYRGhUUDB1dHB4V2FyNERMQll4QmtjbmszVV9waVVfZjBxVHdub0IxdFpUX1U4UHl2Y3JXallmaVFYUDlXSDJaVVdaM2pOSnRUM1RWNFB5aE5HN0xZT1IzUW1EbXhQY0g4dUZxTUVORDRiSk1ua0phSlFDMGNxRXfSAbsDQVVfeXFMTlJEM3dpUC1peWs5V0VpVVJKZ2U3SWdXcVI3M3J1bVh0cWZtdjQwSjBYZjhVVFd3SW9OTklmdFBmd0JMMG5HbVg3bkhBMzhKMDNtZUFnZl9IU2pIZFJmNThiUElNczZSQi03LV8xMkRERW00QktKODd0dFdlUGZzbnY5UnJMNXlvcDlXdlZsXzMxSzkxZHR6dk13VkxJRmNvYjI2cloyZ0tIQzFkTWZqNGt3VFNOa1F1NTFFR0I1Yi1ITWxrWkRBcGYxeGl4Z3ByTWV4TklSQzJ2ajd1UklrekNUOVF5M25wdXJ4dEdxa01yb3k4R1AtVFYtSUVhdWpwWlVieGs0VWoyajlGN1U4OUM0SmVNRDlSRDctV1VnUVZPX0tEMGJNTllmbVlGQ2I4WHd0YlN3MHJqZEM4dThHLS1zRHhEVW9pVXJIem41eFhYbGhqUFFEWk1MVVFjTGNGZVJFVjhiNjVLcExLWlhKS3V6M2g3dEY4cXJ0cms3OE9CV2RIenMxZHVnUVVWZFJ1dUVvMG5EWDM4UWMzUW1fbkJTQWxpdzBTcTdoeVpIcFpTRkdHd05qc0RVbjQ?oc=5",
           "published_at": "2026-08-14T00:09:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "skynewsarabia.com",
+            "name": "سكاي نيوز عربية",
             "url": "https://www.skynewsarabia.com",
             "domain": "skynewsarabia.com",
             "weight": 0.35,
@@ -22354,7 +22612,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "frmf.ma"
+        "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
         "fr"
@@ -22363,14 +22621,14 @@
         {
           "id": "f28ff1049b8baf56895e",
           "title": "CAN féminine Maroc 2026: les Lionnes de l’Atlas reprennent le chemin des entraînements",
-          "raw_title": "CAN féminine Maroc 2026: les Lionnes de l’Atlas reprennent le chemin des entraînements - frmf.ma",
+          "raw_title": "CAN féminine Maroc 2026: les Lionnes de l’Atlas reprennent le chemin des entraînements - الجامعة الملكية المغربية لكرة القدم",
           "normalized_title": "can feminine maroc 2026 les lionnes de l atlas reprennent le chemin des entrainements",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlNnSlM5eV9ZOENNRHUwOS1WZVZER2VORlhYX2R2VHNDNGlJY1JrUEZMR2kydGQ0OGdEX25JLXFnbkh3U0xFVDYzYXBfeWJ0dEJpSTBSQkV0Q3ZBYlFuRVR2TVRLQWdpaXhmUG10VUZVeldlMjU0T3djeC1RZXltbFpidmhsOHFNVnpRTzlZenpPU3VNbE5wQjlLV0U4Y05rZFUwc19TQm1OX05DclljNEtn?oc=5",
           "published_at": "2026-08-13T22:29:12Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "frmf.ma",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -24177,46 +24435,6 @@
             "name": "Le Desk",
             "url": "http://ledesk.ma",
             "domain": "ledesk.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "3633b7956972842b3443",
-      "title": "Maroc : les promoteurs immobiliers en plein âge d’or ?",
-      "published_at": "2026-08-13T17:02:53Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "question"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Jeune Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "b407f11454732a18141e",
-          "title": "Maroc : les promoteurs immobiliers en plein âge d’or ?",
-          "raw_title": "Maroc : les promoteurs immobiliers en plein âge d’or ? - Jeune Afrique",
-          "normalized_title": "maroc les promoteurs immobiliers en plein age d or",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMm1oeFJpbzJrX2FiUlZmN2puTHpLdmpqTVRENWlkaFFHQ0VZVkI2cDFtcjlraW1pclpGbnBqazVxelJTd2hpM0RsRnItRzRYVExLc1pTQjhRMkY4WEp0X3lyR3h1QnFWbnRuRkQwckFoazViSnJGMkQ2T3FQOUlMSDE3Uzh3R2xUQTBPbzBhQ0UzaU1SbnM3U3BBWXprRUhnY082UXVhaTA0Sk5H?oc=5",
-          "published_at": "2026-08-13T17:02:53Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Jeune Afrique",
-            "url": "https://www.jeuneafrique.com",
-            "domain": "jeuneafrique.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -33462,8 +33680,8 @@
       "id": "684711994ec42e0747d5",
       "title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b)",
       "published_at": "2026-08-12T23:08:24Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -33471,10 +33689,9 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 4,
       "sources": [
-        "frmf.ma",
         "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
@@ -33484,14 +33701,14 @@
         {
           "id": "4ce36de6100b6b0ddacb",
           "title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b)",
-          "raw_title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b) - frmf.ma",
+          "raw_title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b) - الجامعة الملكية المغربية لكرة القدم",
           "normalized_title": "can feminine maroc 2026 finale defaite du maroc face au cameroun 3 1 t a b",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTVOalNJaml6UFBINEN3ZnI3SmNNbWNTaGEwdzNyN2ZKanZING9DT1JNamt5OTdaRWJ6UHcxbWNaUzdKbm9vWF9TdTFyZnBjSDcwZXh4Mmdsa1pMR1dIbzN6TWlYUkJCVXBqb1MtZWNiUm54VTFaYmhLam11aEtVejBnZDJ6V1MyNkJUc1lTLU9JSm9NdXNaczBSRzFPUXBvWnc?oc=5",
           "published_at": "2026-08-12T23:08:24Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "frmf.ma",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -33517,14 +33734,14 @@
         {
           "id": "853209f52093fe28d4e5",
           "title": "CAN féminine Maroc-2026 (demi-finale): Défaite du Maroc face au Cameroun (1-3 t.a.b)",
-          "raw_title": "CAN féminine Maroc-2026 (demi-finale): Défaite du Maroc face au Cameroun (1-3 t.a.b) - frmf.ma",
+          "raw_title": "CAN féminine Maroc-2026 (demi-finale): Défaite du Maroc face au Cameroun (1-3 t.a.b) - الجامعة الملكية المغربية لكرة القدم",
           "normalized_title": "can feminine maroc 2026 demi finale defaite du maroc face au cameroun 1 3 t a b",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1QTMtdlRrTHVKcnQyVlFkRUJua2VjY1J5bTdYbHFMVFhMdVRLZkRObkNUXzB3NFZyclU3cmZwWDVjRjZKb0VqMXdZekQxUQ?oc=5",
           "published_at": "2026-08-12T23:02:41Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "frmf.ma",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -33534,14 +33751,14 @@
         {
           "id": "403101da0b6d7b415f88",
           "title": "CAN féminine Maroc-2026 (demi-finale): composition du Maroc face au Cameroun",
-          "raw_title": "CAN féminine Maroc-2026 (demi-finale): composition du Maroc face au Cameroun - frmf.ma",
+          "raw_title": "CAN féminine Maroc-2026 (demi-finale): composition du Maroc face au Cameroun - الجامعة الملكية المغربية لكرة القدم",
           "normalized_title": "can feminine maroc 2026 demi finale composition du maroc face au cameroun",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1JGZjRsYkdTeWtrVVhiWUtrS3RRZ0JDb29LMmtiZ245Q3Q3eUpLNzdzRzNVU1lZNTNUN3I4VjFQWXFNS2ZKSXVqcEoxVWFDd1JXUm4zRmQyMnBqcXhoejNpYmd0ZDA2YjdGTzRpcTRzdjZzZ3Ffa25pRmNNVGI4aGMwNXlHM0JFZ0hLWkdvR3dPMGZ3TUtHcVFneEZyQndlMGRN?oc=5",
           "published_at": "2026-08-12T18:52:33Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "frmf.ma",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -33986,17 +34203,16 @@
       "title": "وزير العدل المغربي: المغرب لم يعد دولة عبور بل دولة استقرار",
       "published_at": "2026-08-12T22:48:25Z",
       "status": "medium_evidence",
-      "evidence_score": 0.608,
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 3,
+      "source_count": 2,
       "article_count": 3,
       "sources": [
-        "skynewsarabia.com",
         "آخر خبر",
         "سكاي نيوز عربية"
       ],
@@ -34040,14 +34256,14 @@
         {
           "id": "437968f6180c7c440f2a",
           "title": "وزير العدل المغربي: المغرب لم يعد دولة عبور بل دولة استقرار",
-          "raw_title": "وزير العدل المغربي: المغرب لم يعد دولة عبور بل دولة استقرار - skynewsarabia.com",
+          "raw_title": "وزير العدل المغربي: المغرب لم يعد دولة عبور بل دولة استقرار - سكاي نيوز عربية",
           "normalized_title": "وزير العدل المغربي المغرب لم يعد دولة عبور بل دولة استقرار",
           "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNNmV6R182dHBvVk5BQmNaSlBJcHJab3BPa0p6NHZzY3BfQkNWalhVWll1b0RJMXZXczVyV2RRaXRNbUJibllua3YyYXVxOHNkZ01JeGdfNmYyLVQyT2VLQVhEVmVlX18wU0J6aUpXZnZCVzd0eFNZaGFWU1pQVFRleGJidEdLek1SVXJJck5UNXByekxZT1RFbHNlWDlEQVFxcFdWZm5lbTdBVnpZLVVqSWtPcENYN3hPZXZBMVVrRDhuS1JXS1ZRdHRzZHUxWEJjX0xyVDJ4ZmxCUmtoVXQ3SzUxTlprNWJ6ZmtqbldwQzMxdnJIZE1oQnBDajV5N0ZnVWJQRk9iSUNSYmVRX09KNmZXQlVMczY0Q05rQkVBYUU4UmFsVUJwU1VtM1J2cDNKdHhrVzNVLWFOOEVLbDBlVkd0enZqaVVfVDRsRk9EWTlJclotZmZxdW5pSTF3bS13TFhOa3VVMzJpVVFvWHFSbE5FckQ3SkwtdU5DLU5TRU4wRUdibEh0ZlZfWHdCYllpaFBiMUVFejZDVGVlckRBdkhKLUYwV25mV1NMZGU0dEE2VC10V0s4ZlZ2VTFobFRrYUVHcVVYMDFIUdIBzwNBVV95cUxPM0hSY2ZmM1k3Zm1yb3hsUWJVa2Vrb3F6TllSc3M4cGNmT2ZnSGZTU1phNEVoSHJadWZGNnVGNkZzRDV1aUxPVjhhYmhLYjFnNEpaNTBLR091bDE5ZW0zdmJFeG5IXzhZOTZXRXJ3U3pRbjRJS0pwSUE4MnRQOHlkS2pYM1RVbVRWNzYwZGpkM0RCLU5sQkpFeGhiVExtVmJZQ2VjYlFBUWZBb1VhNEtOaERTWjNKb0FhSy1uNnkxYV9wSnFRZkpQcUJMdVN2QWFRYVZYSlloTl9NMHpLdjJ5MGtlb0Z4c1hhc3BEeUFDWENmbjZQS2ZKV3pSRXNmb0ZyQUJSaHVoWWpLUDVNbFk1VUZKSUZiSEN0OWpiMmhmMGZPWWM0RFdUS2Zqb2VLdVZjRV9PdUxGNjRMdEdmUnhvOGJWNnhhU0Z1Zzg5V0YxUUJPblh2eHluWXA3bS1NR0o0SFgtYThVNHduWUdVYWltOUhRY1FJZkxVMFVUdTcwUGM5ZFJNMFgzSk5FV0RvakVEdi1SM05tTXI1YWN5T0NQSEo3QW1Ec1prdUZ2SWJGNDVHMkp3OGZweUE1cjkzY1BTWmNQQXJTNWdkdGx4TEhN?oc=5",
           "published_at": "2026-08-12T21:24:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "skynewsarabia.com",
+            "name": "سكاي نيوز عربية",
             "url": "https://www.skynewsarabia.com",
             "domain": "skynewsarabia.com",
             "weight": 0.35,
@@ -34468,7 +34684,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Le Desk"
+        "ledesk.ma"
       ],
       "languages": [
         "fr"
@@ -34477,14 +34693,14 @@
         {
           "id": "7cd7c32149f56fcae4c1",
           "title": "Avec Abdellatif Ouahbi, le Maroc hausse le ton face à l’Espagne",
-          "raw_title": "Avec Abdellatif Ouahbi, le Maroc hausse le ton face à l’Espagne - Le Desk",
+          "raw_title": "Avec Abdellatif Ouahbi, le Maroc hausse le ton face à l’Espagne - ledesk.ma",
           "normalized_title": "avec abdellatif ouahbi le maroc hausse le ton face a l espagne",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1g0UExRdGlPaDZDdnc0VXpBN2hoOUdDTXFsYjd6UzE4SW44NWJuQkZYdXVGYnlYLTNqT2RUXzhmcElsQTh1VVQwMnBBeVkxaHRmSjJYZ0NHNXZPMGNKQ0tlcjFlLXVTYmJlVDhybWJ4MkNrdDkzTFBYa0FjRVdLdUJRYmZWdVVEZnAwQXZjOEVvUFhSRGc?oc=5",
           "published_at": "2026-08-12T21:07:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Le Desk",
+            "name": "ledesk.ma",
             "url": "https://ledesk.ma",
             "domain": "ledesk.ma",
             "weight": 0.35,
@@ -40848,199 +41064,6 @@
             "name": "cafonline.com",
             "url": "https://www.cafonline.com",
             "domain": "cafonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b99e1db7758a9e9986fe",
-      "title": "Defense: Morocco Modernizing its C-130H Planes in USA - The North Africa Post",
-      "published_at": "2026-08-12T13:10:27Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "The North Africa Post"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "56b4e2a3dc249e8dbc3b",
-          "title": "Defense: Morocco Modernizing its C-130H Planes in USA - The North Africa Post",
-          "normalized_title": "defense morocco modernizing its c 130h planes in usa the north africa post",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUFXUlRUcENJZXRDZ3cxbHZ0QkFwenRWVjFRWjNiLVdtRHN6RkN3anJsS2F1VWJjdEUyNTl1R1lNWE1Lcm1VdmIwX2MxbjczSHAzRlQ5SXRMa0k1LTZlaUdUZDdQREVaUkJEckIwdFI3YXNZdmI1LWxzbG5Cb2hrcE9GLTV5REtJd20zQU9DemkyTGJBVHc?oc=5",
-          "published_at": "2026-08-12T13:10:27Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "The North Africa Post",
-            "url": "https://northafricapost.com",
-            "domain": "northafricapost.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "989ed70420fbc5ddf8d2",
-      "title": "بالتعاون مع المغرب.. الولايات المتحدة تختبر سرًا صاروخًا جوّالًا \"رخيصًا\" في صحراء طانطان - defensearabia.com",
-      "published_at": "2026-08-12T13:09:59Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "defensearabia.com"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "d879f1ea8b32a9d24e30",
-          "title": "بالتعاون مع المغرب.. الولايات المتحدة تختبر سرًا صاروخًا جوّالًا \"رخيصًا\" في صحراء طانطان - defensearabia.com",
-          "normalized_title": "بالتعاون مع المغرب الولايات المتحدة تختبر سرا صاروخا جوالا رخيصا في صحراء طانطان defensearabia com",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNeVdGVEpHV3htNlp0M1RseldOVTVTZ2xCMXdUenZNM3h5UENzazU2WW1FMG14WjZpMWpIWHZNWG1NQ3Fad29VRmdVTk5GOE9LTjdmQTZHakNzS0REaVBSMkc3d0dlQXRpVEVjLTRHZmVhRjJhRk1GX3hTdWktNjhvWjhaWkY2U2xMX0lUTDhaOUFhNHFpWFFTcHphaXhIZUJYQVZGeEpJcExNS1FGQUxCcFFZb0dIM25nb3NUWVRCeDN2S1BzaUJ5NktZY284ZEdreTV0bERFLTBhNE9MS3FXUTMyYnpMQjBGYUJRb1NtQ1l1Z2lGUDRYUjdfV2VqenYwYU1tU1RiSWhCOEtTRmNLa2J3aENTWTRBWXBVa0NQMGYwX3BRMEFPYXREUVVxaEVhak5GcEZBQkM1eVd5WWlIc05Db1ltSEZQaEpWaGJhclhMOTg?oc=5",
-          "published_at": "2026-08-12T13:09:59Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "defensearabia.com",
-            "url": "https://defensearabia.com",
-            "domain": "defensearabia.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "6da5e829280ac0d07246",
-          "title": "بالتعاون مع المغرب.. الولايات المتحدة تختبر سرًا صاروخًا جوّالًا \"رخيصًا\" في صحراء طانطان",
-          "raw_title": "بالتعاون مع المغرب.. الولايات المتحدة تختبر سرًا صاروخًا جوّالًا \"رخيصًا\" في صحراء طانطان - defensearabia.com",
-          "normalized_title": "بالتعاون مع المغرب الولايات المتحدة تختبر سرا صاروخا جوالا رخيصا في صحراء طانطان",
-          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNeVdGVEpHV3htNlp0M1RseldOVTVTZ2xCMXdUenZNM3h5UENzazU2WW1FMG14WjZpMWpIWHZNWG1NQ3Fad29VRmdVTk5GOE9LTjdmQTZHakNzS0REaVBSMkc3d0dlQXRpVEVjLTRHZmVhRjJhRk1GX3hTdWktNjhvWjhaWkY2U2xMX0lUTDhaOUFhNHFpWFFTcHphaXhIZUJYQVZGeEpJcExNS1FGQUxCcFFZb0dIM25nb3NUWVRCeDN2S1BzaUJ5NktZY284ZEdreTV0bERFLTBhNE9MS3FXUTMyYnpMQjBGYUJRb1NtQ1l1Z2lGUDRYUjdfV2VqenYwYU1tU1RiSWhCOEtTRmNLa2J3aENTWTRBWXBVa0NQMGYwX3BRMEFPYXREUVVxaEVhak5GcEZBQkM1eVd5WWlIc05Db1ltSEZQaEpWaGJhclhMOTg?oc=5",
-          "published_at": "2026-08-12T13:09:59Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "defensearabia.com",
-            "url": "https://defensearabia.com",
-            "domain": "defensearabia.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "67eeaf459fcd2b116f7d",
-      "title": "Les échanges Maroc-Israël grimpent de 69,6 % à 105,5 millions de dollars au premier semestre 2026 - برلمان.كوم",
-      "published_at": "2026-08-12T13:07:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.45,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail",
-        "quantified_value"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "برلمان.كوم"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "129e724fea9169982682",
-          "title": "Les échanges Maroc-Israël grimpent de 69,6 % à 105,5 millions de dollars au premier semestre 2026 - برلمان.كوم",
-          "normalized_title": "les echanges maroc israel grimpent de 69 6 a 105 5 millions de dollars au premier semestre 2026 برلمان كوم",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0pSd2htRkhlS3A5bVRkWFZxUTNFT1dxWkZpN3ZKTjFkNkVRbWhFeFFuVVc0R2JIWDA3d0tCUUlmaGVqZlBISllfcU95cjlEdzB0LUszcnhGRVAwTDdFRzI5OG9vVGZTQjJtejBLWmdRQ3lhbmd1cTR4aU42RE16aUVLYjNaeUtYQmxmeEZMY0Q0X0R2Y3RrV0p2MXNqZDVFSm91YnBVOXN5WFhhSlhqTmFvSDQ3Nm5qNUsw?oc=5",
-          "published_at": "2026-08-12T13:07:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "برلمان.كوم",
-            "url": "https://barlamane.com",
-            "domain": "barlamane.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "d3bae837095ba7117be6",
-          "title": "Les échanges Maroc-Israël grimpent de 69,6 % à 105,5 millions de dollars au premier semestre 2026",
-          "raw_title": "Les échanges Maroc-Israël grimpent de 69,6 % à 105,5 millions de dollars au premier semestre 2026 - برلمان.كوم",
-          "normalized_title": "les echanges maroc israel grimpent de 69 6 a 105 5 millions de dollars au premier semestre 2026",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0pSd2htRkhlS3A5bVRkWFZxUTNFT1dxWkZpN3ZKTjFkNkVRbWhFeFFuVVc0R2JIWDA3d0tCUUlmaGVqZlBISllfcU95cjlEdzB0LUszcnhGRVAwTDdFRzI5OG9vVGZTQjJtejBLWmdRQ3lhbmd1cTR4aU42RE16aUVLYjNaeUtYQmxmeEZMY0Q0X0R2Y3RrV0p2MXNqZDVFSm91YnBVOXN5WFhhSlhqTmFvSDQ3Nm5qNUsw?oc=5",
-          "published_at": "2026-08-12T13:07:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "برلمان.كوم",
-            "url": "https://barlamane.com",
-            "domain": "barlamane.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "5b8f0ca31422a4b6a3b9",
-      "title": "ظهر كـ\"تميمة ملعب\" في دوري الأبطال .. كلوب يحاول إقناع جوهرة البوندسليجا بتمثيل ألمانيا بدلًا من المغرب! - Goal.com",
-      "published_at": "2026-08-12T13:05:58Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Goal.com"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "95f92342d17c94bcfcd5",
-          "title": "ظهر كـ\"تميمة ملعب\" في دوري الأبطال .. كلوب يحاول إقناع جوهرة البوندسليجا بتمثيل ألمانيا بدلًا من المغرب! - Goal.com",
-          "normalized_title": "ظهر كـ تميمة ملعب في دوري الابطال كلوب يحاول اقناع جوهرة البوندسليجا بتمثيل المانيا بدلا من المغرب goal com",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPczdYV3o2Y1JJdGxnZ3oxYlMwLW9xU0pWTjNMX09OZjdtb29HbFpaUU1mVFNYemJZZHBvTVd0cXp4Rm9pQXRpdTF0c0ctSDlqck95RUs1NWVORlJqSWpUaTBucXRXdjZBVHhMSzlNWmd6TDR0aDFGdUJ0TnRVcEN4SVAxblN5UkctWVFhS2lseUF0T3c1dUJfbVhBSU1FMzBYSEtRMl8zbG5jVE1yX0gxRkpSaEhTdzUzVlZ2a0tGdVdnXzg5UmdnUWhkNGtvN1NIVXZYUDFpZGE2R2x6a0NURmwwNjd1OG1vdmJ1NFh2Mk0ta19tWFo1RlAyRHJ2Z1BXaDlyaG1XVWFGM2NrdTRWNmRjdVloZC1FVF9QY201OUhoLWVvYmN4NUp1SnhsamkxMGg5TF9naXFjMElrbWVCM3JhSVlLQjFRVWpYQjAtbkl6NjRKandGWlRYZE4wcUlVUTZMdWFVenZ6YU82emFMR19oRFZTazkwRGRKMVlBVUQ3WkNLYk9DTG1MTnY4MDIwQlpabFZGZGpJRmNqQTlHdGV6b0Y5M2VXZHhLOWFhaGhrRG1rYlNKMDNDVS1HX3ZPS3U1M3d5ZnFpVFlFWDhjRm5DaGIxd1ZOem4yclQ1TlM5OUIyWVc3U2tPcTc?oc=5",
-          "published_at": "2026-08-12T13:05:58Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Goal.com",
-            "url": "https://www.goal.com",
-            "domain": "goal.com",
             "weight": 0.35,
             "category": "unrated"
           }
