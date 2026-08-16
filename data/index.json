@@ -1,24 +1,64 @@
 {
-  "generated_at": "2026-08-16T19:33:26Z",
+  "generated_at": "2026-08-16T20:38:24Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1200,
     "fact_checks": 0,
-    "clusters": 948,
-    "sources": 334,
+    "clusters": 951,
+    "sources": 330,
     "matched_clusters": 0,
-    "needs_review": 864,
-    "medium_evidence": 83,
+    "needs_review": 865,
+    "medium_evidence": 85,
     "corroborated": 1
   },
   "fact_checks": [],
   "items": [
     {
-      "id": "2ddd825ab5acfacf04d1",
+      "id": "279761779b2c86933c93",
+      "title": "مئات المهاجرين ينظمون مظاهرة في سبتة الإسبانية ويطالبون باللجوء",
+      "published_at": "2026-08-16T20:32:30Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "alghad.tv"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "331687f8f7500c367fa5",
+          "title": "مئات المهاجرين ينظمون مظاهرة في سبتة الإسبانية ويطالبون باللجوء",
+          "raw_title": "مئات المهاجرين ينظمون مظاهرة في سبتة الإسبانية ويطالبون باللجوء - alghad.tv",
+          "normalized_title": "ميات المهاجرين ينظمون مظاهرة في سبتة الاسبانية ويطالبون باللجوء",
+          "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxQNWxHRzhqRVhLcV85M3NySzl2eWdtaHQ5NVpJcWIxVWhYVFJRUmlVZU1hZnVxUnI0czdkTU1sdFJvdUhZYjlCTzd3NElfUVV6eUpod2prZzh5T3BlMkNlN0dhWmZ0amxmV3BpN2NDTWRPSVY3ejRPTk9aM1p4alk0SHRNb21JSTVaZjk2VFVTQ0lxQ0pJdy1ZUFRtenZ1ZlJOdWJzTXpqTEVFbkFGTzYtQ2hnTDcyV0FBY2xfZm9wR2RSaElSQll4bEM3ZEkzRkdwa3YtaTF6UWgxOEoyeHdoaGEwNEJpcUVpcS04ZVQ3ZEZYQWhyNWtCS1hTTGxDU2dhejRSSUJVMkE1d3FoaENQVVdkMFA1aWVqelN3MVZ0NV8yaEhuQVc5RWZTeUNNcVVSSUtzRHJ4V25PMlAyYTF6ajVBMXVNS1h2S3NkRkVpVzhIYkE0TlZVUDBVVVMydG5tcGRmNnc2b2dwZWhhRElrY0xoTnJwRVprTS1yYng3Uk91REw0eG1EbmdHd3QyVDFKczZmOTBPaUJobWxrRzBYWWg1dDI5UXZUcnRiWTZacDFJZmJMVzh3S190dkdnYkxOY0RscTBYbU55VG1qMkJRcC1XeTlCdjN3T0pfWXRtSGl1ZUhTeFk1T2Nxc09nbGZDYXY0UXFpRGJuVkZ6ZWRBaEJxNDJwYjJFWmFxMUJ5djhlZ2I3YkZkMUJ5bG5PeG5yckxaeFdBQ01Qc1liaWZXUy10eDRCTkdtUHlCRWNpNDFXTEhOWWN1WHdWSXB5Zw?oc=5",
+          "published_at": "2026-08-16T20:32:30Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "alghad.tv",
+            "url": "https://www.alghad.tv",
+            "domain": "alghad.tv",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dcf0b7747bf911d1971a",
       "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
-      "published_at": "2026-08-16T19:27:13Z",
+      "published_at": "2026-08-16T20:15:01Z",
       "status": "medium_evidence",
       "evidence_score": 0.608,
       "claim_candidate": true,
@@ -28,10 +68,11 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 3,
-      "article_count": 3,
+      "source_count": 4,
+      "article_count": 4,
       "sources": [
         "Al Jazeera",
+        "Bozeman Daily Chronicle",
         "KTVN",
         "The Washington Post"
       ],
@@ -45,7 +86,7 @@
           "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta - The Washington Post",
           "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlZ1czA0bVRkYm5CSGRLYkNNR2dXZFNTZ08tZ2xEUTVGVVlGNVR0cXJRdnA0a0dFZlZFeDNQWk5JWTkyVWZwUlZ2cjdYcFQ4SlJkRENVNWlPcWxvV0lCTW45ckRqSFlVWEszWTJGcVNUajVkM3RRclNEM25zWlVDVzlxX2dVeGE4UjhrZENVQmU4RDJpcDVzMVJ1ZFV4Q3VMNVhzY25SMk80QVlXbjRLcUtfT2kxLUtmTzRqUVU2VVlIZlE?oc=5",
-          "published_at": "2026-08-16T19:27:13Z",
+          "published_at": "2026-08-16T20:15:01Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -74,6 +115,23 @@
           }
         },
         {
+          "id": "df665956a1f1bafd815b",
+          "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
+          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta - Bozeman Daily Chronicle",
+          "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOX2U2R2k5anBWSVduOW55cHhVczF0bDJpR0E2ZXRNbnduSUJDdEJNSVJfbjFUR1lOWVdPbmU2T1RJcF96TmZUdmpsZEZjTWc5eWdYM3VfYnoyT1htOFM3OTMydHREUG5KMnZxR1ZITTY3TlhMVnlrTU82Wnl5LXBTLVdRNVFCcjVsSnlvOWR5bVFxNURiVkF1OUJlMGpLTnNsbDBSdHFqNGNBRGZaSWlhNno1eXZTamUybXNyYW56Rko3UENHVkpJUHdWN2Zjb1R0Ujk5TmlnUXgybDhKMEJWQ3ZMTGFOMVBtRHR0emZaTEdnQWx3cVJlMnFCOGZwNWJ5RklGZHBaeVcwTXJLZkJtRWJhaDY1Nmc?oc=5",
+          "published_at": "2026-08-16T19:05:59Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Bozeman Daily Chronicle",
+            "url": "https://www.bozemandailychronicle.com",
+            "domain": "bozemandailychronicle.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
           "id": "99588d2db2ec3ccb76db",
           "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
           "raw_title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave - Al Jazeera",
@@ -93,9 +151,297 @@
       ]
     },
     {
+      "id": "dae83161278c96aa4d03",
+      "title": "كسر التعتيم الإعلامي ضرورة ملحة لفضح انتهاكات المغرب",
+      "published_at": "2026-08-16T20:09:58Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "المساء"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "874e970c6f2afaaff442",
+          "title": "كسر التعتيم الإعلامي ضرورة ملحة لفضح انتهاكات المغرب",
+          "raw_title": "كسر التعتيم الإعلامي ضرورة ملحة لفضح انتهاكات المغرب - المساء",
+          "normalized_title": "كسر التعتيم الاعلامي ضرورة ملحة لفضح انتهاكات المغرب",
+          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPczlrcGNJdkdqcW5Wb0VLTXRYOVFhRWFnN3RYS3k2LWlQMUpWSHZSNWVqS0o1d200UGZHeVViR1lRVEJZRWhqSFRRWjhQT1g5bWxQaUdQUm5yb1VTWnVfQ2djSkhfWlBNUU01dHNKQlRlQ1pnUkw3enpDTkJ3S2MtUno5RnBfa3FVMVNRS0UzRllLQXJodmdtTEV3ZThUdW82RTlwUVBYaDVvNzBFaThnVy1wVnFDeUlLbzJ5LThSbVVCUGdRdVhOQWRjWkN2WWd4eDFKdDd4NlQ0RW8zSGVLNTNYZ05ZUHpBQkE1OE80Rmh6VlktdW1NT3c5c3JJRHV0WTJoNVNDOHV2Z2N2NVVuSXpNSG1QclhYX3M0OHJOUjJCU2tHb2R1NHZ0ZEZDc3ltY2tuZldHVDJYckp3VTAtRlRsSUdBWHJYOS12cVVQczNVRndXUTF0UEJYRFdsVzM2X2drTnZVSHl6ZGtKa3N0MVlBSEROQXZ1aDNfUmpUSExidFZ1WlJqTmVZUVVkTzJOWFhjak5PSVV4WWZrUjZfYnpyNWVkOU51cElHOERzQlNfTUxORW50X0VlR3RPUURhRmE1OG5aMWVBcDc2OUFIaDlCd2EzdVU0ZU4zMHh0c1BlMHdN?oc=5",
+          "published_at": "2026-08-16T20:09:58Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "المساء",
+            "url": "https://www.el-massa.com",
+            "domain": "el-massa.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9b3ed68712a2227e5709",
+      "title": "تصعيد إيطالي ضد المغرب يعيد \"أزمة سبتة والهجرة\" إلى المربع الأول",
+      "published_at": "2026-08-16T20:02:53Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "ff134c82242fdab99fd7",
+          "title": "تصعيد إيطالي ضد المغرب يعيد \"أزمة سبتة والهجرة\" إلى المربع الأول",
+          "raw_title": "تصعيد إيطالي ضد المغرب يعيد \"أزمة سبتة والهجرة\" إلى المربع الأول - Hespress",
+          "normalized_title": "تصعيد ايطالي ضد المغرب يعيد ازمة سبتة والهجرة الى المربع الاول",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZDBZdHB6dGt6VTE0cDVLVkotd2VVOFRzcC11WmpHUENfT19TWHRhak12V1lHaktrSGZtSUszNGJlUUNseVpfTFlXX204aTVyM0dUMFo1QURZeGljcUtwZEFsR2RZYXpMaXhjdFJlaHNTNEJrSEtEQWlMc0JBQUlQZ3BoVkp2WkFMOUNWR3JfT2lfMTdYX0p0ZjgtUGN2WWhfazFSLXN3Y3lMZTZ0S3FzRURwTld3Wk1ORUwwNUxMTHdWZ190LXNGdUxzd0ZuMGE4UjE2TmtFWGNFX0JMX25Ia0ZOaUc0VE55bkdRTl9BUDRacUJXNDJvYmUtVFc4S09kRVNMRFpRZ3hEZFA1WktYc2lhR2tKVFpnYjV3NkZHQXoydzdzTFNaMXJfbUVYaUtZYVlCdHVUc0Njb0pHYUlFZEl3V1F3dDBQR1VaVEdIMA?oc=5",
+          "published_at": "2026-08-16T20:02:53Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1c59c323c87899649179",
+      "title": "Maroc : un nouveau cadre légal pour les animaux errants",
+      "published_at": "2026-08-16T20:01:38Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "APAnews - Agence de Presse Africaine"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "9bd2ec560211e66b0d90",
+          "title": "Maroc : un nouveau cadre légal pour les animaux errants",
+          "raw_title": "Maroc : un nouveau cadre légal pour les animaux errants - APAnews - Agence de Presse Africaine",
+          "normalized_title": "maroc un nouveau cadre legal pour les animaux errants",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3paNjJMX0hCZmJHSllfcW9hb2FfYnVEdUkya19MY3NlYl9mSm4waVZKRUZhTGlSeG9KRGUxZ09SUVZ1cGd3a3B2cFMxeWFJQnJpSU5BLV80bndteUdvZG1FektKeDJ6bTY4TkNlbC1jVDJ2RENqak1CRWdCb3NURS1YMDNoUzd3QXR4Yg?oc=5",
+          "published_at": "2026-08-16T20:01:38Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "APAnews - Agence de Presse Africaine",
+            "url": "https://fr.apanews.net",
+            "domain": "fr.apanews.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f01d4298bb37f280769a",
+      "title": "\"لقد سئمنا\".. مهاجرون في سبتة يطالبون بحق اللجوء",
+      "published_at": "2026-08-16T19:58:53Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "DW.com"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "727b2450327ec84bde59",
+          "title": "\"لقد سئمنا\".. مهاجرون في سبتة يطالبون بحق اللجوء",
+          "raw_title": "\"لقد سئمنا\".. مهاجرون في سبتة يطالبون بحق اللجوء - DW.com",
+          "normalized_title": "لقد سيمنا مهاجرون في سبتة يطالبون بحق اللجوء",
+          "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOb2pSakpYZ2U2YUtJWUFyRDN1dTVnUlhveTUwZDhZSTVtR0Y1QTBubE5hMWlKeFlCVml0M0RYZ05RSzlLYXc4Ym5hQ3BPdFNjc2lmX0hvN1RZTW9fdkcxWW9MUl9QR3M2bDRyV0VKVWJabWdIX09yREZOUFhBVVhvb1dFTDhDbVVOdzEwUGZUb3VfbUp2eFhZYUMzY0NSZ2FyR0pOUWE4cjM2bEJXWmJuZ2tNWm5QbzRLZFdkcUxFVm9fVWxnZUo1dmlNWjlSamY1Zk8tckxPOW0zOGJMX2tsazhIN1A5SzN4UVpJbFN6VXNSSzNITjVvaTk5VHl0c2ktUjhUYUxDXzhvOWNSLWhlUlA4WFpUdF80ekw2UU50eDNiX3VNbnVkQ2ZTbmRBMElBQmhPQ2FpalhFWEFITmlBR2hQUnU2QTZ3UGNYV3l1RjhoQ0NvSFNGVTNiYVllTktOeUtWZlAwY3hQQ2g3NVNXbEh1RnBOaHdsM2fSAfoCQVVfeXFMTl9FbXdITXFKYm45LTFyRUFrN3BCalAzeWlJeHNHTDgzbmFhZ2Q4ckVyUzRXdlhVclE1NjN3N1ctOGFFUl9kMXZrNXNuVFhxbWwxZzNiTmdpd05LWmg3NGZmeGhuczBmTDVnLVU1ZGdHVFkyRy1CeHYtVnROVWIyQndIV3hVaVdDdURqc0lEUk1qVXI5TWZYLUFKQUU2VTJGMTZvWF8xY0gxeHBwakVkMmxCSUZOSEhYVnVJdi1jS2xteFJKNFNWLW11c0dQYnNMMmM0QTZlRnBnckNTeGh0ZnBlMU1xRm5vOUQ2ajBRcjNIRG52MXpEWktYLWxzSk5PTkpyOXB0VE03V1Q1aHVTaEItcHRWNXhKN1JkT0dfZGtpTW9rY0s3N3NQRUtib21NNkJZSVQ4N3VvcVI0OXotdnRvLUU4bXFjWE9PcWtndGF6TTU0RDh1ZVFESEJxcEpyeTh1MmdiRC0wWGV2VGFUSHpBQm1rdzZnb3JR?oc=5",
+          "published_at": "2026-08-16T19:58:53Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "DW.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "07777c22dd1dddf06737",
+      "title": "Morocco detains dozens of migrants trying to enter Ceuta",
+      "published_at": "2026-08-16T19:35:33Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 4,
+      "article_count": 6,
+      "sources": [
+        "AOL.com",
+        "BBC",
+        "DW.com",
+        "Yahoo News Canada"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "69b0253cbfaff4a5e2ef",
+          "title": "Morocco detains dozens of migrants trying to enter Ceuta",
+          "raw_title": "Morocco detains dozens of migrants trying to enter Ceuta - DW.com",
+          "normalized_title": "morocco detains dozens of migrants trying to enter ceuta",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW9Vd1hvcjBiMXpzZmNuLXhkOWw2MjhNek0tSF9SWU11d093TUhYNzdCa1RvVFV3MzBaV0U3Qy1lRXg1bDJzTGRKSTNUc2VZRTA1QVVQNUVZcVA1b3dEX0l5STZNWVZYalBzZHNheHl3SUxSRWp0UE1ISmR5ekd3cHg1M25BWlVjWjBJdkNZTERZZDNFMXB5cVltR0lyamRncnoxNTMzYzAwMVZxTktPWHdxa2dFNWd1VUhydkxR0gG-AUFVX3lxTE8xbUxMNU4xQXRWUUw3bjdkQm5JbGFqRzFIckRYY1dyRG9vN2VGZ1MtdWFqM0ZodGlGODA3QXhLS3ZoT0RuWkZDTXVEZl9udDlYanI1RWpPaUxmOV8wdUlFYzQyWnVhY2Zta3ZxV2JMMmV0cGpkd2xESU1ZYmFidVByMGMtcTNHeUd6TVQzUnJDQ01qbVh5YW9VNW51TXlubnM2VXhLc1dKaWJESWNLOFRQeE05WEE1RXUwbkJMNUE?oc=5",
+          "published_at": "2026-08-16T19:35:33Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "DW.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "61311d339dcef9c443c7",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - AOL.com",
+          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHNQaElxSG9PaVE5cUVYLUlKaWNlb2JUU01hWHlLek91ZTlKQzQ2V2w0bVJNWDViNFRDbzNBUUtndmxpU0xDQWVIaFBmSVlybzR1Sm0zbFRZRUhGaEk1c0NDY1VCS21nQWdJQmtMMXpaa1FZb1puU3lKai12SzNpT0NNYkNMd2tUZkE?oc=5",
+          "published_at": "2026-08-15T21:13:16Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "AOL.com",
+            "url": "https://www.aol.com",
+            "domain": "aol.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "728322e88246b94e0f56",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - BBC",
+          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUJFTzFmbzVJQUhUYktRSUFORGg0QTFUYkdlWXI2OGlFYk54aTVGQ0NGS0JuRWRENllLWlFGTDNVbE51aldXQk1ia2pyMm14Vi1DQ2NvTGxTQQ?oc=5",
+          "published_at": "2026-08-15T20:58:31Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com",
+            "domain": "bbc.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "edbedabb72d91b259597",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta - Yahoo News Canada",
+          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXNRY0o0ak1DaUFSSzhHV25OTFpRRFhISFlGeFNtM0FBaE5LOUMxQkowSm1zcDlSNkRQb3NmRUl4V3hoSmw5ak9mTHNiRjZEX1VvQlYwNFkzWDdPM0FpM2VqSEYzTkVCd2RMWVFEU1pFWEpsamdpbVZIWVFUcXA5QmtsS2tfQQ?oc=5",
+          "published_at": "2026-08-15T19:16:46Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Yahoo News Canada",
+            "url": "https://ca.news.yahoo.com",
+            "domain": "ca.news.yahoo.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "031a648cfbac5df76f1e",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta - BBC",
+          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUJFTzFmbzVJQUhUYktRSUFORGg0QTFUYkdlWXI2OGlFYk54aTVGQ0NGS0JuRWRENllLWlFGTDNVbE51aldXQk1ia2pyMm14Vi1DQ2NvTGxTQQ?oc=5",
+          "published_at": "2026-08-15T19:16:40Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.com",
+            "domain": "bbc.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "b1552b959cbd65a5d9a4",
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - BBC",
+          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JUlVoWFZvcXNsVGRhMVJDSWRkNHpJMW05cHJFUFloZVVpaEtIZE9iVjl5bVlzczdPdkRqSXE2UG1RZjNEZkNOMmNXaWZkNkpvRHd5WTF1OFlXZU1f?oc=5",
+          "published_at": "2026-08-15T19:16:40Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "BBC",
+            "url": "https://www.bbc.co.uk",
+            "domain": "bbc.co.uk",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "4b0c5e9bc44de70a0857",
       "title": "Ceuta and Melilla: How Toughness Towards Morocco Pays Political Dividends",
-      "published_at": "2026-08-16T19:20:07Z",
+      "published_at": "2026-08-16T19:20:24Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -119,7 +465,7 @@
           "raw_title": "Ceuta and Melilla: How Toughness Towards Morocco Pays Political Dividends - Morocco World News",
           "normalized_title": "ceuta and melilla how toughness towards morocco pays political dividends",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0hiYnFlRkUxaENTYXdkTG1oRTV5enlVVUFCdkluSndCbWJmdU9kbzBLQVBoZ0hyR21ieWU2QkIxeWVEcmp6eFNzOS1IaUo3bWxKTUhQV05Wc283bmV3TXVVb0Voamk0Y29HSy1ESjY4bUN3WDZwX2hDS1IzYks2QkswZmdzS1N3WkdXdGpGQW5vUjVlSDRWa0l1RklNOUxxbUZWWXVHVEdBVDJqME1kNFFJT2RweDhFMENIdllB?oc=5",
-          "published_at": "2026-08-16T19:20:07Z",
+          "published_at": "2026-08-16T19:20:24Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -249,6 +595,87 @@
             "domain": "bladi.net",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4eb564029822e6e6c1c",
+      "title": "\"Un diamant brut\" de 17 ans, convoité par le Real, future star du Maroc: Abdellah Ouazane auteur du but du week-end pour ses débuts avec l'Ajax",
+      "published_at": "2026-08-16T18:45:25Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "RMC Sport"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "f31f651748535b1ff3f6",
+          "title": "\"Un diamant brut\" de 17 ans, convoité par le Real, future star du Maroc: Abdellah Ouazane auteur du but du week-end pour ses débuts avec l'Ajax",
+          "raw_title": "\"Un diamant brut\" de 17 ans, convoité par le Real, future star du Maroc: Abdellah Ouazane auteur du but du week-end pour ses débuts avec l'Ajax - RMC Sport",
+          "normalized_title": "un diamant brut de 17 ans convoite par le real future star du maroc abdellah ouazane auteur du but du week end pour ses debuts avec l ajax",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOVzZqaThwaGh0MnUxQ2FsWWVlUVNCaHExV01CQU9VazNMTk1rTlR6S3NzLWxHTDFCcURfaGo0cjhMMm41MFR4VDhmZTVPV1FldFJyM1M4ZGFsdEVKeGJEN0F1Yzc3Rl9tQXlEbTg2emFqeno4WGtoalM3T3otci1kU3lZWmxuZ2lOR0dlajNQazFNOWg5dDV1YXpGTVlXcThIOVpwY3FlaENUQ0xqdXVQRmFYV09NRGJGanNTSFF0V25zLVlRVWN2dkhMUWFXOW4tcWl2Q1YtcVAwRGlKSDJuSUZVOGh4OHo2RkV1RUdoUzJMdzdWM2wtZEJRMjlWZEtQcEFDX3FtZTMxTWg3Y1I4QlNMaTVHSFJiT3VQT2swaWs?oc=5",
+          "published_at": "2026-08-16T18:45:25Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "RMC Sport",
+            "url": "https://rmcsport.bfmtv.com",
+            "domain": "rmcsport.bfmtv.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eaf6b59a42d1d752b4c1",
+      "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
+      "published_at": "2026-08-16T18:36:25Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Reuters"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "fbf073227e8ae4431460",
+          "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
+          "raw_title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
+          "normalized_title": "in spain s ceuta hundreds of migrants stage protest and demand asylum",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
+          "published_at": "2026-08-16T18:36:25Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "domain": "reuters.com",
+            "weight": 0.8,
+            "category": "newsroom"
           }
         }
       ]
@@ -609,7 +1036,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -618,14 +1045,14 @@
         {
           "id": "9405ef9f2631fa37622a",
           "title": "Au Maroc, la Corée du Sud sonde un marché du dessalement qui réclame près de 800 millions de mètres cubes supplémentaires",
-          "raw_title": "Au Maroc, la Corée du Sud sonde un marché du dessalement qui réclame près de 800 millions de mètres cubes supplémentaires - barlamane.com",
+          "raw_title": "Au Maroc, la Corée du Sud sonde un marché du dessalement qui réclame près de 800 millions de mètres cubes supplémentaires - برلمان.كوم",
           "normalized_title": "au maroc la coree du sud sonde un marche du dessalement qui reclame pres de 800 millions de metres cubes supplementaires",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZmFQSUhhcmFONUZiUTdZaC1TUktrbUsxWGszdlVraDBGUFcwaFJZYmh0UkdnSG1GSU1LZ2FwTlRBUmFDaGh1UDl0X3VtQTc0SE1NRW1sdVhmYzZNUU1MNGVwcU12M04yalBpbVJmT2FXSnpsUWtzSGRJOFQ2Qll5emQtMk1zMXdZM3lUZk9PUVlXbWVkemdHaXJaLWNJd3U0Nk1kQlNzUWJrS1ZWMEJtVWxuZkhtNm9HQUY4YXJqYngtZ0pYdXo5eWFWNkpkRnhNRlJITDA4ODdaYVBlYS1N?oc=5",
           "published_at": "2026-08-16T17:27:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -715,6 +1142,46 @@
       ]
     },
     {
+      "id": "47d8733c5f84f8da6885",
+      "title": "Le Maroc règne sur l’argan, mais ce sont les autres qui empochent l’argent",
+      "published_at": "2026-08-16T17:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Bladi.net"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "90a8dba33947aebe33dd",
+          "title": "Le Maroc règne sur l’argan, mais ce sont les autres qui empochent l’argent",
+          "raw_title": "Le Maroc règne sur l’argan, mais ce sont les autres qui empochent l’argent - Bladi.net",
+          "normalized_title": "le maroc regne sur l argan mais ce sont les autres qui empochent l argent",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aTEt1T0EyOUJsTTR1SHR2U1pOM20yRmhGQ2tfMGlfcGZQV1dsX0lNRW91dl90bjdhbUNrWlRiOTZLVzgyTENlOU5xUVViaW5yQzBwMTBUMzVlMGtiMDFuQmhQUjlqQm9oUnN5UF9ndjdlYjFXaE13?oc=5",
+          "published_at": "2026-08-16T17:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Bladi.net",
+            "url": "https://www.bladi.net",
+            "domain": "bladi.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "af724eba73c313184706",
       "title": "16 قتيلا في تبادل للهجمات بين روسيا وأوكرانيا",
       "published_at": "2026-08-16T16:47:29Z",
@@ -730,7 +1197,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "صوت المغرب"
+        "thevoice.ma"
       ],
       "languages": [
         "ar"
@@ -739,14 +1206,14 @@
         {
           "id": "9e9c012a44082b2903a6",
           "title": "16 قتيلا في تبادل للهجمات بين روسيا وأوكرانيا",
-          "raw_title": "16 قتيلا في تبادل للهجمات بين روسيا وأوكرانيا - صوت المغرب",
+          "raw_title": "16 قتيلا في تبادل للهجمات بين روسيا وأوكرانيا - thevoice.ma",
           "normalized_title": "16 قتيلا في تبادل للهجمات بين روسيا واوكرانيا",
           "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPTzZseUtnOEllOUEydVFYQnRnVnBRYi1GRVU2UEZocVdwcm5ObW9pbnNuTXBkeVZveVhGd0N5QkdUUnJtdlU1Uk05Rk5GMjhLTzR1Q0h3WTNrUnY3b1g4YlZQeDZab0VmRGRIcV83VXg3cGM4TFl0T2NyRVphUU1rUTFYSTlvU2xQa2dZWTBtbmVieFQ1dGhRcjRMZWFoU0oweGZoMlhneHlVVG9OSVdMN1RhQUZ3eklmLU1wQVJrZVN6SnhJaEFDOHZZZ1NqYVNwSGxxY254NXFub1NHZ20ydElmZjJpYjRIVFF0QXI2djludm1vZ05TeUJ1Tmw3WWVubENSSlRrQWYtM2FGdnpaU1FKcDlRZnN2VWpoVTh2UG04SkpaTS1GcmJZT2hfbzNEY3VMaWctcXNOQWdx?oc=5",
           "published_at": "2026-08-16T16:47:29Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "صوت المغرب",
+            "name": "thevoice.ma",
             "url": "https://thevoice.ma",
             "domain": "thevoice.ma",
             "weight": 0.35,
@@ -756,7 +1223,7 @@
       ]
     },
     {
-      "id": "ebb9612149de574c4422",
+      "id": "418f97a8dc348d1e3269",
       "title": "Migrants seek asylum in Ceuta after crossing from Morocco",
       "published_at": "2026-08-16T16:42:50Z",
       "status": "needs_review",
@@ -768,7 +1235,7 @@
       ],
       "fact_check_matches": [],
       "source_count": 1,
-      "article_count": 1,
+      "article_count": 2,
       "sources": [
         "The Lufkin Daily News"
       ],
@@ -782,6 +1249,23 @@
           "raw_title": "Migrants seek asylum in Ceuta after crossing from Morocco - The Lufkin Daily News",
           "normalized_title": "migrants seek asylum in ceuta after crossing from morocco",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSFRZcXRsZVVhWm40d0ltcmsyTWRMeTNxSlBIMjlPcnVDdlhyVUxKY2RIYlpTZEFJWlR4ci02OXJQLTRtbEFiOUhoRlhSakhkUGNuZHVGbW1oY1JHTmNfLXVna1hPUXI5ZjhtQThRYUdEZ2ZQWGNrb1hfNloycUNVNHA1RWprdUtpNVBkekFxVzZkUktNQjFBWVBKcTk3QlJqSkNrTDJEZjRyWkE5QnNseGVlSjRWak9kYlBuZ3dlSjQtUVVkVnRPUnF2dXpIYU5pQWxmOGhkVEhsanJ6Y2FVWVZ5aWo5c2RoaUhz?oc=5",
+          "published_at": "2026-08-16T16:42:50Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "The Lufkin Daily News",
+            "url": "https://lufkindailynews.com",
+            "domain": "lufkindailynews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "278a2620af085c5507d1",
+          "title": "Migrants seek asylum in Ceuta after crossing from Morocco",
+          "raw_title": "Migrants seek asylum in Ceuta after crossing from Morocco - The Lufkin Daily News",
+          "normalized_title": "migrants seek asylum in ceuta after crossing from morocco",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWVJbGxJbHc3dUM2d240X0RLMGVKcnBSZWZRNnFnSmpvTmdtYzJtcVM0U3l4cEtmTTlNc3JPWDliTHdXVzlmeDcxR0E5M0lIaERDVy0yXzFscHdDVWtTdEZhcFFLemo3U1k0ajRMME9FbGFJY095N1d2TE82cFN0MkQ5WGxZaTFYek5kMEhDVmtoQ0NsSlF5QTIyYnlIbFI2VmZKZ3RINHNQN3BXR09wTTB3ckJWWVJVTEc0VzRrWk04bzU2dENmYWd5VnBfS1gxU2FmUEtyaGJ2bTNNU0pFRDRIdGNBc044ckdZ?oc=5",
           "published_at": "2026-08-16T16:42:50Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
@@ -975,46 +1459,6 @@
       ]
     },
     {
-      "id": "b4d7a19e73b136dbd5c1",
-      "title": "Rugby à XV : Le technicien français Bernard Goutta nommé sélectionneur du Maroc",
-      "published_at": "2026-08-16T16:32:46Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "3dfbb541214c36469dd2",
-          "title": "Rugby à XV : Le technicien français Bernard Goutta nommé sélectionneur du Maroc",
-          "raw_title": "Rugby à XV : Le technicien français Bernard Goutta nommé sélectionneur du Maroc - Yabiladi.com",
-          "normalized_title": "rugby a xv le technicien francais bernard goutta nomme selectionneur du maroc",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5wWm5DRnJQV1pha21Jc1pKdmhfSVNQXzgtYVN6aENSUkUzcEJUOXZ2RlQwdWJ0WFFCNHplY0hyaFFUTVBPeVg0S2haMU9QdDFIT3o0c0FhVklURnpRY0ZVLUZtS0pjc2dTOFpoNktFMTI0NlR6TGF4YUR1VDhlcjFhWHVEQnlsTFFMWEt4VFQxN1U4ZnFLTnpn?oc=5",
-          "published_at": "2026-08-16T16:32:46Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://www.yabiladi.com",
-            "domain": "yabiladi.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "638f92e97a43702e989e",
       "title": "Météo | Orages, grêle et fortes rafales: le Maroc sous vigilance orange",
       "published_at": "2026-08-16T16:30:55Z",
@@ -1049,6 +1493,127 @@
             "name": "Article19.ma",
             "url": "https://article19.ma",
             "domain": "article19.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff11da70a0be5a17bcda",
+      "title": "Royal Air Maroc to Reach Fleet Record With New Boeing 737 MAX-8",
+      "published_at": "2026-08-16T16:25:33Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Morocco World News"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "eb0da8971592141059c9",
+          "title": "Royal Air Maroc to Reach Fleet Record With New Boeing 737 MAX-8",
+          "raw_title": "Royal Air Maroc to Reach Fleet Record With New Boeing 737 MAX-8 - Morocco World News",
+          "normalized_title": "royal air maroc to reach fleet record with new boeing 737 max 8",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU1NLa3hiUnJ4REwwaTk5Si1ZTEhFVkdvYWhBazdheXNJbl9MbUNrcWh6azljVTJla1ZucFhjMXZodXhnYVNpRFRqaklqeXhZbUpSTXI0SDdTV2ZvVmFiYTMtUV82V2xzS0ZmTzByMWlrZXhnZE5pTERQWHMxUnlEUFhBVXFXSXZPRjNGaVNDZmVpSE13Z29rcGZuQUg4WEw2dHMtU2pZaTA2ZFZ1VEVCeDRR?oc=5",
+          "published_at": "2026-08-16T16:25:33Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Morocco World News",
+            "url": "https://www.moroccoworldnews.com",
+            "domain": "moroccoworldnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1558888c7a75220fc5b6",
+      "title": "Algeria edge hosts Morocco on penalties to claim historic third place at WAFCON",
+      "published_at": "2026-08-16T16:21:35Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Flashscore.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "16fdaca1fcb302dc262a",
+          "title": "Algeria edge hosts Morocco on penalties to claim historic third place at WAFCON",
+          "raw_title": "Algeria edge hosts Morocco on penalties to claim historic third place at WAFCON - Flashscore.com",
+          "normalized_title": "algeria edge hosts morocco on penalties to claim historic third place at wafcon",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON0lmZmUtUGZFZEJDZ19oT2lPQVdVcXhuVVVoaVNxMF9BX1dKZG9yaVpGMk1takJWVXJxd0o0NTRIQm93RzV3ODRyWHA1SXlCd0dDaF9QOWFJNDJDaDg4dFZlbnlkbUg4R0ZwVlhwMWUtX2RhVzh4dkFuWWZmVmpkbEg4OURVck1CbFhDOG9uem5zOVZXbjlJVnlITnBzVnQxOGtpb243MEZ4SUhla0NMV0w3NjZ5d3dad1NyVnBseWFuRXVjRThWb2g1SWVxdC1naTFJXzJFSDVENTVuVWhv?oc=5",
+          "published_at": "2026-08-16T16:21:35Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Flashscore.com",
+            "url": "https://www.flashscore.com",
+            "domain": "flashscore.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4d7a19e73b136dbd5c1",
+      "title": "Rugby à XV : Le technicien français Bernard Goutta nommé sélectionneur du Maroc",
+      "published_at": "2026-08-16T16:20:44Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "3dfbb541214c36469dd2",
+          "title": "Rugby à XV : Le technicien français Bernard Goutta nommé sélectionneur du Maroc",
+          "raw_title": "Rugby à XV : Le technicien français Bernard Goutta nommé sélectionneur du Maroc - Yabiladi.com",
+          "normalized_title": "rugby a xv le technicien francais bernard goutta nomme selectionneur du maroc",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcE5wWm5DRnJQV1pha21Jc1pKdmhfSVNQXzgtYVN6aENSUkUzcEJUOXZ2RlQwdWJ0WFFCNHplY0hyaFFUTVBPeVg0S2haMU9QdDFIT3o0c0FhVklURnpRY0ZVLUZtS0pjc2dTOFpoNktFMTI0NlR6TGF4YUR1VDhlcjFhWHVEQnlsTFFMWEt4VFQxN1U4ZnFLTnpn?oc=5",
+          "published_at": "2026-08-16T16:20:44Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://www.yabiladi.com",
+            "domain": "yabiladi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1092,6 +1657,46 @@
             "domain": "alittihad.info",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc1af2b7fc9f9b64ece2",
+      "title": "ألباريس: المغرب شريك استراتيجي من الدرجة الأولى",
+      "published_at": "2026-08-16T16:01:29Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "e274f50e1d8bbb72608e",
+          "title": "ألباريس: المغرب شريك استراتيجي من الدرجة الأولى",
+          "raw_title": "ألباريس: المغرب شريك استراتيجي من الدرجة الأولى - SNRTnews",
+          "normalized_title": "الباريس المغرب شريك استراتيجي من الدرجة الاولى",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9zcEFrcjRVZ3RDVVNxQ2ZNc0N5VFljQXpUVDRKQ3ZfeWM4VnRBR3JFamRlenczeVZVQXdpcGVCNEw3NTZRbldXSWQyM2VGZw?oc=5",
+          "published_at": "2026-08-16T16:01:29Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -1170,7 +1775,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -1179,14 +1784,14 @@
         {
           "id": "ac8b511d911665e82ca9",
           "title": "Antiterrorisme efficace, criminalité violente en recul, aviation aux normes : ce que le rapport de l’OSAC dit du Maroc",
-          "raw_title": "Antiterrorisme efficace, criminalité violente en recul, aviation aux normes : ce que le rapport de l’OSAC dit du Maroc - barlamane.com",
+          "raw_title": "Antiterrorisme efficace, criminalité violente en recul, aviation aux normes : ce que le rapport de l’OSAC dit du Maroc - برلمان.كوم",
           "normalized_title": "antiterrorisme efficace criminalite violente en recul aviation aux normes ce que le rapport de l osac dit du maroc",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWmREd3huUnJyZElhVHVKWTFURG5qQzFnRzJ6RnkzOXRXbVJIV29iX2FEdlNzeEJjOUlyRUhkNDZYWXRiYXF4N0pRNzZOS0NMb3g2VVM4cmtxbmJIYi16bkVpSHV1UVF3aXNwTm1jMlZrOUhsdFdQXzJHMnBqWDk3cEJFY05GcEZaX3hid3hTeXBaZmk3d1ZZbkI3S3hDWThzRHpWREJYUF92S0kzeGpiSVpOYzNNYUpfOTY1VjMtdUdUb1lmU3hvYzRvejVXS0xRZlAtWjZn?oc=5",
           "published_at": "2026-08-16T15:57:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -1237,6 +1842,106 @@
       ]
     },
     {
+      "id": "f286b8cc8ac3a9886f64",
+      "title": "CAN 2026 : Le Maroc peut être fier d'avoir une équipe féminine compétitive (Jorge Vilda)",
+      "published_at": "2026-08-16T15:44:32Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "Maroc Diplomatique",
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "ad1bfa4abeaeaef26ea2",
+          "title": "CAN 2026 : Le Maroc peut être fier d'avoir une équipe féminine compétitive (Jorge Vilda)",
+          "raw_title": "CAN 2026 : Le Maroc peut être fier d'avoir une équipe féminine compétitive (Jorge Vilda) - Yabiladi.com",
+          "normalized_title": "can 2026 le maroc peut etre fier d avoir une equipe feminine competitive jorge vilda",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjZQdGdYMXpCNmh0NTExeVpvZlZ3TkpNeVhJRHd3MmNDY3QtRG13M3FzVy11dGVzbUpPQWs0UEQzWUpXd0dQX3FpcElrRFN1bVlnYkpNcnNPNm5TcndJSmZ0eWZpQ0xNQ05vdEZocHdOM0lRMWJYcFk0NlpSWW1UMm81Zk5mUQ?oc=5",
+          "published_at": "2026-08-16T15:44:32Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://www.yabiladi.com",
+            "domain": "yabiladi.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "f795023c10be795533c0",
+          "title": "CAN féminine 2026 : Le Maroc peut se targuer de disposer d'une équipe féminine compétitive (Jorge Vilda)",
+          "raw_title": "CAN féminine 2026 : Le Maroc peut se targuer de disposer d'une équipe féminine compétitive (Jorge Vilda) - Maroc Diplomatique",
+          "normalized_title": "can feminine 2026 le maroc peut se targuer de disposer d une equipe feminine competitive jorge vilda",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjBGZEFzeVoybExZaFZYUVUybjlnMjh0SUc5Vy1nU3NTc1hMT2I4eWpOUGpfeUszRS02ZEhyWHU0Y05vZ1BFNnpaSURPenFOd3YtN08zN2NlaFE1dTZPV1M1TElDaEdfU201aVVuQWlobGNFMmlEa2pWZEdXVkZoWTZ4S2c2MThlZU9aVmdFbURjc21ic3pIdVgwU05JOWVKRUFkUE5vakRxbUFHR0xscDFpWlRNV1hUX0VJSVdJbllpMzQxeHVMMXhYRQ?oc=5",
+          "published_at": "2026-08-16T08:00:44Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Maroc Diplomatique",
+            "url": "https://maroc-diplomatique.net",
+            "domain": "maroc-diplomatique.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "50e99416513d16a92919",
+      "title": "Aux tirs au but, l'Algérie renverse le Maroc et s'offre une 3e place historique en CAN",
+      "published_at": "2026-08-16T15:43:37Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Flashscore.fr"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "8f8b9592e8e56ae13c2a",
+          "title": "Aux tirs au but, l'Algérie renverse le Maroc et s'offre une 3e place historique en CAN",
+          "raw_title": "Aux tirs au but, l'Algérie renverse le Maroc et s'offre une 3e place historique en CAN - Flashscore.fr",
+          "normalized_title": "aux tirs au but l algerie renverse le maroc et s offre une 3e place historique en can",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHNYcUlwRmk1cjJkTHFHbXF5ZVdSS3NCc0pWeTUySk9kMHhqR1M5SWRnT0pUb01acGQ1U2pPam9WbWF3VERnelhZYlU4X19CWXV3M3RnUnBoVEQ4VEZUMWhtTEd2c09UcGptZUlkYmd1b1hPMlhFUm9CVl9US0N3X0VFT2RabjdtcjFoRmdEM1QtTmtWanNyd2xnYXRuMkU1SDVVaTJlMFI3TkVXWVl5MU9hWkktemRmMXFFOHVHdHAwS3JOZ0tRYWxjYzA?oc=5",
+          "published_at": "2026-08-16T15:43:37Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Flashscore.fr",
+            "url": "https://www.flashscore.fr",
+            "domain": "flashscore.fr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "246e3706bbfb2e33a651",
       "title": "What really happened in Ceuta? Why we may never find out",
       "published_at": "2026-08-16T15:38:22Z",
@@ -1271,65 +1976,6 @@
             "name": "NPR",
             "url": "https://www.npr.org",
             "domain": "npr.org",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f286b8cc8ac3a9886f64",
-      "title": "CAN 2026 : Le Maroc peut être fier d'avoir une équipe féminine compétitive (Jorge Vilda)",
-      "published_at": "2026-08-16T15:32:46Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
-      "sources": [
-        "Maroc Diplomatique",
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "ad1bfa4abeaeaef26ea2",
-          "title": "CAN 2026 : Le Maroc peut être fier d'avoir une équipe féminine compétitive (Jorge Vilda)",
-          "raw_title": "CAN 2026 : Le Maroc peut être fier d'avoir une équipe féminine compétitive (Jorge Vilda) - Yabiladi.com",
-          "normalized_title": "can 2026 le maroc peut etre fier d avoir une equipe feminine competitive jorge vilda",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjZQdGdYMXpCNmh0NTExeVpvZlZ3TkpNeVhJRHd3MmNDY3QtRG13M3FzVy11dGVzbUpPQWs0UEQzWUpXd0dQX3FpcElrRFN1bVlnYkpNcnNPNm5TcndJSmZ0eWZpQ0xNQ05vdEZocHdOM0lRMWJYcFk0NlpSWW1UMm81Zk5mUQ?oc=5",
-          "published_at": "2026-08-16T15:32:46Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://www.yabiladi.com",
-            "domain": "yabiladi.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "f795023c10be795533c0",
-          "title": "CAN féminine 2026 : Le Maroc peut se targuer de disposer d'une équipe féminine compétitive (Jorge Vilda)",
-          "raw_title": "CAN féminine 2026 : Le Maroc peut se targuer de disposer d'une équipe féminine compétitive (Jorge Vilda) - Maroc Diplomatique",
-          "normalized_title": "can feminine 2026 le maroc peut se targuer de disposer d une equipe feminine competitive jorge vilda",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjBGZEFzeVoybExZaFZYUVUybjlnMjh0SUc5Vy1nU3NTc1hMT2I4eWpOUGpfeUszRS02ZEhyWHU0Y05vZ1BFNnpaSURPenFOd3YtN08zN2NlaFE1dTZPV1M1TElDaEdfU201aVVuQWlobGNFMmlEa2pWZEdXVkZoWTZ4S2c2MThlZU9aVmdFbURjc21ic3pIdVgwU05JOWVKRUFkUE5vakRxbUFHR0xscDFpWlRNV1hUX0VJSVdJbllpMzQxeHVMMXhYRQ?oc=5",
-          "published_at": "2026-08-16T08:00:44Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Maroc Diplomatique",
-            "url": "https://maroc-diplomatique.net",
-            "domain": "maroc-diplomatique.net",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1410,6 +2056,46 @@
             "name": "EUobserver",
             "url": "https://euobserver.com",
             "domain": "euobserver.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "37d24db2a00a3edc7b9b",
+      "title": "Migration : le Maroc partenaire fiable et engagé, l’UE à l’heure de la responsabilité partagée",
+      "published_at": "2026-08-16T15:03:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Le Matin.ma"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "b93fedf93a9d3a1060dc",
+          "title": "Migration : le Maroc partenaire fiable et engagé, l’UE à l’heure de la responsabilité partagée",
+          "raw_title": "Migration : le Maroc partenaire fiable et engagé, l’UE à l’heure de la responsabilité partagée - Le Matin.ma",
+          "normalized_title": "migration le maroc partenaire fiable et engage l ue a l heure de la responsabilite partagee",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUXNjQ1UtWElzT0ZMY2hfd0hrTGxqS01xWVkzbmlTSkJQdWhZcFc1VWJoVGVkMTk2MHphUmZ5RDM2Y2V2QUttNnZQZEF3SERQMnM5Z3locHFnWVNlT1F6MFBZbTZJb1JqYWE1ZmUxMDA3a2VoQzB2ZVE0RVJxM05qNEJpQ19zd9IBiwFBVV95cUxPdThfU3hNLVZKbDJmLVpnMmVZeGZ5THJoZS1kLXN4Qzg5c0RkUDNfY0NoWUxBM3lFdXFURjFjQ0tkcEtaU2Utcms0TXF4YVFqR3lIYUZtSnE5ZHdNek5tVFFWbk1SR1dvcnJvd1k0VWh2MjhfUDE0dVhic1R2YkxhR1pnWW45WTJTaS04?oc=5",
+          "published_at": "2026-08-16T15:03:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Le Matin.ma",
+            "url": "https://lematin.ma",
+            "domain": "lematin.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1578,127 +2264,76 @@
       ]
     },
     {
-      "id": "07777c22dd1dddf06737",
-      "title": "Morocco detains dozens of migrants trying to enter Ceuta",
-      "published_at": "2026-08-16T14:49:49Z",
+      "id": "62d7121c011c627e52d2",
+      "title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجراً",
+      "published_at": "2026-08-16T14:37:16Z",
       "status": "medium_evidence",
       "evidence_score": 0.608,
-      "claim_candidate": false,
-      "claim_score": 0.1,
+      "claim_candidate": true,
+      "claim_score": 0.35,
       "claim_reasons": [
-        "specific_statement"
+        "specific_statement",
+        "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 4,
-      "article_count": 6,
+      "source_count": 3,
+      "article_count": 3,
       "sources": [
-        "AOL.com",
-        "BBC",
-        "DW.com",
-        "Yahoo News Canada"
+        "ANF | Articles",
+        "alarabiya.net",
+        "سكاي نيوز عربية"
       ],
       "languages": [
-        "en"
+        "ar"
       ],
       "articles": [
         {
-          "id": "69b0253cbfaff4a5e2ef",
-          "title": "Morocco detains dozens of migrants trying to enter Ceuta",
-          "raw_title": "Morocco detains dozens of migrants trying to enter Ceuta - DW.com",
-          "normalized_title": "morocco detains dozens of migrants trying to enter ceuta",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW9Vd1hvcjBiMXpzZmNuLXhkOWw2MjhNek0tSF9SWU11d093TUhYNzdCa1RvVFV3MzBaV0U3Qy1lRXg1bDJzTGRKSTNUc2VZRTA1QVVQNUVZcVA1b3dEX0l5STZNWVZYalBzZHNheHl3SUxSRWp0UE1ISmR5ekd3cHg1M25BWlVjWjBJdkNZTERZZDNFMXB5cVltR0lyamRncnoxNTMzYzAwMVZxTktPWHdxa2dFNWd1VUhydkxR0gG-AUFVX3lxTE8xbUxMNU4xQXRWUUw3bjdkQm5JbGFqRzFIckRYY1dyRG9vN2VGZ1MtdWFqM0ZodGlGODA3QXhLS3ZoT0RuWkZDTXVEZl9udDlYanI1RWpPaUxmOV8wdUlFYzQyWnVhY2Zta3ZxV2JMMmV0cGpkd2xESU1ZYmFidVByMGMtcTNHeUd6TVQzUnJDQ01qbVh5YW9VNW51TXlubnM2VXhLc1dKaWJESWNLOFRQeE05WEE1RXUwbkJMNUE?oc=5",
-          "published_at": "2026-08-16T14:49:49Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
+          "id": "54f75ef7ac030b827e8b",
+          "title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجراً",
+          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجراً - ANF | Articles",
+          "normalized_title": "طوق امني قرب سبتة المغرب يوقف 294 مهاجرا",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQTNlRXBoOThiUXlQOEg4VlEta1g3Q1R4X3FzTjg1Vi1UNTVfOEZGN3A2X1RJVWkxNmlGV0ZBTFV4aDdqMFNIekxvb1lpTUFiRndOeG50VEE4M2hTX1pLVGtXUUFlNHJkOGxCV3I2VzJTX2xxay1IaFhXeG0xZ3dwM0Z2Vm1nanB0OXc?oc=5",
+          "published_at": "2026-08-16T14:37:16Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "DW.com",
-            "url": "https://www.dw.com",
-            "domain": "dw.com",
+            "name": "ANF | Articles",
+            "url": "https://arabic.anf-news.com",
+            "domain": "arabic.anf-news.com",
             "weight": 0.35,
             "category": "unrated"
           }
         },
         {
-          "id": "61311d339dcef9c443c7",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - AOL.com",
-          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHNQaElxSG9PaVE5cUVYLUlKaWNlb2JUU01hWHlLek91ZTlKQzQ2V2w0bVJNWDViNFRDbzNBUUtndmxpU0xDQWVIaFBmSVlybzR1Sm0zbFRZRUhGaEk1c0NDY1VCS21nQWdJQmtMMXpaa1FZb1puU3lKai12SzNpT0NNYkNMd2tUZkE?oc=5",
-          "published_at": "2026-08-15T21:13:16Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
+          "id": "3b384974a89ca8492ac4",
+          "title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجرًا و61 مشتبهًا بالتحريض",
+          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجرًا و61 مشتبهًا بالتحريض - alarabiya.net",
+          "normalized_title": "طوق امني قرب سبتة المغرب يوقف 294 مهاجرا و61 مشتبها بالتحريض",
+          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNUVFrOEZqRWg1NGg4YWQ2VC0tbnRpX2pocXhaTHNIbUVUbldyOHdBMVFHaGQ4OFdnTlJvQWlRdUlyTFROeXJqN0JIQXA4bzRnZTVEcE1uT3FCcjlBYUdHNTJYelhsYWVKaXBtOExaZ1N5M2U2eUgxX2k1QjVoRDl0WWdZM1FBSU5YcW1Hc2N6QVdFaGhjeHpjT1owQVlnTVVDUkg0YmtKVHFwaU8zWGxpd24tNktUOC1iVXVCc25IWjRtbUZETTBUSVZxVmtDWHNRZGk4ZDhIamFHajBmdmZIcFl4ZVpfeTJ1eTh5c282TFA4REhMdGM5eUl1V1RBWC1KMS0xZVZoLUVVTC12UVYwUm9vcTl6RE9hWHBFUF9sT3BIWFJiR3h1TVk1ekc0TE5DRm9Ja2RiSzFjTVhhZVFCZVRoLW9kdGJVVW9LRHpITHB0MGhaWDFHTTZheFhBeHF1MzlSZjBMZnktYUhrZ0xzc2hod25nR0pTODF3T0xzM0poblZkaWpCeXNIYWdZdGxjaGx4eFVTWjVWY2dMSzNCdUJ3Wm1uLWI0MUV4ZkJMNkM1R2FQdGU0VUkzVEliV3V4SGU3azFFWUF3YXQzZ0ZvMHR2UXVKT3prWi03NnVWZGgyLWPSAegDQVVfeXFMUHo0eHR0ZFhaSnFTYWd2N3lnSUh2VEZMc2FmZ1VuQ0JKVEI1UXFqaG9ZU2xHeV9tejBERUdRUm0wQTI4LVpRLU9LaUFYdlpacGJTN3B0LXlEcmJZSHlRcHlUTGxYNjFUckdTZ0pidUE5MmowQnJFMmRjc2JHNW5RZzRwdlYwSlhVR2NwNGQ5dFV1T19UZFVxMXR4eXZ2SDNNa21WSU9jTURMZ2RHcFJWNURxck1VanJtQmJwZHVpNlE2MGdDSFBBNG9ldmlSSnpxT2hDRjh4QXdoQWxPUzhxMEVNWjhULWQ0eTVpRzcyaVV2VGpyVzZjVkhXaVdadkNDeDhpbjVUVG9GdVVtdzRfWUxiTkYza1VmMTYtMEo1TUEtNjBHMXZ4NURmdW51aUpuRzdKdllNd1hmV2MtOGtxeVgyUEpnVTlvd3V1bldjMW9CQVNvdlEwbkNlVkZzb2Q2Y0VucTd6dWk4anRCa2paTTR0VlRUaHhMeE1JbjZHMWhNRUdfV0N1LUZCWGN2TWtFY2FOb3psaUo5SGdpakxFZFFPU3VoUmo4N3pLQmtmQ3UyeXl1REMtVk5CNGxQdkRNWkdENkFaVGttbUdiRWlmVFNYSHRyMmtKMGhwbFFqdHY2c0M2Y2VpaDc?oc=5",
+          "published_at": "2026-08-16T07:39:00Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "AOL.com",
-            "url": "https://www.aol.com",
-            "domain": "aol.com",
+            "name": "alarabiya.net",
+            "url": "https://www.alarabiya.net",
+            "domain": "alarabiya.net",
             "weight": 0.35,
             "category": "unrated"
           }
         },
         {
-          "id": "728322e88246b94e0f56",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - BBC",
-          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUJFTzFmbzVJQUhUYktRSUFORGg0QTFUYkdlWXI2OGlFYk54aTVGQ0NGS0JuRWRENllLWlFGTDNVbE51aldXQk1ia2pyMm14Vi1DQ2NvTGxTQQ?oc=5",
-          "published_at": "2026-08-15T20:58:31Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
+          "id": "e51a980b3ad08aec0ef3",
+          "title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين",
+          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين - سكاي نيوز عربية",
+          "normalized_title": "طوق امني قرب سبتة المغرب يوقف ميات المهاجرين",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOOVJBdXhKRDRUOUthWjYxMjJCcUdBRVZhcm83UVRMbWx4c08wWEI5ZHFMRmNCZUdWQy1WVmdmbmc1ZGRNSDdKMzVhZ3VkR19ZdHl5RUg5SmJTblJ3SW1lUXJLVUR2bEwwOGxWazJGQTJxY1BYUlc4VFN0U2xjZ2F5cEw3RjB0LWN2YWowc0hYSy1McF8yOE9pbEtTVlQ2Sk1qRllkLTB1eXZScFU2UnMxcWN4QnkzLWFGd2swZ2FRQXBLV2x0WFp6Y0xKeUFOaWZYU25kRm1xLXlRaWxtczdNUkJVU1VfU1pVUlBxTF9HVzgtZEpnMmJLTWJUSndEN1JYa1NqZ0I1bVNVaXZXZWFXcG1XdnlqaElaX2x3alRva3J2Z3RNbHVLUDRFY3RjQUtfaUhVT05kaEtBQVF5dHpubEtOVnZzQ0ZxNUVNbEwxTzN4T3pCVVdVb3g4YTVYMU9CQUNQaThrWmoxZmg0cVU3OFhOOWQ2WVdHaXF1cjJzQ1NRdkNmei1FNTZDTEo2eVRl0gGWA0FVX3lxTFBrLUtlNDRLXy1ZUjB6VklsZXZIdGJpTzZQRE1OX1pHNkpOb0Myd0FNOWR2THhoeS1jLTZnM2xHdGozSWhLYldmNHRIcnJOZjlfamFNamJ2UUlTVy1SeHJnUXRCUVV4eXFvZnBWcmwxZkdwMTVlVGVaRWNvaXg0QTBfcENrT2FncTIyZnMxcVZ3MzlucG1hVFdFQlRiUzI0M3NTbDNxbHkzWTNhMmQ4WWE5TGxQeGEyZTJXV0E0c0F3VWl5c0NaOWRuSFdaSWk1R2haME5Vck9hQThSUi1sbHo0bGdfNThQWWJzS01ibGhmWVNYaENBTTVHR2dueWpqd3VPQ2dlUUtPTXBRRjRNNUF3MEtVaUlkYW1nbFZDcHN1V3g5OXlzNE5LMEtZdEFycVdkbnMtNWZKeExURllHMGdsY2Q3dUY3cVgyV2o1Slk2MkVWb0NRM2JkSnVPZGhPellBVTJzT08zOWw5NU94ZDhQOFpTSTV6YmJNVGJEUmZHRlhuVlBBNnBnN1ZXRjBQTllCWG1PWXc?oc=5",
+          "published_at": "2026-08-15T22:55:04Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.com",
-            "domain": "bbc.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "edbedabb72d91b259597",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
-          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta - Yahoo News Canada",
-          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXNRY0o0ak1DaUFSSzhHV25OTFpRRFhISFlGeFNtM0FBaE5LOUMxQkowSm1zcDlSNkRQb3NmRUl4V3hoSmw5ak9mTHNiRjZEX1VvQlYwNFkzWDdPM0FpM2VqSEYzTkVCd2RMWVFEU1pFWEpsamdpbVZIWVFUcXA5QmtsS2tfQQ?oc=5",
-          "published_at": "2026-08-15T19:16:46Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Yahoo News Canada",
-            "url": "https://ca.news.yahoo.com",
-            "domain": "ca.news.yahoo.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "031a648cfbac5df76f1e",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
-          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta - BBC",
-          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGOUJFTzFmbzVJQUhUYktRSUFORGg0QTFUYkdlWXI2OGlFYk54aTVGQ0NGS0JuRWRENllLWlFGTDNVbE51aldXQk1ia2pyMm14Vi1DQ2NvTGxTQQ?oc=5",
-          "published_at": "2026-08-15T19:16:40Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.com",
-            "domain": "bbc.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "b1552b959cbd65a5d9a4",
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "raw_title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say - BBC",
-          "normalized_title": "morocco detains dozens of migrants trying to cross into ceuta reports say",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JUlVoWFZvcXNsVGRhMVJDSWRkNHpJMW05cHJFUFloZVVpaEtIZE9iVjl5bVlzczdPdkRqSXE2UG1RZjNEZkNOMmNXaWZkNkpvRHd5WTF1OFlXZU1f?oc=5",
-          "published_at": "2026-08-15T19:16:40Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.co.uk",
-            "domain": "bbc.co.uk",
+            "name": "سكاي نيوز عربية",
+            "url": "https://www.skynewsarabia.com",
+            "domain": "skynewsarabia.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2145,7 +2780,7 @@
     {
       "id": "c8ddfcde685510d190d4",
       "title": "كاتب يُبرز كيف انتصر المغرب لحقوق صحفييه وكشف ازدواجية إسبانيا وإعلامها",
-      "published_at": "2026-08-16T13:24:17Z",
+      "published_at": "2026-08-16T13:32:02Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -2169,7 +2804,7 @@
           "raw_title": "كاتب يُبرز كيف انتصر المغرب لحقوق صحفييه وكشف ازدواجية إسبانيا وإعلامها - برلمان.كوم",
           "normalized_title": "كاتب يبرز كيف انتصر المغرب لحقوق صحفييه وكشف ازدواجية اسبانيا واعلامها",
           "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQNXdVRU9FXy1PZ0FnN2RjSFNDV3JMLWNlV3htMEV1THJnUlVFOGVDalEtb1N2NnZmR0FhX1hoUzdLc0VmdmJHUkJ2WXNZbFUzM19vYmxOUmFxdWg3QWw3eTg1amZ2eDY3RHlkVTRWc2FndE9ob0ZiUW5VWVkxU05nS005Q21GYk9YbXZlci1uakxuS2RPMHY4V2cxVUhlRGp4RXhqOTUtRFR1dms1bmJqdVJkSnJ0ZGo4NVkxOTRCR3hTRlcxam5WcVN5RmhkeGFZTW54YjBSakJ1MzY2T0pBVnZOT254bTk0YmZxN2Q0dDR3SVdpMVRKQklNZmhfclRGZTQxZlVSSE9LcGNZWkdRdmNRMk0tNVE1SlQ4U0l6NUxoRkF4a2FzeTJlanFoazJnVlR0c2hzQzE5SUdhUlBuRmRNTQ?oc=5",
-          "published_at": "2026-08-16T13:24:17Z",
+          "published_at": "2026-08-16T13:32:02Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
@@ -2263,46 +2898,6 @@
       ]
     },
     {
-      "id": "1558888c7a75220fc5b6",
-      "title": "Algeria edge hosts Morocco on penalties to claim historic third place at WAFCON",
-      "published_at": "2026-08-16T13:21:06Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Flashscore.com"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "16fdaca1fcb302dc262a",
-          "title": "Algeria edge hosts Morocco on penalties to claim historic third place at WAFCON",
-          "raw_title": "Algeria edge hosts Morocco on penalties to claim historic third place at WAFCON - Flashscore.com",
-          "normalized_title": "algeria edge hosts morocco on penalties to claim historic third place at wafcon",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON0lmZmUtUGZFZEJDZ19oT2lPQVdVcXhuVVVoaVNxMF9BX1dKZG9yaVpGMk1takJWVXJxd0o0NTRIQm93RzV3ODRyWHA1SXlCd0dDaF9QOWFJNDJDaDg4dFZlbnlkbUg4R0ZwVlhwMWUtX2RhVzh4dkFuWWZmVmpkbEg4OURVck1CbFhDOG9uem5zOVZXbjlJVnlITnBzVnQxOGtpb243MEZ4SUhla0NMV0w3NjZ5d3dad1NyVnBseWFuRXVjRThWb2g1SWVxdC1naTFJXzJFSDVENTVuVWhv?oc=5",
-          "published_at": "2026-08-16T13:21:06Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Flashscore.com",
-            "url": "https://www.flashscore.com",
-            "domain": "flashscore.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "69da2352ae00453c3d81",
       "title": "كواليس لواندا.. المغرب يتحرك قبل القمة ومعركة صامتة لإعادة رسم قواعد السلم الإفريقي",
       "published_at": "2026-08-16T13:20:54Z",
@@ -2358,7 +2953,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "صوت المغرب"
+        "thevoice.ma"
       ],
       "languages": [
         "ar"
@@ -2367,14 +2962,14 @@
         {
           "id": "e36e19968a69d3e944a0",
           "title": "للشهر 28 على التوالي.. المغرب ضمن قائمة مستوردي الغاز الروسي",
-          "raw_title": "للشهر 28 على التوالي.. المغرب ضمن قائمة مستوردي الغاز الروسي - صوت المغرب",
+          "raw_title": "للشهر 28 على التوالي.. المغرب ضمن قائمة مستوردي الغاز الروسي - thevoice.ma",
           "normalized_title": "للشهر 28 على التوالي المغرب ضمن قايمة مستوردي الغاز الروسي",
           "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQY0dNWlc3bnFaa0hGamJKODM2eWhqVkcxYUpia0F1VWtwbGRESWpZYmxzc2ZVamR0WWFlQzRJczQ4VzNGbnRnS1BBSFRJVHdKM2lBRjJtYjFIcnhmTTBERTlFZkgyVnFzc2tieFMzMk5ma1dPNHJ1SEpoTThWVlBEVndpc2NsbDV5WGRzcFhDX1BwZll6ZDA5WU0xUjJzMmJUdW92MGpfQUM0ZW9rTU00S2ZrR3JUS29rSHdxQXBMNlBEZTZYWWRlbHFNZzlMNlJzcG9yRkJBNV9UQ0RnU0lYRWpncmVEZUlNUVpibHRsX0xpSVpxSmhkVTdNWnZXNlNaYmpySXFvVVFnUVlnNlp5TnpRb24ycnlfTW5wQ1lPYW1SMDY3TzJ1b1F2OVFLdjdrZEhTN182c294cnpV?oc=5",
           "published_at": "2026-08-16T13:02:21Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "صوت المغرب",
+            "name": "thevoice.ma",
             "url": "https://thevoice.ma",
             "domain": "thevoice.ma",
             "weight": 0.35,
@@ -2484,7 +3079,7 @@
       ]
     },
     {
-      "id": "665ede38a1b6c5f514ee",
+      "id": "800e9198bce8b874c6f2",
       "title": "Morocco detains 148 as migrants attempt mass crossing into Ceuta",
       "published_at": "2026-08-16T12:48:00Z",
       "status": "medium_evidence",
@@ -2497,7 +3092,7 @@
       ],
       "fact_check_matches": [],
       "source_count": 2,
-      "article_count": 3,
+      "article_count": 4,
       "sources": [
         "Anadolu Ajansı",
         "AnewZ"
@@ -2519,6 +3114,23 @@
             "name": "AnewZ",
             "url": "https://anewz.tv",
             "domain": "anewz.tv",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "0035263520763fcd6f52",
+          "title": "Morocco detains 148 migrants after attempted mass crossing into Spain's Ceuta",
+          "raw_title": "Morocco detains 148 migrants after attempted mass crossing into Spain's Ceuta - Anadolu Ajansı",
+          "normalized_title": "morocco detains 148 migrants after attempted mass crossing into spain s ceuta",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQajVRa3BFQ2pwU1J6RXFSVXZJbGNjOTJsNVJJeE8zT2FNdzlyY016YmYzd0M0MHk4M2ZCQVpBMlE2NU1WcDBtRkxxRTVaVm5mRzI5YnRoZ01jVDlybHlNWU9LbmtWYzIzSW1iWWl1czlhY2dSa2toZzZLbFU1eHhQZHlxNFVxNXBEc2hNNXlJa1RjV05UcGRGcE5tdENxWjFIN21mS3F1R29KOFJjYUdJWQ?oc=5",
+          "published_at": "2026-08-15T15:41:41Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Anadolu Ajansı",
+            "url": "https://aa.com.tr",
+            "domain": "aa.com.tr",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2654,7 +3266,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -2663,14 +3275,14 @@
         {
           "id": "8bbffa37f0161d5a9946",
           "title": "Le Maroc durcit ses règles de transit pour les Nigérians après des fraudes aux visas Schengen",
-          "raw_title": "Le Maroc durcit ses règles de transit pour les Nigérians après des fraudes aux visas Schengen - barlamane.com",
+          "raw_title": "Le Maroc durcit ses règles de transit pour les Nigérians après des fraudes aux visas Schengen - برلمان.كوم",
           "normalized_title": "le maroc durcit ses regles de transit pour les nigerians apres des fraudes aux visas schengen",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWmg4VXlzMHNDX3FPWUJBRUhVd083OVhReURaVzRWb3NVMzZGNmsta2F1VXpkUGd2WG5nMmtXVTBpNDRqQXNvZGZVYWhJRWdlNk1PeEJvTUNQel9Ob013MlN3WnhXVDVFeThKNVdkRmozNUZqclNFY0k3WWEtNmxHb0dYQ005YmlBUjR6TE92NV9JRGlBQ04wTGg3Tzk1b3A4YUpqSmoxNUk4QloyMzgySVpJYk5CR0o5UWpj?oc=5",
           "published_at": "2026-08-16T12:25:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -2899,7 +3511,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -2908,14 +3520,14 @@
         {
           "id": "42f0ffa00a5f1a0d4a62",
           "title": "Huelva concentre 85 % des recrutements de migration circulaire en Espagne, le Maroc fournit près de 15 000 saisonniers principalement des femmes",
-          "raw_title": "Huelva concentre 85 % des recrutements de migration circulaire en Espagne, le Maroc fournit près de 15 000 saisonniers principalement des femmes - barlamane.com",
+          "raw_title": "Huelva concentre 85 % des recrutements de migration circulaire en Espagne, le Maroc fournit près de 15 000 saisonniers principalement des femmes - برلمان.كوم",
           "normalized_title": "huelva concentre 85 des recrutements de migration circulaire en espagne le maroc fournit pres de 15 000 saisonniers principalement des femmes",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWVNPNnJ3dTYwd3o4eHpSVjQwOGkyZy1LSVltUkxTajFlc3VLNk9DNTBCam5rZG5kX3ZRdTNxcjFNU21sOEN1RGtyT1hXVUlRUnRuRnBUNHpRbnBqN2I2dDVlc0FfTFo4aFRPLVhwdHBZdVQxRmhjNk5PaEk5Ui1TVGttbEl0LWtocnFLT2czYmxmeE4zZWlsUTBtbXRsVGZBX0RGcUpsWW51UzNVYTNlN2Y4bERMdWdrX2xaZ3kxZXdGZ1RkcnAzcUwyOXNyM2sxX0J4M0VZbGlLUUlwV3dNN1hSY2I4RXEzTjJBVVBJVGlUNzFVZ0Rsd3ZzNA?oc=5",
           "published_at": "2026-08-16T11:45:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -3271,7 +3883,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -3280,14 +3892,14 @@
         {
           "id": "05b69b87ae7535a3fd52",
           "title": "Le Maroc remet en jeu les licences des ferries d’Algésiras et de Tarifa vers Tanger, La Méridionale et DFDS en lice",
-          "raw_title": "Le Maroc remet en jeu les licences des ferries d’Algésiras et de Tarifa vers Tanger, La Méridionale et DFDS en lice - barlamane.com",
+          "raw_title": "Le Maroc remet en jeu les licences des ferries d’Algésiras et de Tarifa vers Tanger, La Méridionale et DFDS en lice - برلمان.كوم",
           "normalized_title": "le maroc remet en jeu les licences des ferries d algesiras et de tarifa vers tanger la meridionale et dfds en lice",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNXRSNHN4Y3lTY281M3Zqb2N0ak0wZ2tuX3cxSGdxdll2QjYta2hJOW9ER1BpQnNMM1dJWmdIZFRuUkxRWVNPWEZ0V3VFNTM4bTVMNm8zamtUTmdvOW9OYjhJVFFIZFlKdXRYcmZkdl8xZ3V2dDgzNURpQm1SS3ZPbVhrNVBOUGVscVl6aElyUEFOckdxMjFyQmluMTY3NnpLRWJlXzJTWnBRMG1Fc0x0d3ZKclllQTQ2Y3JLQTE4YU42NzhtNXFtdlYtbnZVd0oydjdhc3NB?oc=5",
           "published_at": "2026-08-16T11:13:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -4319,47 +4931,6 @@
       ]
     },
     {
-      "id": "50e99416513d16a92919",
-      "title": "Aux tirs au but, l'Algérie renverse le Maroc et s'offre une 3e place historique en CAN",
-      "published_at": "2026-08-16T09:40:27Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Flashscore.fr"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "8f8b9592e8e56ae13c2a",
-          "title": "Aux tirs au but, l'Algérie renverse le Maroc et s'offre une 3e place historique en CAN",
-          "raw_title": "Aux tirs au but, l'Algérie renverse le Maroc et s'offre une 3e place historique en CAN - Flashscore.fr",
-          "normalized_title": "aux tirs au but l algerie renverse le maroc et s offre une 3e place historique en can",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSHNYcUlwRmk1cjJkTHFHbXF5ZVdSS3NCc0pWeTUySk9kMHhqR1M5SWRnT0pUb01acGQ1U2pPam9WbWF3VERnelhZYlU4X19CWXV3M3RnUnBoVEQ4VEZUMWhtTEd2c09UcGptZUlkYmd1b1hPMlhFUm9CVl9US0N3X0VFT2RabjdtcjFoRmdEM1QtTmtWanNyd2xnYXRuMkU1SDVVaTJlMFI3TkVXWVl5MU9hWkktemRmMXFFOHVHdHAwS3JOZ0tRYWxjYzA?oc=5",
-          "published_at": "2026-08-16T09:40:27Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Flashscore.fr",
-            "url": "https://www.flashscore.fr",
-            "domain": "flashscore.fr",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "12b223737de9bc2a6afe",
       "title": "Morocco tightens security as migrants gather near Ceuta border",
       "published_at": "2026-08-16T09:37:03Z",
@@ -5162,20 +5733,21 @@
       ]
     },
     {
-      "id": "7d23db571ef530797252",
+      "id": "7746d3b27ff38df25311",
       "title": "خبير قانوني بلجيكي: المغرب يتعين اعتباره شريكا استراتيجيا لأوروبا من أجل سياسة شاملة للهجرة",
       "published_at": "2026-08-16T08:41:35Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
+      "source_count": 2,
+      "article_count": 2,
       "sources": [
+        "Medi1 News",
         "برلمان.كوم"
       ],
       "languages": [
@@ -5195,6 +5767,23 @@
             "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "9167d1ca360de0c0bf96",
+          "title": "جوفروي جينيري: المغرب يتعين اعتباره شريكا استراتيجيا لأوروبا من أجل سياسة شاملة للهجرة",
+          "raw_title": "جوفروي جينيري: المغرب يتعين اعتباره شريكا استراتيجيا لأوروبا من أجل سياسة شاملة للهجرة - Medi1 News",
+          "normalized_title": "جوفروي جينيري المغرب يتعين اعتباره شريكا استراتيجيا لاوروبا من اجل سياسة شاملة للهجرة",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJVlBNTjZ0QTV5OUYzRzY2M2QzTEJXRlZNNFFaRGQtOGFVMEQxQktEZ1VOb0RHN1BqdGZsa1dpWURaalM2T3pqRHl1T3gxUTJIR1JQNU5PZlhQbS1I?oc=5",
+          "published_at": "2026-08-16T05:31:37Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Medi1 News",
+            "url": "https://www.medi1news.com",
+            "domain": "medi1news.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -5495,47 +6084,6 @@
             "name": "Maroc Hebdo",
             "url": "https://www.maroc-hebdo.com",
             "domain": "maroc-hebdo.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1826bc2b16a9d15cb882",
-      "title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجرًا و61 مشتبهًا بالتحريض",
-      "published_at": "2026-08-16T07:39:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "العربية"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "3b384974a89ca8492ac4",
-          "title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجرًا و61 مشتبهًا بالتحريض",
-          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف 294 مهاجرًا و61 مشتبهًا بالتحريض - العربية",
-          "normalized_title": "طوق امني قرب سبتة المغرب يوقف 294 مهاجرا و61 مشتبها بالتحريض",
-          "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxNUVFrOEZqRWg1NGg4YWQ2VC0tbnRpX2pocXhaTHNIbUVUbldyOHdBMVFHaGQ4OFdnTlJvQWlRdUlyTFROeXJqN0JIQXA4bzRnZTVEcE1uT3FCcjlBYUdHNTJYelhsYWVKaXBtOExaZ1N5M2U2eUgxX2k1QjVoRDl0WWdZM1FBSU5YcW1Hc2N6QVdFaGhjeHpjT1owQVlnTVVDUkg0YmtKVHFwaU8zWGxpd24tNktUOC1iVXVCc25IWjRtbUZETTBUSVZxVmtDWHNRZGk4ZDhIamFHajBmdmZIcFl4ZVpfeTJ1eTh5c282TFA4REhMdGM5eUl1V1RBWC1KMS0xZVZoLUVVTC12UVYwUm9vcTl6RE9hWHBFUF9sT3BIWFJiR3h1TVk1ekc0TE5DRm9Ja2RiSzFjTVhhZVFCZVRoLW9kdGJVVW9LRHpITHB0MGhaWDFHTTZheFhBeHF1MzlSZjBMZnktYUhrZ0xzc2hod25nR0pTODF3T0xzM0poblZkaWpCeXNIYWdZdGxjaGx4eFVTWjVWY2dMSzNCdUJ3Wm1uLWI0MUV4ZkJMNkM1R2FQdGU0VUkzVEliV3V4SGU3azFFWUF3YXQzZ0ZvMHR2UXVKT3prWi03NnVWZGgyLWPSAegDQVVfeXFMUHo0eHR0ZFhaSnFTYWd2N3lnSUh2VEZMc2FmZ1VuQ0JKVEI1UXFqaG9ZU2xHeV9tejBERUdRUm0wQTI4LVpRLU9LaUFYdlpacGJTN3B0LXlEcmJZSHlRcHlUTGxYNjFUckdTZ0pidUE5MmowQnJFMmRjc2JHNW5RZzRwdlYwSlhVR2NwNGQ5dFV1T19UZFVxMXR4eXZ2SDNNa21WSU9jTURMZ2RHcFJWNURxck1VanJtQmJwZHVpNlE2MGdDSFBBNG9ldmlSSnpxT2hDRjh4QXdoQWxPUzhxMEVNWjhULWQ0eTVpRzcyaVV2VGpyVzZjVkhXaVdadkNDeDhpbjVUVG9GdVVtdzRfWUxiTkYza1VmMTYtMEo1TUEtNjBHMXZ4NURmdW51aUpuRzdKdllNd1hmV2MtOGtxeVgyUEpnVTlvd3V1bldjMW9CQVNvdlEwbkNlVkZzb2Q2Y0VucTd6dWk4anRCa2paTTR0VlRUaHhMeE1JbjZHMWhNRUdfV0N1LUZCWGN2TWtFY2FOb3psaUo5SGdpakxFZFFPU3VoUmo4N3pLQmtmQ3UyeXl1REMtVk5CNGxQdkRNWkdENkFaVGttbUdiRWlmVFNYSHRyMmtKMGhwbFFqdHY2c0M2Y2VpaDc?oc=5",
-          "published_at": "2026-08-16T07:39:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "العربية",
-            "url": "https://www.alarabiya.net",
-            "domain": "alarabiya.net",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -5985,7 +6533,7 @@
       ]
     },
     {
-      "id": "a7caf9ee77714f78a377",
+      "id": "ee6fcd4ebc76684345c5",
       "title": "SNRT نيوز - أخبار المغرب",
       "published_at": "2026-08-16T06:31:20Z",
       "status": "needs_review",
@@ -5995,7 +6543,7 @@
       "claim_reasons": [],
       "fact_check_matches": [],
       "source_count": 1,
-      "article_count": 2,
+      "article_count": 3,
       "sources": [
         "SNRTnews"
       ],
@@ -6010,6 +6558,23 @@
           "normalized_title": "snrt نيوز اخبار المغرب",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlNxdXdwbFVWQzdvRjZMZWpmZGkyNUFIM2ZQNFJmSGdxU3JocG1wSlllUkF5VnRIRWVWSlpiSGIwcVNxRS13VXdKRU14SVpuZ2JSb0FnVlZKQ1JPZm12OVY3TXhuOXhZbjExM3h3Z0RGNlJvMEtpR0xwWVBPOUdLWmhCZVRvd0ppSFpVV1gzUmctejVOclhxbkJsdw?oc=5",
           "published_at": "2026-08-16T06:31:20Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        },
+        {
+          "id": "2cc0c9db9ac4cd93c22d",
+          "title": "SNRT نيوز - أخبار المغرب",
+          "raw_title": "SNRT نيوز - أخبار المغرب - SNRTnews",
+          "normalized_title": "snrt نيوز اخبار المغرب",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OaWhVdzhUZXBqbERjVlFxa09kZXBNN1g5S1VVRndpWXZLMEhVNnhubFhwYWZBaHBZSS1USmR6RGtwdkR4NEt5aUxuQ0VKM2ZQMUpuYnJiM0xEQThqZGJ4YWZsLVI0ZFM2OUZ5SzlzaFNuNloxcE5UNEh1VQ?oc=5",
+          "published_at": "2026-08-16T05:30:58Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
@@ -6693,7 +7258,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "bfmtv.com"
+        "BFM"
       ],
       "languages": [
         "fr"
@@ -6702,14 +7267,14 @@
         {
           "id": "889fa49efcc3733bf42d",
           "title": "Ceuta: des dizaines d'interpellations à la frontière entre le Maroc et l'Espagne",
-          "raw_title": "Ceuta: des dizaines d'interpellations à la frontière entre le Maroc et l'Espagne - bfmtv.com",
+          "raw_title": "Ceuta: des dizaines d'interpellations à la frontière entre le Maroc et l'Espagne - BFM",
           "normalized_title": "ceuta des dizaines d interpellations a la frontiere entre le maroc et l espagne",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTmllOWFqdkVOYjJnOXp3U0FzVlZHQTVkTGZKWTFzTXdpcGRvSGdOdF9WUmRZUVVqQWRXX29NdUUtTEtzRmZ2RkVBajg2R2FGcEpUaVRfT2ZNSUZnSnljTUZxNHBnVVZSR0VqTDdHamplWUllSGswMmlibDRUZmRvSm9hcTF5NGtad3FNMmFoZ0xWOXB3YURkWWNBTnk4TGlhZXVhMnJfRU1sNTF2Z2lMSG1rZXhkWklZSU9jY2V2eTYyUFMxbHI1VnlsbnZkMUd6YlZjMjN2MF9rVTZ4VFd6aWxYOWV5WFB2UXVkOWxB?oc=5",
           "published_at": "2026-08-16T04:15:15Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "bfmtv.com",
+            "name": "BFM",
             "url": "https://www.bfmtv.com",
             "domain": "bfmtv.com",
             "weight": 0.35,
@@ -6799,7 +7364,7 @@
       ]
     },
     {
-      "id": "d811f2d867d93fef9965",
+      "id": "1c5d1447564a131dcc81",
       "title": "Morocco intercepts at least 294 migrants headed for Spain's Ceuta in security crackdown",
       "published_at": "2026-08-16T03:50:46Z",
       "status": "corroborated",
@@ -6858,23 +7423,6 @@
           }
         },
         {
-          "id": "4314e879a8a11be0b433",
-          "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
-          "raw_title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown - Reuters",
-          "normalized_title": "morocco arrests 111 migrants headed for spain s ceuta in security crackdown",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3FKVjRRZ1lTc2R5V0NjZjRlY0o5aFgyNEN6MmI1NFB0UC16Z0ZJVVF5UkxWTVBZUUR0RElRWGZBYnFHcW5Yei1Fc25Za29xUnBTMjZHSHRHRnpuUV9BSTdHM3ZyVWpXQzE1aHlqNU1vOXE0RmJOSC0zQllXbUVmYzJPaGtkVGItNWZVcVhSNXZSMVVQUUhQWTVxV3NzQTk1VTdhNzhhVUdpV3F3YkcyR2JwNFQ1ZEdCOWQteEdB?oc=5",
-          "published_at": "2026-08-15T22:54:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "domain": "reuters.com",
-            "weight": 0.8,
-            "category": "newsroom"
-          }
-        },
-        {
           "id": "630ba0ea87ded158a950",
           "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
           "raw_title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown - ABC News & Headlines – Australian Broadcasting Corporation",
@@ -6889,6 +7437,23 @@
             "domain": "abc.net.au",
             "weight": 0.35,
             "category": "unrated"
+          }
+        },
+        {
+          "id": "4314e879a8a11be0b433",
+          "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
+          "raw_title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown - Reuters",
+          "normalized_title": "morocco arrests 111 migrants headed for spain s ceuta in security crackdown",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3FKVjRRZ1lTc2R5V0NjZjRlY0o5aFgyNEN6MmI1NFB0UC16Z0ZJVVF5UkxWTVBZUUR0RElRWGZBYnFHcW5Yei1Fc25Za29xUnBTMjZHSHRHRnpuUV9BSTdHM3ZyVWpXQzE1aHlqNU1vOXE0RmJOSC0zQllXbUVmYzJPaGtkVGItNWZVcVhSNXZSMVVQUUhQWTVxV3NzQTk1VTdhNzhhVUdpV3F3YkcyR2JwNFQ1ZEdCOWQteEdB?oc=5",
+          "published_at": "2026-08-14T22:55:00Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Reuters",
+            "url": "https://www.reuters.com",
+            "domain": "reuters.com",
+            "weight": 0.8,
+            "category": "newsroom"
           }
         }
       ]
@@ -7906,46 +8471,6 @@
       ]
     },
     {
-      "id": "b34edc389082b7b1bf59",
-      "title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين",
-      "published_at": "2026-08-15T23:36:25Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "سكاي نيوز عربية"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "e51a980b3ad08aec0ef3",
-          "title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين",
-          "raw_title": "طوق أمني قرب سبتة.. المغرب يوقف مئات المهاجرين - سكاي نيوز عربية",
-          "normalized_title": "طوق امني قرب سبتة المغرب يوقف ميات المهاجرين",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOOVJBdXhKRDRUOUthWjYxMjJCcUdBRVZhcm83UVRMbWx4c08wWEI5ZHFMRmNCZUdWQy1WVmdmbmc1ZGRNSDdKMzVhZ3VkR19ZdHl5RUg5SmJTblJ3SW1lUXJLVUR2bEwwOGxWazJGQTJxY1BYUlc4VFN0U2xjZ2F5cEw3RjB0LWN2YWowc0hYSy1McF8yOE9pbEtTVlQ2Sk1qRllkLTB1eXZScFU2UnMxcWN4QnkzLWFGd2swZ2FRQXBLV2x0WFp6Y0xKeUFOaWZYU25kRm1xLXlRaWxtczdNUkJVU1VfU1pVUlBxTF9HVzgtZEpnMmJLTWJUSndEN1JYa1NqZ0I1bVNVaXZXZWFXcG1XdnlqaElaX2x3alRva3J2Z3RNbHVLUDRFY3RjQUtfaUhVT05kaEtBQVF5dHpubEtOVnZzQ0ZxNUVNbEwxTzN4T3pCVVdVb3g4YTVYMU9CQUNQaThrWmoxZmg0cVU3OFhOOWQ2WVdHaXF1cjJzQ1NRdkNmei1FNTZDTEo2eVRl0gGWA0FVX3lxTFBrLUtlNDRLXy1ZUjB6VklsZXZIdGJpTzZQRE1OX1pHNkpOb0Myd0FNOWR2THhoeS1jLTZnM2xHdGozSWhLYldmNHRIcnJOZjlfamFNamJ2UUlTVy1SeHJnUXRCUVV4eXFvZnBWcmwxZkdwMTVlVGVaRWNvaXg0QTBfcENrT2FncTIyZnMxcVZ3MzlucG1hVFdFQlRiUzI0M3NTbDNxbHkzWTNhMmQ4WWE5TGxQeGEyZTJXV0E0c0F3VWl5c0NaOWRuSFdaSWk1R2haME5Vck9hQThSUi1sbHo0bGdfNThQWWJzS01ibGhmWVNYaENBTTVHR2dueWpqd3VPQ2dlUUtPTXBRRjRNNUF3MEtVaUlkYW1nbFZDcHN1V3g5OXlzNE5LMEtZdEFycVdkbnMtNWZKeExURllHMGdsY2Q3dUY3cVgyV2o1Slk2MkVWb0NRM2JkSnVPZGhPellBVTJzT08zOWw5NU94ZDhQOFpTSTV6YmJNVGJEUmZHRlhuVlBBNnBnN1ZXRjBQTllCWG1PWXc?oc=5",
-          "published_at": "2026-08-15T23:36:25Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "سكاي نيوز عربية",
-            "url": "https://www.skynewsarabia.com",
-            "domain": "skynewsarabia.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "43dd025bca171386e7de",
       "title": "Le Maroc déjoue la tentative de centaines de migrants subsahariens de passer à Ceuta",
       "published_at": "2026-08-15T23:29:00Z",
@@ -8042,7 +8567,7 @@
       "article_count": 3,
       "sources": [
         "Oz Arab Media",
-        "اندبندنت عربية",
+        "independentarabia.com",
         "بوابة الوسط"
       ],
       "languages": [
@@ -8052,14 +8577,14 @@
         {
           "id": "5930cd3b2f935a818651",
           "title": "المغرب يوقف عشرات المهاجرين قرب سبتة",
-          "raw_title": "المغرب يوقف عشرات المهاجرين قرب سبتة - اندبندنت عربية",
+          "raw_title": "المغرب يوقف عشرات المهاجرين قرب سبتة - independentarabia.com",
           "normalized_title": "المغرب يوقف عشرات المهاجرين قرب سبتة",
           "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNYXo0NjUtZmtmMWVIZkNodmdoa3Rld0Z1SlpVZUtUbkUtNWtrTnA2U3MwX3JEeFNfdWZaU1ZyZzRhYmNUTTFXcU0waFNnTUFSbHBzSFpSZ3NNOEpTTXIwSW9sU0JSS29FRzNKb2JtMlJTYjltbEQzLVB2cHlMZkhLc1Mxc0hmSEJGMkwwWnFfSDlvdkkwODUtNGVvWTRXRGpfMUZEZ1dsenFsN1hEcC0tSG1lVndTNndsdmJiSGN4T3BwV3RlTERDQV9mRVotanNteFVENnhIUnpfTEpIT2w0akYtdFpMYmNTUnJFZkhkVDZ3YjhEMURuWW56UmFfWER4WjJqaUM1a1pyMTR5QmR4VWdrQXFuZmFmbjVoZkJwZmd6dGY5SHlVeVVkMHV3NUMwcUx1SjNSdzZycXZ4S0hEN21zY2gwS0lVbF8tT0tQcjJZUDdtZ05vVk5VUjRrM25kV3Y4blhOSDR2aEQzdldCcmd6ZHJ5WFM1NVRIVWRySFM0YnY1YlVwbmF0anZHNGlXNWc?oc=5",
           "published_at": "2026-08-15T23:21:24Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اندبندنت عربية",
+            "name": "independentarabia.com",
             "url": "https://www.independentarabia.com",
             "domain": "independentarabia.com",
             "weight": 0.35,
@@ -8271,6 +8796,47 @@
             "name": "middle-east-online.com",
             "url": "https://www.middle-east-online.com",
             "domain": "middle-east-online.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9ec96194eb249ae85d95",
+      "title": "نهائي كأس أمم إفريقيا للسيدات توتال إنيرجيز المغرب 2026 يصنع التاريخ ويبث لأول مرة مباشرة في المملكة المتحدة",
+      "published_at": "2026-08-15T22:17:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "cafonline.com"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "fbe07407d101589ee318",
+          "title": "نهائي كأس أمم إفريقيا للسيدات توتال إنيرجيز المغرب 2026 يصنع التاريخ ويبث لأول مرة مباشرة في المملكة المتحدة",
+          "raw_title": "نهائي كأس أمم إفريقيا للسيدات توتال إنيرجيز المغرب 2026 يصنع التاريخ ويبث لأول مرة مباشرة في المملكة المتحدة - cafonline.com",
+          "normalized_title": "نهايي كاس امم افريقيا للسيدات توتال انيرجيز المغرب 2026 يصنع التاريخ ويبث لاول مرة مباشرة في المملكة المتحدة",
+          "url": "https://news.google.com/rss/articles/CBMiyghBVV95cUxQVzdKN1RvenQ0RjhTczM1eW1KT3dDbF9ZLTB2cUFESGhVYWp6bDcxZXFkWE9EeUZHWmh4c3daVm5lZl9BRXdnSVdaZ2RJVW05T0xreUdnOUhod2ZnYl9ucVFaam0wZnNfcTRZZmRpYzBIeTZncm9WQ0NwVEFIS2RmVzVpUHVGMWxLV04yNkVIRklfNWE4ck1zdkczaDRMOGk5QzFUaFY5S1ZxNGdWWVNiTWVuc3R3eXZvM19vcXUySlpwbWltOXVaS2ZYQl8xVjBJdUFYaXBQWjRraVdqdm16dTU0aUVTQ0VRc1ZjdlRGcnRRTXNBX2lfcFdxYUlTdl9LZHRFYWhRcW5ZRndsTktKc05jdk1fQldMeDZBOERfb3AxZElzb3l6VFdVa3Q0alhabGJLOUxaaEVEa1cta2tzX0pJVXIyU3h3QWMzdXhoamV0enhMdGJiUXFzNEFWOGxCamFNODUzQUJRNldKeWpJRjJSMTZjNHRVWm1xcnRqNl9iZ3lOaF9IdzFxSzY2QndYRjh0Sl9tTlY5ZlFaMzcxbVpJRUZCUGRHVm5Xc3VQbTBtMXloanBFNDZMMVczd0tMaG5SSzFZRGxwS0xham5nYktQZnViTXNSSUFadkxjM3lTU2dlUTlFcDBzeFJSRFBXSHBVdGp5OFpnYlN1TjFaY28waW44dXlOV21rUVlWNzZNb3BHejVPTmMzbUhmWEhCY3gwd3B5a2tWNmVfT3hiaVQyQTh2MlNxSTllVFlTd0hSWU9IUTc4bXZVTlZPbFgzaWF4NlhBYnB6cUlfQ1BYaGR1QUU4bklSUFpwMEVDdTFpZVFrWmdUTmhJUDgzU3c5TXdwX1hJVml3OXJ5UV9DOVRRZkZ3dXVRRno0TkNNM1JVVjhMN3UxbVAwZE42bG9LcXZoTlM4el94RGJSamUwZzFISWU0SnRHM1J1MW9nNUJTY2NOTlRFdmlhZ25SMUlXRXVDWUxfR2d4SU9sVHczZFZoVmRRaENreGh3YXI5dWVtcEJJVWFFdURZUXpLN1p5cVNiSXdTWTFKRFZ4Y3Z4NV9aZ1l6blRsWTJiSktXNDl0d04xSlVJeGNiczh0ZGNHakIwb3JzVW1abFdrbnA2VDNOZDBwbWNOWmktNzJhWnJueUpScDRFTlV2S0FyT3BXcE1rMU1xYk4tYThLdWwwRDVqaktqSm9tS3dORllWNU54QzNfeHhQamFwT3h5YmdkRW5qSUFDZVgwcGFqNkJNZ1dHTGp0OVdvdHVjbUFpQWtUNGRyckVMZWRFZVozalVlWW9tUVAxblVqM3c0cC1yd1pVc2wweG5pM1cwbnJGVDVKS2lWUkJBVW9nYU0tbXlmQ0NXX1RPWHlnMjlncldENFpuMExqWnBuSUIyM2M5VzZvaXlOVFNLWDVpVXYwRC1kdmpmRkZQMTVaWjktTWp5eXIyR3dqOE15MVE?oc=5",
+          "published_at": "2026-08-15T22:17:00Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "cafonline.com",
+            "url": "https://www.cafonline.com",
+            "domain": "cafonline.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -9613,7 +10179,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "The Guardian"
+        "theguardian.com"
       ],
       "languages": [
         "en"
@@ -9622,14 +10188,14 @@
         {
           "id": "e2f29519264f60dad852",
           "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta | Morocco",
-          "raw_title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta | Morocco - The Guardian",
+          "raw_title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta | Morocco - theguardian.com",
           "normalized_title": "moroccan police arrest more than 100 people as they attempt to enter ceuta morocco",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdExtNC1vcXRxMWpBcU5TV1h1aE53bkxFXzB2VHVkS2d3bG03dU5mM1FZMzJNZ1ZqbzYtcFF3aFlaZHdtYlNOYjdqWmt4MlQtTFowNGNHTGJlaFpJZHMxaEVncEl2cC1VSUZuelA2WUxxQzBDb3JaRi1vUEhyMldEVDhESV9GOVc1bHlmMElralNQZGlHT3NmRWt0eVhJVVhJVGJjcFBCT2xEQWE1SURvUHpCNmVLOHhCZWRDbg?oc=5",
           "published_at": "2026-08-15T19:53:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "The Guardian",
+            "name": "theguardian.com",
             "url": "https://www.theguardian.com",
             "domain": "theguardian.com",
             "weight": 0.35,
@@ -9693,7 +10259,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "اندبندنت عربية"
+        "independentarabia.com"
       ],
       "languages": [
         "ar"
@@ -9702,14 +10268,14 @@
         {
           "id": "a8a3e62870c2d700d617",
           "title": "موجة الهجرة إلى سبتة أبعد من الفقر في المغرب",
-          "raw_title": "موجة الهجرة إلى سبتة أبعد من الفقر في المغرب - اندبندنت عربية",
+          "raw_title": "موجة الهجرة إلى سبتة أبعد من الفقر في المغرب - independentarabia.com",
           "normalized_title": "موجة الهجرة الى سبتة ابعد من الفقر في المغرب",
           "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxQNl9lMWp2UklpRnREUVlwNlZ0S0NUdWM2Nmg2YmxoOUZuQlRDcFpMVmFMamEzLVRlX2ZFVld6cmttemQxRnFYdEgxNE9VaU96TF9uNzRDNG9CMUw5T0VqWUwtcmgyUHZMQW1zdjBSZnppZ2lXNlRTUU5SamR4Q1cxdWdjR2I4WDlzRDdQZWlERjhTYm4yQVA2RDRUejNReWIyQlQ1a2F2QkV2TUtwSkt3a25PczRWUUhBLVlGaDNFRXBVbkNNeW5yMGNNVUVYSE5YWndPQ2NHakNCV0dONkJJcWRONUxObkQ1T2plbnlpMHlPSWNWN01YMVBLdDRCTVpRMWdRaEgyajlOZVJkbWJ6SUt0U2pzUlZzZ3R2ZWFEd05pT3Fjblo0LTRmWEdDTVBlRjVSYll3UWVLdVhVakdZSFBIaFVLYUJiUkJiQ2p2TUplTndITU1FODVjOVVPYmpidXdUd1RjNmZJb1dNcE1OdF9LLTFRRU1adnRwYTNjUGQwOXJZNVdiR3M0Y2FZS2lETHJuU0tVZ0t2Ri15VUZQM3hzcnB3c2Q4ZHVmcDZZczI3aXN6UmVjTGFOenluM0wxc2hVa2paWFkxOW12UTBYRHJqWlB2UC1GZG9XODlHcjdCMmtSNTk0?oc=5",
           "published_at": "2026-08-15T19:42:01Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اندبندنت عربية",
+            "name": "independentarabia.com",
             "url": "https://www.independentarabia.com",
             "domain": "independentarabia.com",
             "weight": 0.35,
@@ -11925,7 +12491,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "efe.com"
+        "EFE - Agencia de noticias"
       ],
       "languages": [
         "en"
@@ -11934,14 +12500,14 @@
         {
           "id": "ffa2fcf6dcd1b0b766d3",
           "title": "Morocco expels EFE, TVE scribes near Ceuta border",
-          "raw_title": "Morocco expels EFE, TVE scribes near Ceuta border - efe.com",
+          "raw_title": "Morocco expels EFE, TVE scribes near Ceuta border - EFE - Agencia de noticias",
           "normalized_title": "morocco expels efe tve scribes near ceuta border",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORC1yNldkamhHRG51WTF3ckhraFhOWXFHNElqcldLWU9LSnpnOFZLY0dHV29ncFVlVzVGZ2JCdE1BUlhlMVRJS2pLeGJaZjd0VTQ1SXpEajJjS1hYTlVvcTlacEgxTjRIRDVsemtQOU1aejM3NGkxNl9Xa05kVHJIQVFtVVZob0I2Yjl5MWlJWGZOZw?oc=5",
           "published_at": "2026-08-15T16:14:17Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "efe.com",
+            "name": "EFE - Agencia de noticias",
             "url": "https://efe.com",
             "domain": "efe.com",
             "weight": 0.35,
@@ -31299,8 +31865,8 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "Reuters",
-        "cnbcafrica.com"
+        "CNBC Africa",
+        "Reuters"
       ],
       "languages": [
         "en"
@@ -31309,14 +31875,14 @@
         {
           "id": "878678b51af5775132cc",
           "title": "Spain rejects discussing sovereignty of enclaves with Morocco",
-          "raw_title": "Spain rejects discussing sovereignty of enclaves with Morocco - cnbcafrica.com",
+          "raw_title": "Spain rejects discussing sovereignty of enclaves with Morocco - CNBC Africa",
           "normalized_title": "spain rejects discussing sovereignty of enclaves with morocco",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczBIdmRSMWhlMEZmQlppNmpvWVA3OFk5Tm4yUkhud3JNWHFucWlKS3RibzhIU0NTd2NvanVwTlRlSUNYMG9QbW5aSkdtQndTbnZwZ3pFZkxIVnhMZ3pyUFBzbTVocThIcU1JZHpTQ3hWU1djMkRLQW8xaDBYancycFk0STFKVFFSeGRxaklQNkkzZXdWaUx1Mw?oc=5",
           "published_at": "2026-08-13T15:50:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "cnbcafrica.com",
+            "name": "CNBC Africa",
             "url": "https://www.cnbcafrica.com",
             "domain": "cnbcafrica.com",
             "weight": 0.35,
@@ -35712,17 +36278,18 @@
       "id": "9e4ec517ca48df21844c",
       "title": "المغرب يستأنف استيراد القمح بسبب احتفاظ الفلاحين بالمحصول المحلي",
       "published_at": "2026-08-13T10:01:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
+        "alarabiya.net",
         "العربية"
       ],
       "languages": [
@@ -35732,14 +36299,14 @@
         {
           "id": "14320a7d2a6f11f64804",
           "title": "المغرب يستأنف استيراد القمح بسبب احتفاظ الفلاحين بالمحصول المحلي",
-          "raw_title": "المغرب يستأنف استيراد القمح بسبب احتفاظ الفلاحين بالمحصول المحلي - العربية",
+          "raw_title": "المغرب يستأنف استيراد القمح بسبب احتفاظ الفلاحين بالمحصول المحلي - alarabiya.net",
           "normalized_title": "المغرب يستانف استيراد القمح بسبب احتفاظ الفلاحين بالمحصول المحلي",
           "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPQ1lEb3RKd2QySDl3YTBmTlB4LVFSb0lIMGd6TWdxelhUZWRkaHNuUnhrbjNSMzdZR215eDY2OElTZWVvYlp0TXlnS1NrZDB6TGJVaFpyX2FKdGVKdkRKUEw5ZXFXN3JLR0QtclJfZy1Uc21OOFE0QXFOZkU5dXJIUmJTd19lSElSRTdYWUp1bjB3a0RRUFpzLTJzNFVuVDZxTk1vTE9lQlBDT0VVZHg2QWxONTZwM3dEZzQwOHpTYWNQZldSdDJ2WjNPV1ZfUG5WM0h3OWk2bVdVMWhWQ2JjYm1Zd1NJbHBXLVE2QkZoVVZlUmxReXQ5cEc5MzFLTkI1amVCT19Na3BkZWNVNk5acEhFcklDN1NfaTZ4QXZXUVQzdFBWeHpfUlkwQkptVWQtWXF6bmlkUDhCSzMzQVM3cW90aTNUcm9IckdnaVdjV19qdmREZExxN290TjU3MjhjdXdDMWUzZV9Bd01SY0tYVGdhVjhoZEN5YV9uVG9TMmo0QnBDV1hYR2dwcXZTblBqT3VESEEzQmhuSGFGaE1yVHJ2dlhuZkNQVGlnaHQ0WWdXMEZVMk10RDRWNi1WWUxEUkFBMDJWdXR1UGFRUnhqXzRTcUtXUzJNSFJpZzVkSjJnNk9jSHZ1b29KTkJLb3diNklXSkp4VDdvM3NSV3ZLd29ybkJZb2lPX1A2QXRYQWloZEFMbm4xdmV0MlBvZlR2TXNOdWJMWWdCcVnSAbAEQVVfeXFMTUQ2a1RrNGx1UngyWUxHNGpYNTNLNHdGTU9IUC10RXFHZU1GaFZXNE5OUDg5bHZqWEh1X285aWdjblRJZGM3MjZBaFFGUGo0Ql9TT1E4LU9xLUZVX1Z2THBkMU5yQXkxOUhBbXRhcU95TEtkM2ZtNTJVUlYxQi1jZWVyRjZUZXM3b0RtcnVkSUJKdWxJcUF3NWlTVVdqOVBlSmswRE1XM3FwYVV5cEx3ek1VSHpqRWN0d041cWN0YTRhNWxRY1Y1dVNPSFo2djViQTRtZ2h1UGdDd3dXQUJ0RFpyMEV1cFNCUXhHSlhDeXFBYl9xY0FyVFpRZjFwQ2RCbXhaRzNqZE5NMkJtbTZkT2dkbmlvejgxVENuTmNiU0d3cnZxMklHSzM5WXBvM0JIOGc0VV9vRE1Na0thQ29xeDkxT3ZlMXI4N2dnbGZscVlEZ0s0VTV2NVlVWEVJR2dfcVNqd0d5TzRpclMyRWc0a1dUQi1zeHY5ZXMtNEpxdTFYYlRla3FFMmVEcEszT3JVeXp6WFZJQ25WVlRXODZwM0lpZmRmZTBiUERlTWZNdjY1T0pjdXBNU2JsbU1jUU53eVBPRXFNZERjMVBMNC0zbnRiYkVPMHBvdXp5ZjVCTEdidmNkdVFPbXd0YnlTZnhQc3ppd2g0UEp4VG1vOGNGVVgycUNfRGFEVi0walNkRUVYQ19iY1lmZkFiVjMwSnBOMmhzVGtmanl5d3QyVXgzSE4?oc=5",
           "published_at": "2026-08-13T10:01:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "العربية",
+            "name": "alarabiya.net",
             "url": "https://www.alarabiya.net",
             "domain": "alarabiya.net",
             "weight": 0.35,
@@ -38553,21 +39120,20 @@
       ]
     },
     {
-      "id": "dff15435249ea703d205",
+      "id": "bbe16f20a8a215cf4a4d",
       "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
       "published_at": "2026-08-13T02:36:51Z",
       "status": "medium_evidence",
-      "evidence_score": 0.608,
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 3,
-      "article_count": 4,
+      "source_count": 2,
+      "article_count": 2,
       "sources": [
-        "Los Angeles Times",
         "The Hindu",
         "The Seattle Times"
       ],
@@ -38605,39 +39171,6 @@
             "name": "The Seattle Times",
             "url": "https://www.seattletimes.com",
             "domain": "seattletimes.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "f46a2898da5c216eae7d",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Los Angeles Times",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings los angeles times",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcG44ZDhfRk1UV2FFVWY1eXZqc3dLZXZ4LVVtZUZJMkk4WFRzS3N3eXo1WFRIekd6SW9qVVAxaUtFUEtNT1ZTNTB3em5QTUhNQTJzSmZuQjhkS3QxdjcyX3NXNTQ2VVNuSmxkQnQyQkg1REtiT3VsYVJhQVpJRms1RmRGNzgzMEZSQ3Z4dUdSX01DRmVyNmp3aEE0VzFXNk1kTlJKd3dQRWlFUm1iRkxPRlhic3NOWXQzTG1MTTlUOEVjSEVxUE9tRXV0Nm1ZMEFTRjcxZHpqQXE?oc=5",
-          "published_at": "2026-08-12T17:45:22Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
-            "domain": "latimes.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "942ce1dc078045e4c5c3",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Los Angeles Times",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcG44ZDhfRk1UV2FFVWY1eXZqc3dLZXZ4LVVtZUZJMkk4WFRzS3N3eXo1WFRIekd6SW9qVVAxaUtFUEtNT1ZTNTB3em5QTUhNQTJzSmZuQjhkS3QxdjcyX3NXNTQ2VVNuSmxkQnQyQkg1REtiT3VsYVJhQVpJRms1RmRGNzgzMEZSQ3Z4dUdSX01DRmVyNmp3aEE0VzFXNk1kTlJKd3dQRWlFUm1iRkxPRlhic3NOWXQzTG1MTTlUOEVjSEVxUE9tRXV0Nm1ZMEFTRjcxZHpqQXE?oc=5",
-          "published_at": "2026-08-12T17:45:22Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Los Angeles Times",
-            "url": "https://www.latimes.com",
-            "domain": "latimes.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -42154,22 +42687,21 @@
       ]
     },
     {
-      "id": "86bcb3c468ca6ea1781c",
+      "id": "4ef83b12e3159365063a",
       "title": "Tentatives de franchissement vers Sebta et Melilla : Le Maroc renforce son dispositif sécuritaire - Hespress Français - Actualités du Maroc",
       "published_at": "2026-08-12T18:43:00Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "Hespress Français - Actualités du Maroc",
-        "fr.hespress.com"
+        "Hespress Français - Actualités du Maroc"
       ],
       "languages": [
         "fr"
@@ -42187,457 +42719,6 @@
             "name": "Hespress Français - Actualités du Maroc",
             "url": "https://fr.hespress.com",
             "domain": "fr.hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "8e627371dc63b7004964",
-          "title": "Tentatives de franchissement vers Sebta et Melilla : Le Maroc renforce son dispositif sécuritaire",
-          "raw_title": "Tentatives de franchissement vers Sebta et Melilla : Le Maroc renforce son dispositif sécuritaire - fr.hespress.com",
-          "normalized_title": "tentatives de franchissement vers sebta et melilla le maroc renforce son dispositif securitaire",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM2xPRWFuTWZneWlqLWRFbFhuSkxjTkIwLUdJMUFabUU5bjNwTkRtTGFORkc3Y2F6NzRZQU0zdzhXYk0yS1RXWGRmXzU1Y0wydlE0RWtzM29mdU53Z3lHZ1c2TmptajBBNFB5ZUpkTlRxb2U5b3dwZzlQZnRocG14dmZscF9jNU1YNU5IaVh2WDhRQldmYlIzUzdtTmdTNUJhX2FjTmNkNFRCdWNaT0VjU2tkVk11V3lLY3JnWmNBZGFVZ0dlbjhQbDltNA?oc=5",
-          "published_at": "2026-08-12T18:43:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "fr.hespress.com",
-            "url": "https://fr.hespress.com",
-            "domain": "fr.hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a0669bcb890366d5f53e",
-      "title": "\"كان\" الألعاب الإلكترونية في المغرب - Hespress",
-      "published_at": "2026-08-12T18:39:52Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "Hespress"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "3de620b26f370f0f0a60",
-          "title": "\"كان\" الألعاب الإلكترونية في المغرب - Hespress",
-          "normalized_title": "كان الالعاب الالكترونية في المغرب hespress",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxORFJOM2dRbW5mbXRidlZDeUtPcnhwUUduM1gxbHJLMDVZa1lyZFlsT3U4TGZDMGJJellFN2k2TXVzN0NNNmFLdlZKclNPS3ZfR0ZabG5CVF9udWt6eTY5SElSWk9ETnlTbDJsU2JyaUplcUQxUjhaUGM0anIybFAtbjJacGZicV9MWmtlNnFDalVfR1p0NWp1MHhWbGNtVEhMT01CbmFEY0xRRXVwbjNTejdUdDVJT0I1WjFkS1g2WWhvaXpia2Y2SGtqMV9aQk85SURGMl9VZ01oRGpYVE1vUHd1YnU4Vnk2QmxhN1lSOUZfMXB2VVdGaGZPTDEybENXRjVQSGdmTlRZQ2FFZG1DZV9jMVlZQ0VPRDJRVGY5MkYwNVRCNm9ZUlNhU3F3MnJIcjdESnNiX2NBVVRM?oc=5",
-          "published_at": "2026-08-12T18:39:52Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Hespress",
-            "url": "https://www.hespress.com",
-            "domain": "hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "847f0152f17087dc7273",
-          "title": "\"كان\" الألعاب الإلكترونية في المغرب",
-          "raw_title": "\"كان\" الألعاب الإلكترونية في المغرب - Hespress",
-          "normalized_title": "كان الالعاب الالكترونية في المغرب",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxORFJOM2dRbW5mbXRidlZDeUtPcnhwUUduM1gxbHJLMDVZa1lyZFlsT3U4TGZDMGJJellFN2k2TXVzN0NNNmFLdlZKclNPS3ZfR0ZabG5CVF9udWt6eTY5SElSWk9ETnlTbDJsU2JyaUplcUQxUjhaUGM0anIybFAtbjJacGZicV9MWmtlNnFDalVfR1p0NWp1MHhWbGNtVEhMT01CbmFEY0xRRXVwbjNTejdUdDVJT0I1WjFkS1g2WWhvaXpia2Y2SGtqMV9aQk85SURGMl9VZ01oRGpYVE1vUHd1YnU4Vnk2QmxhN1lSOUZfMXB2VVdGaGZPTDEybENXRjVQSGdmTlRZQ2FFZG1DZV9jMVlZQ0VPRDJRVGY5MkYwNVRCNm9ZUlNhU3F3MnJIcjdESnNiX2NBVVRM?oc=5",
-          "published_at": "2026-08-12T18:39:52Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Hespress",
-            "url": "https://www.hespress.com",
-            "domain": "hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "641749b023c112316ba2",
-      "title": "Spain rejects Morocco’s Ceuta, Melilla claims: ‘Super-Spanish and cannot be touched’ - WION",
-      "published_at": "2026-08-12T18:38:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.4,
-      "claim_reasons": [
-        "specific_statement",
-        "reported_assertion"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "WION"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "98cd336b5a92a1831966",
-          "title": "Spain rejects Morocco’s Ceuta, Melilla claims: ‘Super-Spanish and cannot be touched’ - WION",
-          "normalized_title": "spain rejects morocco s ceuta melilla claims super spanish and cannot be touched wion",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHUzTmJmQ3o5aXg4ZXMxU0djNWlMbmpHNUpCZS1adDJJM2h2QzE5RlBpTDI2MTdwYnk1NjVYUVk5UU9hb2x6eEFqdHVJdWlqeVViYVlObzRWeDBLelZYTGdKYXEtYXRiWVVqY3pXa2Q2ejN3RlVQUXd0Y3puVTVYSlh5MjF5YXN4UmtNZXhGaWlDeVoxRkHSAZsBQVVfeXFMUHJNQ0N1Y1ZoczRMOE1xUE0tdEJOQWJrMlpBNlFLSnNMOU13aXNBUURKa0lGbHlsYU5UdWRrMWVVd0oxS2x1MHBiVEdTNm01dnJtU0NTN2NXc29Wa1kzWnRxOU9vQTVUZWFRZGxGVVdKNW9WUHlDLW4wRWFHOTNzT1lZZWxzQmk1ZWdyMkZncExiaTFLWmo5VGVWVG8?oc=5",
-          "published_at": "2026-08-12T18:38:00Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "WION",
-            "url": "https://www.wionews.com",
-            "domain": "wionews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "c7656279633d071cd22c",
-          "title": "Spain rejects Morocco’s Ceuta, Melilla claims: ‘Super-Spanish and cannot be touched’",
-          "raw_title": "Spain rejects Morocco’s Ceuta, Melilla claims: ‘Super-Spanish and cannot be touched’ - WION",
-          "normalized_title": "spain rejects morocco s ceuta melilla claims super spanish and cannot be touched",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHUzTmJmQ3o5aXg4ZXMxU0djNWlMbmpHNUpCZS1adDJJM2h2QzE5RlBpTDI2MTdwYnk1NjVYUVk5UU9hb2x6eEFqdHVJdWlqeVViYVlObzRWeDBLelZYTGdKYXEtYXRiWVVqY3pXa2Q2ejN3RlVQUXd0Y3puVTVYSlh5MjF5YXN4UmtNZXhGaWlDeVoxRkHSAZsBQVVfeXFMUHJNQ0N1Y1ZoczRMOE1xUE0tdEJOQWJrMlpBNlFLSnNMOU13aXNBUURKa0lGbHlsYU5UdWRrMWVVd0oxS2x1MHBiVEdTNm01dnJtU0NTN2NXc29Wa1kzWnRxOU9vQTVUZWFRZGxGVVdKNW9WUHlDLW4wRWFHOTNzT1lZZWxzQmk1ZWdyMkZncExiaTFLWmo5VGVWVG8?oc=5",
-          "published_at": "2026-08-12T18:38:00Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "WION",
-            "url": "https://www.wionews.com",
-            "domain": "wionews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f62654bdd8a67f73d74a",
-      "title": "تقرير: المغرب يقترب من منافسة إسبانيا على ريادة صناعة السيارات الكهربائية والبطاريات باستثمارات صينية وأوروبية ضخمة - الصحيفة",
-      "published_at": "2026-08-12T18:33:37Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "الصحيفة"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "60b05edbc043f731fbcd",
-          "title": "تقرير: المغرب يقترب من منافسة إسبانيا على ريادة صناعة السيارات الكهربائية والبطاريات باستثمارات صينية وأوروبية ضخمة - الصحيفة",
-          "normalized_title": "تقرير المغرب يقترب من منافسة اسبانيا على ريادة صناعة السيارات الكهربايية والبطاريات باستثمارات صينية واوروبية ضخمة الصحيفة",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNOTdNbF9iQ3J2cWpHd1UtNjlFX3A5M295Y3pCOXI5RGl6Q2V4RlFUdWY0MFEzaWVZZ1FXMEZOTFNoVDZvRmVvZ3l6NUZ4QTU1TkdfTHZZQngtZVlvQUdKZXVnVHR1WWZoQnhtMjhSbkozd21vQ3pPWG1TY3cxYXZQaEw1OHBESVpYMHVIb1FRMUhLV2lEaGFiT3lFM1NFSTFLZlhCZlBBMGdRbHRLVTNTQmZPVEVLUWVCUnhUX3VIcF9LT3VyN0hzZWZNSFpNWEozVjd6ZG95VFFCZXdwVnFDNVNiSktSNHU2SXU2N3luWWNfMzA2QVhINzBHRE5GOWM1N21scEVkVkU2emJManE5U3NRdW5VRGhNbE5tYVduQ0FyUDg5MzF3OHNnT0ZkTy1VSHlGTkFVX2RIY2tDUkptcjJJWVotUXc?oc=5",
-          "published_at": "2026-08-12T18:33:37Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "الصحيفة",
-            "url": "https://www.assahifa.com",
-            "domain": "assahifa.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "59f308aeecfebb1f47e9",
-          "title": "تقرير: المغرب يقترب من منافسة إسبانيا على ريادة صناعة السيارات الكهربائية والبطاريات باستثمارات صينية وأوروبية ضخمة",
-          "raw_title": "تقرير: المغرب يقترب من منافسة إسبانيا على ريادة صناعة السيارات الكهربائية والبطاريات باستثمارات صينية وأوروبية ضخمة - الصحيفة",
-          "normalized_title": "تقرير المغرب يقترب من منافسة اسبانيا على ريادة صناعة السيارات الكهربايية والبطاريات باستثمارات صينية واوروبية ضخمة",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNOTdNbF9iQ3J2cWpHd1UtNjlFX3A5M295Y3pCOXI5RGl6Q2V4RlFUdWY0MFEzaWVZZ1FXMEZOTFNoVDZvRmVvZ3l6NUZ4QTU1TkdfTHZZQngtZVlvQUdKZXVnVHR1WWZoQnhtMjhSbkozd21vQ3pPWG1TY3cxYXZQaEw1OHBESVpYMHVIb1FRMUhLV2lEaGFiT3lFM1NFSTFLZlhCZlBBMGdRbHRLVTNTQmZPVEVLUWVCUnhUX3VIcF9LT3VyN0hzZWZNSFpNWEozVjd6ZG95VFFCZXdwVnFDNVNiSktSNHU2SXU2N3luWWNfMzA2QVhINzBHRE5GOWM1N21scEVkVkU2emJManE5U3NRdW5VRGhNbE5tYVduQ0FyUDg5MzF3OHNnT0ZkTy1VSHlGTkFVX2RIY2tDUkptcjJJWVotUXc?oc=5",
-          "published_at": "2026-08-12T18:33:37Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "الصحيفة",
-            "url": "https://www.assahifa.com",
-            "domain": "assahifa.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "781391390d814cc20ca1",
-      "title": "Mission des USA au Maroc: Christopher Deutsch, nouveau consul général à Casablanca",
-      "published_at": "2026-08-12T18:07:31Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Aujourd'hui le Maroc"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "717c8cac2ae522f365ca",
-          "title": "Mission des USA au Maroc: Christopher Deutsch, nouveau consul général à Casablanca",
-          "raw_title": "Mission des USA au Maroc: Christopher Deutsch, nouveau consul général à Casablanca - Aujourd'hui le Maroc",
-          "normalized_title": "mission des usa au maroc christopher deutsch nouveau consul general a casablanca",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlZmMlNfRXpCR3p3aTAtWXhNOUloVEF1R1BMSjZIa1gwZmxZSk9BX0RkUVNrTUF6bTY2emhCcVVSTFRXc21kb1VaMmJUZmRDcmIwcWlsYWFHQmp6T2NMbndfSnpKTHZnQzBvdFBWbGV2cUxBekJKSk1mUnpUQzJibGotUDhHT2ZrU24yTXBwQWpib1RWTUVNcm5CUUxNZ0FrNGdBaDd5Vlpla2hqT21IdkRR?oc=5",
-          "published_at": "2026-08-12T18:07:31Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Aujourd'hui le Maroc",
-            "url": "https://aujourdhui.ma",
-            "domain": "aujourdhui.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e75fc64d53eb93630989",
-      "title": "Athlétisme: Le Maroc rallume la flamme des grandes années - lopinion.ma",
-      "published_at": "2026-08-12T18:02:56Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "lopinion.ma"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "402323d46e158aba10c2",
-          "title": "Athlétisme: Le Maroc rallume la flamme des grandes années - lopinion.ma",
-          "normalized_title": "athletisme le maroc rallume la flamme des grandes annees lopinion ma",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVlvR0ZDUXJKTUZIZ2xPSnViZHhzQ0ctbGtTYU9QNEdGTldYVGpsME43UEtYeXBzdWhlXzdZV19ieXhkak1Fdjh3WHRiRXNPd1VIUlZ3WEVQVWxwUmk1THlES09wWHhJMTIyOXozN0E4NWRmT0haOG5vNlQ1eDZnV2hpVXBqcER4RDRsREVBUjVTRVMyYzF5WWNqUFAxQ25BTVNPZkxhUnZ2czFfZ1VQUGZFSTdFZDNReXloLXRBTEFIb1RGVDYyN3lmSE5wa3FJWHh6bmtrcXdpZXZrak1LS0ZR?oc=5",
-          "published_at": "2026-08-12T18:02:56Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "lopinion.ma",
-            "url": "https://lopinion.ma",
-            "domain": "lopinion.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "880cb3b592adf247e57d",
-          "title": "Athlétisme: Le Maroc rallume la flamme des grandes années",
-          "raw_title": "Athlétisme: Le Maroc rallume la flamme des grandes années - lopinion.ma",
-          "normalized_title": "athletisme le maroc rallume la flamme des grandes annees",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMVlvR0ZDUXJKTUZIZ2xPSnViZHhzQ0ctbGtTYU9QNEdGTldYVGpsME43UEtYeXBzdWhlXzdZV19ieXhkak1Fdjh3WHRiRXNPd1VIUlZ3WEVQVWxwUmk1THlES09wWHhJMTIyOXozN0E4NWRmT0haOG5vNlQ1eDZnV2hpVXBqcER4RDRsREVBUjVTRVMyYzF5WWNqUFAxQ25BTVNPZkxhUnZ2czFfZ1VQUGZFSTdFZDNReXloLXRBTEFIb1RGVDYyN3lmSE5wa3FJWHh6bmtrcXdpZXZrak1LS0ZR?oc=5",
-          "published_at": "2026-08-12T18:02:56Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "lopinion.ma",
-            "url": "https://lopinion.ma",
-            "domain": "lopinion.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "981bf37d13a29ae60cc3",
-      "title": "إسبانيا ترفض مناقشة وضع سبتة ومليلية مع المغرب - Al Akhbar",
-      "published_at": "2026-08-12T18:02:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "Al Akhbar"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "b0a9ec9ff98ffcd85277",
-          "title": "إسبانيا ترفض مناقشة وضع سبتة ومليلية مع المغرب - Al Akhbar",
-          "normalized_title": "اسبانيا ترفض مناقشة وضع سبتة ومليلية مع المغرب al akhbar",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPV2JHczFtTFR2LW14cUluYm1XdS15eTBOMzU5ZVFzdDNCV05lNXlsbVRHc1RGVDRiUEItaFVpMFY1bHdLTjNra2RsQk9tWGxTMHA3bzYwRnF5WFNSZVJkZUN2aWxNX2o2X0VtYVhiSmlHNk1jRVNWYXpUUHJ3SXdpUG9velFOM2JWaUh0TEdrbmN1QktaTGxIbEduR01iM2xxaEpuRU5DZlJkSlBQd3RpbGExWGEyUUJNR3ZmblNCWXpsLXBjLVF0ODZ0RU1Tbk83QU9meUN1dXY4TlRUX0ZIWHhyYXhHdjRBTFROTGdIVHhNZWVjdmJEZUVLbzIwMTFsZndlbVota1pDZ1FmemI5aDhmYjdvUGJnaW5RNGtEOVUzYnJTaURiUk0wR3MxTGdBMWcxVUlDV0NGa3ljZjd3QWVNWDNsX0pmb0JOT2VPZHMzaUNZV3B4dElZZE9KY095QVNvMXRCZjdnWVkzamd3OGxnNEx6bUpqejVNZFA4X01sZnhEUk4tLTdxNHpQd0RlNWRoRGl0OFM?oc=5",
-          "published_at": "2026-08-12T18:02:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Al Akhbar",
-            "url": "https://www.al-akhbar.com",
-            "domain": "al-akhbar.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "7d7984ca694d529e409e",
-          "title": "إسبانيا ترفض مناقشة وضع سبتة ومليلية مع المغرب",
-          "raw_title": "إسبانيا ترفض مناقشة وضع سبتة ومليلية مع المغرب - Al Akhbar",
-          "normalized_title": "اسبانيا ترفض مناقشة وضع سبتة ومليلية مع المغرب",
-          "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPV2JHczFtTFR2LW14cUluYm1XdS15eTBOMzU5ZVFzdDNCV05lNXlsbVRHc1RGVDRiUEItaFVpMFY1bHdLTjNra2RsQk9tWGxTMHA3bzYwRnF5WFNSZVJkZUN2aWxNX2o2X0VtYVhiSmlHNk1jRVNWYXpUUHJ3SXdpUG9velFOM2JWaUh0TEdrbmN1QktaTGxIbEduR01iM2xxaEpuRU5DZlJkSlBQd3RpbGExWGEyUUJNR3ZmblNCWXpsLXBjLVF0ODZ0RU1Tbk83QU9meUN1dXY4TlRUX0ZIWHhyYXhHdjRBTFROTGdIVHhNZWVjdmJEZUVLbzIwMTFsZndlbVota1pDZ1FmemI5aDhmYjdvUGJnaW5RNGtEOVUzYnJTaURiUk0wR3MxTGdBMWcxVUlDV0NGa3ljZjd3QWVNWDNsX0pmb0JOT2VPZHMzaUNZV3B4dElZZE9KY095QVNvMXRCZjdnWVkzamd3OGxnNEx6bUpqejVNZFA4X01sZnhEUk4tLTdxNHpQd0RlNWRoRGl0OFM?oc=5",
-          "published_at": "2026-08-12T18:02:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Al Akhbar",
-            "url": "https://www.al-akhbar.com",
-            "domain": "al-akhbar.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1d58d62c278aadcdb04a",
-      "title": "نادٍ إسباني يرغب في التعاقد مع لاعب المغرب - 365Scores",
-      "published_at": "2026-08-12T17:41:50Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "365Scores"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "37f636bc75803c9a5520",
-          "title": "نادٍ إسباني يرغب في التعاقد مع لاعب المغرب - 365Scores",
-          "normalized_title": "ناد اسباني يرغب في التعاقد مع لاعب المغرب 365scores",
-          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNRHI2UXpTaE1QRnFKc2VkVkgwdENJLS02enVONmIySXp5TGx6OUJobVVJekpqSU5wbUd1Q0JBbXBlMGE0Ym5oeTVUbk00X1lHZktSTzRYZVZJZHBNMFM0bl9EVndwTEx0NlJDc0RLaDJmaUwzQzBGckhfRTNKTG9aQVQ0MmV1STJwdHd0a3NlajNsVHptT3VkWnpzLXpKMDU3YWZyY3VhQ3dKQmptVzZ1Tmk4b2g1Z0VDdzl0TjRzTkFnQklQRDNKak9TaGV0Q3VZby1CMWttMGZXMmw1Z0hsdkY3WmtCSmNsM1RBcHROQnV4THVYM01qUGNQQVlPSFhmZkhhRl9DbTJfWTQ4b19Pb2VVaHZFSU94R2pmNW1YU3NfZl9OQ0dLLXhFOVIwSC1KUGxBSVFqV3g4SVBIWmh1U0FHdTVvZ2pQc2tnb2xJZWNtX0hjc0NsUzkzZXpNMU9q?oc=5",
-          "published_at": "2026-08-12T17:41:50Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "365Scores",
-            "url": "https://www.365scores.com",
-            "domain": "365scores.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "4f67dbd039b4c6c5359b",
-          "title": "نادٍ إسباني يرغب في التعاقد مع لاعب المغرب",
-          "raw_title": "نادٍ إسباني يرغب في التعاقد مع لاعب المغرب - 365Scores",
-          "normalized_title": "ناد اسباني يرغب في التعاقد مع لاعب المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNRHI2UXpTaE1QRnFKc2VkVkgwdENJLS02enVONmIySXp5TGx6OUJobVVJekpqSU5wbUd1Q0JBbXBlMGE0Ym5oeTVUbk00X1lHZktSTzRYZVZJZHBNMFM0bl9EVndwTEx0NlJDc0RLaDJmaUwzQzBGckhfRTNKTG9aQVQ0MmV1STJwdHd0a3NlajNsVHptT3VkWnpzLXpKMDU3YWZyY3VhQ3dKQmptVzZ1Tmk4b2g1Z0VDdzl0TjRzTkFnQklQRDNKak9TaGV0Q3VZby1CMWttMGZXMmw1Z0hsdkY3WmtCSmNsM1RBcHROQnV4THVYM01qUGNQQVlPSFhmZkhhRl9DbTJfWTQ4b19Pb2VVaHZFSU94R2pmNW1YU3NfZl9OQ0dLLXhFOVIwSC1KUGxBSVFqV3g4SVBIWmh1U0FHdTVvZ2pQc2tnb2xJZWNtX0hjc0NsUzkzZXpNMU9q?oc=5",
-          "published_at": "2026-08-12T17:41:50Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "365Scores",
-            "url": "https://www.365scores.com",
-            "domain": "365scores.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d540c4de1cbbf6dce7a1",
-      "title": "Le Maroc assume sa part dans la lutte contre le phénomène migratoire avec grande responsabilité et engagement (Atik Essaid) - Le Matin.ma",
-      "published_at": "2026-08-12T17:41:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "Le Matin.ma"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "58478f6195d73776e5b1",
-          "title": "Le Maroc assume sa part dans la lutte contre le phénomène migratoire avec grande responsabilité et engagement (Atik Essaid) - Le Matin.ma",
-          "normalized_title": "le maroc assume sa part dans la lutte contre le phenomene migratoire avec grande responsabilite et engagement atik essaid le matin ma",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQejgzbU9yNDFHSFNwek5lS3BNUUhmd2NzYVByWjhtaXhIa2VEX2tMT2xHVjhhX0JER3hPdWZ5WW9JTXYxV2c3cjVVb2tXZVhUSHNrVmhnTTFMSjRROG92ZFcxNXFjMDhERGhuR2s1Y0VsZDVDc0VDWWRnYjJzVWwyN21Sb2d4Mmc5WE9TRktYWnp0U0xkSGZiS1htQ1p1LTdx0gGmAUFVX3lxTE5zaEFkelMxYkRDUE1kOHpUa29zSmljMGdLY0tnM2UwUkFqcjZpdGtwRHdHRXNfZ054M2pWZTJvNjdSNl9JYU1lQnR4VDloVkNmczE5RVUtYWpjSFF0Q2ZuQnJpTnBSLUc5dGY3Q0tDNjZJYk5qSHBaV2tGMGFGR2ljaEo2RFNOR3NnZUdpbHYwTFA4cTU0c1ZRQUNfdlgtRndGWjNmc0E?oc=5",
-          "published_at": "2026-08-12T17:41:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Matin.ma",
-            "url": "https://lematin.ma",
-            "domain": "lematin.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "f03c338ee7cb1c4435ae",
-          "title": "Le Maroc assume sa part dans la lutte contre le phénomène migratoire avec grande responsabilité et engagement (Atik Essaid)",
-          "raw_title": "Le Maroc assume sa part dans la lutte contre le phénomène migratoire avec grande responsabilité et engagement (Atik Essaid) - Le Matin.ma",
-          "normalized_title": "le maroc assume sa part dans la lutte contre le phenomene migratoire avec grande responsabilite et engagement atik essaid",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQejgzbU9yNDFHSFNwek5lS3BNUUhmd2NzYVByWjhtaXhIa2VEX2tMT2xHVjhhX0JER3hPdWZ5WW9JTXYxV2c3cjVVb2tXZVhUSHNrVmhnTTFMSjRROG92ZFcxNXFjMDhERGhuR2s1Y0VsZDVDc0VDWWRnYjJzVWwyN21Sb2d4Mmc5WE9TRktYWnp0U0xkSGZiS1htQ1p1LTdx0gGmAUFVX3lxTE5zaEFkelMxYkRDUE1kOHpUa29zSmljMGdLY0tnM2UwUkFqcjZpdGtwRHdHRXNfZ054M2pWZTJvNjdSNl9JYU1lQnR4VDloVkNmczE5RVUtYWpjSFF0Q2ZuQnJpTnBSLUc5dGY3Q0tDNjZJYk5qSHBaV2tGMGFGR2ljaEo2RFNOR3NnZUdpbHYwTFA4cTU0c1ZRQUNfdlgtRndGWjNmc0E?oc=5",
-          "published_at": "2026-08-12T17:41:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Matin.ma",
-            "url": "https://lematin.ma",
-            "domain": "lematin.ma",
             "weight": 0.35,
             "category": "unrated"
           }
