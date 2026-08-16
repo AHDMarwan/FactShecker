@@ -1,20 +1,258 @@
 {
-  "generated_at": "2026-08-16T18:46:55Z",
+  "generated_at": "2026-08-16T19:33:26Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1200,
     "fact_checks": 0,
-    "clusters": 942,
-    "sources": 335,
+    "clusters": 948,
+    "sources": 334,
     "matched_clusters": 0,
-    "needs_review": 859,
-    "medium_evidence": 81,
-    "corroborated": 2
+    "needs_review": 864,
+    "medium_evidence": 83,
+    "corroborated": 1
   },
   "fact_checks": [],
   "items": [
+    {
+      "id": "2ddd825ab5acfacf04d1",
+      "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
+      "published_at": "2026-08-16T19:27:13Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 3,
+      "article_count": 3,
+      "sources": [
+        "Al Jazeera",
+        "KTVN",
+        "The Washington Post"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "fd1fd5c1bdd10dc0d293",
+          "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
+          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta - The Washington Post",
+          "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlZ1czA0bVRkYm5CSGRLYkNNR2dXZFNTZ08tZ2xEUTVGVVlGNVR0cXJRdnA0a0dFZlZFeDNQWk5JWTkyVWZwUlZ2cjdYcFQ4SlJkRENVNWlPcWxvV0lCTW45ckRqSFlVWEszWTJGcVNUajVkM3RRclNEM25zWlVDVzlxX2dVeGE4UjhrZENVQmU4RDJpcDVzMVJ1ZFV4Q3VMNVhzY25SMk80QVlXbjRLcUtfT2kxLUtmTzRqUVU2VVlIZlE?oc=5",
+          "published_at": "2026-08-16T19:27:13Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com",
+            "domain": "washingtonpost.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "e2cbeea3d2bf79cc0642",
+          "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta | National News | 2news.com",
+          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta | National News | 2news.com - KTVN",
+          "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta national news 2news com",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUlJJUDc1YXFJM3k3LUpTSkxzMEZVZmdMSkxzMHptTzZ0aEtVX0hMN1pQY0RvZUpMU1lTYXAtLVRSUmMzbUhtVUpIVVNockttOUlvWGY5OGI5Qm1MX0pMTlAtcDhQNkk0U01LRUxaeDg0LWRJU2FUUHdQMHlDaEZBdVdEV2dsYzFCNnVCaG1kODZmMXZEbnY4SlBycEtJWjBjZVZQWjhyWHhIenhkdXdyazd6QkRkRGY2NzNhU0tqOHpJWXVDcXpIS21IdVFsOHRaaHJCemVCRWU5cjVMdktsck9fYzFqTUxLRENXTGx5MW5FMjlGOUVJSQ?oc=5",
+          "published_at": "2026-08-16T19:05:59Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "KTVN",
+            "url": "http://www.ktvn.com",
+            "domain": "ktvn.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "99588d2db2ec3ccb76db",
+          "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
+          "raw_title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave - Al Jazeera",
+          "normalized_title": "moroccan police arrest over 100 migrants trying to reach spanish enclave",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVVQeVU0aEJWeUVvbS11dVhtLWhfQlMzdnhucU9mV1piaDV3Q1NsYlJ5LUVEQ21hZU9hR0t3R09XYWpWZGpYci10dHBpUzl5WUhSaFY5M1hmeVp3MGNqN1pzakJhNkN5ZU4wUGI2ejVtYUZqc1ZjZ0hTdEY0Z21GbnJFR2xta2RRdnJWOFM5WVI4RUg4SDkzNXI4T053bWlVRV9tNm5SaTZQODFucDJRVWs3SdIBuAFBVV95cUxQU0xlYUJUOFV2N09pSDhkd282eWc3Z2pvSGRXZFlTRXNFWFNKYTlWaENnMVJ1WWhyQWxCV1E4Q2dpN3Y2bVQ1eHc3ZjRTRWVHbXd5dVJzdHBSZFQ2R1lmQnhkbjRSMnZhMThKeHZDTk9mYTlUYmNxalg0SURzQWRkb1l2cG1OQ0lHdGlKX1lKVTMtNnNndkU1LTF2Z3U5dy1XeEFwM3paNWstYjRzMWRJdEw0NGhab1Ra?oc=5",
+          "published_at": "2026-08-15T19:52:17Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com",
+            "domain": "aljazeera.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4b0c5e9bc44de70a0857",
+      "title": "Ceuta and Melilla: How Toughness Towards Morocco Pays Political Dividends",
+      "published_at": "2026-08-16T19:20:07Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Morocco World News"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "bac79e631c2c9fc6c15e",
+          "title": "Ceuta and Melilla: How Toughness Towards Morocco Pays Political Dividends",
+          "raw_title": "Ceuta and Melilla: How Toughness Towards Morocco Pays Political Dividends - Morocco World News",
+          "normalized_title": "ceuta and melilla how toughness towards morocco pays political dividends",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN0hiYnFlRkUxaENTYXdkTG1oRTV5enlVVUFCdkluSndCbWJmdU9kbzBLQVBoZ0hyR21ieWU2QkIxeWVEcmp6eFNzOS1IaUo3bWxKTUhQV05Wc283bmV3TXVVb0Voamk0Y29HSy1ESjY4bUN3WDZwX2hDS1IzYks2QkswZmdzS1N3WkdXdGpGQW5vUjVlSDRWa0l1RklNOUxxbUZWWXVHVEdBVDJqME1kNFFJT2RweDhFMENIdllB?oc=5",
+          "published_at": "2026-08-16T19:20:07Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Morocco World News",
+            "url": "https://www.moroccoworldnews.com",
+            "domain": "moroccoworldnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a7e817908be80687bb23",
+      "title": "إعلام أوروبي: المغرب يحبط اقتحام سبتة",
+      "published_at": "2026-08-16T19:12:13Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "16e901ce3258a90ec8b7",
+          "title": "إعلام أوروبي: المغرب يحبط اقتحام سبتة",
+          "raw_title": "إعلام أوروبي: المغرب يحبط اقتحام سبتة - Hespress",
+          "normalized_title": "اعلام اوروبي المغرب يحبط اقتحام سبتة",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQTUZSOF82ZWlPVXRHZm0yTHVsOGVQRFhyUVZGaWZ0OXJGS254SVJKbTBTVy1iLWtsaEh6TlR3bmF6bDFmaFBfRC1DbURHcTJhd3FLREhPQnpJYm94NnhGOEhwbWJQSmJEdHpIcWVfWTMyMUtYZUxQMkZYb2Z4MUlIYllkbHpDbXU3WTRkUHcyTS1fVG1FaHRFM0dxd2lleUZGQWRIc09FdjhQRnUyaE5BUGQ1TndFQjE3VlhTd01lU3NUaEIwVHpINFZsQlN2d3NVNTdtUjNKUGdGT0libEQ5XzBrSFN0T2QtTUZMRk5sbWJGQmVnejQyWU9EalFTQWJEX01RLTBXWHFFTFRlREJadlVVTVk5djFzQ2t4aFl4TWcxYndrWERMcGhSOV9UQ0hRZnY2MlhqTktlSVlnelUxREVMV040Rl9aLWQ2QnRn?oc=5",
+          "published_at": "2026-08-16T19:12:13Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2291421867ee4fcada4f",
+      "title": "'I'd rather die than return': Moroccan migrants protest, seek asylum after fleeing to Spain's Ceuta | CBC News",
+      "published_at": "2026-08-16T19:03:40Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "CBC"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "8b7c85f1f3c915ef86b0",
+          "title": "'I'd rather die than return': Moroccan migrants protest, seek asylum after fleeing to Spain's Ceuta | CBC News",
+          "raw_title": "'I'd rather die than return': Moroccan migrants protest, seek asylum after fleeing to Spain's Ceuta | CBC News - CBC",
+          "normalized_title": "i d rather die than return moroccan migrants protest seek asylum after fleeing to spain s ceuta cbc news",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVEN5ejNwaS0yVEMxby1CdmZJUFdfM3BMcjRvNDl3enZITHhrZDJvd2dXcUxlSDdLTkZtN3VxQVlSclJwb0FQYnJscGVkOTRib0VjUHdqMExwQUFtTUpMdXpjMU4tU0xZZXlfYy0zZUxneHJ2emtnUG1mdi1HWnhYYQ?oc=5",
+          "published_at": "2026-08-16T19:03:40Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "CBC",
+            "url": "https://www.cbc.ca",
+            "domain": "cbc.ca",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "632c184855e7176a7352",
+      "title": "Ses 98 allers-retours au Maroc lui coûtent la nationalité… jusqu'à ce que la justice recompte les jours",
+      "published_at": "2026-08-16T19:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Bladi.net"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "294297f9f8ad6f19cb15",
+          "title": "Ses 98 allers-retours au Maroc lui coûtent la nationalité… jusqu'à ce que la justice recompte les jours",
+          "raw_title": "Ses 98 allers-retours au Maroc lui coûtent la nationalité… jusqu'à ce que la justice recompte les jours - Bladi.net",
+          "normalized_title": "ses 98 allers retours au maroc lui coutent la nationalite jusqu a ce que la justice recompte les jours",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX216a1FYS2xMYVYwemJSYzIyZ3dfSi1tY3hZdks4SHIzUy0wY0htNVRlMERuWUVGa2dZWWlsN1l4UVJxOWRZZ0l0X3dzalhJY2lyT1ZLOFpQVkRWM3JHTmxFLTk0enBPNl9fSDBLYVhtZ2hhTkJTdFA2XzZPZzFHcEJKSmdmbmJjbE03QkxYRHVic3oyMmJVZjVhZFBrZVFyaFdfcjZB?oc=5",
+          "published_at": "2026-08-16T19:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Bladi.net",
+            "url": "https://www.bladi.net",
+            "domain": "bladi.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "bcdb8eaa4dcccff769a7",
       "title": "أعدناهم من سبتة فمن يعيد المغرب إليهم؟",
@@ -130,6 +368,64 @@
             "name": "الاتحاد الاشتراكي",
             "url": "https://alittihad.info",
             "domain": "alittihad.info",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ddb4bcc5d472edc26869",
+      "title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية.. ومصر ثالثاً",
+      "published_at": "2026-08-16T18:15:08Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "CNN الاقتصادية",
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "47ea6d50f2cda565dcca",
+          "title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية.. ومصر ثالثاً",
+          "raw_title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية.. ومصر ثالثاً - CNN الاقتصادية",
+          "normalized_title": "تصنيف يضع المغرب ثاني افريقيا في تحويل الذكاء الى ثورة صناعية ومصر ثالثا",
+          "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQWEo5ZUJVTEpteWxCSWtXRUVNVHJZb3BsOHF5ME8yU2xzTXU3VFNoNXA4YzlkcGVJOGpmLVhBTS1zdHIwcXExVVNHTFN2bmg2V3RZSldVSkpKeG5lMFNoVlRTUW1SRV8ybXBjSWp2NnI5eGxLeGF2MDNEZ0lFa3VJTk1IbWFzT1dIMndwWE9sZVc5dFF2Tm55V055djJtZnNBTzE5X0dKMHVPOThkTm1fODRJWXpVa1BxSHctdGgtczJaaXdtdjlmekhwc0k3S24yeFA3cS14VGUyQkJvUUtYV29JYmFTVlB3V3lYUHVEQUNkQWhHeU9POFlIOUxfbzl1SFJqeEdxcm5NV2tJU2EzNEtzSFpydkwwWVgzQnFMNTNuUGVsSlBSVTByU0V1REVBVVp5ZnlxRWN5VVBNWmZvZDZWaUVVV01JRFBiZGVEZmtXdS15MUsybmJlTE5WU3lNdmhFSmxEeHphYTc2TV9nM2VkOHJsMEF2YlhpWjgwVXl4OVMzWWhES2pLY254UFQ1aHNPcWhsblp0Q3dIcjZ2VjFIS09wRTFSTUx1UExEVGtwSjJCNlNHYnRfWFB1Sm5JX0kyNHoxaWVRNkRBa05hMnRfTkJyRUFSNERkY2QzdmMyNGVYN0tYZUFLRDVLeGhYZmpHaVpNUWhxTlh1NjJqZzRlXzVndDR2cHZoMlBUYVduVkxHVXJabWwzMl9FcVRpcGxabDBGSHRBejZFUEFTd09URy1oLVJyUFBPSDhwNTR0OUtQcjdJbzR3?oc=5",
+          "published_at": "2026-08-16T18:15:08Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "CNN الاقتصادية",
+            "url": "https://cnnbusinessarabic.com",
+            "domain": "cnnbusinessarabic.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "95757581ee8e83cf2bd6",
+          "title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية",
+          "raw_title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية - Hespress",
+          "normalized_title": "تصنيف يضع المغرب ثاني افريقيا في تحويل الذكاء الى ثورة صناعية",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbDhMQnF4SVpqQlJCVXFlb1IzaE9kcENVY2N6Z3Z4blpjRGplaUtjcEMzWjM3aUJBeHEwQWJTUEdLUWVTLVpVLTlmWWhDZmFOdkEyM0w1UWZTeVF0b3FFdHNqWmhoRHVtV3NQXy01dzZZdFY0ZEZLMjVoTHE1VklJLVpJalJEQ3Z4blhsZUNaOW9URnFfV0pEREd6U0dLX2l5Y1VCcW5sdDcyOFdlVmZWN2ttam1NR244R2dfaGkwVE5QX01vOEFNU3dMTFo4Nlp5RE5adS1qZU5SWWxuZHdIT0xjZURfdDdkLU1rZlY4dmVRT0d6alJXLWwxWVJEdGhsbnNCc0dtY0NLcF9TRllmY1B5M3F1TXd1VUYzdGx3MGlNRXZaQmpfcWVoOFJiYWFOb0k0VXhNRFdxTm1VNHFvSUd6YUVRWGc2aDhvM3BhWVVfZXV5VFFV?oc=5",
+          "published_at": "2026-08-16T17:02:20Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -379,46 +675,6 @@
       ]
     },
     {
-      "id": "edb46a92baeab31a7fb8",
-      "title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية",
-      "published_at": "2026-08-16T17:02:20Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Hespress"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "95757581ee8e83cf2bd6",
-          "title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية",
-          "raw_title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية - Hespress",
-          "normalized_title": "تصنيف يضع المغرب ثاني افريقيا في تحويل الذكاء الى ثورة صناعية",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbDhMQnF4SVpqQlJCVXFlb1IzaE9kcENVY2N6Z3Z4blpjRGplaUtjcEMzWjM3aUJBeHEwQWJTUEdLUWVTLVpVLTlmWWhDZmFOdkEyM0w1UWZTeVF0b3FFdHNqWmhoRHVtV3NQXy01dzZZdFY0ZEZLMjVoTHE1VklJLVpJalJEQ3Z4blhsZUNaOW9URnFfV0pEREd6U0dLX2l5Y1VCcW5sdDcyOFdlVmZWN2ttam1NR244R2dfaGkwVE5QX01vOEFNU3dMTFo4Nlp5RE5adS1qZU5SWWxuZHdIT0xjZURfdDdkLU1rZlY4dmVRT0d6alJXLWwxWVJEdGhsbnNCc0dtY0NLcF9TRllmY1B5M3F1TXd1VUYzdGx3MGlNRXZaQmpfcWVoOFJiYWFOb0k0VXhNRFdxTm1VNHFvSUd6YUVRWGc2aDhvM3BhWVVfZXV5VFFV?oc=5",
-          "published_at": "2026-08-16T17:02:20Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Hespress",
-            "url": "https://www.hespress.com",
-            "domain": "hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "8b9a0da8b81437e1200c",
       "title": "Touraya Bouabid, grande militante associative, s’en va",
       "published_at": "2026-08-16T17:00:00Z",
@@ -533,6 +789,46 @@
             "name": "The Lufkin Daily News",
             "url": "https://lufkindailynews.com",
             "domain": "lufkindailynews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "21a681c92fb997dbef99",
+      "title": "Innovation et capital humain : le Maroc se classe deuxième en Afrique",
+      "published_at": "2026-08-16T16:35:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress Français - Actualités du Maroc"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "aeffad1e89bde331ec19",
+          "title": "Innovation et capital humain : le Maroc se classe deuxième en Afrique",
+          "raw_title": "Innovation et capital humain : le Maroc se classe deuxième en Afrique - Hespress Français - Actualités du Maroc",
+          "normalized_title": "innovation et capital humain le maroc se classe deuxieme en afrique",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWd6YUVjeV9RNDVOYTZMN0xjWU9aVFZiVFVXSnRaVk5Id2p6Y290MmlhbXJoTXp2MThMUDl5ZjNuaGltS3EzeFg1ZnBja0tOeHI5WXNwUGNrYkxFNUdaNjZZZGp5aHIyZ05LYVNNczZHOXotZ3Jjc0JLMzBNVmZTSkNuTE04X0FpTFBpVHdyTWxZb3FIYlVDUENXLVU1LWRvbjkxVEx3?oc=5",
+          "published_at": "2026-08-16T16:35:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Hespress Français - Actualités du Maroc",
+            "url": "https://fr.hespress.com",
+            "domain": "fr.hespress.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1887,6 +2183,46 @@
       ]
     },
     {
+      "id": "652b847b83010b0917f4",
+      "title": "Ceuta Remains Incident-Free, Report Cites Morocco’s Continued Border Control Efforts",
+      "published_at": "2026-08-16T13:23:32Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Morocco World News"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "b580aaf2df4dae158b44",
+          "title": "Ceuta Remains Incident-Free, Report Cites Morocco’s Continued Border Control Efforts",
+          "raw_title": "Ceuta Remains Incident-Free, Report Cites Morocco’s Continued Border Control Efforts - Morocco World News",
+          "normalized_title": "ceuta remains incident free report cites morocco s continued border control efforts",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1dGSGtGYlBFZkluRUVFYmdFc2lkMmtvR0FfSkZOa0tVb1lxOFVIcTVNeWhCTXJoUlpsR2lVYUJCYlZvTEk5eXRVRmZGT1VLcTNKMEE1M2VadHljYlUxZkxkZmE5c1dBUUZyRVRLbDF3TVQ5Zk4wVUQ4eElxYVRGNVczQnhaSnBKeUEwUlp0SDBKbHVUbG54aVA3VUN2djRndnBQWGNYVGo4Yy1HcGwxUXNsNkRFek5LSWxwN3ZBNWNRT3BPb3NvM0ZLZw?oc=5",
+          "published_at": "2026-08-16T13:23:32Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Morocco World News",
+            "url": "https://www.moroccoworldnews.com",
+            "domain": "moroccoworldnews.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "b89c445e1c6c793c0e7b",
       "title": "تقرير إسباني: اختبار واشنطن لأسلحة جديدة في المغرب لا تعرف الصين وروسيا شيئا عنها يؤكد الثقة في الرباط على حساب مدريد",
       "published_at": "2026-08-16T13:22:49Z",
@@ -1920,46 +2256,6 @@
             "name": "الصحيفة",
             "url": "https://www.assahifa.com",
             "domain": "assahifa.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "652b847b83010b0917f4",
-      "title": "Ceuta Remains Incident-Free, Report Cites Morocco’s Continued Border Control Efforts",
-      "published_at": "2026-08-16T13:22:15Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Morocco World News"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "b580aaf2df4dae158b44",
-          "title": "Ceuta Remains Incident-Free, Report Cites Morocco’s Continued Border Control Efforts",
-          "raw_title": "Ceuta Remains Incident-Free, Report Cites Morocco’s Continued Border Control Efforts - Morocco World News",
-          "normalized_title": "ceuta remains incident free report cites morocco s continued border control efforts",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1dGSGtGYlBFZkluRUVFYmdFc2lkMmtvR0FfSkZOa0tVb1lxOFVIcTVNeWhCTXJoUlpsR2lVYUJCYlZvTEk5eXRVRmZGT1VLcTNKMEE1M2VadHljYlUxZkxkZmE5c1dBUUZyRVRLbDF3TVQ5Zk4wVUQ4eElxYVRGNVczQnhaSnBKeUEwUlp0SDBKbHVUbG54aVA3VUN2djRndnBQWGNYVGo4Yy1HcGwxUXNsNkRFek5LSWxwN3ZBNWNRT3BPb3NvM0ZLZw?oc=5",
-          "published_at": "2026-08-16T13:22:15Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Morocco World News",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -4947,6 +5243,46 @@
       ]
     },
     {
+      "id": "2fc1451a6fffdf45a6b3",
+      "title": "مهرجان تيميتار.. دورة جديدة تجمع فناني المغرب وإفريقيا",
+      "published_at": "2026-08-16T08:21:37Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "63b26b9653a7869565ab",
+          "title": "مهرجان تيميتار.. دورة جديدة تجمع فناني المغرب وإفريقيا",
+          "raw_title": "مهرجان تيميتار.. دورة جديدة تجمع فناني المغرب وإفريقيا - SNRTnews",
+          "normalized_title": "مهرجان تيميتار دورة جديدة تجمع فناني المغرب وافريقيا",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lSF9Ba1Bjb1Y4V1plb3IwVXU2aXQ0YllwZ3ZSYWxtNjJ5UEsyeXhrNnVfN3RFaWVjY1hPcS1EWG5MOGdRNlFQc0hKcjZnd2c?oc=5",
+          "published_at": "2026-08-16T08:21:37Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "0d85faf3e917554da365",
       "title": "Despite booming economy, young Moroccans still dream of Europe",
       "published_at": "2026-08-16T08:14:00Z",
@@ -6021,6 +6357,46 @@
             "domain": "hespress.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "db33fe0f88738dcaa3ea",
+      "title": "المغرب يبقي على الرسم المضاد للإغراق على الخشب الصيني",
+      "published_at": "2026-08-16T05:06:06Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "e3185b36e316ca8a5a61",
+          "title": "المغرب يبقي على الرسم المضاد للإغراق على الخشب الصيني",
+          "raw_title": "المغرب يبقي على الرسم المضاد للإغراق على الخشب الصيني - SNRTnews",
+          "normalized_title": "المغرب يبقي على الرسم المضاد للاغراق على الخشب الصيني",
+          "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOLTNsUjJUcTd2QjBvLUx1dHFndm51ZWpmaktKczZyYjRXQktzWXZwZFdWTkQxZy1HOXNPd3p2bDFDSmdsODRDVWJTdXRpcmM1eHRTNG5PcUVMR3BCeFRjZWh6akhiU0RjdWRST1lPVllQTHc2RGFwbEhPb2tOSHJyaUFPUWhLa0RfdjEzS0g5aGFUcENyLW0wZTFNVTdLTmNfSmZoMzVHek5YNmUxRm5HRGNyNDlVU2tWejlBRnZvTl9LR3lPd3ZvaC1OcFNXWVVSUXktRVp6bkhneDQ0Q3d3c3pOSmJUNTBQSFBla0FCXzNYcHVOSk9sdnZRSTU1d0RCTXo3MHF1Z2VQek54a1c0d1NoUFJ0R19DMTBWRmxwS0Z2MEtBempnVndVb1JuR3Z4amNad0tzdWxKc0VtSjAydE9jWGJJd3pqeTRha1JYVVNJMXBPcG9KZE0wVzBKVUQ0U1E2MDlFaDlZV3ZLa1prN0RyQko5MDFsQWdKV3o4VU5jQkFSQWVneWx3Q09TTjFJYjJ2Q2NkLUkyLTBoQzFXR1pOeHpjOFI2VXVxMW5idnpiUHIycUhsZWJB?oc=5",
+          "published_at": "2026-08-16T05:06:06Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -9256,47 +9632,6 @@
             "name": "The Guardian",
             "url": "https://www.theguardian.com",
             "domain": "theguardian.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "a2f598f1efa3c5f4f2ef",
-      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-      "published_at": "2026-08-15T19:52:17Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "99588d2db2ec3ccb76db",
-          "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
-          "raw_title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave - Al Jazeera",
-          "normalized_title": "moroccan police arrest over 100 migrants trying to reach spanish enclave",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSVVQeVU0aEJWeUVvbS11dVhtLWhfQlMzdnhucU9mV1piaDV3Q1NsYlJ5LUVEQ21hZU9hR0t3R09XYWpWZGpYci10dHBpUzl5WUhSaFY5M1hmeVp3MGNqN1pzakJhNkN5ZU4wUGI2ejVtYUZqc1ZjZ0hTdEY0Z21GbnJFR2xta2RRdnJWOFM5WVI4RUg4SDkzNXI4T053bWlVRV9tNm5SaTZQODFucDJRVWs3SdIBuAFBVV95cUxQU0xlYUJUOFV2N09pSDhkd282eWc3Z2pvSGRXZFlTRXNFWFNKYTlWaENnMVJ1WWhyQWxCV1E4Q2dpN3Y2bVQ1eHc3ZjRTRWVHbXd5dVJzdHBSZFQ2R1lmQnhkbjRSMnZhMThKeHZDTk9mYTlUYmNxalg0SURzQWRkb1l2cG1OQ0lHdGlKX1lKVTMtNnNndkU1LTF2Z3U5dy1XeEFwM3paNWstYjRzMWRJdEw0NGhab1Ra?oc=5",
-          "published_at": "2026-08-15T19:52:17Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com",
-            "domain": "aljazeera.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -17147,9 +17482,9 @@
       ]
     },
     {
-      "id": "84bd6ec914ba5e0090de",
+      "id": "4cf1df05e434bb5a4361",
       "title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب",
-      "published_at": "2026-08-15T06:53:41Z",
+      "published_at": "2026-08-15T06:54:07Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -17160,7 +17495,7 @@
       ],
       "fact_check_matches": [],
       "source_count": 1,
-      "article_count": 1,
+      "article_count": 2,
       "sources": [
         "DW.com"
       ],
@@ -17168,6 +17503,23 @@
         "ar"
       ],
       "articles": [
+        {
+          "id": "c2d3174f30d18b2a78df",
+          "title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب",
+          "raw_title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب - DW.com",
+          "normalized_title": "لمنع اقتحام جديد شرطة وجنود في سبتة وتعزيزات في المغرب",
+          "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQb2dkTjFfNlpzRkt3TldsampzZnpVdmcxV20zX1B6OEk4R0g5Q095aTUwVzVJdW9ycWx3YU5Zc2dlMnNhdVpSYTcxUGRQV2ZLaEhST3FuNHJ6NmQtcFoxQWlSVGVBYTdyMm1udkU4STBCY1NEOENMYks5ZDZCQ0hlajI2MjR4R25oSE9UVmVPb2JOM24wLVVlS2dXa0hoVTNldVpNTnJlWXZDZzV1amxwY0lGUXU2Y1hnck1QTHhKWWZWaGpISk5ZOGZpUi0tbkVGWTNOdDBGMl91NVVWRXNqY2NoT0ZEb3pVa1I1Vk1DZnFWR0dBaDRsTHJmNjQ4bTd0cEs4NUpwVERtcE92WWNKV0dPQlVoOV9VaGlNRWJLQm1lcktMalg1UzRtSnVkLXd4TmF3Ukg2eVJ4b2tRbkVxUUxqWUZaREZJTjZjUFozTzlwVVBRanoybmVUZ2gwM1dhVENXU1c3LUJ1dXZHeUYwWXZxNWxwdHJtMnJxY3dXNDFuVjJCSGZzN3ZjRWVtSmtTVFVaaUc4emFUS2FXa3h0OWZIUXVBVVNUWlkwQzFtNmJhZ3pfdEw2QVRUd07SAbwDQVVfeXFMUG9nZE4xXzZac0ZLd05XbGpqc2Z6VXZnMVdtM19QejhJOEdIOUNPeWk1MFc1SXVvcnFsd2FOWXNnZTJzYXVaUmE3MVBkUFdmS2hIUk9xbjRyejZkLXBaMUFpUlRlQWE3cjJtbnZFOEkwQmNTRDhDTGJLOWQ2QkNIZWoyNjI0eEduaEhPVFZlT29iTjNuMC1VZUtnV2tIaFUzZXVaTU5yZVl2Q2c1dWpscGNJRlF1NmNYZ3JNUEx4SllmVmhqSEpOWThmaVItLW5FRlkzTnQwRjJfdTVVVkVzamNjaE9GRG96VWtSNVZNQ2ZxVkdHQWg0bExyZjY0OG03dHBLODVKcFREbXBPdlljSldHT0JVaDlfVWhpTUViS0JtZXJLTGpYNVM0bUp1ZC13eE5hd1JINnlSeG9rUW5FcVFMallGWkRGSU42Y1BaM085cFVQUWp6Mm5lVGdoMDNXYVRDV1NXNy1CdXV2R3lGMFl2cTVscHRybTJycWN3VzQxblYyQkhmczd2Y0VlbUprU1RVWmlHOHphVEthV2t4dDlmSFF1QVVTVFpZMEMxbTZiYWd6X3RMNkFUVHdO?oc=5",
+          "published_at": "2026-08-15T06:54:07Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "DW.com",
+            "url": "https://amp.dw.com",
+            "domain": "amp.dw.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
         {
           "id": "d6210c1cb642dc52c042",
           "title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب",
@@ -37202,22 +37554,21 @@
       ]
     },
     {
-      "id": "21a20f596e3142b3e7ec",
+      "id": "f982806ca22498310fdc",
       "title": "المغرب يحذر من عبور جماعي للمهاجرين نحو سبتة ومليلية",
       "published_at": "2026-08-13T07:13:49Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "kalimaiq.com",
-        "القدس العربي"
+        "kalimaiq.com"
       ],
       "languages": [
         "ar"
@@ -37236,23 +37587,6 @@
             "name": "kalimaiq.com",
             "url": "https://kalimaiq.com",
             "domain": "kalimaiq.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "defeab67c77eb8273d9a",
-          "title": "المغرب يحذر من محاولات هجرة جماعية جديدة نحو سبتة ومليلية",
-          "raw_title": "المغرب يحذر من محاولات هجرة جماعية جديدة نحو سبتة ومليلية - القدس العربي",
-          "normalized_title": "المغرب يحذر من محاولات هجرة جماعية جديدة نحو سبتة ومليلية",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQZFo4YjVEM0FzTVFQa3hnbl9vdF9NUjUtd2xNZWdHY1lqTEgyV21sbTF3TkdqNVNUdFJGZFNRVG12bUdBRU5xQzc1YmRwbFJ5dXR1aUpqeHFNOUZuTmJDdDBfS21mVDB2UDRGRG1HeDUyd3g4MDV0TUIyOVk1Z2cwSDY4UlNOMjlzV3EtWkFTOEhzNURIa1M4U3diQzloZ3o5Zzg4TkRwVjJBamdhN3A3MTV0V2FzUmZPcGFPWDl3dktoYlg0RXFzZzBOUkg4TDhTQ0lPQ1NpdDZKQ1FUVWwybDY5dkRCdmp3b3ppZHg0RzlBMC12T3VZQmtvNnpOTG5DX2VqbUFrYjlUSGV5SGhMVHE0Nlo3QWJRMEFOZFI5SnFobVRSTE53WndwSWw0WlE4UHo0RFFBelJFbUR4Z1UxSERBOGFJTnM?oc=5",
-          "published_at": "2026-08-12T17:38:53Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "القدس العربي",
-            "url": "https://www.alquds.co.uk",
-            "domain": "alquds.co.uk",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -38219,28 +38553,23 @@
       ]
     },
     {
-      "id": "bf89e944ba016da44ec3",
+      "id": "dff15435249ea703d205",
       "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
       "published_at": "2026-08-13T02:36:51Z",
-      "status": "corroborated",
-      "evidence_score": 0.81,
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 8,
-      "article_count": 13,
+      "source_count": 3,
+      "article_count": 4,
       "sources": [
-        "AP News",
-        "Goshen News",
         "Los Angeles Times",
-        "Temple Daily Telegram",
         "The Hindu",
-        "The Seattle Times",
-        "Toronto Star",
-        "guardonline.com"
+        "The Seattle Times"
       ],
       "languages": [
         "en"
@@ -38311,155 +38640,6 @@
             "domain": "latimes.com",
             "weight": 0.35,
             "category": "unrated"
-          }
-        },
-        {
-          "id": "454222badaaa3cff0a0a",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Toronto Star",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings toronto star",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHRDejk2dGQtU01jSFEtQmdQdDdlYzBqZFJGSVM0OXZKT2RXSWN5Y1M0Q2wwT251VGdBRVpGbXBRLVBYV0pXTk44Ymp3SXI1ZkEzalhfVTNPWFJVMGFMRngyeEp6WmN5SXo0SEU1U2k1UkRqNXE1T1h1SVlteHZMMEd2aUI0Z2tlZGRic3UwMjMyVDRWUVFibFEyZzNBSXo4NDA4VDVOMWloTmNCY0U1Tk43UGJqZHItQ1BlbUU1UVUyRVUxcFQyakdENkpGaE5MOE93QUdBWVpSTjZzcmEwU0V3aldXOGVQMXFmcHZHTUVjWXBZamhuU0xzV0tIWHE2T3NxbkozSQ?oc=5",
-          "published_at": "2026-08-12T17:34:54Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com",
-            "domain": "thestar.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "a3fa0ef2f3f8866237ea",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Toronto Star",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZHRDejk2dGQtU01jSFEtQmdQdDdlYzBqZFJGSVM0OXZKT2RXSWN5Y1M0Q2wwT251VGdBRVpGbXBRLVBYV0pXTk44Ymp3SXI1ZkEzalhfVTNPWFJVMGFMRngyeEp6WmN5SXo0SEU1U2k1UkRqNXE1T1h1SVlteHZMMEd2aUI0Z2tlZGRic3UwMjMyVDRWUVFibFEyZzNBSXo4NDA4VDVOMWloTmNCY0U1Tk43UGJqZHItQ1BlbUU1UVUyRVUxcFQyakdENkpGaE5MOE93QUdBWVpSTjZzcmEwU0V3aldXOGVQMXFmcHZHTUVjWXBZamhuU0xzV0tIWHE2T3NxbkozSQ?oc=5",
-          "published_at": "2026-08-12T17:34:54Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Toronto Star",
-            "url": "https://www.thestar.com",
-            "domain": "thestar.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "5dea04d813c355f1abdb",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Temple Daily Telegram",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings temple daily telegram",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWndRZVdQLUFpRkhZeVFXRXdFY0dQMzczZnpxQmg3aWxHMXlCR2t2aG1Td2w3T28xYTJWOWY0LU51MzlBOEFRRnFXRzRELVk1aHMtQVlKTEx0b3J3X1p4UGFVUkF4U1BpbEJFa1pvWi1MWUFwTWlkWlFZaGtfSTZyMmJBRFNTZzRDRE1kMEctdWEtVzlCakE?oc=5",
-          "published_at": "2026-08-12T17:34:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Temple Daily Telegram",
-            "url": "https://www.tdtnews.com",
-            "domain": "tdtnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "2016eb3b90d06cabb233",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Goshen News",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings goshen news",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTVhZWi04bHExSXpUV1g5ZDJTV2VxaEZBc0R1MFFySFo2ZEZKMnFTVzhVUXo4X0o1WFZQM3hzRVZhZy1RMUJxQWlGQjctdFpPZ2ZsOW42SUhvWmJNM0pVdU5Ja1BTU2FJZFlTZkd1Nl9PbW1kaDdKSmU0eV9WblVLRGNGR3dyenhGTFVNTjlOam5BVjZrekVNUFl0VGFPNEtHM0l2R1pIam1abzBZRnhSLTB3clNXSkRiaDhxMjJQNU9nTlhRQkxBUUJhWG9zSEpMdnpFVGhVeEJvNFZZX3l6YVliM3RTZ29hVjRETHJaTkFkcWE0aUFLOTZnU1p4NGtCOTJJVlhBc2FQX0k2T0xvV3VTTkFDUQ?oc=5",
-          "published_at": "2026-08-12T17:34:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Goshen News",
-            "url": "https://www.goshennews.com",
-            "domain": "goshennews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "d34715c905259190cdac",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - guardonline.com",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings guardonline com",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQc0NfMVdmcU81ZDJGbzBOaTIzNk5TTENqWlpOZ1YyUzdKZnktUDVpbmt3Z09iR2R5U3g1aTJzLTRReV9UYXVXa2R2TjFvTTNLSTdvYzBBYTZ6UVMtNG13Si1yenl4WFlZSDN0YzBmWUJvTTN6c2ZvRDRsYjFielppM0FVSDd5ZnR1RFdZdzdOb1pqNUFYZDAyRkdNMGN5RVAyeE9wamhyTmpoazQxNENweDJNN2RfSjM5dWY2YjkzWkJKYUNLWmdUdHhpb1hrb29HM2N4blFtcjBXaWxQMTNPWFltbXFiRXBXa0QtbnhXUmFvRmxKV21BbTdTd243N0dMMUQwZnd2Ullralpu?oc=5",
-          "published_at": "2026-08-12T17:34:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "guardonline.com",
-            "url": "https://www.guardonline.com",
-            "domain": "guardonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "293449c9332ecafeb986",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Temple Daily Telegram",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWndRZVdQLUFpRkhZeVFXRXdFY0dQMzczZnpxQmg3aWxHMXlCR2t2aG1Td2w3T28xYTJWOWY0LU51MzlBOEFRRnFXRzRELVk1aHMtQVlKTEx0b3J3X1p4UGFVUkF4U1BpbEJFa1pvWi1MWUFwTWlkWlFZaGtfSTZyMmJBRFNTZzRDRE1kMEctdWEtVzlCakE?oc=5",
-          "published_at": "2026-08-12T17:34:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Temple Daily Telegram",
-            "url": "https://www.tdtnews.com",
-            "domain": "tdtnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "6c707d3c58244b2c9b40",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - Goshen News",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOTVhZWi04bHExSXpUV1g5ZDJTV2VxaEZBc0R1MFFySFo2ZEZKMnFTVzhVUXo4X0o1WFZQM3hzRVZhZy1RMUJxQWlGQjctdFpPZ2ZsOW42SUhvWmJNM0pVdU5Ja1BTU2FJZFlTZkd1Nl9PbW1kaDdKSmU0eV9WblVLRGNGR3dyenhGTFVNTjlOam5BVjZrekVNUFl0VGFPNEtHM0l2R1pIam1abzBZRnhSLTB3clNXSkRiaDhxMjJQNU9nTlhRQkxBUUJhWG9zSEpMdnpFVGhVeEJvNFZZX3l6YVliM3RTZ29hVjRETHJaTkFkcWE0aUFLOTZnU1p4NGtCOTJJVlhBc2FQX0k2T0xvV3VTTkFDUQ?oc=5",
-          "published_at": "2026-08-12T17:34:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Goshen News",
-            "url": "https://www.goshennews.com",
-            "domain": "goshennews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "c7027dbc6be1703b329b",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - guardonline.com",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQc0NfMVdmcU81ZDJGbzBOaTIzNk5TTENqWlpOZ1YyUzdKZnktUDVpbmt3Z09iR2R5U3g1aTJzLTRReV9UYXVXa2R2TjFvTTNLSTdvYzBBYTZ6UVMtNG13Si1yenl4WFlZSDN0YzBmWUJvTTN6c2ZvRDRsYjFielppM0FVSDd5ZnR1RFdZdzdOb1pqNUFYZDAyRkdNMGN5RVAyeE9wamhyTmpoazQxNENweDJNN2RfSjM5dWY2YjkzWkJKYUNLWmdUdHhpb1hrb29HM2N4blFtcjBXaWxQMTNPWFltbXFiRXBXa0QtbnhXUmFvRmxKV21BbTdTd243N0dMMUQwZnd2Ullralpu?oc=5",
-          "published_at": "2026-08-12T17:34:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "guardonline.com",
-            "url": "https://www.guardonline.com",
-            "domain": "guardonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "356f6ee9b5cfd24fa5d7",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - AP News",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUluUDhBQ1dPN3lQS3hCcWhsb0h6TkVQalZJc3Nsek92NEVFajJ6X2x0MTdWeXpQQnB0aUxPLVFmcTJMN3NCYkl1cS02Tm4tcmRiYUNkcmt2dHhISGdMZW9kS1AtTUxncXFzVVdCNVRQMnVpa0Q0bk9DR2tqUzMwaWQtZ2tUZlFYaFZTMGtPVjIyVk5NZlVzekNoVDF6Zw?oc=5",
-          "published_at": "2026-08-12T17:34:00Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "AP News",
-            "url": "https://apnews.com",
-            "domain": "apnews.com",
-            "weight": 0.8,
-            "category": "newsroom"
           }
         }
       ]
@@ -42458,46 +42638,6 @@
             "name": "Le Matin.ma",
             "url": "https://lematin.ma",
             "domain": "lematin.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "bf999e66db1af4249324",
-      "title": "لاعب المغرب يقترب من رينجرز الاسكتلندي - 365Scores",
-      "published_at": "2026-08-12T17:31:37Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "365Scores"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "74e273157635924fb2ac",
-          "title": "لاعب المغرب يقترب من رينجرز الاسكتلندي - 365Scores",
-          "normalized_title": "لاعب المغرب يقترب من رينجرز الاسكتلندي 365scores",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPLV9EOWpNb0YxUG9TbzhzNDdQekhiWF9BRWR6OFNaLUlyYmZxX3VUeEl0VUlGYzZRMzhZdHRtcEkyVzZubUNXOE5SNUh3bTRQY2hJRnlWeFYydllYeF9QMVNwbFQyY2xDaHFZMWd0d2V0RWlMcThtNmhnM0xsd2tCRGhZZHo1blRHVG1TNWx6Mi1mU0RyVWlOZkFfMnVZS3djbUtEWjRBY1RZVlZlNmtjX09DVUVPUncxTzlNamctT0kzalJOaGFqX1NjNDJhZGdGME9abTZqaUU5UnFfaUVOcnhqeWdqUUF4OXVmajNmX3JZbnFjR01aenhsOGpXbEtPM2JKaHYyYWdZMHM1T3BRZEZXUEk0NGhVZnpyNkhaeXZZVEdUTTItMm02WG4wUGFWdlRKTVRTcTdmRFZvd3ZBUzRoQ1czYnZIRWVOMXdud1BWS0hEYTJMM0FpaTk1QQ?oc=5",
-          "published_at": "2026-08-12T17:31:37Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "365Scores",
-            "url": "https://www.365scores.com",
-            "domain": "365scores.com",
             "weight": 0.35,
             "category": "unrated"
           }
