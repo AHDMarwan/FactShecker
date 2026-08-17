@@ -1,20 +1,183 @@
 {
-  "generated_at": "2026-08-17T07:16:54Z",
+  "generated_at": "2026-08-17T08:02:38Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1200,
     "fact_checks": 0,
-    "clusters": 974,
-    "sources": 338,
+    "clusters": 979,
+    "sources": 348,
     "matched_clusters": 0,
-    "needs_review": 890,
-    "medium_evidence": 83,
+    "needs_review": 891,
+    "medium_evidence": 87,
     "corroborated": 1
   },
   "fact_checks": [],
   "items": [
+    {
+      "id": "c8a24af6039fbf5d90e0",
+      "title": "Classement africain: le Maroc deuxième du continent pour transformer l’intelligence en puissance industrielle",
+      "published_at": "2026-08-17T07:30:25Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "lareleve.ma"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "3242cc4d668ad229641c",
+          "title": "Classement africain: le Maroc deuxième du continent pour transformer l’intelligence en puissance industrielle",
+          "raw_title": "Classement africain: le Maroc deuxième du continent pour transformer l’intelligence en puissance industrielle - lareleve.ma",
+          "normalized_title": "classement africain le maroc deuxieme du continent pour transformer l intelligence en puissance industrielle",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xSTN2TzdCV0pBaWZsRlVaeEhHY3RrcEQ1NmhZOURKUVBOWnJtWjRKWDVQZThyTDRKMEloWktnTXg?oc=5",
+          "published_at": "2026-08-17T07:30:25Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "lareleve.ma",
+            "url": "https://lareleve.ma",
+            "domain": "lareleve.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9e2898ebb5174d023bf1",
+      "title": "Predator Oil & Gas secures rig for Snowcap-3 as Trinidad and Morocco drilling advances",
+      "published_at": "2026-08-17T07:22:40Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Yahoo Finance UK"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "20a71a87e5d65c207bd5",
+          "title": "Predator Oil & Gas secures rig for Snowcap-3 as Trinidad and Morocco drilling advances",
+          "raw_title": "Predator Oil & Gas secures rig for Snowcap-3 as Trinidad and Morocco drilling advances - Yahoo Finance UK",
+          "normalized_title": "predator oil gas secures rig for snowcap 3 as trinidad and morocco drilling advances",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVNuaFJWazNLOHpiNFJLaldDYnRhSzhPMlUxNjBJX3BKeDlCYWpHTmZKQzZoemtYRWVWWjJhSWUzMWFuYk43Y01NUWQ3TVVOQUxLcWtvUHV6QVlITTdYeG5DUkxpT0VTZ3lzX3dTQ1N4T2xueDVHNm5lcHZqbDExbU5NUQ?oc=5",
+          "published_at": "2026-08-17T07:22:40Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Yahoo Finance UK",
+            "url": "https://uk.finance.yahoo.com",
+            "domain": "uk.finance.yahoo.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b81b5dffef5768f45138",
+      "title": "Canadian firm get new mining license in Morocco",
+      "published_at": "2026-08-17T07:16:23Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "TradingView"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "2c95ae48a745fb1c1b69",
+          "title": "Canadian firm get new mining license in Morocco",
+          "raw_title": "Canadian firm get new mining license in Morocco - TradingView",
+          "normalized_title": "canadian firm get new mining license in morocco",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdnJZRHNrSWZYa1VORWtxZURBMWFtckk3QW0tNHFaRFQyT2xKODFfNE9jMEFXaW9FUnNXYkRuRWxjTlZ2SGc2QmZrVWZHZTJaNk0tc0Q0ZHp1QjZUSC05RjBHQlFyV0hGbzg2aHhndXpWUHhCMUZXem41ejloZlRqeU1vXzRaQlNLN2cyc1d3SkFFSHZvZTN0MnpVYkF6RElFZjJvUU9MUzA0endTZ1BYa2tFMmFxc3hJMllVa3VoY24?oc=5",
+          "published_at": "2026-08-17T07:16:23Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com",
+            "domain": "tradingview.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "86fcddf0a4976b1181c7",
+      "title": "$25bn Nigeria-Morocco Gas Pipeline Dream Drags",
+      "published_at": "2026-08-17T07:06:10Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.45,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail",
+        "quantified_value"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "marketscreener.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "0c5a6d86cdbdff764b5a",
+          "title": "$25bn Nigeria-Morocco Gas Pipeline Dream Drags",
+          "raw_title": "$25bn Nigeria-Morocco Gas Pipeline Dream Drags - marketscreener.com",
+          "normalized_title": "25bn nigeria morocco gas pipeline dream drags",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbE5QTkxWY1F2N0pqemowdlVlSkNiSzk4Z1o3YjZoTkRUYXpTdEh5aFAyRHBoejd5N1NXaUdFeTNtXzBwUWVBU3hHUEZlUlJGVUU3QzVZWnN4Q1kyX25IMWJTdUdmUzNaMFZONVBvbXJqNUxEUVBlUXNUcUNGY1dKLVlYejdvSlNjd1o3RmRjSVYzZ3lMeC1pM0FQdldaakk?oc=5",
+          "published_at": "2026-08-17T07:06:10Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "marketscreener.com",
+            "url": "https://www.marketscreener.com",
+            "domain": "marketscreener.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "3ed71dd1e5c4602914f6",
       "title": "ملفات مغاربية | كيف يعزز المغرب حضوره الاقتصادي إفريقيًا؟",
@@ -94,6 +257,86 @@
       ]
     },
     {
+      "id": "81c06c2744141be1a5b4",
+      "title": "الحرس الثوري يتوعد بمفاجآت استراتيجية ضمن مرحلة",
+      "published_at": "2026-08-17T06:46:17Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "inews.ma"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "1b061d59265acc2ed0fa",
+          "title": "الحرس الثوري يتوعد بمفاجآت استراتيجية ضمن مرحلة",
+          "raw_title": "الحرس الثوري يتوعد بمفاجآت استراتيجية ضمن مرحلة - inews.ma",
+          "normalized_title": "الحرس الثوري يتوعد بمفاجات استراتيجية ضمن مرحلة",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBqdlVYNGJKd25iUEM3S19vaURvSGJpeWZuRHk2NG9EQ2cxTHIyeHFMeUs5ZWVVbGkxbWgxaHgwMHF4SUk?oc=5",
+          "published_at": "2026-08-17T06:46:17Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "inews.ma",
+            "url": "https://inews.ma",
+            "domain": "inews.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ed57936b36d2c24c7604",
+      "title": "دعم التوزيع السينمائي .. \"دفعة\" للأفلام المغربية أم \"مطلب ريعي جديد\"؟",
+      "published_at": "2026-08-17T06:05:03Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "hespress.com"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "d0eccb662b748ce0f756",
+          "title": "دعم التوزيع السينمائي .. \"دفعة\" للأفلام المغربية أم \"مطلب ريعي جديد\"؟",
+          "raw_title": "دعم التوزيع السينمائي .. \"دفعة\" للأفلام المغربية أم \"مطلب ريعي جديد\"؟ - hespress.com",
+          "normalized_title": "دعم التوزيع السينمايي دفعة للافلام المغربية ام مطلب ريعي جديد ؟",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaG5oYWZWdFZKVDM3ZGNUQ2JqbDBTcV9NMnBIdzZDUzNJcDViVTNRUEFlcWNVdVdYeFJnN0J2ZWdVVzF2V0prZ3hyNW1ZR3BydXExXzYxZXRha2FzOXQ3aGNhaW5NZm0wdVpEaGFEeFcxSTZMTzlfSEZaZW9GXzFLUTg5LWlzUlZ5anhXOFVHYzdtVl94eUt0dmItTGpSdWMtazZKUUR0T1d5OGZIbEMyRTBOQjNmQXNjNjBlelF2UWVmRzZxTWNUNWlqS1JiV0c1SlhUaXFLTUw2VlRJSmt3VEtvazgtVjFCQ2J4SDQtNFI5YkZhdEtmMmVkUk1ibDRTVVhCR0FKdE5mWFJFalBpRTgwMjBOc2JrS0JrTGdyaUpraFg2YnIzNGh1S05kcXlKbTVRUHN6RkkzX2pMaFdWdWxEOFRxS0FIeTMxcmVB?oc=5",
+          "published_at": "2026-08-17T06:05:03Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "hespress.com",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "7ce2ca9b467c9de43d0f",
       "title": "الجزائر والمغرب وساحل العاج.. هل يمكن للمفاعلات الصغيرة أن تُدخل إفريقيا عصر الطاقة النووية؟",
       "published_at": "2026-08-17T06:02:42Z",
@@ -127,46 +370,6 @@
             "name": "القدس العربي",
             "url": "https://www.alquds.co.uk",
             "domain": "alquds.co.uk",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ed57936b36d2c24c7604",
-      "title": "دعم التوزيع السينمائي .. \"دفعة\" للأفلام المغربية أم \"مطلب ريعي جديد\"؟",
-      "published_at": "2026-08-17T06:02:09Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "question"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "hespress.com"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "d0eccb662b748ce0f756",
-          "title": "دعم التوزيع السينمائي .. \"دفعة\" للأفلام المغربية أم \"مطلب ريعي جديد\"؟",
-          "raw_title": "دعم التوزيع السينمائي .. \"دفعة\" للأفلام المغربية أم \"مطلب ريعي جديد\"؟ - hespress.com",
-          "normalized_title": "دعم التوزيع السينمايي دفعة للافلام المغربية ام مطلب ريعي جديد ؟",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPaG5oYWZWdFZKVDM3ZGNUQ2JqbDBTcV9NMnBIdzZDUzNJcDViVTNRUEFlcWNVdVdYeFJnN0J2ZWdVVzF2V0prZ3hyNW1ZR3BydXExXzYxZXRha2FzOXQ3aGNhaW5NZm0wdVpEaGFEeFcxSTZMTzlfSEZaZW9GXzFLUTg5LWlzUlZ5anhXOFVHYzdtVl94eUt0dmItTGpSdWMtazZKUUR0T1d5OGZIbEMyRTBOQjNmQXNjNjBlelF2UWVmRzZxTWNUNWlqS1JiV0c1SlhUaXFLTUw2VlRJSmt3VEtvazgtVjFCQ2J4SDQtNFI5YkZhdEtmMmVkUk1ibDRTVVhCR0FKdE5mWFJFalBpRTgwMjBOc2JrS0JrTGdyaUpraFg2YnIzNGh1S05kcXlKbTVRUHN6RkkzX2pMaFdWdWxEOFRxS0FIeTMxcmVB?oc=5",
-          "published_at": "2026-08-17T06:02:09Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "hespress.com",
-            "url": "https://www.hespress.com",
-            "domain": "hespress.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -306,6 +509,47 @@
             "name": "Eurasia Review",
             "url": "https://www.eurasiareview.com",
             "domain": "eurasiareview.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "a5d89ced48adc674b45f",
+      "title": "Le Maroc confirme la stabilité durable de ses prix selon Bank Al-Maghrib",
+      "published_at": "2026-08-17T05:32:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.4,
+      "claim_reasons": [
+        "specific_statement",
+        "reported_assertion"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Medi1 News"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "357c84843177f810aace",
+          "title": "Le Maroc confirme la stabilité durable de ses prix selon Bank Al-Maghrib",
+          "raw_title": "Le Maroc confirme la stabilité durable de ses prix selon Bank Al-Maghrib - Medi1 News",
+          "normalized_title": "le maroc confirme la stabilite durable de ses prix selon bank al maghrib",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXNEQ5eXR0YTZZdVN3Y1Vlb1VWQVJPa2RSaUlNZnE4VkNJTWV4elVJRElWMU43bnQ3RDBibnNRU3pnWGk4TFRpaDl1b2xXdnVHR2x4VnUwWHZzallM?oc=5",
+          "published_at": "2026-08-17T05:32:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Medi1 News",
+            "url": "https://www.medi1news.com",
+            "domain": "medi1news.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -468,6 +712,47 @@
             "domain": "middle-east-online.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d399899d0186afc5c69",
+      "title": "سفيرات المغرب الـ19 في عواصم مؤثرة وعصية",
+      "published_at": "2026-08-17T04:30:45Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "snrtnews.com"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "5a4c1deba2f729a106ae",
+          "title": "سفيرات المغرب الـ19 في عواصم مؤثرة وعصية",
+          "raw_title": "سفيرات المغرب الـ19 في عواصم مؤثرة وعصية - snrtnews.com",
+          "normalized_title": "سفيرات المغرب الـ19 في عواصم موثرة وعصية",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaVo3TjhWQVhaQUlDYW9fdF9fQUNHbHF5eFRfd2lEMTNUX1BDX3RDRVJHRk1xTnhPWnppdi1Wdk9uNUxDRjVTT19QcVhpdS1VWXdoektIeHE1T2Z1c2JkZGo3cFhpQTkwWmNCNzRHV1VzZmdGUWRCbjhuYkVPZk1Iek4zdnUwNzVGWHN3bUFJLU10X0l2dENBb2NucXlJRVp6Um9jcjY1YzhEUWVSc1MzZGpjWGM0MnRDUFlZQ3R6cjZvbU9abG90aEQtdHI0eWo2VlN5a3RzS2ZrYmFkVVRvY01ZbGxrYVhKbGNqYVE5eE5vSGo2YWpiYlJPQnhSZWh2a2hqMldVcWNiVjI2TDZyQlJlNnBMOVVBRm81Y0t6TFhIWEwwUTRqZ1IxSmRQTXZhWmk4VWRDZjZZeDlTNk13T1JadmJKd3JsYXRYZi0wb005UQ?oc=5",
+          "published_at": "2026-08-17T04:30:45Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "snrtnews.com",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -960,7 +1245,7 @@
       "source_count": 2,
       "article_count": 3,
       "sources": [
-        "اليوم السابع",
+        "youm7.com",
         "مبتدا"
       ],
       "languages": [
@@ -970,14 +1255,14 @@
         {
           "id": "8524166b43c304d2d203",
           "title": "المصري يصل اليوم إلى القاهرة بعد انتهاء معسكر المغرب",
-          "raw_title": "المصري يصل اليوم إلى القاهرة بعد انتهاء معسكر المغرب - اليوم السابع",
+          "raw_title": "المصري يصل اليوم إلى القاهرة بعد انتهاء معسكر المغرب - youm7.com",
           "normalized_title": "المصري يصل اليوم الى القاهرة بعد انتهاء معسكر المغرب",
           "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNdjhfM2hnMWtBd1RGUHc3Q2wxdXU0dmp3Y0RuMzdLbGI0SGJDZkZkak5lVkg4TFpHZy1TbjR5Q09QZW9VZjREdzM5Zm03SWZiNFlXS3VhY0xpNkdGcE5LYUJ1VTl0WWh1MmFXZFF1WFZXSk14VzVQaE4wNjV6M0tPWEJMcE1IRHlGRUxraVVTYVJnUUQ2MEFiN2dJT3pqeV9PaXV2dHdmbHowbi1td0xoakJlOS03NWRfdEdaZ01xbC12M0I1RWZRQnpWWG5YYVJQM1BPNkZzZEdhUF9jbXlVZEVremJiMDd1NEx6MnBSck9sSUZFYjFyMHloMDJNcDMzVkpsU0xyX2tDRWVmdHpZZEJ3VzlkNkxSYlhYYkJiSzdRcHRWWVB4cXhZYjZDcjdBQXpyOXF0SmlQQy1iQ0tDNWQ1cjg1Z0Vqc3pEaENzQzdnMDRkTmpKaTdNNVhYS2dody1sajlGVC1fb09lRndzcFg4ZnZMMTVsM3d4TUJ5bE5vcEpONjlCSEZYN2NkSWtUVlY4WTN3RVFIOGdvTGNoejNGRXp0WmcxYjB5MUNsZVFOSzZweGJBQnhFd1NUQ0t2YlVyS9IBvwNBVV95cUxQc3RtRmpkZEYxRGFmRzd1R2tKOUpxcXE0RVFmMnl2MUN2aXkzam9ZMHotYk9BMWl6QV9nQ1hCbDdRdDItamhMRVd5ZzhZVUpEXzEzR2tKbnJ5cExkczZuMV93cDJ6eGlEQkdjSjJqYl9tVmJITFIwdFVTZ2NwRURDQUZDUzhITjl2Vkd1bk9zQzRjcGNoQUpMcU1YSlgyeE1QNEN1M1YxbXdFYUFPd3pVWEEydzg4VU4wM0ZmNzg5MVlfamp1NHBfRWFXakpIR3FvYVFPd0xmX3p5c3VnMlo2YXoyUmtIMTZNOGVIaWtsMlhZcGdzb2pHMU01bVRoLW5iUHZLUGlxemN0QUNZVFlOZlEzM01uVlFJczlWR2lYNEJWUXFBUnIzenRRQ2FBSnVTQUpGaXZPUnhjcVgzTmdmN2ZmMWo3Mk9Zb2k1T05lQndWUllhRllKSkRYWUdLS3VxRXUtQ191UGRPSDY2VTVzSGQtclVlUDlISXhoRjJlNExOa1lsVy1QQS1wNUhoazFZWXJVSnk0bnZRWk5SbV9TRzB3VDlSNjg0eFhaOEhrMENLX0hPVWx5OUxKcnlnRlU?oc=5",
           "published_at": "2026-08-17T01:00:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اليوم السابع",
+            "name": "youm7.com",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -1004,14 +1289,14 @@
         {
           "id": "129d84f03087d90bb0c9",
           "title": "المصري يعود إلى القاهرة بعد انتهاء معسكر المغرب غدا الإثنين",
-          "raw_title": "المصري يعود إلى القاهرة بعد انتهاء معسكر المغرب غدا الإثنين - اليوم السابع",
+          "raw_title": "المصري يعود إلى القاهرة بعد انتهاء معسكر المغرب غدا الإثنين - youm7.com",
           "normalized_title": "المصري يعود الى القاهرة بعد انتهاء معسكر المغرب غدا الاثنين",
           "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxQcVRFb1lfTUx6VEhKR0g1Zkx1NnFQR2RMNjQxeUtTd0pSNTgxdzZPeTY2VWpwVU44eTZoeno2aXRncDFLSjBjTmE0MDdHQTVmMkR6bXluRmZRWW1rT2UyandRMTUtTW4tajNWcVFMSHB6ZVV3cFJ2ODFRTklYa19YaDViclh3bDE5ajlvWXRJRWp3U1JEQUlweXN3RTY1d1NObzhzVDJfWTRDQTlvLUN6N3BScUloUWlsNldTZG9iMzl4b2FfUGFORmlkRU5tbWhHX2dNV2tWbFJ1bmlFTG9GSEVSUm1FT3ZTRnJHUk5ac1hSRXo2MkluUW5ZTWdtMGRvQkw3djY0NVNuQXNFeU9wS25ldW5TdTBfd25MSU5kUTJWcHVMWl9WUms3QnBQUjQ3bVFKVFZpUVNWMXBraVVoWkxsVnBBTmczeF9wTFg3Y1NGcWh6ZFpocHhYLVZrYy1RQjRnWWVUN3RacGhKODlDSW14UmQtS19qWGdLel9CUzc2Q2o1TWdlMzhRMkM1dFBJQUV5Ry0zM1VXbWhLLXdVRXBCVk5NNlZmSWVoVklEVFkxdG8zS3c2NE56bi1qN2VSWGktWHZYM05IdTBKY001TGF3UnVFdmxNdHhjWXdCemhhZDJtUG1ZczNZS3RMVzBLWS1KaDRB0gHwA0FVX3lxTFBGR1dSQVVvdS1ydDVlQkVUazNmLUpKa1hwZzhENW1sVHZOSzluR3FHT3hSLTFqWUM5SVdDYVRfOXNhdk5zc3A2TlRad3o3dDhRbktYUmxYbTliVGx3Y0NBQlJycXJYTGtwZnFKaVBpT1F1N1NiQ2F2eGlZSHYxMUdXMUVNQUl0OElfQUZsLVBtRmZaUktyVVR6YTdEOVFMc25vQTlLRzlnOEZSN1p6aXp6UFIyZXcyNDZhZWxjTC1OaDJUQlR2dlZSaFZJd2F5bF9GamJmUnl5eGFDSUJZbWRibmJTazFicXYwWDhoVnpfMGVFaU9zZ19sS0JQTHpSb3ZSZXRfcUxrbEFOZGxteWdyUXJySnVqNGh0SmlkcWxPc3lFXzlMZHExdURjQUw4SkpCYkRwdHRiYUVUNmdBSUJIU0pvZGtBYkJRZm9qN1NIdWFVZjM0M3RwRjdZdmJKTTNvYjRpZS01dnp0Y3BoaE9EUWloYTQxbVAweTBDaGFIR1FzdEQ3RWRFVW9RWFE4ZU80dTBHV3ViRzdFbVBDbThERlp0dEJoTG5fVnhTVFgyMHZwbVNzR1BzOXc3RlhqNUFTVkVKZzJicWF5TXI2TE9KUzBucjI2MFAzVS1xaVc0NWU3S3NYdXh3dDl5Zm9sUDM?oc=5",
           "published_at": "2026-08-16T03:00:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اليوم السابع",
+            "name": "youm7.com",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -1076,7 +1361,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -1085,14 +1370,14 @@
         {
           "id": "fe892618de1c2284248c",
           "title": "48 رياضيا يمثلون المغرب في أولمبياد طوكيو",
-          "raw_title": "48 رياضيا يمثلون المغرب في أولمبياد طوكيو - SNRTnews",
+          "raw_title": "48 رياضيا يمثلون المغرب في أولمبياد طوكيو - snrtnews.com",
           "normalized_title": "48 رياضيا يمثلون المغرب في اولمبياد طوكيو",
           "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPRU1YUlUzUjc4dG9NdUg2Skw2Qld0aGcxQWd3eUNXeHVZdXRrX2RKR1hidHR5NEdJdUVoV3pLWTVrbUdjV0hVdWM3cENTWDhDVklOU29USURsVjFhZUNGSU9rVkVrVDNzaVhWMTFHMVZjdzFUWnZlWE5lVFVySkxETkRBNkxLOS1sTDEyOU5nMVg3WFFEeUgxdENLR0l0T1RPRkhIWl9INmVzQ29CTXFQTkRhdm13ZHFvOTBPU2FWS014YXk1TTFiZkNoT0ROS3c1WFdjWFFXaHhCWEFCRlo3a0trMEV1X2RYSWtNdlg1UFhIQUctZ3lEbHF2YmtmNkE4Wm9qekFXWUVoclFkRUt5b0dLdFJiZDlZYmxGbl9XcWgwanJPLVZBVlZMR2NVNlJKcmJ4amJtem5hQi1VTmRzRE9JMVdIWXV2WXc0WlZNM0txYlJydDFlZk5B?oc=5",
           "published_at": "2026-08-17T00:37:34Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -1174,7 +1459,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "glenarborsun.com"
+        "Glen Arbor Sun"
       ],
       "languages": [
         "en"
@@ -1183,14 +1468,14 @@
         {
           "id": "89ce1cffd0d4d31b7fa1",
           "title": "Moroccan cycles solo through Northern Michigan, finds kindness along the way",
-          "raw_title": "Moroccan cycles solo through Northern Michigan, finds kindness along the way - glenarborsun.com",
+          "raw_title": "Moroccan cycles solo through Northern Michigan, finds kindness along the way - Glen Arbor Sun",
           "normalized_title": "moroccan cycles solo through northern michigan finds kindness along the way",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWlBVaVoyY3Fxd0tTUHJaX1h1QTEwTDVGME5INWZKNHR4ZU9kWUZ4N0hLaUFsbzlkdk5XZW52cnhlMUxZMzJXS0NGNWltUTlWRTRWVWlrd2JBMXNWSzZvSER3U0hPLTliaW8tbkRvVnItZDl2UXAyWjV2MXZXVm5lcWxZeEhDWGlwYzRjQUl5QkxoekVtNkgwNkZYbjR1WDRTWi1j?oc=5",
           "published_at": "2026-08-17T00:15:38Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "glenarborsun.com",
+            "name": "Glen Arbor Sun",
             "url": "https://glenarborsun.com",
             "domain": "glenarborsun.com",
             "weight": 0.35,
@@ -1214,7 +1499,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "مدار21"
+        "madar21.com"
       ],
       "languages": [
         "ar"
@@ -1223,14 +1508,14 @@
         {
           "id": "3caa867a9e1231bba89f",
           "title": "خبيران أمريكي وبلجيكي: جهود المغرب في مكافحة الهجرة تستوجب دعما أوروبيا مستداما",
-          "raw_title": "خبيران أمريكي وبلجيكي: جهود المغرب في مكافحة الهجرة تستوجب دعما أوروبيا مستداما - مدار21",
+          "raw_title": "خبيران أمريكي وبلجيكي: جهود المغرب في مكافحة الهجرة تستوجب دعما أوروبيا مستداما - madar21.com",
           "normalized_title": "خبيران امريكي وبلجيكي جهود المغرب في مكافحة الهجرة تستوجب دعما اوروبيا مستداما",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jQzBoUVlMdDBZTEN1cGV4R2hqM09BRkw5aUhhcWFWd2NXdzZsbGNiTnR6U2JRTVZCeUktZXJzamh3TGxEaGc?oc=5",
           "published_at": "2026-08-17T00:04:33Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "مدار21",
+            "name": "madar21.com",
             "url": "https://madar21.com",
             "domain": "madar21.com",
             "weight": 0.35,
@@ -2054,7 +2339,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -2063,14 +2348,14 @@
         {
           "id": "1d2deebc1770ac11bd86",
           "title": "الولايات المتحدة الأمريكية تعتمد خريطة المغرب بـصحرائه",
-          "raw_title": "الولايات المتحدة الأمريكية تعتمد خريطة المغرب بـصحرائه - SNRTnews",
+          "raw_title": "الولايات المتحدة الأمريكية تعتمد خريطة المغرب بـصحرائه - snrtnews.com",
           "normalized_title": "الولايات المتحدة الامريكية تعتمد خريطة المغرب بـصحرايه",
           "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNRFZDMUFEdENuemF0WWJJYTRDY0t6NUVKM1ZNUUFwMng0RzNPTm9jclVjXzM2UUVlVkR3cV85SGUzd0ZucU5JMjVZd2R0Z3pJUGVWZVJSZXcxQzZnTnRYNElnWFlfQmxDbDFJeHg5SkE0ejhzUk16NVV4cEdxaDFIOXlTanNmV0VUcGJYTzRXZXRMeUNaanQyTFc0d2xIWk1tSnZHOHMwQ0QtaTlfT3JRZ3dZSk5VZ2hvZUVOcnRzUmQ5elZ6N2dpcHFNelpqNHA2TkJtVnp5Z0xPampPY3kzVVRzanQzbmRIemhPcENCckRuTXpMNm12TEpWVEJXdloyclpuRW9Ia2QyeW5OVERVNnd2Y2JMSmNZX1ozS1Y4RVVELXhsWXRQRnViV0xzNDVJR3FNWHhnSy1GQ1pIQ1BlM29ZTVI5eWtCZnZCcE8yLVllTTRMbG94MGZCTVExWXZhcUtzOXVaSzMyZmNOVjdGLVZfdGVSZ0lPRVRzMUY0YnFxdVA1by1oRzVnNE1PMkVrRVJsOXk5M2RmVlI5SXYxSWJkSFFaMDA3bFNaYkFjbUJJVzljaVNXdFpTRHdqbUV6TEU5OUZHenF5WTJOOWg4?oc=5",
           "published_at": "2026-08-16T21:26:19Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -2406,16 +2691,17 @@
       "id": "117fb10d5d21afe6fe09",
       "title": "SNRT نيوز - أخبار المغرب",
       "published_at": "2026-08-16T20:15:05Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
+      "status": "medium_evidence",
+      "evidence_score": 0.585,
       "claim_candidate": false,
       "claim_score": 0.0,
       "claim_reasons": [],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 6,
       "sources": [
-        "SNRTnews"
+        "SNRTnews",
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -2441,14 +2727,14 @@
         {
           "id": "69422a0bceb9322b796a",
           "title": "SNRT نيوز - أخبار المغرب",
-          "raw_title": "SNRT نيوز - أخبار المغرب - SNRTnews",
+          "raw_title": "SNRT نيوز - أخبار المغرب - snrtnews.com",
           "normalized_title": "snrt نيوز اخبار المغرب",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQlI4NGdDWkhmX01TV2VyWFQzSEVIcWdMSFpsQ0gwcmpuclQwUFJJU2hwbXV1cGo4YmNNVHAxMUdxZV92aDdOVlZVS3JOQzRWQlpEd0tMS3lMYlh3VkJOcUl1VmVMTU9OUnp3TGg4QmgxMlBadGU5bnVCUlVCZUpxQmJPbktyYjNYd3ZJ?oc=5",
           "published_at": "2026-08-16T20:14:24Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -2492,14 +2778,14 @@
         {
           "id": "2cc0c9db9ac4cd93c22d",
           "title": "SNRT نيوز - أخبار المغرب",
-          "raw_title": "SNRT نيوز - أخبار المغرب - SNRTnews",
+          "raw_title": "SNRT نيوز - أخبار المغرب - snrtnews.com",
           "normalized_title": "snrt نيوز اخبار المغرب",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OaWhVdzhUZXBqbERjVlFxa09kZXBNN1g5S1VVRndpWXZLMEhVNnhubFhwYWZBaHBZSS1USmR6RGtwdkR4NEt5aUxuQ0VKM2ZQMUpuYnJiM0xEQThqZGJ4YWZsLVI0ZFM2OUZ5SzlzaFNuNloxcE5UNEh1VQ?oc=5",
           "published_at": "2026-08-16T05:30:58Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -2569,19 +2855,18 @@
       "id": "030cad4de8ac3015e1d3",
       "title": "Maroc : un nouveau cadre légal pour les animaux errants",
       "published_at": "2026-08-16T20:01:38Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "APAnews - Agence de Presse Africaine",
-        "fr.apanews.net"
+        "APAnews - Agence de Presse Africaine"
       ],
       "languages": [
         "fr"
@@ -2607,14 +2892,14 @@
         {
           "id": "f9fe73eaef1258093c82",
           "title": "Le Maroc se dote d’un cadre légal pour les animaux errants",
-          "raw_title": "Le Maroc se dote d’un cadre légal pour les animaux errants - fr.apanews.net",
+          "raw_title": "Le Maroc se dote d’un cadre légal pour les animaux errants - APAnews - Agence de Presse Africaine",
           "normalized_title": "le maroc se dote d un cadre legal pour les animaux errants",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ3paNjJMX0hCZmJHSllfcW9hb2FfYnVEdUkya19MY3NlYl9mSm4waVZKRUZhTGlSeG9KRGUxZ09SUVZ1cGd3a3B2cFMxeWFJQnJpSU5BLV80bndteUdvZG1FektKeDJ6bTY4TkNlbC1jVDJ2RENqak1CRWdCb3NURS1YMDNoUzd3QXR4Yg?oc=5",
           "published_at": "2026-08-16T20:01:38Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "fr.apanews.net",
+            "name": "APAnews - Agence de Presse Africaine",
             "url": "https://fr.apanews.net",
             "domain": "fr.apanews.net",
             "weight": 0.35,
@@ -3267,7 +3552,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "h24info.ma"
+        "H24info"
       ],
       "languages": [
         "fr"
@@ -3276,14 +3561,14 @@
         {
           "id": "d237f5725ac938ae0afb",
           "title": "Immigration : le rôle clé du Maroc salué par un expert de l’ONU",
-          "raw_title": "Immigration : le rôle clé du Maroc salué par un expert de l’ONU - h24info.ma",
+          "raw_title": "Immigration : le rôle clé du Maroc salué par un expert de l’ONU - H24info",
           "normalized_title": "immigration le role cle du maroc salue par un expert de l onu",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CRWNnOGFFMzgyTXlfMWxCR1dJSzY2bk1ySVFWY0FYTTJqRTF6d0tTZ1o0c0tRc1hXc1JuZk5WYjZ0TjlJQ245bDRpRTA4SlB3U0hpd3dNMC1ia2lzUi1LRml4RDNrUjBNVHlQbnEzYm5nT056cHFHVGp3?oc=5",
           "published_at": "2026-08-16T18:30:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "h24info.ma",
+            "name": "H24info",
             "url": "https://h24info.ma",
             "domain": "h24info.ma",
             "weight": 0.35,
@@ -3348,7 +3633,7 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "CNN الاقتصادية",
+        "cnnbusinessarabic.com",
         "hespress.com"
       ],
       "languages": [
@@ -3358,14 +3643,14 @@
         {
           "id": "47ea6d50f2cda565dcca",
           "title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية.. ومصر ثالثاً",
-          "raw_title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية.. ومصر ثالثاً - CNN الاقتصادية",
+          "raw_title": "تصنيف يضع المغرب ثاني إفريقيا في تحويل الذكاء إلى ثورة صناعية.. ومصر ثالثاً - cnnbusinessarabic.com",
           "normalized_title": "تصنيف يضع المغرب ثاني افريقيا في تحويل الذكاء الى ثورة صناعية ومصر ثالثا",
           "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxQWEo5ZUJVTEpteWxCSWtXRUVNVHJZb3BsOHF5ME8yU2xzTXU3VFNoNXA4YzlkcGVJOGpmLVhBTS1zdHIwcXExVVNHTFN2bmg2V3RZSldVSkpKeG5lMFNoVlRTUW1SRV8ybXBjSWp2NnI5eGxLeGF2MDNEZ0lFa3VJTk1IbWFzT1dIMndwWE9sZVc5dFF2Tm55V055djJtZnNBTzE5X0dKMHVPOThkTm1fODRJWXpVa1BxSHctdGgtczJaaXdtdjlmekhwc0k3S24yeFA3cS14VGUyQkJvUUtYV29JYmFTVlB3V3lYUHVEQUNkQWhHeU9POFlIOUxfbzl1SFJqeEdxcm5NV2tJU2EzNEtzSFpydkwwWVgzQnFMNTNuUGVsSlBSVTByU0V1REVBVVp5ZnlxRWN5VVBNWmZvZDZWaUVVV01JRFBiZGVEZmtXdS15MUsybmJlTE5WU3lNdmhFSmxEeHphYTc2TV9nM2VkOHJsMEF2YlhpWjgwVXl4OVMzWWhES2pLY254UFQ1aHNPcWhsblp0Q3dIcjZ2VjFIS09wRTFSTUx1UExEVGtwSjJCNlNHYnRfWFB1Sm5JX0kyNHoxaWVRNkRBa05hMnRfTkJyRUFSNERkY2QzdmMyNGVYN0tYZUFLRDVLeGhYZmpHaVpNUWhxTlh1NjJqZzRlXzVndDR2cHZoMlBUYVduVkxHVXJabWwzMl9FcVRpcGxabDBGSHRBejZFUEFTd09URy1oLVJyUFBPSDhwNTR0OUtQcjdJbzR3?oc=5",
           "published_at": "2026-08-16T18:14:12Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "CNN الاقتصادية",
+            "name": "cnnbusinessarabic.com",
             "url": "https://cnnbusinessarabic.com",
             "domain": "cnnbusinessarabic.com",
             "weight": 0.35,
@@ -3406,7 +3691,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -3415,14 +3700,14 @@
         {
           "id": "685f3ec080d0aca04710",
           "title": "كيف يراقب المغرب التوابل المحلية والمستوردة؟",
-          "raw_title": "كيف يراقب المغرب التوابل المحلية والمستوردة؟ - SNRTnews",
+          "raw_title": "كيف يراقب المغرب التوابل المحلية والمستوردة؟ - snrtnews.com",
           "normalized_title": "كيف يراقب المغرب التوابل المحلية والمستوردة؟",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94X0xtdnVtS05xR3V1RUE0dVNsa0ZfTWRGVk5qTFVKa2pSdHNNVHduV05WS0RnOW93U3ZRYkc0cGdYaTh6ZnZxTkxkb1Qxdw?oc=5",
           "published_at": "2026-08-16T18:10:10Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -3647,6 +3932,46 @@
             "domain": "moroccoworldnews.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "64e0016bfffb7609ba79",
+      "title": "الجرعة الثالثة المغرب يقترب من تلقيح مليون شخص",
+      "published_at": "2026-08-16T17:36:18Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "snrtnews.com"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "63ecae3c0ba4650d4a18",
+          "title": "الجرعة الثالثة المغرب يقترب من تلقيح مليون شخص",
+          "raw_title": "الجرعة الثالثة المغرب يقترب من تلقيح مليون شخص - snrtnews.com",
+          "normalized_title": "الجرعة الثالثة المغرب يقترب من تلقيح مليون شخص",
+          "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNUkNPb1hyT2JHUWNOakdKNG93Z0tZUUpUVHEzZHQyTWtwdFg2dXh2d2hXSXRjZkZmZk1ZZnVLeGxJcXZZVGhWTDZ3WjFNZ2xDR1ZxdEF3elkzWkk1Mk9kbURnMFAxdkZtczhFQVVzWWRyajhDWGo2aGdNeG1WS1NwRE56eFNsVHVoYkxjdWF3RnBrRE15V2dRVWJvZUdmOUVvYlZWZXFvZFVpMlhlTkVrQVpwclVhZzRfN0dvR2wxd3k3Z0dIa1JLNWdOT1k4TDdPTDFCZVdDaDMzVTBPOWRmVXdfWndoS0FJMHpOcHpxWm1sVUl1N2V0WUFoeVp2RGJ2R1d4RkQ5czVRRm9zZm5acmpMb1ZqY28xY3FJUDVCdGFTemJsbElxcjZmNi1hMHhGU3VMd0xGMXFKcVdYelpiSHV2OEtnVlpCUHdRT1BMTklXQzRJNG5XR2lYZ0tzemVKNTdVV0puMHRHNlBBTWFoNHNfZWZjQjdtZ195b2t6ay1hMFYzQTlkdA?oc=5",
+          "published_at": "2026-08-16T17:36:18Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "snrtnews.com",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -4017,19 +4342,18 @@
       "id": "96b1861775cebb0f5f4f",
       "title": "Migrants seek asylum in Ceuta after crossing from Morocco",
       "published_at": "2026-08-16T16:42:50Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 3,
       "sources": [
-        "The Lufkin Daily News",
-        "lufkindailynews.com"
+        "The Lufkin Daily News"
       ],
       "languages": [
         "en"
@@ -4072,14 +4396,14 @@
         {
           "id": "f5a7ce1aa5eadb6979c3",
           "title": "Migrants seek asylum in Ceuta after crossing from Morocco",
-          "raw_title": "Migrants seek asylum in Ceuta after crossing from Morocco - lufkindailynews.com",
+          "raw_title": "Migrants seek asylum in Ceuta after crossing from Morocco - The Lufkin Daily News",
           "normalized_title": "migrants seek asylum in ceuta after crossing from morocco",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0prc0p0ajJSS21xaHJWN3BLY3N2NlpiMzZkMmlzUGNtcmRubERfa1Q5b05zSkpnczhXV3EzRzJwS09HSklVVVRRME0tT3JqenJyd21YWTd4azBDT3FtUlpOVE5POGo3XzI0ZnJiTDh0OXhrTDhxR0ZsMFFXSlBxenVWWkJfRUN4SHItNzJkR2wtdVhsV3g1cWZ3cHM0OS1UbG5fa09nN1QwN1NESUxVQ2Z0TGtRWi04QXM2T1BZWkhyZmZpbEtHVnh3ZFl3WUhTeVdjTi1xckdRcUdfRUFXZURzV0lzZDZ4VnI4?oc=5",
           "published_at": "2026-08-16T16:42:50Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "lufkindailynews.com",
+            "name": "The Lufkin Daily News",
             "url": "https://lufkindailynews.com",
             "domain": "lufkindailynews.com",
             "weight": 0.35,
@@ -4283,7 +4607,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Article19.ma"
+        "article19.ma"
       ],
       "languages": [
         "fr"
@@ -4292,14 +4616,14 @@
         {
           "id": "78b25511aa7123770bd8",
           "title": "Météo | Orages, grêle et fortes rafales: le Maroc sous vigilance orange",
-          "raw_title": "Météo | Orages, grêle et fortes rafales: le Maroc sous vigilance orange - Article19.ma",
+          "raw_title": "Météo | Orages, grêle et fortes rafales: le Maroc sous vigilance orange - article19.ma",
           "normalized_title": "meteo orages grele et fortes rafales le maroc sous vigilance orange",
           "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03NUFONjc1SXpGam5XTnF1Y0RuaXNXQU4zaEZHRDBOa2NMeDFDVk9FV2trMW1STkQ1bHpYUUN5NS1yWFVwVDBJYTJUdDBtMkdBMjV2X3dITQ?oc=5",
           "published_at": "2026-08-16T16:30:55Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Article19.ma",
+            "name": "article19.ma",
             "url": "https://article19.ma",
             "domain": "article19.ma",
             "weight": 0.35,
@@ -5209,17 +5533,18 @@
       "id": "ac45c6e13d8da9c71470",
       "title": "\"تي فلو\"... مغني راب آخر قيد المحاكمة في المغرب",
       "published_at": "2026-08-16T14:22:37Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
+        "aajeg.com",
         "العربي الجديد"
       ],
       "languages": [
@@ -5246,14 +5571,14 @@
         {
           "id": "56b4acf4b1602721bb78",
           "title": "\"تي فلو\"... مغني راب آخر قيد المحاكمة في المغرب",
-          "raw_title": "\"تي فلو\"... مغني راب آخر قيد المحاكمة في المغرب - العربي الجديد",
+          "raw_title": "\"تي فلو\"... مغني راب آخر قيد المحاكمة في المغرب - aajeg.com",
           "normalized_title": "تي فلو مغني راب اخر قيد المحاكمة في المغرب",
           "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOdW9XdUtsTlBUMmpuV1F6TkdXWHJ5OXdmV05GVEFJNmNxR3B3MUlOZ2dMaTBTS0c3ZWExTzdYTktmczFDNldBdWIzLURydU1lQlg1WXRnR29zY3pFMDdsUDRYSjYtYzBpdzFjdm5OdnpmVldYcVhLM25FZmRnaUVHRUgwYjFydmlqQ0VXd3dWWlR4bmlyWDhXa2w3S2lsWXE1Q1Q0SzBYN2dPNDY0U0tkak9lZ2dsOFNWZjQ0dGV1QmRSUFNGLU5leW81aDJfQTZGWlpJcnlOWi02bnJ0aU9vbGM4cmt1bXdJYWk0Y21CamtQTktHMEt5bXIyb2dVQ1hpOWN2UjhBekpUUzFEbGxxUWwwaml2RlhpZ2M4ZVJYdnRvZUllVWNDdElDQVY3d3RyTERKSTlrWlp1VGJYVElTSng4TWU5bDBoS3N1MHNXMDVpREZ6ZHVLbkdQT2hEbUpEaXhITGMwUU1FM05XeEJF?oc=5",
           "published_at": "2026-08-16T14:22:37Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "العربي الجديد",
+            "name": "aajeg.com",
             "url": "https://www.aajeg.com",
             "domain": "aajeg.com",
             "weight": 0.35,
@@ -5737,7 +6062,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -5746,14 +6071,14 @@
         {
           "id": "7937b83c406a9dfdd0e6",
           "title": "وادو لن أعمل بعد الآن في المغرب",
-          "raw_title": "وادو لن أعمل بعد الآن في المغرب - SNRTnews",
+          "raw_title": "وادو لن أعمل بعد الآن في المغرب - snrtnews.com",
           "normalized_title": "وادو لن اعمل بعد الان في المغرب",
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQU1FKcDA2bVNwTG1KMW9qWlJlbEgwV0puWkM1ckU2Vm1BTWVZUzVXWkFMajhKVGZGbHJVcGRWeTVJUk1tdGJVT1MzNFhwVFFlT3JQcF83a3RSRmFkNDc0UzN0YTBEVV93UmxiWkFaNTdxMjlYN2d0dUoyWHNwaWM5VDl5c0ZhQU5uQzB3dzg0TUNPTkJtdV8xTGdyOEM5Y1VYVjhvVDd1dG4za05DSjVnOHNjUFhVUVJzQk9jOHozQXlLNE9fWXNRcUpLMl9SampkT0llOVlzVjRtWFZaVXZUUUU2aFItNjRpNjUwendJMERlSkRnQ21GcDZadzJ3Y2x5ZGhwczN6VjdKYW5wMnBCaUZCb2VrdU0?oc=5",
           "published_at": "2026-08-16T13:05:32Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -5952,7 +6277,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -5961,14 +6286,14 @@
         {
           "id": "bd94c9356d31e28586bb",
           "title": "مونديال 2026: كومان يستقيل بعد الهزيمة أمام المغرب",
-          "raw_title": "مونديال 2026: كومان يستقيل بعد الهزيمة أمام المغرب - SNRTnews",
+          "raw_title": "مونديال 2026: كومان يستقيل بعد الهزيمة أمام المغرب - snrtnews.com",
           "normalized_title": "مونديال 2026 كومان يستقيل بعد الهزيمة امام المغرب",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aNjBjNDRxdEEwUmRycUJhbU44UVAtU3NJZ0s5aDRLSWVNRHhWZmFyeFdfRGY2cl9JYl9ZcE9ZRWk3QnlDa0FHYXlXamF1NHc?oc=5",
           "published_at": "2026-08-16T12:30:58Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -6113,7 +6438,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "العربي الجديد"
+        "alaraby.co.uk"
       ],
       "languages": [
         "ar"
@@ -6122,14 +6447,14 @@
         {
           "id": "0eaee49c55eb392242b3",
           "title": "قراءات إسبانية في منع المغرب تدفق موجة ثانية من المهاجرين إلى سبتة",
-          "raw_title": "قراءات إسبانية في منع المغرب تدفق موجة ثانية من المهاجرين إلى سبتة - العربي الجديد",
+          "raw_title": "قراءات إسبانية في منع المغرب تدفق موجة ثانية من المهاجرين إلى سبتة - alaraby.co.uk",
           "normalized_title": "قراءات اسبانية في منع المغرب تدفق موجة ثانية من المهاجرين الى سبتة",
           "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNSWNBX2ZjenUydEV5bEI0V0NlblhZLWpHMTQwTU96b0V1QldUQUtLeUF0SlMyYXRwbHgyQW85ck02MWNTbXJQTlVIc0dNQkJ2MUpqdk9MN2JCbEd6Snl1SldxMnlNMGt5OFBobWR2Z2t1ZEdMZDlja0RVUGZmZHlVenFkX0ZCUGJXTl81RzE5ZjJBckstcXUxLS1rcXpVcENXVWZvWHA5eDc5S3Jsb2JKUF9TbzY0aUtGLS1vSXhMS1hkYjg0ZWhwZk1lQmJMY0tUMVhZMHFMLWhiQi04STljRTRiR2tfdFhwUlFmSkhYV1RHS0I5SWtRcVFjUmgya0lVUDJ6ZWFiSjB1TVlBeUxId2dheFBRa2VIZVIwVVFMaG5LZHRkZHlleGt5VjNoWGJwVFVMS0Y3ZVVfcWwxRlRaSWhhMmZmdXVneW9ja1QtVGRqQnczeGJGM3NsT1lHaHZXa2tGeEdPNmY2WDd6Y3Z5eXFVSnBUYlA2azlncWxPSWx6SVp0QkhKbU9MaDBwSmw0aEVWS0pVTGlaaGNYek9oY3B6ZFROV2JUcW03QWh3a2Y3UnRId2FIbWFDaVA1T0FQQ3hqekIteXZRVmN2WVFrNG9WUGpOdVpwblp3aVR6aTcySElsZ2c5WHZycFBmZU5TYlBfM01IcHFBbVlLbDhqYnFKeGoxcWIxUXVkbFdLdEROd9IBlwRBVV95cUxQUlYzbW5EUlRKMVE4QmVJZlBvcUl1N2pPWU9QOU1MQlg0NFpFTnlSc3dBRmZKMU5ONkQyMGdXX2xPdV9GaDhvdmVPNnJUNkl4UllIT0x3bHA2MUg1NG9wdEt1cW1kZ1BvWUxYOVNuS25jTkNMNGV3aVVpYjBfdnBDREtXQ18zX056UkJSOFNJeTduR00zdmV4Tjl0emt6TVBPR01Eei1hVXVOYW5uRV9ndjNvUTV4OF8wQUVSbmpSSXh1ejdCelBVX1V2MFhXcl9XUWgxWlRLMkNZSDZDdzZHT08wX2txNjJRZ2ZMR2hTNWl5YVZuUV8zUWtiNnF2Q1NrVTlnb3ZtbVAySVBUdjhaNVI2NFFnWVZwVEVwYzhyTDNvMzk1cnZMVURTeHd4Nm5NMU5pQlI4UjItZGpMaFBsZTRuWjJTRjRRZUVOY1AzRUZEck5NNkRMSUc5ckJHY2FSaFcwQjh6b1BPRVpIbzl6WHBQR3NjbnMzYTQxMnBkNUJ0OHpyemxEMnZaWURMYWNKUmpzYWp4aDVkeFRuWHJ4Y2x5QTBDVFNFQVBsV09pRFlRQTJDb0tzSUgxVkdHZ1ltWWRRbHhVTlZUY2hSbDIyT0hnWGlaajZhdHlIbFNGOFhFU2dQeVlQWmhhZ0l1eHNsak1IYkxuZ1lrdVphMTFUNVpTeUNWdVdpOVBaeHd6UG82NEUxaHZj?oc=5",
           "published_at": "2026-08-16T12:04:20Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "العربي الجديد",
+            "name": "alaraby.co.uk",
             "url": "https://www.alaraby.co.uk",
             "domain": "alaraby.co.uk",
             "weight": 0.35,
@@ -6451,7 +6776,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -6460,14 +6785,14 @@
         {
           "id": "810f8fed59b15b0aae3b",
           "title": "المغرب يفتح تحقيقا حول واردات أعمدة الإنارة العمومية",
-          "raw_title": "المغرب يفتح تحقيقا حول واردات أعمدة الإنارة العمومية - SNRTnews",
+          "raw_title": "المغرب يفتح تحقيقا حول واردات أعمدة الإنارة العمومية - snrtnews.com",
           "normalized_title": "المغرب يفتح تحقيقا حول واردات اعمدة الانارة العمومية",
           "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOQmhmZi1Bcmg4TTlHVzFRWlowMVlEVkZpam5ka1lBLUNQbzBkcVdmUFBaNXlNQVRScHVZSFJuMGpLR255RnVEYmFsWFE4dFhvY1FDeWpiQVlxV3d2TE95UjdnYUduWEtLY3JadEJSRmdPYm9QQjc3cVhMWFlqZ2Y5NFRTY3V5bkdGR1dpZXFETFgzdDNSTkd5R0t4NVctaU9WUjF2aEJWZFZlMGtEUGRtY0ZVcnVsd2ZUUmVranVGeU1yeXcwcnAxa3BuWlRxZHJDNUNvc2N0SGpLb3ZaSTJ1ZkpRYmNGWnVhQ0ROM1JOWHdwLXhKVWtjV0E2MWhOUFdSTEpFNWw1cUt5YlpQU1IzSEZSTDVlUlkwSi1BbGp0MFoxS3lzWUFjenQxcXZFdkp5Y1NuTG9zeE1KaUZ2T0VXeWFhSk10R0tBNHRDSGhFN0FmSVdMX1NMbDlJVldYb3RvZTZ3d0tiNWVFSWIyLXRvWXY1dkl5eTUwb2M4WEhoaElYVmctZFhKTVR6ZkxxY2E0eXNROThJc3VVLThGTkM1Q25QSFlpU002WHMwYXJyVW9nUjh2V0VudQ?oc=5",
           "published_at": "2026-08-16T11:20:13Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -6810,7 +7135,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -6819,14 +7144,14 @@
         {
           "id": "244a16b288609c02ddde",
           "title": "المغرب يعيد منح رخص مناجم مسحوبة أو متخلى عنها",
-          "raw_title": "المغرب يعيد منح رخص مناجم مسحوبة أو متخلى عنها - SNRTnews",
+          "raw_title": "المغرب يعيد منح رخص مناجم مسحوبة أو متخلى عنها - snrtnews.com",
           "normalized_title": "المغرب يعيد منح رخص مناجم مسحوبة او متخلى عنها",
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNTmxhZWFwUTFTcXQ3ckFIanY1MlJWak9PWGpRSC1lU3pXRjdrOTJJLXE1NGdsc2tDQnlqX3d0WTBLaU9aQ3VBNFNfQ1NYS0ZrZ1lwMXY4NzhLc0Q0NWpLN3JLc1dPdEtEV21kS1A0RVpPQVZ5cFJUajZkbHh4RnN3NkRKWkh1Y2YtR3RCbVRMNk5Od1BTV0ZMSHNtS3JiV3gxZUpTMU5pcGJWUjNWNldlOFlsMDVOdnJPQUFxOU14bGdhSEx2a1UyUHVHdEZtUWh2WHFHcVZQd2V3bmlKN2RLdEVUOVVwQ1JxNE45b2tPdE1GYWNlamhySDRkeWV2SkRudFMyLS1ucmhtbTZLdFNfc2VxaWZCLUFYMklRN0VRQzlTQVN2WWxWTE42bkRlb3RBMm9IU0Q2bnIybWtSLTh3UjVjdDdnTU56UGhHN2p2ak1JcnU1YmRlaEs2V3NRZHR0d2hGaGd5bmxyQjZMSWFNSkxKSVU3bG5uNF9qSWdDdnN5dw?oc=5",
           "published_at": "2026-08-16T10:58:27Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -6890,7 +7215,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -6899,14 +7224,14 @@
         {
           "id": "b861ce04c856901d4639",
           "title": "الحداوي لـSnrtnews شرفنا المغرب في كان الكرة الشاطئية",
-          "raw_title": "الحداوي لـSnrtnews شرفنا المغرب في كان الكرة الشاطئية - SNRTnews",
+          "raw_title": "الحداوي لـSnrtnews شرفنا المغرب في كان الكرة الشاطئية - snrtnews.com",
           "normalized_title": "الحداوي لـsnrtnews شرفنا المغرب في كان الكرة الشاطيية",
           "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPX1RnRUJCM3ZnTWxmN3B2Q0l5dzBZUEp4dHlwcnNpUHNDTm9zXzBQMm5qbnhSVmZPNTdvMm9Ca2lKZkVNSFN5ZWFORV9MaUNDUjhnOW5fUE42MDJzMzAtaVI4cXpqWi1jMC1jWnQ0ZkFTbXNJMWJ3aWxnU0VPWm1USFFPVjlDdjVYY2RnN0pidTc0bjVBdlltWHJqTzFCRXhmZ1NMa2pHR3k2X2dlU1llU2U3anNBSUJfdjRZSXBFc0taclVRcF9FVE5uaExhSnFfLTJlWDFqY242d29UUW5rZ1J2ajdVcGVEZ3hIdl9zZmkyUlVXNExBb3F1V2NSenZkM0VZd0kzYlMtU3JiV2R6NXVIYU5VODJIUmRtZFU3OTFwSHhkQWxFU0RXX2ZJT3Q3VjhIZVVEUWpNbURlZUxfRHJmbnFxVjlneldSX3RfY1VBbkNMUGcxbE9GcnNoUVlKUVM4MWZocjlqaWtDSEQwendjQzUtOXZUTUVDbHlsaTQxeVZlalRLZHd1cw?oc=5",
           "published_at": "2026-08-16T10:53:39Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -6930,7 +7255,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -6939,14 +7264,14 @@
         {
           "id": "e17f245bc0f4c77fd766",
           "title": "بعد تصويته في الأمم المتحدة هل يقنن المغرب زراعة الكيف؟",
-          "raw_title": "بعد تصويته في الأمم المتحدة هل يقنن المغرب زراعة الكيف؟ - SNRTnews",
+          "raw_title": "بعد تصويته في الأمم المتحدة هل يقنن المغرب زراعة الكيف؟ - snrtnews.com",
           "normalized_title": "بعد تصويته في الامم المتحدة هل يقنن المغرب زراعة الكيف؟",
           "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOWE8zRnBKZE5ROWo3SkZueWNLYkJfSllOOEVJYUZnTy14SUZWM3I4cmxUSGVfbVR0U0U1cjVxZzNfWlRXQlZIZk1YcGRhbWpYVUNyQXRGXzdsV0ZjZ1FNUy1zWnFETU0wMjhGVDY3UlUwWUh0SkN3X1FxQ0lIOXdxYUVwbF9MT1hFcGE1NXBjVkhFVUFyWjJURnM5QTJtZXVYaktWcUdvNnF1NFRwREtGRndfenJvWDZPOFI1MzJlb0FkYlE4ajZ0a003X0N6dEUzNnBuQ1FvQTBPQXBJMGM5VXB4ME1vQUVjSzBBdWphWklYNC0zQlJ5VUZKN0ZCQXlYdWg2YmcyMG12SUZ6eVdNbE9ITEVrekJwdmRJT1laMWxMX0NLTkhWSk9iRHdCNjYxcUtTWE1BdDI0WmZrem1LanVzRFlvOFR6ZTBRYmtsdDdiWmIzTzF4d3plS0ZxMkppMno4M3ZXWFZBNkZzN2lJRGR0N2ZUTVFweVFObjVNMVQwZE5sMWI5VFB2Wk9na1Rya2NQV3ROXzB6R1ZZcGczcm1sQWhYR3gwbUhZYnlFNUllWmNfWEF1VWs2YjJVOEdRbWtv?oc=5",
           "published_at": "2026-08-16T10:46:12Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -7202,7 +7527,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "رأي اليوم"
+        "raialyoum.com"
       ],
       "languages": [
         "ar"
@@ -7211,14 +7536,14 @@
         {
           "id": "cad698db9ca91113955f",
           "title": "احمد بابا اهل عبيد الله: المغرب: حزب الأصالة والمعاصرة يستقطب ثقل الجنوب: هل يكون الخطاط ينجا رهان المرحلة المقبلة؟",
-          "raw_title": "احمد بابا اهل عبيد الله: المغرب: حزب الأصالة والمعاصرة يستقطب ثقل الجنوب: هل يكون الخطاط ينجا رهان المرحلة المقبلة؟ - رأي اليوم",
+          "raw_title": "احمد بابا اهل عبيد الله: المغرب: حزب الأصالة والمعاصرة يستقطب ثقل الجنوب: هل يكون الخطاط ينجا رهان المرحلة المقبلة؟ - raialyoum.com",
           "normalized_title": "احمد بابا اهل عبيد الله المغرب حزب الاصالة والمعاصرة يستقطب ثقل الجنوب هل يكون الخطاط ينجا رهان المرحلة المقبلة؟",
           "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQejJvMU1rZ0lpUUhrTGcwRjA4TEZHb0FQRWdzaUF3bGJOcE9SZE9DdHA5djF2RUFOUHJwS3d0aV92Wnk2czZtdDdNNVk0U2xmOVJvTkhZaWNQZGQ4WVZrRlhjenp3SzQ0YlJCSWFBdXB5M1BDbkdHNEtSUmtlN1BNZEpSVThVdVlzYmxOWkMwakNhQ2Voa0lFZVRpbGJFNmVGM0pvd3lDcXN5RVlhWmZFNnhiTHB6bGlHa1lPeWNfLTJUaV9wLWVCaGxNSzVzMFJQc2hxR3ZfZ29CUHlJbGZYSjlFTVN0dWEzNHNXd3NtT0daa3ZCc1FvZVVkR3U5T2owbmYyTkRDZGVWandTUjAxRTVGcFVnRmpMVkZIdGVTZDJwUWRmQTdUbFNLd3FhMmkxcEhwWmlsV1ZzZHNyenRUVVR5aW5mOHc1RVE?oc=5",
           "published_at": "2026-08-16T10:34:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "رأي اليوم",
+            "name": "raialyoum.com",
             "url": "https://www.raialyoum.com",
             "domain": "raialyoum.com",
             "weight": 0.35,
@@ -7283,7 +7608,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -7292,14 +7617,14 @@
         {
           "id": "4b85839dfb2f4ee329b0",
           "title": "طنجة .. جمهور ودية المغرب والبرازيل يفطر في الملعب",
-          "raw_title": "طنجة .. جمهور ودية المغرب والبرازيل يفطر في الملعب - SNRTnews",
+          "raw_title": "طنجة .. جمهور ودية المغرب والبرازيل يفطر في الملعب - snrtnews.com",
           "normalized_title": "طنجة جمهور ودية المغرب والبرازيل يفطر في الملعب",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiNzAySE1aYmJGcll1Y2xJeEJNRFV1Ml9FZFh4V2tVMDlVY1h1amxXWHJKM0FnOXUwbDNjckhZNGhxdjlKSGdUT0hNRk9oQQ?oc=5",
           "published_at": "2026-08-16T10:27:03Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -7403,7 +7728,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -7412,14 +7737,14 @@
         {
           "id": "179b78cb66f53ab60274",
           "title": "المغرب على رأس مستوردي التمور التونسية",
-          "raw_title": "المغرب على رأس مستوردي التمور التونسية - SNRTnews",
+          "raw_title": "المغرب على رأس مستوردي التمور التونسية - snrtnews.com",
           "normalized_title": "المغرب على راس مستوردي التمور التونسية",
           "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNWnR4OGt1cjNESnhNcDRDOXFVNGRFUURIYUY2UlNVanNIak84T1JZcFNmSW0tdFhxZUNlR0FaRS1QMGFqY1RlcldBdmVmVDE2cWprSWJNYWoxNDZFN013V2hKS3dRNWw3eHd0bHhZODFqeU5WRk9hS0tXYjNNV0NJeHJzNFhLSWJfM19HWTljTVlHN0poMTFiMDhPM0NaSnQ4em1HYnp0Vkk5ODAzMkdCVHdxSThSbDlvNmRiTkdDVEF2UXhybl9NVm9iZ2l0aTRPeGdmTERHUV91eS12VDNuaTN3dmNUbmlaak5oNXdrSzJTV0xuak5iWTlKTlhfbTF2ZldfenQzSy1pQmFLTXJiWGRabF8tbXRyc3I3R0t1RXhGN2FoOUo3MFZmbDV3MWxyU2ZMN0txY01RTWFQazY0bTRCU3A5X1hjekFsRUh2M0pkZDI1SUE?oc=5",
           "published_at": "2026-08-16T10:15:30Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -7596,7 +7921,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -7605,14 +7930,14 @@
         {
           "id": "657e038e6922bedac99a",
           "title": "تخليص الصناعة من الكربون إلى أين يسير المغرب؟",
-          "raw_title": "تخليص الصناعة من الكربون إلى أين يسير المغرب؟ - SNRTnews",
+          "raw_title": "تخليص الصناعة من الكربون إلى أين يسير المغرب؟ - snrtnews.com",
           "normalized_title": "تخليص الصناعة من الكربون الى اين يسير المغرب؟",
           "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPZFlXSDRHSldPNkhYWnktX2taQkJoTXVzOF9VVy1HQWdDLTBMeXFlNDRIbFdLZ2JrSVNYTU9meko4SkxJOG5RWW54eHFHa3pLblZPNF9rcDc5MnVBc1lzZmp6N1R6VEstRkFycng0Vng5UEpzMy1VOFFWdG1fLWY0UGNjWktBaEJQTTVjcDU5LTc4TWdoREVNLUNpMVlnS1dTNWZUcXIwVkxLNFBFeGhPYXhkYW1JQ3hwdGVKeU5xcV9SaWxaNWE4MXRWVy1LY0tyV0tENXFfU0cxcnU0OUtFeWpBd25HX3B3UldIRG8wOGFpOFV6d0dsVDgzSDg2YjZVX1FCNkNTQVhvWGc4SXpwTkNqSlMzSldqWHJnYlZ3TDRub2xZWFlxdzJVRXdSS0FlU2tWYkRRQW0tODJmd1Fibm1hdS1IY3VGcHMtMDl3OXB0WmFFQVhBZkJRNzZVZmQtSDJsTER0ZDlibzBicF9PTXdieWxIazkzbTNHYkdKQzQ?oc=5",
           "published_at": "2026-08-16T10:08:56Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -7636,7 +7961,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -7645,14 +7970,14 @@
         {
           "id": "21617a8397a91637f333",
           "title": "المغرب .. لماذا هو جنة الجيولوجيين ؟",
-          "raw_title": "المغرب .. لماذا هو جنة الجيولوجيين ؟ - SNRTnews",
+          "raw_title": "المغرب .. لماذا هو جنة الجيولوجيين ؟ - snrtnews.com",
           "normalized_title": "المغرب لماذا هو جنة الجيولوجيين ؟",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE42R1p1Wkk2MHZQblRjTndWVlc5QlRVeGl2cm1nYUlneVBqSVZnTmFDVjBUZDJiRWxKU1AyZHNOeVRQai01WkJtdkdkWk5TZw?oc=5",
           "published_at": "2026-08-16T10:06:44Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -7717,7 +8042,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "h24info.ma"
+        "H24info"
       ],
       "languages": [
         "fr"
@@ -7726,14 +8051,14 @@
         {
           "id": "281a8a9ce2b932d2147c",
           "title": "CAN féminine : Vilda affirme que le Maroc peut être fier de son équipe féminine",
-          "raw_title": "CAN féminine : Vilda affirme que le Maroc peut être fier de son équipe féminine - h24info.ma",
+          "raw_title": "CAN féminine : Vilda affirme que le Maroc peut être fier de son équipe féminine - H24info",
           "normalized_title": "can feminine vilda affirme que le maroc peut etre fier de son equipe feminine",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3RadW5QRXoyOGoweEZ6UEZaYWp0Slh4VDlBQlpIOEVmbzFGcnl3cVBaa2F2amhqV1R4bno0M2MzMnhvblduNGhkNVZKNmJkNmZiUnE3REFQakFxVHJuMTMtNF96QTRnSllvYWFpTDFEaVpILWpCaTcxMU9IQ3lBNjFydEtnM0J3dE1IV3l3dTUzX1YwNlY5bGw4clZVanJuemt1Tkh3?oc=5",
           "published_at": "2026-08-16T10:00:30Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "h24info.ma",
+            "name": "H24info",
             "url": "https://h24info.ma",
             "domain": "h24info.ma",
             "weight": 0.35,
@@ -7916,8 +8241,8 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "France 24",
-        "Modern Ghana"
+        "Modern Ghana",
+        "france24.com"
       ],
       "languages": [
         "en"
@@ -7943,14 +8268,14 @@
         {
           "id": "23044f62d2bb6866bf1f",
           "title": "Morocco tightens security as migrants gather near Ceuta border",
-          "raw_title": "Morocco tightens security as migrants gather near Ceuta border - France 24",
+          "raw_title": "Morocco tightens security as migrants gather near Ceuta border - france24.com",
           "normalized_title": "morocco tightens security as migrants gather near ceuta border",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGFXWG01SkFoV1ZPZGYyNnV3dDFUVFZuOHY3R04wblZVdnhzUV9TalUtbVJGZW13YlcyaUl3NFpZRTNVdC01YWM4d05VWWZydy1xR1FybTF4VHVjU3pCR0Y3ZnpPZ2VOU1NpbllSaVdvZ1gyZU1pVnlJUUQ5U3BRM2xUdDh2cGVscFluei1OSHpkUUt1?oc=5",
           "published_at": "2026-08-16T08:46:05Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "France 24",
+            "name": "france24.com",
             "url": "https://www.france24.com",
             "domain": "france24.com",
             "weight": 0.35,
@@ -7975,7 +8300,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -7984,14 +8309,14 @@
         {
           "id": "1a305ab2841e93cbb562",
           "title": "بتعليمات سامية من جلالة الملك، أخنوش يدشن جناح المغرب في الدورة الـ61 لبينالي البندقية",
-          "raw_title": "بتعليمات سامية من جلالة الملك، أخنوش يدشن جناح المغرب في الدورة الـ61 لبينالي البندقية - SNRTnews",
+          "raw_title": "بتعليمات سامية من جلالة الملك، أخنوش يدشن جناح المغرب في الدورة الـ61 لبينالي البندقية - snrtnews.com",
           "normalized_title": "بتعليمات سامية من جلالة الملك، اخنوش يدشن جناح المغرب في الدورة الـ61 لبينالي البندقية",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91YjJfbkh3enNwdkxnZVQyaVIxLUlHZENhSG8tNWZZSFItQzIzZ29YQWY5VXpEbmlweDd6eGFwb0xPVkdiNEJ3cGpzb2J2THM?oc=5",
           "published_at": "2026-08-16T09:36:56Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -8194,7 +8519,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -8203,14 +8528,14 @@
         {
           "id": "60df8842dbb77feb8042",
           "title": "خبير اتفاقيات التبادل الحر كشفت عيوب الاقتصاد وإلغاءها سيؤثر على صورة المغرب دوليا",
-          "raw_title": "خبير اتفاقيات التبادل الحر كشفت عيوب الاقتصاد وإلغاءها سيؤثر على صورة المغرب دوليا - SNRTnews",
+          "raw_title": "خبير اتفاقيات التبادل الحر كشفت عيوب الاقتصاد وإلغاءها سيؤثر على صورة المغرب دوليا - snrtnews.com",
           "normalized_title": "خبير اتفاقيات التبادل الحر كشفت عيوب الاقتصاد والغاءها سيوثر على صورة المغرب دوليا",
           "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxQTkJfaE8yX01JQmpLTVZ6ZGJEMmRBY0pHQzlHWERPbjR5NmxDRFZlNUFPVGZNNzFNTmpqVWhIZkVvSGtFWlAwdW9jSEd1RVpJYkw3NENyLTlzTFpfb1NCWFdnQ09PRFNCdXBnbVNabmR3TERhNXpBcmloSDRESnUwUHBfLVk4Wkh2dVFBOFp2WDB2bmpRaDkyZzhDMTFfc0ZfR2d6ckduakJrSnE0a3ZpTUtXTjlMcGdTaEFNMFVJRjB2Q0g0WDR1TEU4dE5MeGRmMXRkTlpLTHhud1h1SFVjVWZrSVNDNnlES0VwclhPb3dUV2RLVUdvUTFidTZwVmZlZDdmWXRHU0JCSlc2Z2s4MzFfMmRUR3hiNXZXalUweENZUEtPZ3Ezc3hMMkJxNFYxdXN0X25hMll0eENZRnhna0dnX3pFZ1lDYi1VaEFsbDg0aUNVSFVYcXNOWUstNkR2Rng3anRuNU1TSnJ1MFRVQktHSEttMTM1dS1yWmtaTnBOel9EY3d1cEgzc3BHdUYxekFqNXpFZUljN0Vwa1AyLUxkM2xsU04yYUI4WlB1SzF2TzdiOWFwRG1Dby1vUkJmNlNCVGtsQXJpY1dnMFRwWFdDZzZOLVMzdl9yV05XZnpuR3R5eEFwaGVPemlrNzhSbS02dEhyek9CeE9HQU93dXZnVEMtRmFnNGZIVDlBR1llaU9TWGlTdjRQYi1peGtQV2NzWi1yU2lheWQ0TURQd0Y3TVBOSW5BYmpTdjBtR0RIUV9SZ215X25yZXdSbnNMeFhtd3Q1SmM1cnRjNl9lek9JajNXQ0h3RUgwSUlreWU3MTVBNVd2VEl1MG4yMG44cFpjRnBDWQ?oc=5",
           "published_at": "2026-08-16T09:30:08Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -8595,7 +8920,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -8604,14 +8929,14 @@
         {
           "id": "ad56a4c3c26030679e6f",
           "title": "حركة عدم الانحياز المغرب يوضح رؤيته لدورها",
-          "raw_title": "حركة عدم الانحياز المغرب يوضح رؤيته لدورها - SNRTnews",
+          "raw_title": "حركة عدم الانحياز المغرب يوضح رؤيته لدورها - snrtnews.com",
           "normalized_title": "حركة عدم الانحياز المغرب يوضح رويته لدورها",
           "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOcTVmYVZHMU1wZ1pMenR4WkN5alZDZWJvbFV1Y3lUTzVYWV92WDlNaWVZQktSUnU3VFRUVTctRGJJYlBrVTZyeWNROW1wUF9KNkN1bUU4cHlxdF9ZRHlQbmJyQzhqNjIyTGQweTlSZE5RWjNmQmYwcWV4VnJLekQ5NTR5a2pUR0dSM3NzeThtWVFQSlFmeUc2V2JQVUNralhxMXRLVnJzUW5CVkJNVVBwOUhONkw1VXMxUDZiSE8tODkxR2JCRXU3TTZtOUsxQ0JHNzNMUUJ3OHZvNEZ1Zlc1TndMSjBCYUFCREl0Z1pqOC16STZkYjhMNGlHM29jMmxsX2NUUWNsSmI2T1dxbVRqU0NrR0FtdGJCZUxHWkZ2Z0ppRGVVSGhfOXlfQVh6dHBCSEZvb2VwZFpUMEU2YkQtdENHQUMwaDFEbnpVdzFtLXNVS1QwWTJaVjUwbHF6N3VLYWFIZkctUmZmZVpmNDNJ?oc=5",
           "published_at": "2026-08-16T09:10:42Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -8635,7 +8960,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -8644,14 +8969,14 @@
         {
           "id": "dec7a3e9c55695747b0c",
           "title": "كأس إفريقيا للأمم في المغرب",
-          "raw_title": "كأس إفريقيا للأمم في المغرب - SNRTnews",
+          "raw_title": "كأس إفريقيا للأمم في المغرب - snrtnews.com",
           "normalized_title": "كاس افريقيا للامم في المغرب",
           "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNXBXc1lBV0ZZUWtTZ2pRdXAwUkNDSUVscl9CM2VPMVFjX1JwUDZ3ME5obXhrTEtLcE9hVWZ2YnBYanNKQmFCTVIxdXV6enRZQVN6UldZZXBmYi1HclN2dGk3bWhseEFSWXRlMFYzSmY4VFNheURnS1hIQkdWRWlBcVk2c21STjlxWmVrMlZMUkdwLUtzNVJyU1djUnN6ZXR4YlBKTHNvLU5ySGhMZnBtYTJQQUQ4dDRsME9GNlk1SDh0SUdLWS1DdGtRMno3NzhpazNMbF93eEM5bUFFVFZJeHNqTkxzMW93VW05SzJDRm1mai1hYndLZmNoMVJmd0NQSVc0Yg?oc=5",
           "published_at": "2026-08-16T09:09:34Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -8797,7 +9122,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -8806,14 +9131,14 @@
         {
           "id": "dbe8441775ff8e75f16b",
           "title": "بوحمرون هل المغرب في منأى عن الخطر؟",
-          "raw_title": "بوحمرون هل المغرب في منأى عن الخطر؟ - SNRTnews",
+          "raw_title": "بوحمرون هل المغرب في منأى عن الخطر؟ - snrtnews.com",
           "normalized_title": "بوحمرون هل المغرب في مناى عن الخطر؟",
           "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOODZ4RUVDaHczZkNxOEtmT3pKRFQxOXpfQjNwd3Z1UUxQUUl4emVseXBXTXZMa3JMa3FaemNadURqZmhNQkVCT05WenJsYmY1bG45U21hSHJRSTJGWUZHczRRZDgyYXlOTDRsTEQydndJQ2JUWDlnVGhZTThTTjJDcGRvLXRwaHZlN2o0ZTVpcHpNbldqUXlWd1lBU2Y5QUI1aHBfNGZmNE9NSmxES2VhZld4VDFaTVZnZnNrUW1nbzU3WDdYZ1FhY0R1M1AxTDZfMEFrbkJVNFRKRk1RVzBjWVdVRTJkSWZqdFJJYVBnQUdreTFJODMtQl9zcHhLeUswalItbHI4MTl1MkV1Tm9TcVpnMFZIUHZNeGNWOGxubDhIcnh5TldUVllybUVQQ1d3V1daZ00tUQ?oc=5",
           "published_at": "2026-08-16T09:04:23Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -9018,7 +9343,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -9027,14 +9352,14 @@
         {
           "id": "0bcb3d30962da0909667",
           "title": "أمالاي جوال مستكشف لقرى المغرب البعيدة",
-          "raw_title": "أمالاي جوال مستكشف لقرى المغرب البعيدة - SNRTnews",
+          "raw_title": "أمالاي جوال مستكشف لقرى المغرب البعيدة - snrtnews.com",
           "normalized_title": "امالاي جوال مستكشف لقرى المغرب البعيدة",
           "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOcThEMW4wYlllQndHclU5QXJaMFd2V053NkN6NUNMODhKbmZiUGVEUnluR0hZVWF4LTEzbnV3clh0WEZMVlI1bzFBWkRINzJndnhVMVFvQkV1VGxIOUVJcm95R1BzWTY1ZGk4LU9WWlpBN0VYSjdkanRlaWRfb2taLXBEanpVZW02VmMzbVdIOVNzUzJDUnJDbjdFOGNkQjA0bXh0Z2tHbWc1TnpPVDZlZW10VDlCci1uZlgyQnU5d2RxRHhVS0pXbTZFTjdEZ2VqT1RLYlpJWWxPSXp4VjByTzBZVmNsVWVkMGdMQTA1dFlKSmppcTRpcjhnUWNzSENwX1YwUE8yUkpEM1A0ekhQOGppYnZySi1OS0FoZHEwQXhJaWF2RWJjZnBoZnpzVG12dGhPa0hmVDVZTVpETFR3RC01ZEMyY2F3STExaDFFQ3dfWU1udmc?oc=5",
           "published_at": "2026-08-16T08:29:17Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -9357,7 +9682,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -9366,14 +9691,14 @@
         {
           "id": "5b41849413e9e8271708",
           "title": "الخطوط الجوية الفرنسية تعزز رحلاتها إلى المغرب قبل إغلاق الحدود",
-          "raw_title": "الخطوط الجوية الفرنسية تعزز رحلاتها إلى المغرب قبل إغلاق الحدود - SNRTnews",
+          "raw_title": "الخطوط الجوية الفرنسية تعزز رحلاتها إلى المغرب قبل إغلاق الحدود - snrtnews.com",
           "normalized_title": "الخطوط الجوية الفرنسية تعزز رحلاتها الى المغرب قبل اغلاق الحدود",
           "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdmgtYkp3SU1KVDFGNTNoUVNlWHhub0MwbnViSVpkekRUSldoM2owby1VQnhLOGtYeGhKekJLeFkxQ0o5TmRMaEpXYmtNN2x4ajlUa2UtaDYwaUhCS3hhajBOSXpTWkJqbG9ydTlFR3dfYW83UXZMRlJNWVNFWEF1Q2hiTU00YkJnOXVLb010WVRRbzdFeGVFSVZBWkNLRUtNSm11b083OGh5azNKSV9EUG41RWJUMjN5Qm8wZ0FuR1MzbVRULXk0OWZBem1KdU9ScFFKeFRVRC00UGtFYXVkU3hGZlZQdHY1QjJDcnBtZjFFYmhTMmpGZUd0MzQ1UmR4UUdVeFFfbDE2M2RTVk0wVjIyaW8tamNzcUlkVTZMcmFQUjdudFB5NlFsLTdrcC0zS2xpUC1mZ2M5Y1U0NzNUTzdQMVhKaW5mRWVoMkxGQkJibTRla0xENnpsVUNhUk1aZnB5aGpLV0kySkJIWjQtX2RpNlVBN0lFakVFcVNlRU5WNE9RZ0tyZWpEVjY2clFRR2FCN2VwLXBvOVh4dTdiWEVXVWs4TWZfVnFGbmlvMDdMQ252VlA0SjI0T0hKQm9iemxSTzJyN0FlcDNOVG9RaTZpblZlNG1ldjV6QkNZdk9Cb3V2MEFhb3JfdkNYNFZSVi05alFpNWcxcDZ4MUZPRFNyMA?oc=5",
           "published_at": "2026-08-16T07:43:10Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -9397,7 +9722,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -9406,14 +9731,14 @@
         {
           "id": "07c473510c9c592695b8",
           "title": "الطاقات المتجددة .. أين وصل المغرب ؟",
-          "raw_title": "الطاقات المتجددة .. أين وصل المغرب ؟ - SNRTnews",
+          "raw_title": "الطاقات المتجددة .. أين وصل المغرب ؟ - snrtnews.com",
           "normalized_title": "الطاقات المتجددة اين وصل المغرب ؟",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBkbjA5bnhoWjM4eUs3ZDRrVEdObURyd3JuTDBaOElBak53ZE5SLVNpcERlaXFHbU9MWnJaV2hVUkdkb3NNX3lhOGxIT282Zw?oc=5",
           "published_at": "2026-08-16T07:41:36Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -9822,7 +10147,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -9831,14 +10156,14 @@
         {
           "id": "63931d09419c5a4ee3e1",
           "title": "بنشريفة الوداد لن ينسى كلمات سفير المغرب بجنوب إفريقيا",
-          "raw_title": "بنشريفة الوداد لن ينسى كلمات سفير المغرب بجنوب إفريقيا - SNRTnews",
+          "raw_title": "بنشريفة الوداد لن ينسى كلمات سفير المغرب بجنوب إفريقيا - snrtnews.com",
           "normalized_title": "بنشريفة الوداد لن ينسى كلمات سفير المغرب بجنوب افريقيا",
           "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPRUFmMFhuNnJWU3pFYVFIbUhUdTVlRVB3Q2lzZGRRb2NmNmVMc3lnRWlkdDNXTkM3SlQ3Z2RQU0VJb3I5c1dKdzAwTEhMMllubTNMZnI0c0NxOVJGbDF3UVNPRzVlY0hpSlVrQ3o4Rk9LclFWaGlVbE1UOU81UEdHLXJudmFSaEF2V0xhSzhFSHhGbVIwNFJWSmMtTVlVNGRCbGJqQlNnQ1lNYUpBR2ZfOTZHZl9GU29sbF8xQ0FFTVZvSFR0UnRndGhKaVVxUHNJamtHTExQNHVwdnJsSDI1X1ZVY2JKM20teWtfX0lFWGY1THpDczZmRWVvWUZsMGE2cExCaWZEeWJoektNaElZdEU5N1hKQldZWlRJMFhfTDcxVElYTWF5RDBFeXQ3Y3NFeU9jX0ZrVm4zXzFuQVlnTExYVmlVbGNiNWNVbnJKRE9WZDd1a1BFeTFYUTh1MXNHeEJpXzBkbks0UnhVenZaQy1CTzFIbU9MX2U0VHVINWpzTzNQY3BKLXFPazV4THUzUUEyLWd3SnRRV3lXdkZFY01RWjROalRlX0NDR21wNkZOSGphZ0NqemljR19KdUg4eHc?oc=5",
           "published_at": "2026-08-16T06:33:47Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -10184,7 +10509,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -10193,14 +10518,14 @@
         {
           "id": "e3185b36e316ca8a5a61",
           "title": "المغرب يبقي على الرسم المضاد للإغراق على الخشب الصيني",
-          "raw_title": "المغرب يبقي على الرسم المضاد للإغراق على الخشب الصيني - SNRTnews",
+          "raw_title": "المغرب يبقي على الرسم المضاد للإغراق على الخشب الصيني - snrtnews.com",
           "normalized_title": "المغرب يبقي على الرسم المضاد للاغراق على الخشب الصيني",
           "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOLTNsUjJUcTd2QjBvLUx1dHFndm51ZWpmaktKczZyYjRXQktzWXZwZFdWTkQxZy1HOXNPd3p2bDFDSmdsODRDVWJTdXRpcmM1eHRTNG5PcUVMR3BCeFRjZWh6akhiU0RjdWRST1lPVllQTHc2RGFwbEhPb2tOSHJyaUFPUWhLa0RfdjEzS0g5aGFUcENyLW0wZTFNVTdLTmNfSmZoMzVHek5YNmUxRm5HRGNyNDlVU2tWejlBRnZvTl9LR3lPd3ZvaC1OcFNXWVVSUXktRVp6bkhneDQ0Q3d3c3pOSmJUNTBQSFBla0FCXzNYcHVOSk9sdnZRSTU1d0RCTXo3MHF1Z2VQek54a1c0d1NoUFJ0R19DMTBWRmxwS0Z2MEtBempnVndVb1JuR3Z4amNad0tzdWxKc0VtSjAydE9jWGJJd3pqeTRha1JYVVNJMXBPcG9KZE0wVzBKVUQ0U1E2MDlFaDlZV3ZLa1prN0RyQko5MDFsQWdKV3o4VU5jQkFSQWVneWx3Q09TTjFJYjJ2Q2NkLUkyLTBoQzFXR1pOeHpjOFI2VXVxMW5idnpiUHIycUhsZWJB?oc=5",
           "published_at": "2026-08-16T05:06:06Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -10460,7 +10785,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -10469,14 +10794,14 @@
         {
           "id": "6b7b610c5b7d0459a9f8",
           "title": "تفكيك أكبر شبكة بأوروبا تُهرب الحشيش من المغرب",
-          "raw_title": "تفكيك أكبر شبكة بأوروبا تُهرب الحشيش من المغرب - SNRTnews",
+          "raw_title": "تفكيك أكبر شبكة بأوروبا تُهرب الحشيش من المغرب - snrtnews.com",
           "normalized_title": "تفكيك اكبر شبكة باوروبا تهرب الحشيش من المغرب",
           "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQYnVuellGdFJvN01VMVQ2Q1lreVhjS0I2VTRMMzFlTUN2ZG9nUzA5MG1HMmZRbXVqbldidFZtVWVhNkNkRFZhWE5BQWo2VGZmYkctREhWeHRFYk1vaWFOUWpReDg4R3N6MEFmOUkyNi11RUNFWXFlYnZmaXUwRVdSUWlJWXFaZHdOZ3BQUng0Sk1nVE5tWFJYTVNjQ3VUVWVWbGFzd21JZjIyOTcxd29Ibl9POHpwamV0WXhjN2ZwenMycF9rRmhTdnJuTHYteDhINmc4QkJNNGdGSVBiWUFPRUYzdXVjWFp1VkpWXzFyUXluQ212MWdaVUZmWkFsRklyOWtkYkNZNk91QlFGbE8ydU1LbEMwa1JweGFIek9EeUJBM2xaQkFQWEl6VXJDVXh5ZWwtd2s1dFYzU3h2RzA5dkFmaU9yV2JEN2ViTzJhQ1A1bnAtcEtMTUJ2NlRpWFp4TlJqSm9MTVpRcjk0QTg2RXJHQW5aS1l0ZFYxQjVmODZ0cFJBRXgwcg?oc=5",
           "published_at": "2026-08-16T04:50:28Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -10501,7 +10826,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -10510,14 +10835,14 @@
         {
           "id": "693a0052db481c325082",
           "title": "مونديال 2026 .. إقبال كبير على تذاكر مباراة المغرب والبرازيل",
-          "raw_title": "مونديال 2026 .. إقبال كبير على تذاكر مباراة المغرب والبرازيل - SNRTnews",
+          "raw_title": "مونديال 2026 .. إقبال كبير على تذاكر مباراة المغرب والبرازيل - snrtnews.com",
           "normalized_title": "مونديال 2026 اقبال كبير على تذاكر مباراة المغرب والبرازيل",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMdkgyMHJ1ckJFYWR5QURlcUZyVDFhM3JFTGtOd2pTR0VSM3ZWMjVBc29XdV94TmZoWDBRUnl4aE1rQ3A4UDQ0Mm9XQW96MjQ?oc=5",
           "published_at": "2026-08-16T04:37:39Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -10581,7 +10906,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -10590,14 +10915,14 @@
         {
           "id": "169687851d872e0c3b9d",
           "title": "ارتفاع قياسي في إنتاج تمور المغرب",
-          "raw_title": "ارتفاع قياسي في إنتاج تمور المغرب - SNRTnews",
+          "raw_title": "ارتفاع قياسي في إنتاج تمور المغرب - snrtnews.com",
           "normalized_title": "ارتفاع قياسي في انتاج تمور المغرب",
           "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQncwQU1oWlBXVVAwcHhVazdqQy1NMF9QVW1hZTRGTFpnc3ZPcnQyUkJ6SVpYWVpISnptV1RBQ2tLNVRtWDctQnFhaTladG16U1otSWlhYlRGWlhqbndTTFQ0bi1iYnFxb1FwSlJwNVlmN3ctYjEwdzNJQTZ6QWlRN054Y1VIdXlHaHNVNFNyZVpDYnhDZ3ljdGdkX2pkOWcyQjZTUzFaTXgwd0VXanJnem8zeFB6aGo5NnNqXzIwWVVSRjI1ZTFEX01KZHdlcXJDM3QxUXpMRk40bWRyNGw0VDFxRVFEbFhWR2ZvLXRFaXpUTVZzVUc1UXFlbDV1REp0eXhJV1RpNUFVcVgwVWZBVUtZbUg2aHJPNW1pYUpsdzVWV3JqS1pwTE9VeG55Zw?oc=5",
           "published_at": "2026-08-16T04:06:56Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -10621,7 +10946,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Hespress"
+        "hespress.com"
       ],
       "languages": [
         "ar"
@@ -10630,14 +10955,14 @@
         {
           "id": "15402dd1b8afa9ef33bb",
           "title": "تقرير أمريكي يضع المغرب ضمن محاور الالتفاف التجاري الصيني عالميا",
-          "raw_title": "تقرير أمريكي يضع المغرب ضمن محاور الالتفاف التجاري الصيني عالميا - Hespress",
+          "raw_title": "تقرير أمريكي يضع المغرب ضمن محاور الالتفاف التجاري الصيني عالميا - hespress.com",
           "normalized_title": "تقرير امريكي يضع المغرب ضمن محاور الالتفاف التجاري الصيني عالميا",
           "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRWk1QXFIUTZvMEJSWFRuT3M4Y3VXWWFrMjcxYkhKN2VjTThQMTd4dTBCMm5iR3RWU09zbkxyOHNsaENQbGExOGI2WVdtVXpmZG0tSkxXN01VQVFtUVZ6cEVtWEdjbjVoNWk2dXo1S0FmajdHWkVra1Bnd2VEc0V2QXp2Wk1BaEFDMWNnSHY4X0tWWjJuQVJNN3NyMzFFYlUyTy1qRW9vUHNwZXF2Q1B1RmxHZ0dWMXE1b0ZLdFhoc0ZxN2RCVER2b1RsOU1reDZhZHpGNWVXQl9SWkY2aW14a01uQUdUbzdrUWZhcDk0UzV1ODREMkhWR3hjSlVzSklkdmtXVDJMUC1nVjBqbXVWTWxjTmlJUnJQSGtOdkYzSUt1SUNfRUp4UFZ2UWpjNnZXS182WkNjb0FwRnVMaXdJZVp5dG9VOFYwRVVDWnk5Z1N4d183a2c?oc=5",
           "published_at": "2026-08-16T04:01:57Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "Hespress",
+            "name": "hespress.com",
             "url": "https://www.hespress.com",
             "domain": "hespress.com",
             "weight": 0.35,
@@ -10837,7 +11162,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -10846,14 +11171,14 @@
         {
           "id": "7076fdba4a9389bd2127",
           "title": "فيضانات وحرارة ترتفع المغرب في قلب التغيرات المناخية",
-          "raw_title": "فيضانات وحرارة ترتفع المغرب في قلب التغيرات المناخية - SNRTnews",
+          "raw_title": "فيضانات وحرارة ترتفع المغرب في قلب التغيرات المناخية - snrtnews.com",
           "normalized_title": "فيضانات وحرارة ترتفع المغرب في قلب التغيرات المناخية",
           "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPa1ZvOXZQWHRacXBDb2dDUDRDc0E0SG1ZM1hsRkdIS1h6Z3dvekVoc0pLZFR2TVVPUUpCcXdRazg3dWdQaWZVUkVXY3RhYXYzeG9kV29mNjlRYllNNzNlRE9BbndPS3FaZHY1a3VJd210dzFySUwzb2JnMmlYLVVtOHVtc2pOZ3NOWWx6eUpSeEpDOXBpLWpYQkNfcFl2aVI0RS1IdGVzSXk2S1BfS09PdndnMjF0VnV5WkU5NHBVQmFZVzZTa05QbWtubWRBYWdBLUdnOVVYZEJtTjJRYjVKT3JJdDNSNFYtNE85WXJPTXRNbDZXUXdWN0N1Z3U2S0xjTGQwNnAwdEJOVDF4bW1SaVBDTXBtUjZEOXQ0VHI3bm5hak1peVJja3FPZVZENm4xY0lpVXk0eVI2RGtFRTFXaWNKT2JkcGRhdGZCWHJjQWsxZmFKc0dFMjlzZWxGWHY4SnNiakpOQWtSb0FWT2ZEU1FzME55LTFLUEcwYWEtTS1xZGtWZkM3N2xVaHpiVDJwdmpSNFBiYkpuM2VMaGx3YnZTRmVkTnBROGpTNU9TZHVRRURoU1ZINQ?oc=5",
           "published_at": "2026-08-16T03:03:14Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -10917,7 +11242,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -10926,14 +11251,14 @@
         {
           "id": "bdf06321a111d259ded7",
           "title": "تعرف على مخزون المياه في سدود المغرب",
-          "raw_title": "تعرف على مخزون المياه في سدود المغرب - SNRTnews",
+          "raw_title": "تعرف على مخزون المياه في سدود المغرب - snrtnews.com",
           "normalized_title": "تعرف على مخزون المياه في سدود المغرب",
           "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOZnh6VUVkX0o0YVhPZThnSFZTS0hQbWJ3SkJPYVZzaFd0dFdIVHd6RzF5OXRvNS1INUtCMWkxeVB4aEUxalB4Ty0zRkpDN3ctdTY3VGdqNGQ3aTJwR1ZXeFVTbENET2FrdGlyM2J1TFp3YmJIQnRwQllhYXNCdnNPYTdtNm1tSVd2V1ZPWlZLZWUwQjlPUWVUanJMM1dtcEN6aThlMUI3WDdPNC1PVzFwWmJ2ZzhLVF91QnV3dWlxMnlHTXlra3NwaDc0ZTQ3bm9hQV9zSUZzUm1hRFNXZDlJSkowNV9KT1cxUkNreVZkT1ZYeVZTbW5FRUxFTHp5a1JCSm9rb1o4NTYtNk1Fa202VnNPcEV6ZkRYY1puRVVnajk1OXNQeEJvWVkzYjl5dFNWbTFTVXNVWGxIVzRVVlhn?oc=5",
           "published_at": "2026-08-16T02:43:10Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -11106,7 +11431,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -11115,14 +11440,14 @@
         {
           "id": "01be645a63d30d5c33ff",
           "title": "الكرة الشاطئية المغرب يحتضن الاقصائيات المؤهلة للأولمبياد",
-          "raw_title": "الكرة الشاطئية المغرب يحتضن الاقصائيات المؤهلة للأولمبياد - SNRTnews",
+          "raw_title": "الكرة الشاطئية المغرب يحتضن الاقصائيات المؤهلة للأولمبياد - snrtnews.com",
           "normalized_title": "الكرة الشاطيية المغرب يحتضن الاقصاييات الموهلة للاولمبياد",
           "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPUmQ5bnlMNnk4TkhhWjRReHdGMkdHYVpoQlFuU1F5VUt3b1dJdld4cGplVW5rOE5zRkNmOTBkQ0hhSWZYeXAzT1VIYjBzVWkzODhKWkRtVUQ4bkw3U21PQ3lmU1pEZThPT3lsTFFYNmxsdGY5MFV0azNFRTBsbkg2N0k1aTA4NlQ1bU9QeGdvdWQ5bnBBMDF2SlB3ZTRfRURNc3pXVDNiWktZMHR3cmt1eGpJRFduVHhvUzd0RGxWREN0dWd0bnhqOXlsYzFPOV9naGcweGwxZUREQzdVcUZ6a1BCQ2o1ZjJOVjhIS053RThVN2h5NW1BTklRS1Q0LVdXdFNSMGotZktUMkVVaGp6ZFlWUXRfUTBuQmZZZVFRWlZBVFZkUmRyODItVmhLQ2lYZmN0Q0hLaTFNQTBnUmlqNDFfTTB1MmNmOXEtZmlNWGJTak5mR25wTV8xXzBKRktxXzJFVlV3SWI1Y1A2Ql9DM2s2TG9UMU55QWJFR3BmcWpvWURaMVc0d256SUR5cVNZTXEzYXVBbVRFYTNITnYweXIwVUJPV2xzTk54VFp6U19Bdm4zVVM5QjR3QkhlNEdmWlRKd240akpfM2x6TmFjUzM0M2ZNY3hMbmRJc18xTEVzTERtMVd3?oc=5",
           "published_at": "2026-08-16T02:28:45Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -11146,7 +11471,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -11155,14 +11480,14 @@
         {
           "id": "f7d514d2341fdebf4c08",
           "title": "من يحق له جمع التبرعات في المغرب؟",
-          "raw_title": "من يحق له جمع التبرعات في المغرب؟ - SNRTnews",
+          "raw_title": "من يحق له جمع التبرعات في المغرب؟ - snrtnews.com",
           "normalized_title": "من يحق له جمع التبرعات في المغرب؟",
           "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQd0kySWNzc1l2Y2ljZGpmY2JrNHhqLTRaeG50ZE5WRzlyVmdTM25td0h5YU5IVEt0MGd2TmdabElHYW5yT3VDNXNtamh0ckhqZVZISjJvd0pYR01VNGtFTnQzVzhRQUNJcWRxZHRGOFdPTFpJYUMzbWRkb2wzNm5hQW4yM1dPdC1naHB6TkJ0cXJyV2I3SnpaSll4VWtEcnRmVEVXd1hfZFVTME85Y1lYWUFhSDNjYUJraW1OWC1JT1hfRXkzV05pcEhrai1URURnZU5ScEIyeTZQS3h1SHZoVmFvai0wakVFWjBLdjhlNGUtTjNUY0xpdkJLT2JHYkdocVJvbHdrNFRVdnRLRGhUd1h4ZDVKUnV2SmJ1bUZncVhkVjY4MG1v?oc=5",
           "published_at": "2026-08-16T02:22:51Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -11226,7 +11551,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -11235,14 +11560,14 @@
         {
           "id": "cf9ee40b06e7bddae26e",
           "title": "موز فاسد من الصومال في أسواق المغرب ؟",
-          "raw_title": "موز فاسد من الصومال في أسواق المغرب ؟ - SNRTnews",
+          "raw_title": "موز فاسد من الصومال في أسواق المغرب ؟ - snrtnews.com",
           "normalized_title": "موز فاسد من الصومال في اسواق المغرب ؟",
           "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQVzd1UFdhcktzNEN3SjBiN3c2Tmp3ZWJaSWRHWEFMZjZkZW81UnAxQlltVjJlY2kwS2RSUGVPcllFRXZUZ1U3bEVTcWdBbWVWTVFTbU5VT2dFdmlJVTZucXdYajFfaDFMTHZrSUcxS09Sc0F0RnBXZDluMmVzelZ4OVp5UGdxY0N2dHdCbEtxbmtHYXJfQ1lFc2tQQXJZbkNSRUIyQjlCTFRKUTlZTVhXX1JvdUh2MXE4ZHoyYWxXN212aUxHeWJkNDRiS1RDZnlTcHFfZ0t0dU9sY1ZhTV90RnN0R2RxS0thWUZlVVBUX1hXdmswT0ZvSXJQOENaanhjQmtrYXBsZi1vaUNWWE82Wmg2LW04UDRoNklZb25EUkZHR2l2UG9iWDdRVXlkUF9lajE5RDFvTGtzRWhaTkZnVg?oc=5",
           "published_at": "2026-08-16T02:04:34Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -11336,17 +11661,18 @@
       "id": "67eee0fec483b2ffdad8",
       "title": "المغرب يوقف مئات المهاجرين الغير نظاميين قرب المعبر الحدودى مع إسبانيا",
       "published_at": "2026-08-16T01:00:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
+        "youm7.com",
         "اليوم السابع"
       ],
       "languages": [
@@ -11373,14 +11699,14 @@
         {
           "id": "fff9d0ae7da718b9e4fb",
           "title": "المغرب يوقف مئات المهاجرين غير النظاميين قرب المعبر الحدودى مع إسبانيا",
-          "raw_title": "المغرب يوقف مئات المهاجرين غير النظاميين قرب المعبر الحدودى مع إسبانيا - اليوم السابع",
+          "raw_title": "المغرب يوقف مئات المهاجرين غير النظاميين قرب المعبر الحدودى مع إسبانيا - youm7.com",
           "normalized_title": "المغرب يوقف ميات المهاجرين غير النظاميين قرب المعبر الحدودى مع اسبانيا",
           "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxPbktZb0R4QU9LXzMycjlESm5ERllXUzhBc1BtOW9zQm9DcUlZMkdsRWtmS3E3ZE5ycGM2RlpEbUJSQjgwb254cjNGbkswV0tnaENxcVpmVHN3N2ZibWRIWnJlNDNDSnpwTkE0Z1VaTUs4UVp3MW83Rno4aWtEejlzYkJGNzA4Uk9VOUxjZFVrNUFjU1dxOGFPMnU5VVY3NUdPUWpOTWhRekdLV2dwNDhUaE5oRGN1dVJaeF85WEVHNDhFQ0c3elF1OFFzVU5TVEd1VGtfQkdhcTI3cXlFLUVMVDNRX2VlbWZDNjVibHBLS2kxOXVpLUxDMDU0N3drZS13TDdBVFpCMEhOWmNNeUg3ejJkbmJIcmZuVlRGMG9vZlgxako2akF2YlNCZmRmal9obmxXZ2FiWEtLSzI2UEFYMXVBU3JCVEV3cDFOZWd4YS04LVJOX0o5cXd0eXFLZEN6ck4yMU5jVkZHY2RRa1otZGZaR1dqQ3RQazhRdTdTNXBrR05PR3U1aGE1Y1hPakhoaDhuQmY0bWszWUtrRk5xQnFlYVlxOUZXVlR2SXZfdkwwQ0Z1MTQwbERJMzMzeWJjZ3NLVlVoak5aLVMyek40TFRkRzNxQVFIaWlHYU9pVE9IYmRRa1lCUUdJUjNpek5RMWJNRGtqaWMyVklOSTVNX1RBUEpBMUN3TF9xQWVR0gGIBEFVX3lxTE51OWFienk1d0Nhc2pkT1lrQTRGV3ZNVW5EMVdKQVlPOUVPY0ZWRG1mNDNrVHBWaTV6ZlYyeU5STzRfTHVSOEdYY05HemFKQ2phcGxEcE56cXRnMzRpaWtxZW4wRlN4YU5nSEdmWDQybnlnSFdGbmZLc0h3YWR3ejZNZnA2TTVWV3RZRkxWVTJmd2tTR0Q0UjRxSUVWc1FIT2RBRGwydkpKa3ljbmMxV3pUUXptT2wtRl9tNHZYZ1lZS0dXTnpaMEpfVm1qd2NCZEhDUVdPOU5NeG9ONGstMXpOVkJkUjNncnBVWDRWdkxSdHd6bEpDSUZzd09EazhHMGNhQ2tNMHJNc1d4eGpMN1Zuei1zeVlLRy01eVpDdHVpMXREM3hoWW9ITVYxRjNJNHRTLW9uN01FWTdDbDFkOXdwNWRCUHphY1JGbVhLUFdQSHJHUHpPdjd3eTZiVC1kUEY2eTFMT3B1N1g2d05XZXZWcDVITUszQ3M5RjcwY3VyMS1GR3VDNGJwdE9yZ3NVc2RPdjNfZl9zQzJZMmxQbHZPcEgxcHoxRTRGV0F1dUdEWjlkRzFqNFIyYWVfRXJBVTNoc2hMN1h1M2ZJalVCRWszQ0NITjFnWDBDV2FKUjY2Zjc1eVJwbTZQb0FTWW11Sm1OQ05oRk81YnJWZlI4WHhHcUV4RHEtT0E?oc=5",
           "published_at": "2026-08-16T01:00:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اليوم السابع",
+            "name": "youm7.com",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -12204,17 +12530,18 @@
       "id": "9c77c75601c3005cb048",
       "title": "المصرى يعود من المغرب.. وارتياح لنجاح المعسكر",
       "published_at": "2026-08-15T21:28:46Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
+        "gate.ahram.org.eg",
         "بوابة الأهرام"
       ],
       "languages": [
@@ -12224,14 +12551,14 @@
         {
           "id": "ee82d76a75acdeaf16e8",
           "title": "المصرى يعود من المغرب.. وارتياح لنجاح المعسكر",
-          "raw_title": "المصرى يعود من المغرب.. وارتياح لنجاح المعسكر - بوابة الأهرام",
+          "raw_title": "المصرى يعود من المغرب.. وارتياح لنجاح المعسكر - gate.ahram.org.eg",
           "normalized_title": "المصرى يعود من المغرب وارتياح لنجاح المعسكر",
           "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQS1R0MVYyMWs3UHZLZEE1ZFRmcWlaR0N0OFpLX1lEZi11M2hnQUpaeGRfLXg0RUJZUFUyWG1nX3Qzamk1QmhHTENtUEFfbThVckR3akQyUmhZMExJV1RKQmlGWUlRamo1WEVBVkJ1ZVl5elJ4S1JMY0l0X3NTTkxoTjM4UW9xaHlwbHNzdEhMUlowQ2tKdVNsZ1dpUlYxbkMxRWVRdVdjU2k1NW1xME0yc0VEWFgtVXVoNkZCY3hDM2lHakM0eDVLbkdFN09FNDVsbWs4dVpfNWtyR0ctMDdJZlRobnNSME93OVFtNWZ5MkJ0ZFJaQURSaDdVYWFReGRzcXZXWmRjcEJFeUxLZlJGMUc0enRHVk11MU9NRHVncTJfVnhLTTg4UmtZeHR3Sjh6T1lqS2lELXNPaVRablJqZ3ozMVYwc0hmemM4MEQ3cktDeS12a2NJd0tSREZRTFJuTTJDTWFzZ1lEbWFRaVVfVFlJenc0MmtNVWZJSmdYY3E3dW9jYkhadGQ2V2ozd0xEWG5CQk9zNVZVNHBUanBBVHZSbDlkakZmN3Zka0xabF9xS2tMNUhXQ2poMjRCaHFWcWdIRA?oc=5",
           "published_at": "2026-08-15T21:28:46Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "بوابة الأهرام",
+            "name": "gate.ahram.org.eg",
             "url": "https://gate.ahram.org.eg",
             "domain": "gate.ahram.org.eg",
             "weight": 0.35,
@@ -12666,7 +12993,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "اليوم السابع"
+        "youm7.com"
       ],
       "languages": [
         "ar"
@@ -12675,14 +13002,14 @@
         {
           "id": "a82eecb58b694365a6e3",
           "title": "عماد النحاس يطمئن على صفقات المصرى بعد وديتى معسكر المغرب",
-          "raw_title": "عماد النحاس يطمئن على صفقات المصرى بعد وديتى معسكر المغرب - اليوم السابع",
+          "raw_title": "عماد النحاس يطمئن على صفقات المصرى بعد وديتى معسكر المغرب - youm7.com",
           "normalized_title": "عماد النحاس يطمين على صفقات المصرى بعد وديتى معسكر المغرب",
           "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQbUJNTm9HTlNsN2FVNWxxanN2RHBpZC00bV9iODNOWW9qZEFPTXhBaXNUdTNSOXlPRGlwZXJlTXVXb1pZOGdySzQtTHVtREoyYjU5QVZHdklHcEt2MmdBNzVkcUVia05NWXlaV0xmRzBjWHVsRUZwMGE4OWV1MlFNMkt0M2xzNjA1TFBkNDFVSndjVVlJRTJPNDB3ajlyemV3MWw4SDFEV0tTZEdhRDZGRDJobmlpR0czSXdBbUZPd3lsbDhqd2g2NVpmTGF6QzlYandTNG5yWk1FenJYTWlkdzRCQkRRR25KSjdKZkgxX29WTVBYRkg2WlVnQjVUenFyYTV2d0VMeFVJMTFCLTEtUHFlSU9GU3JmZ1E4WHh5T3RzLUZCRHRWNkt3VWZqZnB3NFFZYVB3Y3R3cTlGRkJjRlJwRENnLXlBRzRCSjRGV29ZdTIzLUNZQ3lsY1g3ZFVNdENObzdNdzBMOUR5NU1DRW5UTkxoTWM0bHZTamlFbW0waXRsaE1QbzdMaTlVU1JlS2owSnpVNkJySDJlY1U2THh2bXJrTjB5U3dfNVJQc3d0el90bjZKY1doQ0cxZVU0ay1SY1pPWTdhMnYtZ0FxT3pUMVRIUElBOTF0NkRkeFkwUGJ2U3fSAeADQVVfeXFMTzM0VUxUeGNXZHhPVEZXOERBUGI2OGFiSTJlUG85ME1QUnJodlJJNVU2WWhSaE1xRmxmZWZHd3UyaHRpTHNpS1BwSUs5RnhodzRMOTRSeGJpYkczVzc0cGRQTGJyZXBVRjVoTFVOQzI4MlRUQWdHYkUtT3Q2dnpUTGJMMFdWY09EVldDTTJRMmlpUVRwR2k5YzFWdHAwVHFKQmpCbVptZnJzeG9ELUhUcHk4RkNHSnFZZmF4N05Cbk95aVFzOHpkd0s5Q2wzamZVSHVuT3ZZUGJUQ1NEX1VGRkRORXJkUV9zODF3QXdJMHgtbzVYWXAydXFZZTVxbW51aXFNSXU0dkpOWG5WckR6QjFTajBmbm1nMURSSHExbngzR3YwUXhxVlpXYlZoRXNCU1BXbHo3b09XTmNTMjFlSGFmaGphZ3A5SjBaQV9UcG5rNVhFcVIxeXpSajZ0WmNCdFVKVWhXbkREM0hNZ2psck95emNYSWhET2pGd0tFdDY1Z0hwSXZkSkFwUnBhdXVvdU04eXRudjJfU3ZWZjJ4RndQNkdvcklNWlJjbGhXai1tbVJRZWk1LXZTODdpejc5aWxfOTRKUS05U2x6d0FXT0p6SXZENjJ6STlfdU5VUUZO?oc=5",
           "published_at": "2026-08-15T20:42:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اليوم السابع",
+            "name": "youm7.com",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -13299,7 +13626,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "العربي الجديد"
+        "alaraby.co.uk"
       ],
       "languages": [
         "ar"
@@ -13308,14 +13635,14 @@
         {
           "id": "e9bdbb4479fdfead8701",
           "title": "جمال الشريف يحسم جدل الحالات التحكيمية بين سيدات المغرب والجزائر",
-          "raw_title": "جمال الشريف يحسم جدل الحالات التحكيمية بين سيدات المغرب والجزائر - العربي الجديد",
+          "raw_title": "جمال الشريف يحسم جدل الحالات التحكيمية بين سيدات المغرب والجزائر - alaraby.co.uk",
           "normalized_title": "جمال الشريف يحسم جدل الحالات التحكيمية بين سيدات المغرب والجزاير",
           "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQN0czZjEyWHNHQzU2Q0xxUE5MTjk3RDI0cktuRkc3bTZFY1NZQTJQX05xdVZtcGxXaXBsMXhsSC1SS0xQWjFRcFk5d3dpMDhrLWVfeTdVVGhjajJENkxQUXBwMzFoZFppVGFodE5rZE04ZXJxQ2dPZWVGNHZ1cldhbFlzQ085ZUQ5WUE0bXREWXhkSWthenFfd1RKNmkwTTlOSjdJa29jaGhDU2NDdWRrOE5oaGliSFJQNlBEOVBPOEQ3ZGU5N2ZFcERacExEekx6MWVkV0U1RFhBWjhkMS12UUlINzlJRmFBZHBEZl9POVVUQjBvYUdlMFpqdjd1UWYzcXJaWWQ3bzloa1NQU0R0M09ib3g1MVE4REdwTXBpNkxRUXlBU1ByZDFlYjJjYVpEcUw4bWdiSHpNOTR3MEdOamdpUlFvYi1FMGltSHNQUURRckF3dHZTc2Eyb2RTcWJ5RnVVcDNVQzlBX2Z6bUZZZXE4V1hTdzVRQ1Y4MEM5Z1ZBb2s1UGU0X3RSMm9teHc3WHRrOW1wR1l4VUpWdUtVVUNieC1PUWFYZmVyY0RwZXdKT21DWXBpZVZIcUpaY0s0VFJjZHIyUHdkRk1DWldDN0dnVjhObHVpU0l1SzktVFlBYi1aY2Y1NnQwWDdSaWpQUVBzRTFYcEJWeUpTajhESFRVOTlpa05wcDdv0gGQBEFVX3lxTE1pVV9XLUFDSm94TC1IbXJkc044cGE0QjdWTHJ2dGRLTEVvTDhjXzRPWkw0eTZZc2VnNm1odHZKS2gxMmJJTmEwdmdwVGxyZGQzVGh5U1FfRUdDSzZ4VHdvLVNad0drZHBMdXltVTdwU1dRb19Eb3dJX1JONXdJUlZ2dzd2TnJlMTlabEV2SnBvR1NUSGw5RlY5T2F4T1kzMUJlZTRKcWN2S2dGUzhiY3FXaEpMdk5aUkJFUzFMYUxJR0dUNGZQdm1UNEdRZndpRHVZUkxFLUxQZ0h2THZTd250V2hwWVdxWElpMzRnOHhybjNLbHNma29jbkdEZEJkNktvcFpfdldyRzhiSjBhLV8tak0yTVp5eXBKc2FEQWlCLXJaSWRMNkVaVWx4QmZtS1RKZFYtYVRRNkh2UGEtVnJPeUNwREZyS3VIb2k4Y25oYlZBNFRxX0c2ZzRmbDVJVkpGUllXMUYyY2trZFZGeXZuV2Rxd0FlUUhUNnNoTWZkMEhHeTVxTHpPOTB3SGhTTFdpMzBNR2RTS3BRRHlJRmV3ck4ybElTUDhhazduZUMzd2dRWkRfRDZjVU1XNENmQ1hrN3FZdHFkTWx2NWZuZ19EWGhDc1RXcFA3SHhjTUhtdEdLUENVcVVmWUt3Zmx6MGZQeVVTUEFmWDZBOHM5cVhwYWhTcjIzcWszOURDTzhqSg?oc=5",
           "published_at": "2026-08-15T20:01:13Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "العربي الجديد",
+            "name": "alaraby.co.uk",
             "url": "https://www.alaraby.co.uk",
             "domain": "alaraby.co.uk",
             "weight": 0.35,
@@ -13479,7 +13806,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "الجامعة الملكية المغربية لكرة القدم"
+        "frmf.ma"
       ],
       "languages": [
         "fr"
@@ -13488,14 +13815,14 @@
         {
           "id": "2121b9d3201afc2e4d0c",
           "title": "CAN féminine Maroc-2026 (match de classement): les Lionnes de l'Atlas terminent 4èmes",
-          "raw_title": "CAN féminine Maroc-2026 (match de classement): les Lionnes de l'Atlas terminent 4èmes - الجامعة الملكية المغربية لكرة القدم",
+          "raw_title": "CAN féminine Maroc-2026 (match de classement): les Lionnes de l'Atlas terminent 4èmes - frmf.ma",
           "normalized_title": "can feminine maroc 2026 match de classement les lionnes de l atlas terminent 4emes",
           "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNSXV1TUpTSnV6ZHV2b2FNUzBVVWlBMWRTS0I1MzF0RG44Sm45SVc4Q1R1bXZmSTdQTG13VXJONHU4SkNvWGY4dHNicS1LdUF2SjRIT1RGZWVyZ0ZUd0dUOUx6azhRWHNhbU91R3BybUdJSUZjOGRIRjlldXlXSDcwYm51bEZhM1llY1BPdnp2UWljUFJ6VGdYTmNsbWxrUXRTRVByRWlvZ1RIRF9jejhvbDBuaUJsaGRRQWZzeXlDV3ZCeVcyZ0c3SU5sRzNsOGtkY0hRUEhzbFo1VmJlM3FoS09Nd0FDZ21yZ0VTbUlrSnJtUzRHeGhwMm1vZEVsQ1RZbUhxelJlWXdYUjQzV255VThwbGhOdHFFYTJwOEE4Rk0wLTdReGNpOGNWeE9BMkVEQzhtdUczUWtUS3lZQW5FejQycDljTWJKLTAwdDhLQ2Fuczh3WkI0aVVFY0Itdk5WVno2NXF6d1lHem03YXNPU0ptcUN3M3F1cUFyZkw4N24xU3B5MVpUdHY1ZE92UnZ6bGkyRFNnQmI1OXh6V3d2UnJHOGY0UUN1dkFkTC1Cb0dFbTFVZnhBV013LTk2N21kSW5yOQ?oc=5",
           "published_at": "2026-08-15T19:40:25Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "الجامعة الملكية المغربية لكرة القدم",
+            "name": "frmf.ma",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -14115,8 +14442,8 @@
       "id": "4ae911ab307fab94f8fe",
       "title": "Match amical de futsal: nouvelle victoire du Maroc face à la Bosnie Herzégovine (6-1)",
       "published_at": "2026-08-15T19:02:01Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -14124,9 +14451,10 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
+        "frmf.ma",
         "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
@@ -14153,14 +14481,14 @@
         {
           "id": "5144a4d5ab110d0ff7b8",
           "title": "Match amical de futsal: nouvelle victoire du Maroc face à la Bosnie Herzégovine (6-1)",
-          "raw_title": "Match amical de futsal: nouvelle victoire du Maroc face à la Bosnie Herzégovine (6-1) - الجامعة الملكية المغربية لكرة القدم",
+          "raw_title": "Match amical de futsal: nouvelle victoire du Maroc face à la Bosnie Herzégovine (6-1) - frmf.ma",
           "normalized_title": "match amical de futsal nouvelle victoire du maroc face a la bosnie herzegovine 6 1",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY2N4RHRyRVZQMGRVUzVpejJfLU1QMTJ4bG1KRGkwWVNwb3BZbnBOTFlXeTRReGNKaG52U3ZNYS1NOHVHaEc1Y0luUjZmMkM0bWxzN21RWDU5aHB2M1ZMdWEtQkROcnc3cHZRSDZqM2JncG16ZXR1elpKZkZFOHhCeDk1ekxsXzNPZVEtMUVnYXExdUJBaU1JdzlTLVNzdWJrTHdsR3FRSVE4VVdsbDNV?oc=5",
           "published_at": "2026-08-15T17:19:43Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "الجامعة الملكية المغربية لكرة القدم",
+            "name": "frmf.ma",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -19721,7 +20049,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -19730,14 +20058,14 @@
         {
           "id": "32a0d1e8c7ba1c3c46a1",
           "title": "مهرجان الشواطئ لاتصالات المغرب .. اختتام سهرات محطة طنجة",
-          "raw_title": "مهرجان الشواطئ لاتصالات المغرب .. اختتام سهرات محطة طنجة - SNRTnews",
+          "raw_title": "مهرجان الشواطئ لاتصالات المغرب .. اختتام سهرات محطة طنجة - snrtnews.com",
           "normalized_title": "مهرجان الشواطي لاتصالات المغرب اختتام سهرات محطة طنجة",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3Rm04RG9fVHhOdzFwSWNnb0dRZHQ3QlkzN1A0Q3ZudGViNzVEUmJYWlllX1pBeVNuYkVWYl8wVlREam83a01HS1hsYw?oc=5",
           "published_at": "2026-08-15T10:08:47Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -20740,7 +21068,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "اليوم السابع"
+        "youm7.com"
       ],
       "languages": [
         "ar"
@@ -20749,14 +21077,14 @@
         {
           "id": "8e8ec6de0dcee4fba88b",
           "title": "المصري يؤدي تدريباته بمعسكر المغرب قبل العودة إلى القاهرة",
-          "raw_title": "المصري يؤدي تدريباته بمعسكر المغرب قبل العودة إلى القاهرة - اليوم السابع",
+          "raw_title": "المصري يؤدي تدريباته بمعسكر المغرب قبل العودة إلى القاهرة - youm7.com",
           "normalized_title": "المصري يودي تدريباته بمعسكر المغرب قبل العودة الى القاهرة",
           "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQVUtleUZzWFBsekhBREtLT3pTb1FUbjBqcVY4ZjBSOU1JQ3kwLWFoUjF5c3pmaXB4SnA2MUFlckRCeFFrdHRhYTM0Z1ByUElDdkF4ZU9OdThBMllKYnFOUG9XRXh3cFpwUzhRYkJfZnBrVm8xWHdxU24yalNKZGt2VHBQRVlNejlLSW53VlFXbFdHbmVGU29TN3c0WGtpTmJRWTFaM04zOEp5bWR0LW43Z1VNc3l4eTIyOXFTUUU4NUxQX3Z0Yng1TGhRX01KWnhOaXlaNEhhQ0ZQRGdzcGQ2aGViNzdyR21QQ0xTZzFaNG1JZlE4Wi1nUEctZXF5LTlDNEJmWW1abVhGWDFON2dtZ2FkaEZKcmtHM2VqVHJEamJwcmZ2N3YzMXlLVm0tUFBLNGdZZTVpVjR4emMtbngwVk1OZzF5MGZzRm9GdkdFRTRxb0xRNDZaR3ctRWtuRkx5d2ZwRzdZZ3NRQWwyTTRaZXFNaHh0YUNMQ2F1N1FiazVaN2dzbnpnc2NBam40d195WjVsZlROb1QtODJHMzFnWTVQa05uaC1hdDVmdERBZ29wWXE2TDlZTlhmM0tScXBBT0RFNU12cWNJTC15VFpTVlByOGo3MVJ4N0FzcDEtTm9qTXlNd2IwNUJjRnPSAecDQVVfeXFMUHdESm5DeWpLcjdNVjktTDg0SE0wSFFXUkVGQlpHREpJeWFTeUYyNlhRX1h5Q1ZpXzlMMnZ3Wl9DTktYcjFMaDlQbEI3aHZwV2trd3JWTVVEbEgxeW9WaTdsYmtHZGl1U3FDaF9wTS1rd0xYOFYyTFBwQ0psalFsWF91VlQyb2kzUDRzRDBFVGZGOUEtTm56bVo1RTZ3NzBOMG5EdVlXamhfdm1oNVBIcDNJOUlMbzVaNEhOSzRpRHdSd1BLMVlwanFDckpIeXd3Y2RHVEN3cGNVTWI1akFpYllYd2VmbEdiYk1WbjBFNVpVUnF5TG9oSFJHZW1sS01RMW5TeEJoVGpid242bXl5Vm9wd25sZjcyR092aEFfM1E3SlVFNE83WE54QmxBeG41YW5aU3lmOGZPeXIweDhwWnhadjZhbTZjdzRvM1dSSUpCbHI1QUY1NHJQb1lxTEE2QWs4MUUyeldtWmN5NXNYMFp3T2RjVVV1eU5XUDZ0Ni0yckQzQkZBMmZGUllWUW1TcXRRcVRXR2xPREpvNG4tOGhTYUlZaXZqbFF2VWtXSjhxWjRacnZDTXBNWWhEUVQyNkQ2TWVkcHhELVJjSWkzdGp5UThKMFFEbE1mTFVNcjNxeC0xY0V2aw?oc=5",
           "published_at": "2026-08-15T07:44:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "اليوم السابع",
+            "name": "youm7.com",
             "url": "https://www.youm7.com",
             "domain": "youm7.com",
             "weight": 0.35,
@@ -22675,8 +23003,8 @@
       "id": "1b325bff4f9bab6fcfbb",
       "title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie",
       "published_at": "2026-08-14T22:40:18Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -22684,9 +23012,10 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
+        "frmf.ma",
         "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
@@ -22713,14 +23042,14 @@
         {
           "id": "a3a68ca7059ff63a1692",
           "title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie",
-          "raw_title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie - الجامعة الملكية المغربية لكرة القدم",
+          "raw_title": "CAN féminine Maroc 2026: dernier entraînement des Lionnes de l’Atlas avant d’affronter l’Algérie - frmf.ma",
           "normalized_title": "can feminine maroc 2026 dernier entrainement des lionnes de l atlas avant d affronter l algerie",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYm5MN3ozNENZODBQN2twWERqbndlVVpvaWZqQnF2dHRPSC1MX21XYmkyVmdSLWdvSXZjVU1JX21lbE9jcVJLV2VfYXNwUnYzV3dIMS16SENsLW55bkRyRmRnTjk1UUU4c1ltVlJkYTZsc2NrMHNIbnV3Zy1NNWdFT2o3cWNiOUZ2Wk12WFU1QkF2VXpRanVXTl9XbTUzWVRuVFVDdFVMVVptWDN4NEVEcVVjOUlwTDlTVU5IMg?oc=5",
           "published_at": "2026-08-14T21:35:11Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "الجامعة الملكية المغربية لكرة القدم",
+            "name": "frmf.ma",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -24803,8 +25132,8 @@
       "source_count": 2,
       "article_count": 2,
       "sources": [
-        "SNRTnews",
-        "mapsport.ma"
+        "mapsport.ma",
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -24813,14 +25142,14 @@
         {
           "id": "fd4e995b29107d17dc7e",
           "title": "كأس إفريقيا للسيدات .. المغرب والجزائر في ديربي مغاربي من أجل الميدالية البرونزية",
-          "raw_title": "كأس إفريقيا للسيدات .. المغرب والجزائر في ديربي مغاربي من أجل الميدالية البرونزية - SNRTnews",
+          "raw_title": "كأس إفريقيا للسيدات .. المغرب والجزائر في ديربي مغاربي من أجل الميدالية البرونزية - snrtnews.com",
           "normalized_title": "كاس افريقيا للسيدات المغرب والجزاير في ديربي مغاربي من اجل الميدالية البرونزية",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tOV9Hek91R296bkJWbjNVeDdvdWRvNWVYa3ZxZDVRWEVnSHQzTzJYRjlpVjIySnQ0OWFzMlZGaWxwci1vckx0eUVpWQ?oc=5",
           "published_at": "2026-08-14T16:58:57Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -26591,7 +26920,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "DW.com"
+        "dw.com"
       ],
       "languages": [
         "fr"
@@ -26600,14 +26929,14 @@
         {
           "id": "57621ffd61bd9c4b6f63",
           "title": "Au Maroc, les raisons qui poussent les jeunes à émigrer",
-          "raw_title": "Au Maroc, les raisons qui poussent les jeunes à émigrer - DW.com",
+          "raw_title": "Au Maroc, les raisons qui poussent les jeunes à émigrer - dw.com",
           "normalized_title": "au maroc les raisons qui poussent les jeunes a emigrer",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mQ0g1U1p4QjZoV0E1U2hhNEJJMU80UWtwQktLTlZaY04xOXRaWnRPd1VpdDdxc0FlM3d0ZHBXYVlBMUR2Z1c2enRvUEw2ajZyUWRSZ2xGb0tkRXJZQ2pEVVU0MVFxLUIxcnBEYVdudEg3QXM4dTA00gF3QVVfeXFMTS1sbHdCdlhEb0hsMmp4aUtoWXQzVHgyd3p6aVhDdEZrcW5HNTRtTlNkemY1V1N0RUJKd195cWN2YkxUSnFOTE84ZWtBak1HRVZRRzBqQ29Oa2RRc0N0aEt5YnM5TzZfNFBSRVljMEtDMThGc29wY3M?oc=5",
           "published_at": "2026-08-14T13:46:53Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "DW.com",
+            "name": "dw.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -28368,8 +28697,8 @@
       "id": "6008311bacb70f1fd4bd",
       "title": "US Covenant Industries launches new missile test in Tan Tan, Morocco",
       "published_at": "2026-08-14T10:47:52Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": false,
       "claim_score": 0.3,
       "claim_reasons": [
@@ -28377,10 +28706,11 @@
         "event_assertion"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 2,
       "sources": [
-        "The Jerusalem Post"
+        "The Jerusalem Post",
+        "jpost.com"
       ],
       "languages": [
         "en"
@@ -28389,14 +28719,14 @@
         {
           "id": "67fb28b04e6ba1ce36fb",
           "title": "US Covenant Industries launches new missile test in Tan Tan, Morocco",
-          "raw_title": "US Covenant Industries launches new missile test in Tan Tan, Morocco - The Jerusalem Post",
+          "raw_title": "US Covenant Industries launches new missile test in Tan Tan, Morocco - jpost.com",
           "normalized_title": "us covenant industries launches new missile test in tan tan morocco",
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtaVA0NFZUZVZnSGN0OE5TemNQdDhZNXJTUWlTWWI0LWhZR1hFWjVDWURwY0RVVzJBUlA0Rm1mUkFMMThNWlMteDBSNFRfMEhlaFRuSnk4a2lEdU9JYmFZNEdWVQ?oc=5",
           "published_at": "2026-08-14T10:47:52Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "The Jerusalem Post",
+            "name": "jpost.com",
             "url": "https://www.jpost.com",
             "domain": "jpost.com",
             "weight": 0.35,
@@ -39400,7 +39730,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "SNRTnews"
+        "snrtnews.com"
       ],
       "languages": [
         "ar"
@@ -39409,14 +39739,14 @@
         {
           "id": "ad2c1f0c770a1ea56989",
           "title": "كسوف الشمس .. لحظات ترقب ومتابعة في سماء المغرب",
-          "raw_title": "كسوف الشمس .. لحظات ترقب ومتابعة في سماء المغرب - SNRTnews",
+          "raw_title": "كسوف الشمس .. لحظات ترقب ومتابعة في سماء المغرب - snrtnews.com",
           "normalized_title": "كسوف الشمس لحظات ترقب ومتابعة في سماء المغرب",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbzhDTGJRYUdfQXAzWkZwbUNWaG9xMG51SnBzbDRPRFEweTJ6ZGNLTzRZc0RXaFZIQWhfeWVTM3lyZ0xHX3FsX2QwUQ?oc=5",
           "published_at": "2026-08-13T09:59:50Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
-            "name": "SNRTnews",
+            "name": "snrtnews.com",
             "url": "https://snrtnews.com",
             "domain": "snrtnews.com",
             "weight": 0.8,
@@ -42934,8 +43264,8 @@
       "id": "469eb69f4774c5963d02",
       "title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b)",
       "published_at": "2026-08-12T23:08:24Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -42943,9 +43273,10 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 3,
       "sources": [
+        "frmf.ma",
         "الجامعة الملكية المغربية لكرة القدم"
       ],
       "languages": [
@@ -42955,14 +43286,14 @@
         {
           "id": "4ce36de6100b6b0ddacb",
           "title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b)",
-          "raw_title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b) - الجامعة الملكية المغربية لكرة القدم",
+          "raw_title": "CAN féminine Maroc-2026 (finale): Défaite du Maroc face au Cameroun (3-1 t.a.b) - frmf.ma",
           "normalized_title": "can feminine maroc 2026 finale defaite du maroc face au cameroun 3 1 t a b",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdTVOalNJaml6UFBINEN3ZnI3SmNNbWNTaGEwdzNyN2ZKanZING9DT1JNamt5OTdaRWJ6UHcxbWNaUzdKbm9vWF9TdTFyZnBjSDcwZXh4Mmdsa1pMR1dIbzN6TWlYUkJCVXBqb1MtZWNiUm54VTFaYmhLam11aEtVejBnZDJ6V1MyNkJUc1lTLU9JSm9NdXNaczBSRzFPUXBvWnc?oc=5",
           "published_at": "2026-08-12T23:08:24Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "الجامعة الملكية المغربية لكرة القدم",
+            "name": "frmf.ma",
             "url": "https://frmf.ma",
             "domain": "frmf.ma",
             "weight": 0.35,
@@ -43045,221 +43376,15 @@
       ]
     },
     {
-      "id": "2b879236aac166bd3e87",
+      "id": "cb6a125a5ee06979dc3a",
       "title": "Morocco Miss WAFCON Final After Penalty Shootout Loss to Cameroon",
       "published_at": "2026-08-12T22:55:18Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
-      "sources": [
-        "Morocco World News",
-        "moroccoworldnews.com"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "ec9ff7f7dc283157bfaa",
-          "title": "Morocco Miss WAFCON Final After Penalty Shootout Loss to Cameroon",
-          "raw_title": "Morocco Miss WAFCON Final After Penalty Shootout Loss to Cameroon - Morocco World News",
-          "normalized_title": "morocco miss wafcon final after penalty shootout loss to cameroon",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUtheGJjMDhyY014VlAyZ1FrOTJiaTNGS21Rc0xwVk50Z2xKdkZISmd1ZmxtNm5zbWhPTmY4cUVDRDRBVmxtX2hBcWR0YUYwWXU2YkNwQUdQRFVpZExKRjVVOHVaay05ZWVFVzk4bGJEYmdlQ1A0YUYwcEJpb0dObVRIeVo0VU9LLWU2Xzg5VXNEUmJmR05VS0wyTnZDTEVVd3VmN3lwdkNrVjJ3NWxmeF9JUWU?oc=5",
-          "published_at": "2026-08-12T22:55:18Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Morocco World News",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "2203e1788ed2b59ceac4",
-          "title": "Morocco Miss WAFCON Final After Penalty Shootout Loss to Cameroon - moroccoworldnews.com",
-          "normalized_title": "morocco miss wafcon final after penalty shootout loss to cameroon moroccoworldnews com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUtheGJjMDhyY014VlAyZ1FrOTJiaTNGS21Rc0xwVk50Z2xKdkZISmd1ZmxtNm5zbWhPTmY4cUVDRDRBVmxtX2hBcWR0YUYwWXU2YkNwQUdQRFVpZExKRjVVOHVaay05ZWVFVzk4bGJEYmdlQ1A0YUYwcEJpb0dObVRIeVo0VU9LLWU2Xzg5VXNEUmJmR05VS0wyTnZDTEVVd3VmN3lwdkNrVjJ3NWxmeF9JUWU?oc=5",
-          "published_at": "2026-08-12T22:54:38Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "moroccoworldnews.com",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "24a7305b247841ee3feb",
-      "title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب",
-      "published_at": "2026-08-12T22:54:39Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 4,
-      "sources": [
-        "aajeg.com",
-        "العربي الجديد"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "43df1b787adfe801cf1a",
-          "title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب",
-          "raw_title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب - العربي الجديد",
-          "normalized_title": "نصف نهايي كاس امم افريقيا ركلات الترجيح تقسو على سيدات المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOU1ZiT0NnTFZTRi12el9kXzI0VXd2M2JUWm8tUjBMQk1mWU9XZVpoNW1tYjVNV0ZzRGFOd1l1Y182Rk9DMDFOcUlEQWhUSHp2ZGFKQzk5OW5MdVBGdHZxaVVpVTVsUkEyN2VOM25OZ2hVR3otbTBWdk04eHhHeXFqT1N2YnBseW9UX21sbEFtUl8tYUQ5enlackc5S3VrNElCQ0ZYQUp0OURDbXhpZnNfZm83b2ljOC1RS1RybzVhM0o1UW5jQk5RUGtKSDZ6ZmNGUFZieGVOM3RPYUlMdjR1V3RTNmFxdWo2ZVNBRlRWX2RpanZEYkxKWUlLeGJXMksxX1JvWThRdERIT3FnaWJoOVhabWlWZG43MXBSZ2NaVzl1WWtGTnlDc19jbWFORG9wc2VGcjBZNEF6bUVFZ0c2X0F5cUdObDdHZHV2Ml9pWUx4a1VKdWlIMzh2RHVYRzdaQjNFSnVMZmFtQ04wVnotaFdIXzZOZVpyc044R0RvaFZabjBWbFZXLS1jYzVQNTJmT1FrUmZCYVJJcUlzTS1IeU1tN0l5VU5HeVgzc254MVc1X21XV0d6Z1A1QWVkRW1sQklkRFJkdnlGU1lDVGNDMmpJZ0daX3UwQklTbVZSd1ZyNzg3bUR4OWUtblY?oc=5",
-          "published_at": "2026-08-12T22:54:39Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "العربي الجديد",
-            "url": "https://www.alaraby.co.uk",
-            "domain": "alaraby.co.uk",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "afae6a53d32c246c9470",
-          "title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب - العربي الجديد",
-          "normalized_title": "نصف نهايي كاس امم افريقيا ركلات الترجيح تقسو على سيدات المغرب العربي الجديد",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOU1ZiT0NnTFZTRi12el9kXzI0VXd2M2JUWm8tUjBMQk1mWU9XZVpoNW1tYjVNV0ZzRGFOd1l1Y182Rk9DMDFOcUlEQWhUSHp2ZGFKQzk5OW5MdVBGdHZxaVVpVTVsUkEyN2VOM25OZ2hVR3otbTBWdk04eHhHeXFqT1N2YnBseW9UX21sbEFtUl8tYUQ5enlackc5S3VrNElCQ0ZYQUp0OURDbXhpZnNfZm83b2ljOC1RS1RybzVhM0o1UW5jQk5RUGtKSDZ6ZmNGUFZieGVOM3RPYUlMdjR1V3RTNmFxdWo2ZVNBRlRWX2RpanZEYkxKWUlLeGJXMksxX1JvWThRdERIT3FnaWJoOVhabWlWZG43MXBSZ2NaVzl1WWtGTnlDc19jbWFORG9wc2VGcjBZNEF6bUVFZ0c2X0F5cUdObDdHZHV2Ml9pWUx4a1VKdWlIMzh2RHVYRzdaQjNFSnVMZmFtQ04wVnotaFdIXzZOZVpyc044R0RvaFZabjBWbFZXLS1jYzVQNTJmT1FrUmZCYVJJcUlzTS1IeU1tN0l5VU5HeVgzc254MVc1X21XV0d6Z1A1QWVkRW1sQklkRFJkdnlGU1lDVGNDMmpJZ0daX3UwQklTbVZSd1ZyNzg3bUR4OWUtblbSAfIDQVVfeXFMTTMwdVRvMVNTM1l0S3Z4aTNhSDFpSkliT282MW9VM2M5X1dtWEpZbXdNbHZBWE9BSnRTeUpoY0R3TkRJNjJraU5oc3duU0RlT0ltVW1ycDQ5NjU0cFBnT2d4NWtpaW5jZ0tpZnExdndBN0RBcWswSHVlTWdXZzhzNUlkTlZreFIybGd1VkMtSjZFNjVNaFJTanotTTZKT0g0QzA4d3c3b1ZrLVE4T1V3N1NKdXhwc0xNbjNtR21zV0R5MU1KUXloS0JYUHdNdXdJaXFOSktHblZtejlueVFKdlpOdndSREJXSWVUVUxzZi14VFllUFhOcFdpdzZDZ3RZME8zZFZiSlZkRkJZTVg1VExrYWxUUXk2dk9qaTJWaUN1SG1tWlNCdEFZSl80VDlsbEVDZUdKVnlvVmxQbXBNNUNYdmo3dHc5V3pqNlptaHdsT2U5Ql9jQ3JiSEhuTU1ia25mMHZtcFotMEhzZ0ZLYnBNanNoaUZkWlpGYU12NFpNd3o0V3ZXVEtwSU5rT3d1c0ROU05sSlBiU3NSMzBUa0ZWVDY3OERUSGRLX0tVdlZPLTRPMlBXcVdzTl9iOWhMZlhydG41MTVmY3hDQUFvWTVfMTVtZVoxdGxrVTVmZFFoYXNOcUZOd0xiU01PZE93TGlR?oc=5",
-          "published_at": "2026-08-12T22:54:39Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "العربي الجديد",
-            "url": "https://www.alaraby.co.uk",
-            "domain": "alaraby.co.uk",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "c1fd045b71c4f6a3df9c",
-          "title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب",
-          "raw_title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب - العربي الجديد",
-          "normalized_title": "نصف نهايي كاس امم افريقيا ركلات الترجيح تقسو على سيدات المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOU1ZiT0NnTFZTRi12el9kXzI0VXd2M2JUWm8tUjBMQk1mWU9XZVpoNW1tYjVNV0ZzRGFOd1l1Y182Rk9DMDFOcUlEQWhUSHp2ZGFKQzk5OW5MdVBGdHZxaVVpVTVsUkEyN2VOM25OZ2hVR3otbTBWdk04eHhHeXFqT1N2YnBseW9UX21sbEFtUl8tYUQ5enlackc5S3VrNElCQ0ZYQUp0OURDbXhpZnNfZm83b2ljOC1RS1RybzVhM0o1UW5jQk5RUGtKSDZ6ZmNGUFZieGVOM3RPYUlMdjR1V3RTNmFxdWo2ZVNBRlRWX2RpanZEYkxKWUlLeGJXMksxX1JvWThRdERIT3FnaWJoOVhabWlWZG43MXBSZ2NaVzl1WWtGTnlDc19jbWFORG9wc2VGcjBZNEF6bUVFZ0c2X0F5cUdObDdHZHV2Ml9pWUx4a1VKdWlIMzh2RHVYRzdaQjNFSnVMZmFtQ04wVnotaFdIXzZOZVpyc044R0RvaFZabjBWbFZXLS1jYzVQNTJmT1FrUmZCYVJJcUlzTS1IeU1tN0l5VU5HeVgzc254MVc1X21XV0d6Z1A1QWVkRW1sQklkRFJkdnlGU1lDVGNDMmpJZ0daX3UwQklTbVZSd1ZyNzg3bUR4OWUtblbSAfIDQVVfeXFMTTMwdVRvMVNTM1l0S3Z4aTNhSDFpSkliT282MW9VM2M5X1dtWEpZbXdNbHZBWE9BSnRTeUpoY0R3TkRJNjJraU5oc3duU0RlT0ltVW1ycDQ5NjU0cFBnT2d4NWtpaW5jZ0tpZnExdndBN0RBcWswSHVlTWdXZzhzNUlkTlZreFIybGd1VkMtSjZFNjVNaFJTanotTTZKT0g0QzA4d3c3b1ZrLVE4T1V3N1NKdXhwc0xNbjNtR21zV0R5MU1KUXloS0JYUHdNdXdJaXFOSktHblZtejlueVFKdlpOdndSREJXSWVUVUxzZi14VFllUFhOcFdpdzZDZ3RZME8zZFZiSlZkRkJZTVg1VExrYWxUUXk2dk9qaTJWaUN1SG1tWlNCdEFZSl80VDlsbEVDZUdKVnlvVmxQbXBNNUNYdmo3dHc5V3pqNlptaHdsT2U5Ql9jQ3JiSEhuTU1ia25mMHZtcFotMEhzZ0ZLYnBNanNoaUZkWlpGYU12NFpNd3o0V3ZXVEtwSU5rT3d1c0ROU05sSlBiU3NSMzBUa0ZWVDY3OERUSGRLX0tVdlZPLTRPMlBXcVdzTl9iOWhMZlhydG41MTVmY3hDQUFvWTVfMTVtZVoxdGxrVTVmZFFoYXNOcUZOd0xiU01PZE93TGlR?oc=5",
-          "published_at": "2026-08-12T22:54:39Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "العربي الجديد",
-            "url": "https://www.alaraby.co.uk",
-            "domain": "alaraby.co.uk",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "cd0bef979973e3e35042",
-          "title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب",
-          "raw_title": "نصف نهائي كأس أمم أفريقيا: ركلات الترجيح تقسو على سيدات المغرب - aajeg.com",
-          "normalized_title": "نصف نهايي كاس امم افريقيا ركلات الترجيح تقسو على سيدات المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNdDh0V0ZTdk1UcmJiRWMyR3pQYVdpZlhyZTJpU1JmZk9RMzBiSzRVTm1qY09BMXBrR05Da2RLdGh1WDVCZ2pDTnV5aklXdm5yaDBkNTlMZTBUdXhoTkh1cW9NVzRfLW9CTkQ4em5fU0gybld5YVd1YS1jcGlqbW9ENjhYbVdwbjZieGVnNE1GSnFzTk1pTXJHaFJZazRSWnFRWFBDMTc1M3RGcUlFV0xnNG1EVnJXMW9WMmRSQ3R2alRJSHdJQ2ZEYU9KakNjNEdCUFlzd2NvYlhEUnFmTDFRNnNVenlld1NvNFpmS0Q0MlRocFpqcXhJQlhLel9pdEhCVlJaVl9NS0dOdDBzSFJMckVXNmh0NEphanZtZkZYT3JiRDJuWEl4dEZYblpOQ0w1VjhWejJwNlV5bTVXZG5KLVoyeUJvZXJ5R0tGYk9SVEozamhlajcwa2U4N2NfSjZvbmVfY19Mc0ZKcThEWG5DcEtfc192TzZoMm5ZdE8wT0RXTGxhY25LTE5Rc2h5RW0tNnI0V1pCTlRidmVPbzI3aDktZmlhUlBRZElYUnJVVmFCMXFIZ0pIMVZqWk1uU1ZseHI1Nlh1RFNKN1lZUG1tLU54YUgwald1YXdEVjFYakJKTlBqSG9Z?oc=5",
-          "published_at": "2026-08-12T22:54:39Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "aajeg.com",
-            "url": "https://www.aajeg.com",
-            "domain": "aajeg.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e9a3b5a59b738eeef3a0",
-      "title": "Vidéo : Éclipse solaire : Le spectacle observé au Maroc et en Espagne - medi1tv",
-      "published_at": "2026-08-12T22:54:39Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 2,
-      "sources": [
-        "medi1tv"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "611419a7fe9369f7bb10",
-          "title": "Vidéo : Éclipse solaire : Le spectacle observé au Maroc et en Espagne - medi1tv",
-          "normalized_title": "video eclipse solaire le spectacle observe au maroc et en espagne medi1tv",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN6a1NVeXhZcWFOM2I3OEtRYTlDbW9PRnRVbHJpVy0wOUdjVGFnRDRDSTBPb0ZTWTFNTmR4NWprS1BVb2NiMmtNMHR3bzByMkhDblU3eDBjYXNrU085elpid2o4cFVNNDJuQ1dUUFNNTHpTc3F1WjVTSzg5dXZTLUhJR2ZmMjBoOEczRGo3ZWc3OG5yUWU2cFZPX3czNlhlN3piZHViN3Z0S1lhVDdLTXFDZGE?oc=5",
-          "published_at": "2026-08-12T22:54:39Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "medi1tv",
-            "url": "https://www.medi1tv.com",
-            "domain": "medi1tv.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "c7edefeda2b02ffcfe27",
-          "title": "Vidéo : Éclipse solaire : Le spectacle observé au Maroc et en Espagne",
-          "raw_title": "Vidéo : Éclipse solaire : Le spectacle observé au Maroc et en Espagne - medi1tv",
-          "normalized_title": "video eclipse solaire le spectacle observe au maroc et en espagne",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWN6a1NVeXhZcWFOM2I3OEtRYTlDbW9PRnRVbHJpVy0wOUdjVGFnRDRDSTBPb0ZTWTFNTmR4NWprS1BVb2NiMmtNMHR3bzByMkhDblU3eDBjYXNrU085elpid2o4cFVNNDJuQ1dUUFNNTHpTc3F1WjVTSzg5dXZTLUhJR2ZmMjBoOEczRGo3ZWc3OG5yUWU2cFZPX3czNlhlN3piZHViN3Z0S1lhVDdLTXFDZGE?oc=5",
-          "published_at": "2026-08-12T22:54:39Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "medi1tv",
-            "url": "https://www.medi1tv.com",
-            "domain": "medi1tv.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6966fc28d93ee65059f0",
-      "title": "August 12 Solar Eclipse: Where, When to Watch Across Morocco",
-      "published_at": "2026-08-12T22:54:38Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
       ],
       "fact_check_matches": [],
       "source_count": 1,
@@ -43272,12 +43397,12 @@
       ],
       "articles": [
         {
-          "id": "a6ca5e420250d57c5a2a",
-          "title": "August 12 Solar Eclipse: Where, When to Watch Across Morocco",
-          "raw_title": "August 12 Solar Eclipse: Where, When to Watch Across Morocco - Morocco World News",
-          "normalized_title": "august 12 solar eclipse where when to watch across morocco",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXhHS3VGQUtXdnpTSTlMLWxGUXFwSnM1eWFtbVBfWlhMX2JyQ2xKV1dsNWdHZTVQYXJ3Qk5BUlZsbmpFQWg3MmhWOW9NT1FHd2ZVYXQzOFhCQ2FwVERfbmpreVduQW0yVHMwQS1yNXI0YXBMUEhVRWI4cC1RY0cxUG0wOExseXBsdFVXREE1WUg4cjVONThNbmxyYVVDUFgydmtHTm1ESWVEcTg?oc=5",
-          "published_at": "2026-08-12T22:54:38Z",
+          "id": "ec9ff7f7dc283157bfaa",
+          "title": "Morocco Miss WAFCON Final After Penalty Shootout Loss to Cameroon",
+          "raw_title": "Morocco Miss WAFCON Final After Penalty Shootout Loss to Cameroon - Morocco World News",
+          "normalized_title": "morocco miss wafcon final after penalty shootout loss to cameroon",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUtheGJjMDhyY014VlAyZ1FrOTJiaTNGS21Rc0xwVk50Z2xKdkZISmd1ZmxtNm5zbWhPTmY4cUVDRDRBVmxtX2hBcWR0YUYwWXU2YkNwQUdQRFVpZExKRjVVOHVaay05ZWVFVzk4bGJEYmdlQ1A0YUYwcEJpb0dObVRIeVo0VU9LLWU2Xzg5VXNEUmJmR05VS0wyTnZDTEVVd3VmN3lwdkNrVjJ3NWxmeF9JUWU?oc=5",
+          "published_at": "2026-08-12T22:55:18Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
