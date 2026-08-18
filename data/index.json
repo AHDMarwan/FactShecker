@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:09:39Z",
+  "generated_at": "2026-08-18T03:58:41Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
@@ -7,14 +7,54 @@
     "articles": 1200,
     "fact_checks": 0,
     "clusters": 988,
-    "sources": 341,
+    "sources": 342,
     "matched_clusters": 0,
-    "needs_review": 903,
-    "medium_evidence": 83,
+    "needs_review": 904,
+    "medium_evidence": 82,
     "corroborated": 2
   },
   "fact_checks": [],
   "items": [
+    {
+      "id": "ff0c63f9b2d840602d90",
+      "title": "Global fund manager A.P. Moller Capital to acquire majority stake in Morocco’s Globex",
+      "published_at": "2026-08-18T03:29:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "TradingView"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "711dc00a0b5244afece7",
+          "title": "Global fund manager A.P. Moller Capital to acquire majority stake in Morocco’s Globex",
+          "raw_title": "Global fund manager A.P. Moller Capital to acquire majority stake in Morocco’s Globex - TradingView",
+          "normalized_title": "global fund manager a p moller capital to acquire majority stake in morocco s globex",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa1FfbVc1RXVHNUJqejFBZEJ6ak5RNnp5VDM2SnpoSC1odkljT0xGaHU3cmRiT0JGZVBmZ2tGSVE4aVo2aFUxaXFHM09GQ3pkUk1qekp6U20tcnFoVUQ0cU9jSVltYTNJc21rRW0xeGptcFBHUjRRYXdRMjVpYnBkN0tJaUNOTUQweEMtdFBuNkNtOGxRaGhwakRZR21fT1VWc3ptU3RzRlc2ako5aVBZMFZvUzR1MzhwZ0l3VTMyVFV1Y1NxRXlWUDZFV3NZTTFPQW9YZVJTWFFJQXJ3VlRTSWgwcjUyNWViYmpNb2FBc0dNZw?oc=5",
+          "published_at": "2026-08-18T03:29:00Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "TradingView",
+            "url": "https://www.tradingview.com",
+            "domain": "tradingview.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "b82c4d6221cc679f55a2",
       "title": "بورصة الدار البيضاء بالمغرب تنهى تداولاتها على وقع الارتفاع",
@@ -2695,6 +2735,46 @@
             "name": "thevoice.ma",
             "url": "https://thevoice.ma",
             "domain": "thevoice.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "07c4af3425ea26be6c67",
+      "title": "بسبب المرض والجوع.. عودة مئات المهاجرين من سبتة إلى المغرب | تقارير",
+      "published_at": "2026-08-17T16:41:21Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "القاهرة 24"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "c83c4b819f395de8955c",
+          "title": "بسبب المرض والجوع.. عودة مئات المهاجرين من سبتة إلى المغرب | تقارير",
+          "raw_title": "بسبب المرض والجوع.. عودة مئات المهاجرين من سبتة إلى المغرب | تقارير - القاهرة 24",
+          "normalized_title": "بسبب المرض والجوع عودة ميات المهاجرين من سبتة الى المغرب تقارير",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jOEREUS1nQ3c5VjZuV0RQc0hKWmJmRFZzNENZSmdEMm5FU3p4QmowSXJKVU9OSjlwRHB4WjBraUFndmlvQ0E?oc=5",
+          "published_at": "2026-08-17T16:41:21Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "القاهرة 24",
+            "url": "https://www.cairo24.com",
+            "domain": "cairo24.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -6193,7 +6273,7 @@
       ]
     },
     {
-      "id": "6a4db0ab1710fbe318c0",
+      "id": "f08cc8756373d05e4a53",
       "title": "إنفانتينو يشيد بنجاح كأس أمم أفريقيا للسيدات في المغرب",
       "published_at": "2026-08-17T12:20:33Z",
       "status": "medium_evidence",
@@ -6251,6 +6331,23 @@
           }
         },
         {
+          "id": "c9a26b807c0fa694c25a",
+          "title": "إنفانتينو يشيد بنجاح كأس أمم أفريقيا للسيدات في المغرب",
+          "raw_title": "إنفانتينو يشيد بنجاح كأس أمم أفريقيا للسيدات في المغرب - آخر خبر",
+          "normalized_title": "انفانتينو يشيد بنجاح كاس امم افريقيا للسيدات في المغرب",
+          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQclF2RldfUU1LcmZXQXdSVzAzX3d3UkZWcWRyaVFLTC14X0hmRDZmZ2JManVINXBOSjI5MWZka1Iwc2h4MmE0THJtc2RMcTFEOGZDREJXSEtVYnJlcnJsMkx2djZaYTBoU3RBU2M1NGxGTUxGVThsdHU2R1JUNFhJMENKc2NyMjcwdWdDM21VZTZKSjVrZ3o0VGpRb1AtWmZGaDd4NTJBaXNQT2JaU1dleF9lNXIzTlhZY1UzUFNxcmY5bnVXcU91LWFBcVZQVzNxWlZ3bkZVMko5ZGY1UFNGLThrYjMxQmxRbWI5LUlvdHVvY2xWX3oxVE1ackZtdDZZcGNwUmhEV1hjVGRlVXNadXA2R3FPRExCYV9UZmh1Vld1emxqcTdwbzQ2WmlNVWdXdE1nYTVOa0hZZm9tdWFWdGdtMGFWLUtCbmdGSjBvRG9UbXRQM2lvMTNDeUs3Y2JnY0ZycGZtcHdnbzRzZlJDOWlNX1hQQ3RQWC01V054WndDTDRJcGFlRVpDc1RqSmt3RHRMbXh4UnpaTUlLc1FMY29xcUFSQnVEc1NUQnBEU1pOd25qMVR3T3VGd2pWVFc1MEUzT0hXMWtaLVlxall3cmVZUE1GTHc?oc=5",
+          "published_at": "2026-08-17T10:12:40Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "آخر خبر",
+            "url": "https://a5r5br.net",
+            "domain": "a5r5br.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
           "id": "b3293c62ad107527f543",
           "title": "إنفانتينو يشيد بنجاح كأس أمم إفريقيا للسيدات في المغرب",
           "raw_title": "إنفانتينو يشيد بنجاح كأس أمم إفريقيا للسيدات في المغرب - بوابة الأهرام",
@@ -6263,23 +6360,6 @@
             "name": "بوابة الأهرام",
             "url": "https://gate.ahram.org.eg",
             "domain": "gate.ahram.org.eg",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "c9a26b807c0fa694c25a",
-          "title": "إنفانتينو يشيد بنجاح كأس أمم أفريقيا للسيدات في المغرب",
-          "raw_title": "إنفانتينو يشيد بنجاح كأس أمم أفريقيا للسيدات في المغرب - آخر خبر",
-          "normalized_title": "انفانتينو يشيد بنجاح كاس امم افريقيا للسيدات في المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQclF2RldfUU1LcmZXQXdSVzAzX3d3UkZWcWRyaVFLTC14X0hmRDZmZ2JManVINXBOSjI5MWZka1Iwc2h4MmE0THJtc2RMcTFEOGZDREJXSEtVYnJlcnJsMkx2djZaYTBoU3RBU2M1NGxGTUxGVThsdHU2R1JUNFhJMENKc2NyMjcwdWdDM21VZTZKSjVrZ3o0VGpRb1AtWmZGaDd4NTJBaXNQT2JaU1dleF9lNXIzTlhZY1UzUFNxcmY5bnVXcU91LWFBcVZQVzNxWlZ3bkZVMko5ZGY1UFNGLThrYjMxQmxRbWI5LUlvdHVvY2xWX3oxVE1ackZtdDZZcGNwUmhEV1hjVGRlVXNadXA2R3FPRExCYV9UZmh1Vld1emxqcTdwbzQ2WmlNVWdXdE1nYTVOa0hZZm9tdWFWdGdtMGFWLUtCbmdGSjBvRG9UbXRQM2lvMTNDeUs3Y2JnY0ZycGZtcHdnbzRzZlJDOWlNX1hQQ3RQWC01V054WndDTDRJcGFlRVpDc1RqSmt3RHRMbXh4UnpaTUlLc1FMY29xcUFSQnVEc1NUQnBEU1pOd25qMVR3T3VGd2pWVFc1MEUzT0hXMWtaLVlxall3cmVZUE1GTHc?oc=5",
-          "published_at": "2026-08-16T23:12:39Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "آخر خبر",
-            "url": "https://a5r5br.net",
-            "domain": "a5r5br.net",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -7976,7 +8056,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "The Barents Observer"
+        "thebarentsobserver.com"
       ],
       "languages": [
         "en"
@@ -7985,14 +8065,14 @@
         {
           "id": "10a2e2c13a87c18fa0bc",
           "title": "Gasoline from Morocco remains stuck in Murmansk amid fuel crisis",
-          "raw_title": "Gasoline from Morocco remains stuck in Murmansk amid fuel crisis - The Barents Observer",
+          "raw_title": "Gasoline from Morocco remains stuck in Murmansk amid fuel crisis - thebarentsobserver.com",
           "normalized_title": "gasoline from morocco remains stuck in murmansk amid fuel crisis",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYTRLOEZwdU4zZkt5NTVHWWJjZlZDdDA3YmU2TWJmeEFONTFtRTRKOFRWNFV5cnNfMm1CUF9iRHBWdW9nMUwtTjZ4Mlp4aXlYUV9BZ0VzX2FiUlRObHB3eWlLZkU3TXRkUVpNTmNlU1lHc0JDalpZVGxYeVFWbF9DOWV5MW9ud1h3RHBZWjkyRGQxUkNURUtnX0NLcUtkUkU5ellWRWpRVEhYRlRWU1JrOQ?oc=5",
           "published_at": "2026-08-17T10:31:29Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "The Barents Observer",
+            "name": "thebarentsobserver.com",
             "url": "https://www.thebarentsobserver.com",
             "domain": "thebarentsobserver.com",
             "weight": 0.35,
@@ -12636,8 +12716,8 @@
         "Al Jazeera",
         "Bozeman Daily Chronicle",
         "KTVN",
-        "The Washington Post",
-        "pbs.org"
+        "PBS",
+        "The Washington Post"
       ],
       "languages": [
         "en"
@@ -12663,14 +12743,14 @@
         {
           "id": "c5844354b3b44e7cab70",
           "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
-          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta - pbs.org",
+          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta - PBS",
           "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWElFSU5sS0VEUTBGaTdESEgtb29uMDNPbHZPajRacU1fM1NEUUx4TWp2ekN2Ym0zbTlGYXZUVnVUM3VsVjctbEstbW80Mk9Ra2J1a2tyZHpRc041bjZqT2tSLU9HbC1YR0w0am5Ya3JUVnNCT0pLZ2FPdzg3bDJpcThyRmRIVkdJSnhlWGU0VUtJSGRzd19JRHlhZjZOSUtwQlp2cVJJT2ZLRUwwc2x3RzB5OHRFZ9IBuwFBVV95cUxPTkwtZ2xuWFpSUkpFVHhrTTRGRXJrUERvSk9NU0RaM3hmQ2xEMGJCbzRnYmViNTY0SmlMRENKSHZTNG9fR0pUMmtZbUxOZHFjWDhZX3lYdHRqcEIxSTJsNnVrZHF3QjJjQi1OalB4TlFQSHFpd0R2NEQyV051Wkl6QUdleFI4VWNyWU1MbjV2ZVNoTmF3UmJ6UW9zOEI3QVYzZ1p5U0dPZGNXVXR3cU9ZUDVsQ0tON3VQN0gw?oc=5",
           "published_at": "2026-08-16T20:34:41Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "pbs.org",
+            "name": "PBS",
             "url": "https://www.pbs.org",
             "domain": "pbs.org",
             "weight": 0.35,
@@ -13813,8 +13893,8 @@
       "sources": [
         "AOL.com",
         "BBC",
-        "DW.com",
-        "Yahoo News Canada"
+        "Yahoo News Canada",
+        "dw.com"
       ],
       "languages": [
         "en"
@@ -13823,14 +13903,14 @@
         {
           "id": "69b0253cbfaff4a5e2ef",
           "title": "Morocco detains dozens of migrants trying to enter Ceuta",
-          "raw_title": "Morocco detains dozens of migrants trying to enter Ceuta - DW.com",
+          "raw_title": "Morocco detains dozens of migrants trying to enter Ceuta - dw.com",
           "normalized_title": "morocco detains dozens of migrants trying to enter ceuta",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW9Vd1hvcjBiMXpzZmNuLXhkOWw2MjhNek0tSF9SWU11d093TUhYNzdCa1RvVFV3MzBaV0U3Qy1lRXg1bDJzTGRKSTNUc2VZRTA1QVVQNUVZcVA1b3dEX0l5STZNWVZYalBzZHNheHl3SUxSRWp0UE1ISmR5ekd3cHg1M25BWlVjWjBJdkNZTERZZDNFMXB5cVltR0lyamRncnoxNTMzYzAwMVZxTktPWHdxa2dFNWd1VUhydkxR0gG-AUFVX3lxTE8xbUxMNU4xQXRWUUw3bjdkQm5JbGFqRzFIckRYY1dyRG9vN2VGZ1MtdWFqM0ZodGlGODA3QXhLS3ZoT0RuWkZDTXVEZl9udDlYanI1RWpPaUxmOV8wdUlFYzQyWnVhY2Zta3ZxV2JMMmV0cGpkd2xESU1ZYmFidVByMGMtcTNHeUd6TVQzUnJDQ01qbVh5YW9VNW51TXlubnM2VXhLc1dKaWJESWNLOFRQeE05WEE1RXUwbkJMNUE?oc=5",
           "published_at": "2026-08-16T19:35:33Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "DW.com",
+            "name": "dw.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -19361,7 +19441,7 @@
       "article_count": 9,
       "sources": [
         "Anadolu Ajansı",
-        "dw.com",
+        "DW.com",
         "middle-east-online.com",
         "أخبار 24",
         "الشرق الأوسط",
@@ -19393,14 +19473,14 @@
         {
           "id": "bc3ae13c8d5ee5c3ce2a",
           "title": "المغرب يحبط محاولة عبور جماعية قرب سبتة",
-          "raw_title": "المغرب يحبط محاولة عبور جماعية قرب سبتة - dw.com",
+          "raw_title": "المغرب يحبط محاولة عبور جماعية قرب سبتة - DW.com",
           "normalized_title": "المغرب يحبط محاولة عبور جماعية قرب سبتة",
           "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZnFHOHlyWXVOS293WHZFYkp6QzA3UV9BdVpRNTNualZQajNmb3ZsY1hneXNidUhocHNyX0dfV3VWeUdEbE5lZFZ0bzRZNlRYQ0NGVTNjS2g4ZDJCZE9KQ3l0N2FlaDcwUVBtQmxTaTI5c0ZrVFo3RXhMUFl5cXJmekVFYm1aSGN2NnZZeWhETnVzY1o0V1JDVncyN1VFWG9BUXUyY0ZuTDRJUEU1ejZRa09xOE43SWhRcjlwX2dzWWExU2oyTTdyeEd2Z2QybmZZTG5oZEFWZUlNWlhLN1dpNnNGMHowYTF5MmlOLTZXRkxkM0RGLWN5ZnA3eVh2aHQ4YjcyZmlMcXZMcHhweEMyRUNISUxuWEs1d19JTlM4OHZuOVNhRE81ejVtQXFaQWtOQzZUeTUwSm5lVVVEWG1ZN05PNV9TNzllYUF2RjRwMGxLNGQ1NzNKctIB2AJBVV95cUxQOUZfUHF5WkVHT21FdGFPNUFwdUNwS0JJY0hvVFhaM2JfLW1lbFZCOE01QzgxQ01sRDI5ZU41TUZjMDZYUHBKajB1TEpXQl8tRnZCeG9SQi1FTEc4aU5MTFc1SFA4SmZhOUFzZUthdEpVcmUwT2NteGIxNUdhektZalRJei1xdWVOTWtoOTdTTnFvdEhfaFdyMHNDSEloeEJqVU03Nld1OWJ1ZmtwNEdneUZGX0p4c2FoTUdwNGhZX3ktR0hHX0ZGaV81ckdCLUU0ckxBR01Gay0ycVY1QWxNRHNUcnA1NVFfNGpFNk1ZY0FZaUpUc0wwVTU4Y3hzU2pVUFhuV2N2bDZoak4telg0SUVDQnhrZEZ2eFN5a3RJUm00dHA0cTJmUks1aGxBM09YN2VJRlFlQnBSX09Cc3M5dklyTjlPdElKQ1p3a0dLZ2E5SVVsaVhIdg?oc=5",
           "published_at": "2026-08-16T09:01:12Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "dw.com",
+            "name": "DW.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -21324,8 +21404,8 @@
       "id": "02ceb2726286e75273ab",
       "title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب",
       "published_at": "2026-08-16T04:20:55Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.3,
       "claim_reasons": [
@@ -21333,11 +21413,10 @@
         "event_assertion"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "DW.com",
-        "dw.com"
+        "DW.com"
       ],
       "languages": [
         "ar"
@@ -21346,14 +21425,14 @@
         {
           "id": "d6210c1cb642dc52c042",
           "title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب",
-          "raw_title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب - dw.com",
+          "raw_title": "لمنع اقتحام جديد .. شرطة وجنود في سبتة وتعزيزات في المغرب - DW.com",
           "normalized_title": "لمنع اقتحام جديد شرطة وجنود في سبتة وتعزيزات في المغرب",
           "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxQUjM2YWp0aHJIempSNHJoTl9vRWVXUV9wcjBGMk1NbVY3VWdWcUM3UUZJRElqbmF5aUFGRV9vdDFYQ21WRmZyMEhQQUdfYXh3blZEb0M5RXJrNlB6eC1OQ0hYRHBoTi1fNEtwUE1ZNnZPLU5jZ0FpU0laVXNmbmcxTUswZW5zYlBaRlgxb25kRlJCWVpEazJ5eTRNSUl4eVZWdk5QczdzanBZay1VMER6VGoyWF9xbTZPS29vckVWcXJiSDlGMmExZ0lWOU0wbUdSdVVTUnprVzg1Q0tLLUVTTEI0NmpnU3oxSFVvelFsN0VJM29HUkFTUEZpSHdDUFlaTUVGODZvOEVqbnV4Y2RmMXNlOHhscG5wSzc2T0lyQ1h3R295WHZ2S1pRbGJjM00zVi1jbFNoOUtucjVQUUh4TUNNb1VvSXgwVU9pMEptWGc5Qi1Bdzl4cWtNdlJUbnYxNmN3eXNpYWEwZE4wLWRhSVVpX2REN1R3N0ZuV0Z4OHB3bWZYa1pFTU9ibHFKZ2d1Q1hIN0ZVN0Y3UXh0VEtOV19SdjJpTDZzeFZuMUdxREpuRVl2MVA1VzRsY0fSAbwDQVVfeXFMUG9nZE4xXzZac0ZLd05XbGpqc2Z6VXZnMVdtM19QejhJOEdIOUNPeWk1MFc1SXVvcnFsd2FOWXNnZTJzYXVaUmE3MVBkUFdmS2hIUk9xbjRyejZkLXBaMUFpUlRlQWE3cjJtbnZFOEkwQmNTRDhDTGJLOWQ2QkNIZWoyNjI0eEduaEhPVFZlT29iTjNuMC1VZUtnV2tIaFUzZXVaTU5yZVl2Q2c1dWpscGNJRlF1NmNYZ3JNUEx4SllmVmhqSEpOWThmaVItLW5FRlkzTnQwRjJfdTVVVkVzamNjaE9GRG96VWtSNVZNQ2ZxVkdHQWg0bExyZjY0OG03dHBLODVKcFREbXBPdlljSldHT0JVaDlfVWhpTUViS0JtZXJLTGpYNVM0bUp1ZC13eE5hd1JINnlSeG9rUW5FcVFMallGWkRGSU42Y1BaM085cFVQUWp6Mm5lVGdoMDNXYVRDV1NXNy1CdXV2R3lGMFl2cTVscHRybTJycWN3VzQxblYyQkhmczd2Y0VlbUprU1RVWmlHOHphVEthV2t4dDlmSFF1QVVTVFpZMEMxbTZiYWd6X3RMNkFUVHdO?oc=5",
           "published_at": "2026-08-16T04:20:55Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "dw.com",
+            "name": "DW.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -43542,86 +43621,6 @@
             "name": "lareleve.ma",
             "url": "https://lareleve.ma",
             "domain": "lareleve.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "caf7b5c788c5340603e4",
-      "title": "Morocco’s CNSS Plans Major Overhaul of Performance Management System",
-      "published_at": "2026-08-13T21:07:33Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Morocco World News"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "aed18e7bd1d1a05e7575",
-          "title": "Morocco’s CNSS Plans Major Overhaul of Performance Management System",
-          "raw_title": "Morocco’s CNSS Plans Major Overhaul of Performance Management System - Morocco World News",
-          "normalized_title": "morocco s cnss plans major overhaul of performance management system",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZS1SeF9FRndLWDB5Mk04YThVcUtzLWY2UUp6Skd2WDBLd09Od3VoZVV6bHU4cHN6UGJQMS1GdDFqR2NMaTU2U2cwQ0J6M21UaURFSHhuZEEzeG1RTmpVMU96SG5QUmNNQ0VNUmZhNk1KZHA5Vl9XbHY4REtDSkJsNUhILWMxeVhWOHlTR0E0VTZ0V2NoQlB1TVlVcTJnRWIxMnVDTzdqVnVWVmwzNGZqc2ZOdHkteVU?oc=5",
-          "published_at": "2026-08-13T21:07:33Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Morocco World News",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "be3cfa9b84921931b435",
-      "title": "بعد خروجها عن الخط الدبلوماسي تجاه المغرب.. مونكلوا يتدخل لتأجيل مثول وزيرة الدفاع أمام مجلس الشيوخ",
-      "published_at": "2026-08-13T20:53:49Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "الصحيفة"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "8e616c4ee87d1b17e614",
-          "title": "بعد خروجها عن الخط الدبلوماسي تجاه المغرب.. مونكلوا يتدخل لتأجيل مثول وزيرة الدفاع أمام مجلس الشيوخ",
-          "raw_title": "بعد خروجها عن الخط الدبلوماسي تجاه المغرب.. مونكلوا يتدخل لتأجيل مثول وزيرة الدفاع أمام مجلس الشيوخ - الصحيفة",
-          "normalized_title": "بعد خروجها عن الخط الدبلوماسي تجاه المغرب مونكلوا يتدخل لتاجيل مثول وزيرة الدفاع امام مجلس الشيوخ",
-          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOYVBYaF9hVE8ybjQ4TjhPWDZ6MnQ4emQtSl80ZTdBRHR3VlpIRmR1VWdjSmE3TUNSU0tENGNWUjlPNVBON1RWOEV4QjFMTTc2blJxVUtTZXFLd2EyOTBDQW5xSi1qajdqZmdPbERNRnpWNkxxb016TFV4TlVuX2xZSWFPNVkzT0tOa2F4ZVYtOWZ0blRFckw1Q1pJSWhrOVN0ZjFwTXl5ZWNhWk5LWS1rMkpxUWpPMFJhem83Z3ZMQi1KMFFFcXZqX05NeGZYanNWVEp2LTJPb3MxcWFMVG8taVBONjcyVjJWZTExcWlSRUN6YTRxRmxVblNLM3N3X28xWnRsdXU2T3R3VVlWVlB0RDA0SlQ4VW9mdXVVYjJQV05oQUxHSVdqaHNqVE9ZWFZUTWRaalFYRnJ6MHhlV2t0b2xMWF9xOHM?oc=5",
-          "published_at": "2026-08-13T20:53:49Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "الصحيفة",
-            "url": "https://www.assahifa.com",
-            "domain": "assahifa.com",
             "weight": 0.35,
             "category": "unrated"
           }
