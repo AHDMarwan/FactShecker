@@ -1,20 +1,236 @@
 {
-  "generated_at": "2026-08-20T01:51:57Z",
+  "generated_at": "2026-08-20T03:11:09Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1200,
     "fact_checks": 0,
-    "clusters": 1021,
-    "sources": 339,
+    "clusters": 1022,
+    "sources": 338,
     "matched_clusters": 0,
-    "needs_review": 949,
+    "needs_review": 951,
     "medium_evidence": 69,
-    "corroborated": 3
+    "corroborated": 2
   },
   "fact_checks": [],
   "items": [
+    {
+      "id": "f24aba8d7b92931ff6b9",
+      "title": "Il n’avait pas disparu au Maroc : Leon Baptiste était en prison à Marrakech",
+      "published_at": "2026-08-20T03:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Bladi.net"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "e24f2ed91548286d2c31",
+          "title": "Il n’avait pas disparu au Maroc : Leon Baptiste était en prison à Marrakech",
+          "raw_title": "Il n’avait pas disparu au Maroc : Leon Baptiste était en prison à Marrakech - Bladi.net",
+          "normalized_title": "il n avait pas disparu au maroc leon baptiste etait en prison a marrakech",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSk5mcHNrUFI3ZUJuVmdfU2FzNVk1WEdkQlpWR3BDVW90dW84d18zZmxUcmJ1RnhFLVFDeGhYLU4zdHM5dGRzTFk4S3RWTVpQOVRUOGRwUm8tSjBRb2NQV2JiWm1mM0NFVVVQaUFOb24zTzdnWWY1YVJxbHdJNkpyU19nd1VLZTgwbTEtZg?oc=5",
+          "published_at": "2026-08-20T03:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Bladi.net",
+            "url": "https://www.bladi.net",
+            "domain": "bladi.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "48caa22b043bc7530c0e",
+      "title": "Morocco Consumer Prices Fall for 1st Time in 5 Months",
+      "published_at": "2026-08-20T02:21:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "tradingview.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "71135ee80a1b2e19ae47",
+          "title": "Morocco Consumer Prices Fall for 1st Time in 5 Months",
+          "raw_title": "Morocco Consumer Prices Fall for 1st Time in 5 Months - tradingview.com",
+          "normalized_title": "morocco consumer prices fall for 1st time in 5 months",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVTdMMEE4UjUxZ0hxRlpNdEFvMWJMZEVPakVUbzQ4V2xzeER4RkljTmdxUmd3TWotR1doNVg1WkdhVHVWUk1STXcyN3drZXR1RTBKYV9FbVJSX0stYkNPcXQ3Z19TZkhoVlg2R2hzNDBXcC1MME05UHZHclBiTVFyUTlhN2dFWkFoX3J0TnVrWUtjWm9PZzJNVjd3YUJxMmhlVm96dE8wbw?oc=5",
+          "published_at": "2026-08-20T02:21:00Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "tradingview.com",
+            "url": "https://www.tradingview.com",
+            "domain": "tradingview.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bf098cf48f09addb25c4",
+      "title": "فوانيس المغرب تواصل الانتشار .. والسوق تتجه إلى 880 مليون دولار",
+      "published_at": "2026-08-20T02:01:54Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "cb4950299ba6a8a9ba65",
+          "title": "فوانيس المغرب تواصل الانتشار .. والسوق تتجه إلى 880 مليون دولار",
+          "raw_title": "فوانيس المغرب تواصل الانتشار .. والسوق تتجه إلى 880 مليون دولار - Hespress",
+          "normalized_title": "فوانيس المغرب تواصل الانتشار والسوق تتجه الى 880 مليون دولار",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQMHBUSl9UeDUyYXFUY0RRYWtkejNuZG93aS01ZjNCaXdnNXNfVDFJRjdxVlZfQmdjZDkzY3FLMndNTDJWQTh2TEk5UzlfOUpTaGxhMDhyYm9RV2lBTXdOM1hVVk40SVNTNHladlN1cllEMzBOQ080bEptUFlUV0NhaFZiWmNycUlBbjB4VHVSV3dwM0JadElVQm05cUxwbUljek42UkUzU1NET0dGUnYwSkY3UGhUSzk4cTFzMUdldkd1M3FtUXExa0NOX3QtbzJzcXZWRVBjb1NnblpwbHI0bmhrYmNic1M2YTlwOTY4TzVnSG5pTkFvOE5yanRhanZvYXZ6ZHV1c29HXzg1cHBqOGl1RlRISmR2ell4ckUwRl9TcmNWODdZWXF4Q1haUlZZSGJ2LWxDT1VzNUlkdEFXdF9oZ1pZZUd1SXhHY1Nqd1J1aWhyS3c?oc=5",
+          "published_at": "2026-08-20T02:01:54Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "44c07735434713b5548e",
+      "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس",
+      "published_at": "2026-08-20T01:57:30Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 4,
+      "article_count": 4,
+      "sources": [
+        "aps.dz",
+        "أفريكا نيوز",
+        "المساء",
+        "الموعد اليومي"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "f3a28da714e7855c36f3",
+          "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس",
+          "raw_title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس - المساء",
+          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء شعبي على درجة الياس",
+          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOMlVVVTZVX3E5NUlvUVVIVzB1d09NYThkcnVFTkxBcHZ6Nm5HU2p4T1V3d3pYaXBTTTh2M2JaaDhhTWtlNXV1NUt5eWVEQnMydWFCTmo3MEhqM2lrZ0xBcnVCOERxVlJoWHZsUnZuNUxKYVVkSFF1VGN2S1Q0WWZRdlM1RVJ5bmpZa2t3dFM2VnNET2VWdGtQN29nUkR1Y3hybkQ0aF9ya1E2R0d1Z08xTjBCdXFaVW5LblR5ZlV0MTIxaEhIX3JNeUtOdGtJY2hPT2JyUDk1MTRYTnZ1VkRpOWp5MzFmNUFhYjVwX2NVeE5RXzhpUmthYTBPWjU1bXBIa2laOWZTZXo5OFJsMUZmZnZoQnZ5SVZGVUlsREFrY2tGU2x2YTdKYVhoSWU1TkhINWdFSmhPazdsNGFPaVVDSTduRVk0akNBbWxNdm5MX3NWYURhbGhGYzVpZ2loVW5QVXBROTdMbU94MEt1bzE2R2o4MzdIQmxxeXBjSkJYQ0hTVWYtbXdOdjZMaGxHZGg1SjJvdGh1bC1EcGE4UlBpQ01VNlByc29yMG5MQzhDYUpraExJd2JxTGFjQzJfRjVXZE1ndFBkZEpMUVdpNDNkeW9sWDkzUkpaZjljUWVLX2JNellBNmM4WGp6T1FDSXRKNG9oZnNDUkVJYmFheFBV?oc=5",
+          "published_at": "2026-08-20T01:57:30Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "المساء",
+            "url": "https://www.el-massa.com",
+            "domain": "el-massa.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "e6f907f8765dca08f30b",
+          "title": "الهروب الجماعي من المغرب: أكبر استفتاء على اليأس",
+          "raw_title": "الهروب الجماعي من المغرب: أكبر استفتاء على اليأس - الموعد اليومي",
+          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء على الياس",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNMGNBYjRSaTNweUJZaHZtakk4ZjJxX2RqVDVVT0hiWnlzQ2RySk5idXRleUFiZmJWYmN6UEV2RXl2S3ZwS29yX3luSUVvQzVFU054UC1PODRyUFA2TFRLQnM1VzRPOFlPRXB2TGhKaHMwVThIdkR0ZkNYY1FpLW9GVVhLbjBTQVp2bWM5bGM3NlNOUXluSlV1aWVCc2hlV2xJTmlvVW1zb2xzSERZOVhKZ2ZrLUdZUHdpRVVZYWVFZTVlWXpld3RMQzhZdlRXT1ZTV3JqbnM0NXlCQUFvRHlWYmE2QVNTcFJPZWhhSXNtNkdwUkp2Q3lVNl9oU3hWSzNzb1lKTUFJNFQ5STRQTEU0WVphTjgzakdwMVFydGVWQnN5N1JkckJiQnhSRXhZX1NibFJCYVd4S1o5d2pxemMw?oc=5",
+          "published_at": "2026-08-19T15:58:17Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "الموعد اليومي",
+            "url": "https://elmaouid.dz",
+            "domain": "elmaouid.dz",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "4ab836519ad24e94f53d",
+          "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط",
+          "raw_title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط - أفريكا نيوز",
+          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء شعبي على درجة الياس والاحباط",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNOXBlUFh3SGtRWXlRYTcwOFotUHN4WEgyRnVsWlNpU0RZTWt4QlBMVlplNFc2dEpGV1pOMDVfQnVSc2pOVHJ4NWloamZyTDJtNmNWcHhxbUlmZk1vSThaVFlRTTc2OFo2a205aFpVZjltcGVoSnBwdGhBXzRQOVZCUXNLMW81YlFRbEk3d21UQ3ZPVGdYMWQwRlE2Z0pxWDRTUFBmSGpGME1nZHlndU9DODRKWE5fUGotaGJnR2VYQ2hQQ0hEM1ppSlYxa0RqUXVnNC1YclRYUm9vVGRPeEN1RHhyX0hqRjEta0hHTXlqbGprbnExM3ZPUl9EZXVSMFcwMTV5LWFjb1RGUVJ2RE5Xa3NsMVJCZ2RJS0JlY0pHRWhYdDJMR3BUaThZblBKWjdscW1QdHBpWEMtQUhWRmdYb2xn?oc=5",
+          "published_at": "2026-08-19T13:56:26Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "أفريكا نيوز",
+            "url": "https://africanews.dz",
+            "domain": "africanews.dz",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "0f8b72251882cf8eeed7",
+          "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط",
+          "raw_title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط - aps.dz",
+          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء شعبي على درجة الياس والاحباط",
+          "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPRGpKWlh1V0NRM19DMWUyRlNIdi11LWJpNVplZjVLei1hdlFyV004eVhvZHZSRW9RQWRQZjRBckxmTm50ZlE4cjlIaVM0N3ZtNkk3R1ppck5tQ1lKcGlVT2lhaUxLdVlxaW80anlGNEZEODZnaVc3ZmgtbTFSMjFiRi0tU2YzZVFZaW1xaEJIWEl3QXJoTWZBOEVvSk9PNVZPUmNrV0hDaS02NmFWU0JWelk5Ym9GMkFTX3FsOE05ZDVlcFR2R05TdW5HcHBHWXFDazVGUWRZM3g0b3ZTVnZWOERRODJwcVNIZ0JqN3RELXlhbnJxT3hrQjRpNzY4YTVnUlczV2REOXdDZ3k5eVVhSERzbmp1U3daX1BfYW85UE9PcklMQlliTVlTNEZQb0Q0RnBPZV9ZLW5UQWF0R3NYcVMyNGdsX1VHOXRQemh3WkwzX1JXNmJMR3Y2cVUyOExmejdoQ3ZaWVhvY3Vhdk12aktLazF1NTZXZk51Z3VPdnJheUpqMFcwWFdZa0JIRTBuUDJGU3RLNWhnZ0V0RkY3NFpTbkU1RDVmbHd2SnkybEJhWDVoX0hLNXJBOWI1THZ4djJ6NXFoeWxNbngtamJZcXNNMzVCMG8wa2NJYnNadjZxMXJhRmcxVGxXaHRRM2R3R1ZZQlF5eEhmX0xPT1lOTWVYVVdHRkJETHdpSkJsNnZOVnNULVBXVC1hUnBCZDYwZWcwVmRfbHRIOTgxRHRkanQ3aEdzQmM?oc=5",
+          "published_at": "2026-08-18T18:50:00Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "aps.dz",
+            "url": "https://www.aps.dz",
+            "domain": "aps.dz",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "acc9f5d2f0530ed047a6",
       "title": "إحباط تهريب 400 كلغ من الحشيش من المغرب نحو جزر الكناري",
@@ -50,6 +266,46 @@
             "name": "المساء",
             "url": "https://www.el-massa.com",
             "domain": "el-massa.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "319f3d6efe31078d9cb9",
+      "title": "Avocats : La fronde s’enlise jusqu’à nouvel ordre !",
+      "published_at": "2026-08-20T01:32:07Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "lopinion.ma"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "45914c45665d6912c1cd",
+          "title": "Avocats : La fronde s’enlise jusqu’à nouvel ordre !",
+          "raw_title": "Avocats : La fronde s’enlise jusqu’à nouvel ordre ! - lopinion.ma",
+          "normalized_title": "avocats la fronde s enlise jusqu a nouvel ordre",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmtyaUh1eERScGNFaU1BeDlzWjVkWGhBUzZlMjUzSzF3cDNIc2dPU3RkQlhHMnoyOTE2S1U1OXBlM2FZNkFCbDNBeU9NUXBxdzIybUtwcjZnNXVyT2hlUG41NV9uVjZQT0IzOTVEXzFWQjlaWHJ0Ulh2RE1zUXo1UVFrUGc3bTFTc2hOaERsOS0weFlNeFNETFp4dFRIMjFONk5rcjRBczZwc0xEUzlnSHRwOXlTc2JZMGVkZ24tQmZPbDh5MWdxQjVqUFF6MmNv?oc=5",
+          "published_at": "2026-08-20T01:32:07Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "lopinion.ma",
+            "url": "https://lopinion.ma",
+            "domain": "lopinion.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -413,7 +669,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -422,14 +678,14 @@
         {
           "id": "1d73caff20aba333c93b",
           "title": "Du Maroc aux États-Unis, CMA CGM relèvera jusqu’à 500 dollars ses tarifs de fret à compter du 15 septembre",
-          "raw_title": "Du Maroc aux États-Unis, CMA CGM relèvera jusqu’à 500 dollars ses tarifs de fret à compter du 15 septembre - barlamane.com",
+          "raw_title": "Du Maroc aux États-Unis, CMA CGM relèvera jusqu’à 500 dollars ses tarifs de fret à compter du 15 septembre - برلمان.كوم",
           "normalized_title": "du maroc aux etats unis cma cgm relevera jusqu a 500 dollars ses tarifs de fret a compter du 15 septembre",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQajdqTXBqSVJjYV9VZkdyX3ZQSlBGeXNCNFBBS0ljNDdUXzhEdjJoOWh0S0tLOUtzX05LUDl0bHlWRE1oUTU3NWFDUnB4MWpVOWNZWXFNZnBWcC1Ydi1uZGIxWW5tZ2hWOUFWQjhQNDlLUVFqaXh1bXphOTg4TDhoelRBWkpJRm5wSFlWeW1lMTlMMV91b3BrYzEwYkM4Q0NfT3BkMFlvWlM3alNlanRxTG82T0ZYVEhPam9qYlA5djVLN0N3UWpyVllB?oc=5",
           "published_at": "2026-08-19T22:00:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -616,7 +872,6 @@
       "article_count": 11,
       "sources": [
         "365Scores",
-        "gate.ahram.org.eg",
         "أهل مصر",
         "الأخبار المسائى",
         "البوابة نيوز",
@@ -624,6 +879,7 @@
         "الوطن",
         "اليوم السابع",
         "برلمان سبور",
+        "بوابة الأهرام",
         "دار المعارف",
         "يلاكورة"
       ],
@@ -651,14 +907,14 @@
         {
           "id": "7af856579a0556a00430",
           "title": "مالك نادي المغرب الفاسي يزور بعثة الأهلي قبل لقاء برشلونة",
-          "raw_title": "مالك نادي المغرب الفاسي يزور بعثة الأهلي قبل لقاء برشلونة - gate.ahram.org.eg",
+          "raw_title": "مالك نادي المغرب الفاسي يزور بعثة الأهلي قبل لقاء برشلونة - بوابة الأهرام",
           "normalized_title": "مالك نادي المغرب الفاسي يزور بعثة الاهلي قبل لقاء برشلونة",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FeWk2M0RGakpUZVZJUXZLZWYycnVsci11X0ZfcWR4dW1OQjFtTWc3cGIyUXdCaVA4Y0l1eVN1VG1OQk52R3pROUIwblpiSnpwRUhZUXNR?oc=5",
           "published_at": "2026-08-19T17:15:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "gate.ahram.org.eg",
+            "name": "بوابة الأهرام",
             "url": "https://gate.ahram.org.eg",
             "domain": "gate.ahram.org.eg",
             "weight": 0.35,
@@ -944,6 +1200,65 @@
       ]
     },
     {
+      "id": "3e5e3a4cc33b2237d0b9",
+      "title": "Migration crisis in Ceuta: Madrid denies any plans for sanctions against Morocco",
+      "published_at": "2026-08-19T20:54:24Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": true,
+      "claim_score": 0.4,
+      "claim_reasons": [
+        "specific_statement",
+        "reported_assertion"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "Daily News Hungary",
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "3c61b9768c45c3aa1c39",
+          "title": "Migration crisis in Ceuta: Madrid denies any plans for sanctions against Morocco",
+          "raw_title": "Migration crisis in Ceuta: Madrid denies any plans for sanctions against Morocco - Yabiladi.com",
+          "normalized_title": "migration crisis in ceuta madrid denies any plans for sanctions against morocco",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFdSdk9wUnRXM3RnVkY3SWRWZHZTd2hnUHhVbmhBVlZJX2YxOW9tRVZfeDdHX19lU0FvcG1zdkFzdnAxNFFUTXByenNOVDRaaTQ5SVlZMTRETHJZeDVXMzJUT3JmQ0hsQ0pFLU15X0poZzJULTZMYk1TaWRMZmlESlk4VmFFOS1EZ3VodEpwdG1jaUU?oc=5",
+          "published_at": "2026-08-19T20:54:24Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://en.yabiladi.com",
+            "domain": "en.yabiladi.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "fe7d7765c1377a639ddc",
+          "title": "Migration crisis: Madrid denies any plan of sanctions against Morocco",
+          "raw_title": "Migration crisis: Madrid denies any plan of sanctions against Morocco - Daily News Hungary",
+          "normalized_title": "migration crisis madrid denies any plan of sanctions against morocco",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWZtMzgzUGlVMTd2aXlmejZSUVVYNjlRdFAzLVFmbFgyMkVWR201czVlV0pyWlNoMVhSelQwOEdqMDhFb04tVHdXWVZSZjZieU1USlFkd1lFNG4tdVlZdGphWkdzc1lzWTNiLXhwVGY0QWhPbndUd1ZRUFRZcy1aUWpBaTg5RGxhT1BNcndOaDFKRUJxS0lKUVROVGVVaU0?oc=5",
+          "published_at": "2026-08-19T17:50:08Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Daily News Hungary",
+            "url": "https://dailynewshungary.com",
+            "domain": "dailynewshungary.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "9a7f3e4f815067e4e2a3",
       "title": "Morocco’s DGSSI Warns of Critical Apple Vulnerabilities",
       "published_at": "2026-08-19T20:52:42Z",
@@ -984,9 +1299,49 @@
       ]
     },
     {
+      "id": "39e149f6a60870cacc11",
+      "title": "المغرب.. إقبال على الدراجات المائية وسط تشديد ضوابط الاستعمال لتعزيز السلامة بالشواطئ",
+      "published_at": "2026-08-19T20:51:09Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "medi1news.com"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "0796ff2a016fd3586d0b",
+          "title": "المغرب.. إقبال على الدراجات المائية وسط تشديد ضوابط الاستعمال لتعزيز السلامة بالشواطئ",
+          "raw_title": "المغرب.. إقبال على الدراجات المائية وسط تشديد ضوابط الاستعمال لتعزيز السلامة بالشواطئ - medi1news.com",
+          "normalized_title": "المغرب اقبال على الدراجات المايية وسط تشديد ضوابط الاستعمال لتعزيز السلامة بالشواطي",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzVUpTM2x4UVJYWmFaS3pObmNCMnhfcjRLRENSSUczQUdmbDJmV0hNU2hEdVNMbGotSXM4TnNlbzVpMmFxc0RYVE91ODIxdlp0UEc3WHpicjFoVjZa?oc=5",
+          "published_at": "2026-08-19T20:51:09Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "medi1news.com",
+            "url": "https://www.medi1news.com",
+            "domain": "medi1news.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "db82fef13e40bcfbd74a",
       "title": "Morocco-US Military Cooperation: Canary Islands government pressures Madrid",
-      "published_at": "2026-08-19T20:40:08Z",
+      "published_at": "2026-08-19T20:39:24Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -1010,7 +1365,7 @@
           "raw_title": "Morocco-US Military Cooperation: Canary Islands government pressures Madrid - Yabiladi.com",
           "normalized_title": "morocco us military cooperation canary islands government pressures madrid",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkFnMHVoU2lib1Y2WUpUV0JwYm1KZjBhR1lOSDliSTU0Q2NNZmJ0WXM4QkNaTlVQc0R6d0VNWEJYXzlJUTFGbE1pbDdWb0lrdU1qOTc0djFrRHFfTzJ4SEhQWnRzZ0lPMWQ3ajZTcGFfRVJlTDlJbnRHRk9tOXNxZDlRQUtMRERrQnN3LWZTcWNnSFJtT01tZlFrZHctU2Nq?oc=5",
-          "published_at": "2026-08-19T20:40:08Z",
+          "published_at": "2026-08-19T20:39:24Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -1141,65 +1496,6 @@
             "name": "Hespress Français - Actualités du Maroc",
             "url": "https://fr.hespress.com",
             "domain": "fr.hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "3e5e3a4cc33b2237d0b9",
-      "title": "Migration crisis in Ceuta: Madrid denies any plans for sanctions against Morocco",
-      "published_at": "2026-08-19T20:34:30Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
-      "claim_candidate": true,
-      "claim_score": 0.4,
-      "claim_reasons": [
-        "specific_statement",
-        "reported_assertion"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
-      "sources": [
-        "Daily News Hungary",
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "3c61b9768c45c3aa1c39",
-          "title": "Migration crisis in Ceuta: Madrid denies any plans for sanctions against Morocco",
-          "raw_title": "Migration crisis in Ceuta: Madrid denies any plans for sanctions against Morocco - Yabiladi.com",
-          "normalized_title": "migration crisis in ceuta madrid denies any plans for sanctions against morocco",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeFdSdk9wUnRXM3RnVkY3SWRWZHZTd2hnUHhVbmhBVlZJX2YxOW9tRVZfeDdHX19lU0FvcG1zdkFzdnAxNFFUTXByenNOVDRaaTQ5SVlZMTRETHJZeDVXMzJUT3JmQ0hsQ0pFLU15X0poZzJULTZMYk1TaWRMZmlESlk4VmFFOS1EZ3VodEpwdG1jaUU?oc=5",
-          "published_at": "2026-08-19T20:34:30Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://en.yabiladi.com",
-            "domain": "en.yabiladi.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "fe7d7765c1377a639ddc",
-          "title": "Migration crisis: Madrid denies any plan of sanctions against Morocco",
-          "raw_title": "Migration crisis: Madrid denies any plan of sanctions against Morocco - Daily News Hungary",
-          "normalized_title": "migration crisis madrid denies any plan of sanctions against morocco",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWZtMzgzUGlVMTd2aXlmejZSUVVYNjlRdFAzLVFmbFgyMkVWR201czVlV0pyWlNoMVhSelQwOEdqMDhFb04tVHdXWVZSZjZieU1USlFkd1lFNG4tdVlZdGphWkdzc1lzWTNiLXhwVGY0QWhPbndUd1ZRUFRZcy1aUWpBaTg5RGxhT1BNcndOaDFKRUJxS0lKUVROVGVVaU0?oc=5",
-          "published_at": "2026-08-19T17:50:08Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Daily News Hungary",
-            "url": "https://dailynewshungary.com",
-            "domain": "dailynewshungary.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1408,46 +1704,6 @@
       ]
     },
     {
-      "id": "319f3d6efe31078d9cb9",
-      "title": "Avocats : La fronde s’enlise jusqu’à nouvel ordre !",
-      "published_at": "2026-08-19T20:16:29Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "lopinion.ma"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "45914c45665d6912c1cd",
-          "title": "Avocats : La fronde s’enlise jusqu’à nouvel ordre !",
-          "raw_title": "Avocats : La fronde s’enlise jusqu’à nouvel ordre ! - lopinion.ma",
-          "normalized_title": "avocats la fronde s enlise jusqu a nouvel ordre",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmtyaUh1eERScGNFaU1BeDlzWjVkWGhBUzZlMjUzSzF3cDNIc2dPU3RkQlhHMnoyOTE2S1U1OXBlM2FZNkFCbDNBeU9NUXBxdzIybUtwcjZnNXVyT2hlUG41NV9uVjZQT0IzOTVEXzFWQjlaWHJ0Ulh2RE1zUXo1UVFrUGc3bTFTc2hOaERsOS0weFlNeFNETFp4dFRIMjFONk5rcjRBczZwc0xEUzlnSHRwOXlTc2JZMGVkZ24tQmZPbDh5MWdxQjVqUFF6MmNv?oc=5",
-          "published_at": "2026-08-19T20:16:29Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "lopinion.ma",
-            "url": "https://lopinion.ma",
-            "domain": "lopinion.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "19f7c47353f29c7df8ba",
       "title": "Le Maroc a fourni 205 777 tonnes de légumes de serre à l’Espagne, soit 54 % de ses importations, avec un bond de 18,8 % du poivron à 102 951 tonnes",
       "published_at": "2026-08-19T20:13:00Z",
@@ -1464,7 +1720,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -1473,14 +1729,14 @@
         {
           "id": "945a568ce73939187d55",
           "title": "Le Maroc a fourni 205 777 tonnes de légumes de serre à l’Espagne, soit 54 % de ses importations, avec un bond de 18,8 % du poivron à 102 951 tonnes",
-          "raw_title": "Le Maroc a fourni 205 777 tonnes de légumes de serre à l’Espagne, soit 54 % de ses importations, avec un bond de 18,8 % du poivron à 102 951 tonnes - barlamane.com",
+          "raw_title": "Le Maroc a fourni 205 777 tonnes de légumes de serre à l’Espagne, soit 54 % de ses importations, avec un bond de 18,8 % du poivron à 102 951 tonnes - برلمان.كوم",
           "normalized_title": "le maroc a fourni 205 777 tonnes de legumes de serre a l espagne soit 54 de ses importations avec un bond de 18 8 du poivron a 102 951 tonnes",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTVNpcjc3OWRVWXB1dFhMLXQ1Vm5IeUo0OGl0ajdHRVVhQ1UxcERRcHZoZUlDR3JGekVYSmVxMnJkSk0tZnFvOXdnS21CcTNBcjhDTnlHTV84N0UxTGI1WmxXS1ViSnZEeWFLSDYxQ05pUFFfdVZoaXpQeURGZU1tRjFsaGNHZFFCelF0bGZJYU1XYkM4RGxEOFRTTDNmMWtZNHM1Mms1bGk5RWVqNmNhbGhFM3hMMjMwbTJRZ3hfZDlxN1l0Z213RGJpVUtzNE5XNGMyaTVUR2RPMW1KZnJXdG5NMGJpTVo2eWNOOVRkd21wYVVLc251dQ?oc=5",
           "published_at": "2026-08-19T20:13:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -1585,7 +1841,7 @@
       "article_count": 3,
       "sources": [
         "BBC",
-        "The Telegraph"
+        "telegraph.co.uk"
       ],
       "languages": [
         "en"
@@ -1594,14 +1850,14 @@
         {
           "id": "07e4e1ee067b78649f83",
           "title": "‘Missing’ British athletics coach serving prison sentence in Morocco",
-          "raw_title": "‘Missing’ British athletics coach serving prison sentence in Morocco - The Telegraph",
+          "raw_title": "‘Missing’ British athletics coach serving prison sentence in Morocco - telegraph.co.uk",
           "normalized_title": "missing british athletics coach serving prison sentence in morocco",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWndSWFJuSnB6eUNCMC1YU1VwZGQzbmF2SXcwelk1UVkxZUVfclFaWG4wYnJWaGJtdGRiZnB2WVpRUXNtZzlFMmVHZ0p0eW5qZ3A3Y3Fha19yWkN2T1hLTk1SUmVkYkFJR1ZmWjhoS1h2d1I2emdic3N0UHRIVF9GOEJna01wOXByTk9vdVE5V2lCX2dSSkVhcDhhRnNDMDd4cVpHOTNvTFQ?oc=5",
           "published_at": "2026-08-19T20:01:00Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "The Telegraph",
+            "name": "telegraph.co.uk",
             "url": "https://www.telegraph.co.uk",
             "domain": "telegraph.co.uk",
             "weight": 0.35,
@@ -1638,100 +1894,6 @@
             "name": "BBC",
             "url": "https://www.bbc.co.uk",
             "domain": "bbc.co.uk",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "44c07735434713b5548e",
-      "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس",
-      "published_at": "2026-08-19T19:59:08Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.608,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 4,
-      "article_count": 4,
-      "sources": [
-        "aps.dz",
-        "أفريكا نيوز",
-        "المساء",
-        "الموعد اليومي"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "f3a28da714e7855c36f3",
-          "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس",
-          "raw_title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس - المساء",
-          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء شعبي على درجة الياس",
-          "url": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxOMlVVVTZVX3E5NUlvUVVIVzB1d09NYThkcnVFTkxBcHZ6Nm5HU2p4T1V3d3pYaXBTTTh2M2JaaDhhTWtlNXV1NUt5eWVEQnMydWFCTmo3MEhqM2lrZ0xBcnVCOERxVlJoWHZsUnZuNUxKYVVkSFF1VGN2S1Q0WWZRdlM1RVJ5bmpZa2t3dFM2VnNET2VWdGtQN29nUkR1Y3hybkQ0aF9ya1E2R0d1Z08xTjBCdXFaVW5LblR5ZlV0MTIxaEhIX3JNeUtOdGtJY2hPT2JyUDk1MTRYTnZ1VkRpOWp5MzFmNUFhYjVwX2NVeE5RXzhpUmthYTBPWjU1bXBIa2laOWZTZXo5OFJsMUZmZnZoQnZ5SVZGVUlsREFrY2tGU2x2YTdKYVhoSWU1TkhINWdFSmhPazdsNGFPaVVDSTduRVk0akNBbWxNdm5MX3NWYURhbGhGYzVpZ2loVW5QVXBROTdMbU94MEt1bzE2R2o4MzdIQmxxeXBjSkJYQ0hTVWYtbXdOdjZMaGxHZGg1SjJvdGh1bC1EcGE4UlBpQ01VNlByc29yMG5MQzhDYUpraExJd2JxTGFjQzJfRjVXZE1ndFBkZEpMUVdpNDNkeW9sWDkzUkpaZjljUWVLX2JNellBNmM4WGp6T1FDSXRKNG9oZnNDUkVJYmFheFBV?oc=5",
-          "published_at": "2026-08-19T19:59:08Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "المساء",
-            "url": "https://www.el-massa.com",
-            "domain": "el-massa.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "e6f907f8765dca08f30b",
-          "title": "الهروب الجماعي من المغرب: أكبر استفتاء على اليأس",
-          "raw_title": "الهروب الجماعي من المغرب: أكبر استفتاء على اليأس - الموعد اليومي",
-          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء على الياس",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNMGNBYjRSaTNweUJZaHZtakk4ZjJxX2RqVDVVT0hiWnlzQ2RySk5idXRleUFiZmJWYmN6UEV2RXl2S3ZwS29yX3luSUVvQzVFU054UC1PODRyUFA2TFRLQnM1VzRPOFlPRXB2TGhKaHMwVThIdkR0ZkNYY1FpLW9GVVhLbjBTQVp2bWM5bGM3NlNOUXluSlV1aWVCc2hlV2xJTmlvVW1zb2xzSERZOVhKZ2ZrLUdZUHdpRVVZYWVFZTVlWXpld3RMQzhZdlRXT1ZTV3JqbnM0NXlCQUFvRHlWYmE2QVNTcFJPZWhhSXNtNkdwUkp2Q3lVNl9oU3hWSzNzb1lKTUFJNFQ5STRQTEU0WVphTjgzakdwMVFydGVWQnN5N1JkckJiQnhSRXhZX1NibFJCYVd4S1o5d2pxemMw?oc=5",
-          "published_at": "2026-08-19T15:58:17Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "الموعد اليومي",
-            "url": "https://elmaouid.dz",
-            "domain": "elmaouid.dz",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "4ab836519ad24e94f53d",
-          "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط",
-          "raw_title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط - أفريكا نيوز",
-          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء شعبي على درجة الياس والاحباط",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNOXBlUFh3SGtRWXlRYTcwOFotUHN4WEgyRnVsWlNpU0RZTWt4QlBMVlplNFc2dEpGV1pOMDVfQnVSc2pOVHJ4NWloamZyTDJtNmNWcHhxbUlmZk1vSThaVFlRTTc2OFo2a205aFpVZjltcGVoSnBwdGhBXzRQOVZCUXNLMW81YlFRbEk3d21UQ3ZPVGdYMWQwRlE2Z0pxWDRTUFBmSGpGME1nZHlndU9DODRKWE5fUGotaGJnR2VYQ2hQQ0hEM1ppSlYxa0RqUXVnNC1YclRYUm9vVGRPeEN1RHhyX0hqRjEta0hHTXlqbGprbnExM3ZPUl9EZXVSMFcwMTV5LWFjb1RGUVJ2RE5Xa3NsMVJCZ2RJS0JlY0pHRWhYdDJMR3BUaThZblBKWjdscW1QdHBpWEMtQUhWRmdYb2xn?oc=5",
-          "published_at": "2026-08-19T13:56:26Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "أفريكا نيوز",
-            "url": "https://africanews.dz",
-            "domain": "africanews.dz",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "0f8b72251882cf8eeed7",
-          "title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط",
-          "raw_title": "الهروب الجماعي من المغرب أكبر استفتاء شعبي على درجة اليأس والإحباط - aps.dz",
-          "normalized_title": "الهروب الجماعي من المغرب اكبر استفتاء شعبي على درجة الياس والاحباط",
-          "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPRGpKWlh1V0NRM19DMWUyRlNIdi11LWJpNVplZjVLei1hdlFyV004eVhvZHZSRW9RQWRQZjRBckxmTm50ZlE4cjlIaVM0N3ZtNkk3R1ppck5tQ1lKcGlVT2lhaUxLdVlxaW80anlGNEZEODZnaVc3ZmgtbTFSMjFiRi0tU2YzZVFZaW1xaEJIWEl3QXJoTWZBOEVvSk9PNVZPUmNrV0hDaS02NmFWU0JWelk5Ym9GMkFTX3FsOE05ZDVlcFR2R05TdW5HcHBHWXFDazVGUWRZM3g0b3ZTVnZWOERRODJwcVNIZ0JqN3RELXlhbnJxT3hrQjRpNzY4YTVnUlczV2REOXdDZ3k5eVVhSERzbmp1U3daX1BfYW85UE9PcklMQlliTVlTNEZQb0Q0RnBPZV9ZLW5UQWF0R3NYcVMyNGdsX1VHOXRQemh3WkwzX1JXNmJMR3Y2cVUyOExmejdoQ3ZaWVhvY3Vhdk12aktLazF1NTZXZk51Z3VPdnJheUpqMFcwWFdZa0JIRTBuUDJGU3RLNWhnZ0V0RkY3NFpTbkU1RDVmbHd2SnkybEJhWDVoX0hLNXJBOWI1THZ4djJ6NXFoeWxNbngtamJZcXNNMzVCMG8wa2NJYnNadjZxMXJhRmcxVGxXaHRRM2R3R1ZZQlF5eEhmX0xPT1lOTWVYVVdHRkJETHdpSkJsNnZOVnNULVBXVC1hUnBCZDYwZWcwVmRfbHRIOTgxRHRkanQ3aEdzQmM?oc=5",
-          "published_at": "2026-08-18T18:50:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "aps.dz",
-            "url": "https://www.aps.dz",
-            "domain": "aps.dz",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1794,7 +1956,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -1803,14 +1965,14 @@
         {
           "id": "4d227524e0c039470dff",
           "title": "Le Maroc a concentré 10,8 millions de dollars de demandes uruguayennes d’exportation de bovins sur pied entre le 1ᵉʳ et le 15 août",
-          "raw_title": "Le Maroc a concentré 10,8 millions de dollars de demandes uruguayennes d’exportation de bovins sur pied entre le 1ᵉʳ et le 15 août - barlamane.com",
+          "raw_title": "Le Maroc a concentré 10,8 millions de dollars de demandes uruguayennes d’exportation de bovins sur pied entre le 1ᵉʳ et le 15 août - برلمان.كوم",
           "normalized_title": "le maroc a concentre 10 8 millions de dollars de demandes uruguayennes d exportation de bovins sur pied entre le 1er et le 15 aout",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaGFraVRWMVpXQkk4RWxkZUlBZkQwNkhjYUNXQW1hek4tWURCQ1JrVjkyUVY1OGIzN1FmWTl5STk3YnhfdDJrWFR4enBxRXRZNllaZ1NPU3VtQ3JCUHo3Vy1fTEh0NnFWZ1hlUy16c2ZSMlpzYkRkWGdrTjhfZVRrVjhPOTBWSVctYXBILXJfWnJnelk3ZWVuVUFMendvOGUxdHBGd1Q1VnlTZXJ6cTVCbjdRVU9heXlSbWlQaTJjU0VVVUdEQWwzMEs3TnNJV1JGNmVWUUUwaUZybjRBTjQydjJzSklveU41RmhkVjZQQktYZEJsNDc3TFA4NA?oc=5",
           "published_at": "2026-08-19T19:48:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -2111,6 +2273,46 @@
             "name": "inews.ma",
             "url": "https://inews.ma",
             "domain": "inews.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "6e9a7a6561344eeb6f5d",
+      "title": "Pesticides : Les exportations marocaines de tomates",
+      "published_at": "2026-08-19T19:15:43Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "lopinion.ma"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "0ed75c95dc79506d5a62",
+          "title": "Pesticides : Les exportations marocaines de tomates",
+          "raw_title": "Pesticides : Les exportations marocaines de tomates - lopinion.ma",
+          "normalized_title": "pesticides les exportations marocaines de tomates",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOU2pPbE44bkVhc01lZjVMS3VMbTdWbkhySTBuSGlXQ3VhYjhpVE5VUlJkeUdrdTlFREhTeVZvc1JXNmY3bHJJWThLQzBCeENmTkVGTDlPLWZrRVVwZ0UtN1psMDNZTWNIUzlMSzg0aFhPZVc0YkJrRTlMbnRWX0dERW1RcHRiTUFFVERhRGNqYnFRTWs1ZGFiLTRMdU5kTm1GOEhDLTZoLTdPeFB5RVJDeXdHYXFRMWxqWGk3cERJYzRLS1NMRUdrM2F3LTN5RVBSV2tDdmRkdVdPLWo2V0NnZkVRdklVTzhuLVNDOUZ4cFpJZURHTHYwRlZZZ2JVSUVxWEV4enRzcXpOTGtoZFU2Y1FXMTJmZHRhUkJVTEFzVQ?oc=5",
+          "published_at": "2026-08-19T19:15:43Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "lopinion.ma",
+            "url": "https://lopinion.ma",
+            "domain": "lopinion.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2541,7 +2743,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Medi1 News"
+        "medi1news.com"
       ],
       "languages": [
         "fr"
@@ -2550,14 +2752,14 @@
         {
           "id": "0f4373014709f86381ec",
           "title": "Maroc : Le nourissage des animaux errants désormais réglementé",
-          "raw_title": "Maroc : Le nourissage des animaux errants désormais réglementé - Medi1 News",
+          "raw_title": "Maroc : Le nourissage des animaux errants désormais réglementé - medi1news.com",
           "normalized_title": "maroc le nourissage des animaux errants desormais reglemente",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BbnJZV0NhcHNRZ0xZRURabkJWcUFIQUdhRVlwa1lOS1NLTDlsZDJZLUVUcTkzd1B3Z0VsTDBjZ3ZZUmpTQnJ0OHhsbm5mUTRsNFBCMVFlendsMGF5?oc=5",
           "published_at": "2026-08-19T18:29:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Medi1 News",
+            "name": "medi1news.com",
             "url": "https://www.medi1news.com",
             "domain": "medi1news.com",
             "weight": 0.35,
@@ -2701,6 +2903,46 @@
             "domain": "bladi.net",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7821151401be52485877",
+      "title": "البطولة العربية للفوتصال .. المغرب يواصل كتابة التاريخ",
+      "published_at": "2026-08-19T17:37:27Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "5976756e2b9ce62210aa",
+          "title": "البطولة العربية للفوتصال .. المغرب يواصل كتابة التاريخ",
+          "raw_title": "البطولة العربية للفوتصال .. المغرب يواصل كتابة التاريخ - SNRTnews",
+          "normalized_title": "البطولة العربية للفوتصال المغرب يواصل كتابة التاريخ",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xSHY2SElWRXJMOGJETk9NWGN6OHluNVg5WGNoUm1ISE5valhtdkM3SDZ4QXRFMXhzbmRucFphQUtwOWl3TEgweExqUHVUQQ?oc=5",
+          "published_at": "2026-08-19T17:37:27Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -3120,7 +3362,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -3129,14 +3371,14 @@
         {
           "id": "c7d83eeb058385ed00ac",
           "title": "Le spécialiste chinois des réseaux intelligents Willfar crée au Maroc une filiale industrielle pour son expansion en Afrique et au Moyen-Orient",
-          "raw_title": "Le spécialiste chinois des réseaux intelligents Willfar crée au Maroc une filiale industrielle pour son expansion en Afrique et au Moyen-Orient - barlamane.com",
+          "raw_title": "Le spécialiste chinois des réseaux intelligents Willfar crée au Maroc une filiale industrielle pour son expansion en Afrique et au Moyen-Orient - برلمان.كوم",
           "normalized_title": "le specialiste chinois des reseaux intelligents willfar cree au maroc une filiale industrielle pour son expansion en afrique et au moyen orient",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZ1o4anRsM3JsZUJ5dEIyLVozbkNCbDFERlJrQlNQWE5XOHlhbE0xc21QQVM3YjVHTzFLT3lfajBrSktfSERoQkJseVY5YWt3ajBnSmpjMXZaY3dSUW84N09rOFhsSFRKQ041dFhwcW03b0RWZW5SVU8xeVZ3ZU9lbkhVVkpwRi1zeHhWSUhUZjFGWHlkQlJTaFJjVFFyUU5JUVpkUE5ySEoycWNOdTFxWlNhMGxBZDdJcDBwZHpiQ0RwWHJQUGZQLXcyNUh6RFlWdWV5TFNrXzZaeTc2TGlWMHhXYnNpcUNDS08xSVZlY0ljQjhYYUEtVnNEc2pIdw?oc=5",
           "published_at": "2026-08-19T17:00:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -3360,7 +3602,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -3369,14 +3611,14 @@
         {
           "id": "199a376482d7dd11a3db",
           "title": "Le Maroc apparaît parmi les partenaires en dialogue pré-négociation avec le Mercosur, désormais lié commercialement à l’Union européenne",
-          "raw_title": "Le Maroc apparaît parmi les partenaires en dialogue pré-négociation avec le Mercosur, désormais lié commercialement à l’Union européenne - barlamane.com",
+          "raw_title": "Le Maroc apparaît parmi les partenaires en dialogue pré-négociation avec le Mercosur, désormais lié commercialement à l’Union européenne - برلمان.كوم",
           "normalized_title": "le maroc apparait parmi les partenaires en dialogue pre negociation avec le mercosur desormais lie commercialement a l union europeenne",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTndYVVJoWTJDdGZmaGxrRkY4dFJPM3hERHFtOVFITGtuUXMzT1BCZHNIcmxpeldndHFlcmZ4Ri12YXk1LVB3V2hDWkFrbGZRMXJrd0JsVUZqRUFYRlV6a3BER3BSWlBPUTRYQWIxWS1zQjFoaXBNVTV0MmZwZTd0OXZnSmdRUkpPd2RQdW5jX3FwXy1FODQyYnQzNlpyMFR2VDAtdXpDQmhneE9MVjRjVEdWRUUtcTVXVVVUMkxmNWdsLV9qZGFueU1DUmw0LVIzZXlwSkhCR1cyU3kycVk0M0FKa2VjdDJhVENGY3dIYzlsQQ?oc=5",
           "published_at": "2026-08-19T16:40:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -5068,7 +5310,7 @@
     {
       "id": "95eaea88041629e68b9a",
       "title": "محاولة إنقاذ تتحول إلى مأساة.. البحر يبتلع أباً ومدرّساً في المغرب",
-      "published_at": "2026-08-19T14:12:45Z",
+      "published_at": "2026-08-19T14:12:18Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -5092,7 +5334,7 @@
           "raw_title": "محاولة إنقاذ تتحول إلى مأساة.. البحر يبتلع أباً ومدرّساً في المغرب - إرم نيوز",
           "normalized_title": "محاولة انقاذ تتحول الى ماساة البحر يبتلع ابا ومدرسا في المغرب",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QOFpEUXlxTmJ2UXR0ZTVfRVN5WXVzN3hCbEs1WS0tVEJ1al9PdjVGQURPa0d0Qnppc2s2aGx4S3ktVXQxT3pUWFA2eTd2enZ3dDE2NGZldDhxQQ?oc=5",
-          "published_at": "2026-08-19T14:12:45Z",
+          "published_at": "2026-08-19T14:12:18Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
@@ -7860,7 +8102,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -7869,14 +8111,14 @@
         {
           "id": "eb96509bb338b4784e45",
           "title": "La cooptation des élites supplante le débat programmatique au Maroc, alors que l'effacement des projets de société au profit d'une compétition axée sur la notabilité et le capital électoral inquiète",
-          "raw_title": "La cooptation des élites supplante le débat programmatique au Maroc, alors que l'effacement des projets de société au profit d'une compétition axée sur la notabilité et le capital électoral inquiète - barlamane.com",
+          "raw_title": "La cooptation des élites supplante le débat programmatique au Maroc, alors que l'effacement des projets de société au profit d'une compétition axée sur la notabilité et le capital électoral inquiète - برلمان.كوم",
           "normalized_title": "la cooptation des elites supplante le debat programmatique au maroc alors que l effacement des projets de societe au profit d une competition axee sur la notabilite et le capital electoral inquiete",
           "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNSm1LRWVGcUJwVF92SFNTZkxtSTFXbWpRd3BqWUxuc24taUFrQU9DS2psQ1JscURpTkJpc2Q4aW1Va2ptS1owWTlweGFlaERaU29uR2Q5WHZHVnV2eXZUUm5abTEzNl91dFktZmdIMFVKdV9PWkh1cUlvVFhubEVGeTRrMF9VWHNYbjFSOWxZeTFSRHEyQUJ5NWxKdlRWSE9MdXRGczJWMnNhTlZnUnhuVDV4NlNXZ2lRcXlyWkpVa0ptVVNscHdFWkNFNDY3ZHNqS0FGdER0Z3dTOVpYMUJOX3hvczNSQVRuanNhMWJfV01nVmtra2RyMlRxRGhPT1EwN3N5QS05T3pES0hzMmg5NjBNaFlWSUxxMWZ4dnRCbno5THlLRGxrYUY3X1FMbktNUXctUXpacTlBRzRwQ1RtejNXcw?oc=5",
           "published_at": "2026-08-19T10:44:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -7983,7 +8225,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "barlamane.com"
+        "برلمان.كوم"
       ],
       "languages": [
         "fr"
@@ -7992,14 +8234,14 @@
         {
           "id": "b149dc89bf4e35ec7813",
           "title": "Les exportations turques vers le Maroc bondissent de 11,7 % à 2,43 milliards de dollars sur sept mois malgré un recul de 24,8 % en juillet",
-          "raw_title": "Les exportations turques vers le Maroc bondissent de 11,7 % à 2,43 milliards de dollars sur sept mois malgré un recul de 24,8 % en juillet - barlamane.com",
+          "raw_title": "Les exportations turques vers le Maroc bondissent de 11,7 % à 2,43 milliards de dollars sur sept mois malgré un recul de 24,8 % en juillet - برلمان.كوم",
           "normalized_title": "les exportations turques vers le maroc bondissent de 11 7 a 2 43 milliards de dollars sur sept mois malgre un recul de 24 8 en juillet",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNkZYcERIV2ZIX05aYjNnWGFYeXFUOF8wV1R1N3dQck9nZVZwZG0xTDNlUlg5WG9mY0NCQmtIQ2V3SnBaWWVxZzN5c24waWU3TXFldzk2bWdsX1RGZGRQbkFnX21LUlhtaXdMeWwwQTlUSjA5UjNRekUwX0hQcm1KbWNEM2tHWnFHazFHOHotaktvcHc2M2NZN2licjZHMUcyS29nblozQmpPZ1JubXhZQlNwbHNZemxaalpxMWpPZ01FU3V4Yi1uVnNORDgtZmNScTlwQnFfUEszeUYyRm5sNDRrTllaWjEwOHJCRzJR?oc=5",
           "published_at": "2026-08-19T10:29:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -9393,7 +9635,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "سولارابيك"
+        "solarabic.com"
       ],
       "languages": [
         "ar"
@@ -9402,14 +9644,14 @@
         {
           "id": "a890171005edebc56706",
           "title": "بضوابط رقمية جديدة.. المغرب يدمج الطاقة المتجددة في تراخيص محطات الوقود",
-          "raw_title": "بضوابط رقمية جديدة.. المغرب يدمج الطاقة المتجددة في تراخيص محطات الوقود - سولارابيك",
+          "raw_title": "بضوابط رقمية جديدة.. المغرب يدمج الطاقة المتجددة في تراخيص محطات الوقود - solarabic.com",
           "normalized_title": "بضوابط رقمية جديدة المغرب يدمج الطاقة المتجددة في تراخيص محطات الوقود",
           "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQcXZLM1REUnN5WDdBLVpLT3ZJY2tBSThZREdfZGJXdUYycVh4TENDdDZaWUJGdlhqNndmRk5vVmV0Zk5GSGNlQll0bElEdFBrRmdqR090ay0tRm5kSkptVThjZkV5ZS1YMjNaMG5qVXVPdC1rOEJMclZVRkJGVnR5Z29lLURrYVM0Yy1FcHhvQ1M3bXVTdEtrRTE1THdydm9GdHFsVWkxMklRODExckdzenZnb1gzSXoySUxVVk9QR3NXcjBubVB3dDZEeDFpZE1MQ0d4UUZFb3RzaGszbEpMalJiLWhzRzU3T25mYVBfR0tpZWx3NHdSelYzcVFiQ28yc3J2WUdQTnZOQXNCd0ZWRDdJc0RBQWZ4TS1ha1hyaFU0X1ZyWkJONnZMVnlHU1RjNXFJR1J0RTVnUXJuVURycnJmTGxFZmw3Qmd3RXpTTlRvNUhDN1dWWVZLWHF3ZFNSTGN6TzEtN1UyS0dDU1RLT1NXQ1ZPZHhqRGNsNzY1Rkhqd1pZaGxSOEVybGdHeUNNRU9EeHRDTm9PMTVaZk55cWt0NWZGNjY0Y2ZudlI4QkhGLXZzWUFYM0pwMFU3TElqLU9NRTVnMzh2NmtlX2RKekktUnNrOUxXdlBkR2tkLWxvZDhTT0xnVQ?oc=5",
           "published_at": "2026-08-19T08:30:00Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "سولارابيك",
+            "name": "solarabic.com",
             "url": "https://solarabic.com",
             "domain": "solarabic.com",
             "weight": 0.35,
@@ -14633,7 +14875,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Euronews"
+        "Euronews.com"
       ],
       "languages": [
         "fr"
@@ -14642,14 +14884,14 @@
         {
           "id": "f62771e8d78c1fd1b129",
           "title": "L'UE soutient le rapatriement des mineurs migrants non accompagnés de Ceuta vers le Maroc",
-          "raw_title": "L'UE soutient le rapatriement des mineurs migrants non accompagnés de Ceuta vers le Maroc - Euronews",
+          "raw_title": "L'UE soutient le rapatriement des mineurs migrants non accompagnés de Ceuta vers le Maroc - Euronews.com",
           "normalized_title": "l ue soutient le rapatriement des mineurs migrants non accompagnes de ceuta vers le maroc",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeHgxMkx4N3VpNEYtRGlVTUpuNjZpOFVKdVFiVTlvUEJZNm0yOVdFdEs1UkRKMGFUNFBQRGprY2lqaXRSeEk4MEo2XzVQR3gwZmhUVjE3ejM1bjJidVBPTEtaMjJQZVlyTTFZYWJpZEJSeFZfelFrdjFKbHFNandRY2sySDhiOHN5VkdyZEF0cms4MTNuS09qTjZCRHBDd0lmTVUzMFIwZFdJU2t0WnMyMVJxYWdhRVZSUnNpZEl2bTNzS2ZWX0Rucks4UUVsZw?oc=5",
           "published_at": "2026-08-18T15:45:20Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Euronews",
+            "name": "Euronews.com",
             "url": "https://fr.euronews.com",
             "domain": "fr.euronews.com",
             "weight": 0.35,
@@ -14673,7 +14915,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Euronews.com"
+        "Euronews"
       ],
       "languages": [
         "ar"
@@ -14682,14 +14924,14 @@
         {
           "id": "e50dde394b78236ac72d",
           "title": "الاتحاد الأوروبي يدعم ترحيل القاصرين المهاجرين غير المصحوبين من سبتة إلى المغرب",
-          "raw_title": "الاتحاد الأوروبي يدعم ترحيل القاصرين المهاجرين غير المصحوبين من سبتة إلى المغرب - Euronews.com",
+          "raw_title": "الاتحاد الأوروبي يدعم ترحيل القاصرين المهاجرين غير المصحوبين من سبتة إلى المغرب - Euronews",
           "normalized_title": "الاتحاد الاوروبي يدعم ترحيل القاصرين المهاجرين غير المصحوبين من سبتة الى المغرب",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNi12TlF6Q09OcW8zamVtMm1KQm1zWHhobGp3eTcwa3Q5ZV95U3ZJRUF4MTRscFQyV1Q0XzBTTVpCVFk0SUs1QnlKTDFUVE5UWC0tQk1qaWU4eG4zRFc3WjI5dHBsTVluT3h3TUc0bXpUUzYwMUhmY3Jzd3pVOFZmbVd2aFJ0YzVINjNfMkJ6UUlFLTlkY0hEYU9KTUlNTGZjd3VrZ3JBd3RMNlRXMzhPZ0tyb25FcHBGRTY4blJoNFdZWkNxOG84eF80RjZRVS00?oc=5",
           "published_at": "2026-08-18T15:45:09Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "Euronews.com",
+            "name": "Euronews",
             "url": "https://arabic.euronews.com",
             "domain": "arabic.euronews.com",
             "weight": 0.35,
@@ -19758,7 +20000,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Le360"
+        "fr.le360.ma"
       ],
       "languages": [
         "fr"
@@ -19767,14 +20009,14 @@
         {
           "id": "f843303d7e4638dc2daf",
           "title": "Lutte contre le streaming illégal: le Maroc sort le grand jeu",
-          "raw_title": "Lutte contre le streaming illégal: le Maroc sort le grand jeu - Le360",
+          "raw_title": "Lutte contre le streaming illégal: le Maroc sort le grand jeu - fr.le360.ma",
           "normalized_title": "lutte contre le streaming illegal le maroc sort le grand jeu",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDd0MGhIZWhReU84dk1kYlVTQzRXS2tNVnJKZl9kendsWk9Xd0M5YXI3QTdMUWEzMXQwNWpXZ2NvUlZ2UzA4WVVHY29KZzVrb3hha2xPX19VNldRVUk4WEtjcFV4Z3RNdnFKUm9BYXVVZEYtRG5ub2ItcjkwTWhLUV8xcWpoZFJ4aXd6OWFRV285MUlOM1NfSVZ2b09EZV83OTNRcUZaSlpaS1pOQ09lMUtGeDF6NHpWenc?oc=5",
           "published_at": "2026-08-18T10:07:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Le360",
+            "name": "fr.le360.ma",
             "url": "https://fr.le360.ma",
             "domain": "fr.le360.ma",
             "weight": 0.35,
@@ -20458,7 +20700,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "International Service for Human Rights"
+        "ishr.ch"
       ],
       "languages": [
         "en"
@@ -20467,14 +20709,14 @@
         {
           "id": "a2eed428e3cce91f119f",
           "title": "Morocco: UN Committee finds torture violation over Sahrawi Defender’s detention conditions",
-          "raw_title": "Morocco: UN Committee finds torture violation over Sahrawi Defender’s detention conditions - International Service for Human Rights",
+          "raw_title": "Morocco: UN Committee finds torture violation over Sahrawi Defender’s detention conditions - ishr.ch",
           "normalized_title": "morocco un committee finds torture violation over sahrawi defender s detention conditions",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeENnbHVrZFVZQmtDemtCQWdmMUlCWl8zbGRmRHl3RFpFNDRVNThEcDdLY3VwLV96QXJIMnFkbVlzTU5VY0NkMy1DMUNNaDEyMUNTRjBqQnhmWTQwNlVORWh3enVOeC1LUGtGUHVVb3c4eFNDSjJlN0VWQ214VE96Vnd2VDZKU3dKcHVXSk9kRWZqNnNLd3lSamF5TmR4eERHam5saUdaODI0WlF3dVVGb0lRTFV0N2VETmJNOQ?oc=5",
           "published_at": "2026-08-18T09:14:55Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "International Service for Human Rights",
+            "name": "ishr.ch",
             "url": "https://ishr.ch",
             "domain": "ishr.ch",
             "weight": 0.35,
@@ -21255,7 +21497,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "dw.com"
+        "DW.com"
       ],
       "languages": [
         "ar"
@@ -21264,14 +21506,14 @@
         {
           "id": "4560a614317dacb8c45c",
           "title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة",
-          "raw_title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة - dw.com",
+          "raw_title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة - DW.com",
           "normalized_title": "المغرب في الفنيدق يلتقي واقع البطالة بحلم العبور الى سبتة",
           "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPc1c1aFZ3Vmg4Z3NadDlWTmh3aC0yZUphQlFRQWZYWkdrcmQ1RlpjVktpNzJwNVczdVptUmdsX0FONjktYXB2WEpKTFIxWDVFYzRBSjVLbTQ0NS11ajJ1SjlNREl2aXB5Ykl2NDk4amV1UEttcFlTRHBYU0FzN1VaOEJkcnpxbWFVLWNpYXloNXAwMGhyaFItal9CUVdBQkN1WXhvNkowTkdMaFExTEpma0dNN3BWOVo0ZElUUzVJX25RWWVGeDNDVUs5dWlxLWgwS3RkWW02M3VqZ3pGQUNKeGo2Qnk3ZTdyX2ZKMXBtS0laemt4ak04aHpHeXYxUzlhU1hFTnBmMDZJS3lqTFByRU5hNVlEeDhlQXVNZnBhSnRQM1NLampIVHFwWTh1Y1gtV21mc3lKc0t1WC1GVFc1NC05ZlE2RzNVeXRzZlB1eEZrRmVodzd3Q0lPZ19wRkN4QUd3Zy1Ma2JPRlZSSVlkZWo1cnREajJxSmxYZDJPNU5lZnJPWnJ0SmdHMGVUaGtqOG4wTjNqNUFTc3hiaW94aXpQUjFPdzVtODBSa3JTbW5nSWo4TEY1a0ZueWJMMFB6UDd0RXg4bWpIRGszX1ZYZWxtRzTSAdQDQVVfeXFMUHNkNTZFZDZ3QVV4ZlNQcll3NGx2azl2ekp6ckJpakZVTW52dlplTXJDUktzLUJHajAxWEh2ZDd0RjZSWU15S2pmSmFQcUlyODV6djJNdG9QV1N6MEp0SEJVaHNVWndvX0dlMVRzQ0FaMkJYRGdyLUZqWF9mMW4wdUlUS2tEVmN1RHpiSHcteXF5TW9HdGNSMmltWHl3RkRjU1Y4UXJkOXoyMGRjQWEzZFlOck9DX0RiVkFEMkhiM1dDSWlIblprVTlWRVp2MExCdUZVbEt5X1dNd3NNTENzNGg1dHlwVXJRUzl2N1p0Z3kzZVMxQ0x4Wm1YU2tNeGFMRHNuSXUxS19CWHRHbFNVdE1TNmtEZ1FMN1JZS0JFcHF1NUFKX2lPN3V1RVJLdnkzeEI5RzBxdjhIakw5Yk9GUVRITmR0QVM2SWhJay1ZZXZjcDBlLVRLUUlpMDR5QnRxNm1sNjZUUGR1YnZOQW5DUmlidE83R3pvblJuUVpUUzE4NUVRVnV2VDBHQVg2MzFhSW5pYkxRSWpkTmZvV1NfZDRFN3FQWnU5TVk2aElyLUxid2IzelM4VVpKc2lDb3RLaWVhWnFmX1ZlRWZPRklSZVJxM2dv?oc=5",
           "published_at": "2026-08-18T07:36:11Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "dw.com",
+            "name": "DW.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -22964,8 +23206,8 @@
       "id": "a9140b556a6af3f89f59",
       "title": "Les exportations sud-coréennes vers le Maroc ont bondi de 84,5 % en juin, dont 29,1 millions de dollars d’armes et de munitions",
       "published_at": "2026-08-17T21:45:00Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.45,
       "claim_reasons": [
@@ -22974,10 +23216,9 @@
         "quantified_value"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
+      "source_count": 1,
       "article_count": 2,
       "sources": [
-        "barlamane.com",
         "برلمان.كوم"
       ],
       "languages": [
@@ -23004,14 +23245,14 @@
         {
           "id": "c654ec00108ce27a780c",
           "title": "Les exportations sud-coréennes vers le Maroc ont grimpé de 84,5 % en juin, dont 29,1 millions de dollars d’armes et de munitions",
-          "raw_title": "Les exportations sud-coréennes vers le Maroc ont grimpé de 84,5 % en juin, dont 29,1 millions de dollars d’armes et de munitions - barlamane.com",
+          "raw_title": "Les exportations sud-coréennes vers le Maroc ont grimpé de 84,5 % en juin, dont 29,1 millions de dollars d’armes et de munitions - برلمان.كوم",
           "normalized_title": "les exportations sud coreennes vers le maroc ont grimpe de 84 5 en juin dont 29 1 millions de dollars d armes et de munitions",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSlJrSEU0Q0Q2TVNPR211V0R3d0dzYUVTOUQ4eUlIOUx2ZVBld0pxR09ST2ROSHFpWjJoVkFfLWhYSmR4Zmdzc1FLVW9mMzlZSXZKcl9CaUVCc3huTE9TS0p1TW4wUE1LaWZ4SmlQRWdNOVlEcEx4WEVIcFE0Tm9CR3d0ZEFRbzFqOFVjN296dHZyc1ljT0FTNUNNaUZ0MjdmbExneUdHZVVFOUhHRlVpLXhGN0JXdjUyTkU5ejRDWndmR2tXTFJlQWlraFRDYm9qSV9jSTJ0Q2R5Y1hHalNGWEZn?oc=5",
           "published_at": "2026-08-17T21:45:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "barlamane.com",
+            "name": "برلمان.كوم",
             "url": "https://barlamane.com",
             "domain": "barlamane.com",
             "weight": 0.35,
@@ -26002,7 +26243,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Le360"
+        "fr.le360.ma"
       ],
       "languages": [
         "fr"
@@ -26011,14 +26252,14 @@
         {
           "id": "3147fbe540620b038f7c",
           "title": "Les «concessions» de l’Espagne au Maroc: anatomie d’un mythe politique",
-          "raw_title": "Les «concessions» de l’Espagne au Maroc: anatomie d’un mythe politique - Le360",
+          "raw_title": "Les «concessions» de l’Espagne au Maroc: anatomie d’un mythe politique - fr.le360.ma",
           "normalized_title": "les concessions de l espagne au maroc anatomie d un mythe politique",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVU9QYUNMdTdRc1U1NUNqQVlDaEpINTBRMUktRjFBdmFPTXd3aDhWT25MdkUwaldobFZNNFNMOXdQUFRVWDhOcUh3U01UZ0dPMkw0dTMtSy1UY2dFTDlxaTlYM0tXZUZfYmhUVjFkM0FhODBfUTg3T2IzWmVlVDBROTJwSUE4UklNSnVNeHFmTWxieDRidTh0NHVlTjJ1elZrQ0ZxMWlyQkgzSER4MW5aUHVMQkxfRjAtQ1g2bzFfREs?oc=5",
           "published_at": "2026-08-17T15:06:20Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
-            "name": "Le360",
+            "name": "fr.le360.ma",
             "url": "https://fr.le360.ma",
             "domain": "fr.le360.ma",
             "weight": 0.35,
@@ -41767,11 +42008,11 @@
       ]
     },
     {
-      "id": "aa674a6560d2d3113f56",
+      "id": "6deef67414a24bef4a10",
       "title": "Morocco arrests 111 migrants headed for Spain’s Ceuta in security crackdown",
       "published_at": "2026-08-16T07:50:19Z",
-      "status": "corroborated",
-      "evidence_score": 0.81,
+      "status": "medium_evidence",
+      "evidence_score": 0.608,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -41779,11 +42020,10 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 4,
-      "article_count": 4,
+      "source_count": 3,
+      "article_count": 3,
       "sources": [
         "NBC News",
-        "Reuters",
         "news.cgtn.com",
         "sightmagazine.com.au"
       ],
@@ -41840,23 +42080,6 @@
             "domain": "sightmagazine.com.au",
             "weight": 0.35,
             "category": "unrated"
-          }
-        },
-        {
-          "id": "4314e879a8a11be0b433",
-          "title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown",
-          "raw_title": "Morocco arrests 111 migrants headed for Spain's Ceuta in security crackdown - Reuters",
-          "normalized_title": "morocco arrests 111 migrants headed for spain s ceuta in security crackdown",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ3FKVjRRZ1lTc2R5V0NjZjRlY0o5aFgyNEN6MmI1NFB0UC16Z0ZJVVF5UkxWTVBZUUR0RElRWGZBYnFHcW5Yei1Fc25Za29xUnBTMjZHSHRHRnpuUV9BSTdHM3ZyVWpXQzE1aHlqNU1vOXE0RmJOSC0zQllXbUVmYzJPaGtkVGItNWZVcVhSNXZSMVVQUUhQWTVxV3NzQTk1VTdhNzhhVUdpV3F3YkcyR2JwNFQ1ZEdCOWQteEdB?oc=5",
-          "published_at": "2026-08-15T22:54:24Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Reuters",
-            "url": "https://www.reuters.com",
-            "domain": "reuters.com",
-            "weight": 0.8,
-            "category": "newsroom"
           }
         }
       ]
@@ -43970,7 +44193,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "dw.com"
+        "DW.com"
       ],
       "languages": [
         "en"
@@ -43979,14 +44202,14 @@
         {
           "id": "69b0253cbfaff4a5e2ef",
           "title": "Morocco detains dozens of migrants trying to enter Ceuta",
-          "raw_title": "Morocco detains dozens of migrants trying to enter Ceuta - dw.com",
+          "raw_title": "Morocco detains dozens of migrants trying to enter Ceuta - DW.com",
           "normalized_title": "morocco detains dozens of migrants trying to enter ceuta",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZW9Vd1hvcjBiMXpzZmNuLXhkOWw2MjhNek0tSF9SWU11d093TUhYNzdCa1RvVFV3MzBaV0U3Qy1lRXg1bDJzTGRKSTNUc2VZRTA1QVVQNUVZcVA1b3dEX0l5STZNWVZYalBzZHNheHl3SUxSRWp0UE1ISmR5ekd3cHg1M25BWlVjWjBJdkNZTERZZDNFMXB5cVltR0lyamRncnoxNTMzYzAwMVZxTktPWHdxa2dFNWd1VUhydkxR0gG-AUFVX3lxTE8xbUxMNU4xQXRWUUw3bjdkQm5JbGFqRzFIckRYY1dyRG9vN2VGZ1MtdWFqM0ZodGlGODA3QXhLS3ZoT0RuWkZDTXVEZl9udDlYanI1RWpPaUxmOV8wdUlFYzQyWnVhY2Zta3ZxV2JMMmV0cGpkd2xESU1ZYmFidVByMGMtcTNHeUd6TVQzUnJDQ01qbVh5YW9VNW51TXlubnM2VXhLc1dKaWJESWNLOFRQeE05WEE1RXUwbkJMNUE?oc=5",
           "published_at": "2026-08-15T23:27:31Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "dw.com",
+            "name": "DW.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -44165,207 +44388,6 @@
             "name": "cafonline.com",
             "url": "https://www.cafonline.com",
             "domain": "cafonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "ce95b5aaefa6b0692706",
-      "title": "المغرب ينتصر لحقوق صحفييه ويفضح ازدواجية إسبانيا وإعلامها",
-      "published_at": "2026-08-15T22:40:14Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "middle-east-online.com"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "85a62cfcd98cbf2523fd",
-          "title": "المغرب ينتصر لحقوق صحفييه ويفضح ازدواجية إسبانيا وإعلامها",
-          "raw_title": "المغرب ينتصر لحقوق صحفييه ويفضح ازدواجية إسبانيا وإعلامها - middle-east-online.com",
-          "normalized_title": "المغرب ينتصر لحقوق صحفييه ويفضح ازدواجية اسبانيا واعلامها",
-          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQUi1hazR5Mmo4M0JoRkRCb1NWb1NLMnJIaVNPMzg1ck16cjZqZmdKcjRuMFQ4MXRmX0d6UGFTM1pjckRxQkRoYjBjLVpYd0o0eUZySTVrVWdKT3diR2VWM1V1VHlzT0VRTFQtU2V6UTk0MnZBZjVpNF82S1ozdDhzaDBqS2dlaGU5alBPcW9Ia0RHUS1sZGtPVnd3dzMtTnNVdV9GUTc2YUxlRTNDLWNlckZBTENwRkl3ZV9BMGJCNjltVUhfLWxNSXBpRnZhQ0lnT2ZqdE1BVU9rcWRTZzRMLTdzVmI4ZUdJdHJRUjdlakxLaWFvRWpScVkzYTlILXk3Z28zNzNvRm10MXpPLUhsRksxaU1rZWZMam9lbzVMRlQwek5jSEtYMUpQeFBGdjJZUE5VT1BMLVF4T0ZHWTZhMVROdzJfSlBIQ09uNkRGSnA0azBsZl9MQmVvMjliME5SYjdKMmYtaXJFckdhLTBqME5SZ2RESWRwbkE5d1FXMmZVcks3cTBBSllEcUl0UzJtNVlybERfYVJReVVReXJpbVVTdWVKcnBzenVCeE5pV3ZORHdMbi1xVWVxcTBaNjBHZFpOU3psWUtQVURIa3daZ1VhcS1HZXRzYWd2SVlpdk9FQkVX?oc=5",
-          "published_at": "2026-08-15T22:40:14Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "middle-east-online.com",
-            "url": "https://www.middle-east-online.com",
-            "domain": "middle-east-online.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9ec96194eb249ae85d95",
-      "title": "نهائي كأس أمم إفريقيا للسيدات توتال إنيرجيز المغرب 2026 يصنع التاريخ ويبث لأول مرة مباشرة في المملكة المتحدة",
-      "published_at": "2026-08-15T22:17:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "cafonline.com"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "fbe07407d101589ee318",
-          "title": "نهائي كأس أمم إفريقيا للسيدات توتال إنيرجيز المغرب 2026 يصنع التاريخ ويبث لأول مرة مباشرة في المملكة المتحدة",
-          "raw_title": "نهائي كأس أمم إفريقيا للسيدات توتال إنيرجيز المغرب 2026 يصنع التاريخ ويبث لأول مرة مباشرة في المملكة المتحدة - cafonline.com",
-          "normalized_title": "نهايي كاس امم افريقيا للسيدات توتال انيرجيز المغرب 2026 يصنع التاريخ ويبث لاول مرة مباشرة في المملكة المتحدة",
-          "url": "https://news.google.com/rss/articles/CBMiyghBVV95cUxQVzdKN1RvenQ0RjhTczM1eW1KT3dDbF9ZLTB2cUFESGhVYWp6bDcxZXFkWE9EeUZHWmh4c3daVm5lZl9BRXdnSVdaZ2RJVW05T0xreUdnOUhod2ZnYl9ucVFaam0wZnNfcTRZZmRpYzBIeTZncm9WQ0NwVEFIS2RmVzVpUHVGMWxLV04yNkVIRklfNWE4ck1zdkczaDRMOGk5QzFUaFY5S1ZxNGdWWVNiTWVuc3R3eXZvM19vcXUySlpwbWltOXVaS2ZYQl8xVjBJdUFYaXBQWjRraVdqdm16dTU0aUVTQ0VRc1ZjdlRGcnRRTXNBX2lfcFdxYUlTdl9LZHRFYWhRcW5ZRndsTktKc05jdk1fQldMeDZBOERfb3AxZElzb3l6VFdVa3Q0alhabGJLOUxaaEVEa1cta2tzX0pJVXIyU3h3QWMzdXhoamV0enhMdGJiUXFzNEFWOGxCamFNODUzQUJRNldKeWpJRjJSMTZjNHRVWm1xcnRqNl9iZ3lOaF9IdzFxSzY2QndYRjh0Sl9tTlY5ZlFaMzcxbVpJRUZCUGRHVm5Xc3VQbTBtMXloanBFNDZMMVczd0tMaG5SSzFZRGxwS0xham5nYktQZnViTXNSSUFadkxjM3lTU2dlUTlFcDBzeFJSRFBXSHBVdGp5OFpnYlN1TjFaY28waW44dXlOV21rUVlWNzZNb3BHejVPTmMzbUhmWEhCY3gwd3B5a2tWNmVfT3hiaVQyQTh2MlNxSTllVFlTd0hSWU9IUTc4bXZVTlZPbFgzaWF4NlhBYnB6cUlfQ1BYaGR1QUU4bklSUFpwMEVDdTFpZVFrWmdUTmhJUDgzU3c5TXdwX1hJVml3OXJ5UV9DOVRRZkZ3dXVRRno0TkNNM1JVVjhMN3UxbVAwZE42bG9LcXZoTlM4el94RGJSamUwZzFISWU0SnRHM1J1MW9nNUJTY2NOTlRFdmlhZ25SMUlXRXVDWUxfR2d4SU9sVHczZFZoVmRRaENreGh3YXI5dWVtcEJJVWFFdURZUXpLN1p5cVNiSXdTWTFKRFZ4Y3Z4NV9aZ1l6blRsWTJiSktXNDl0d04xSlVJeGNiczh0ZGNHakIwb3JzVW1abFdrbnA2VDNOZDBwbWNOWmktNzJhWnJueUpScDRFTlV2S0FyT3BXcE1rMU1xYk4tYThLdWwwRDVqaktqSm9tS3dORllWNU54QzNfeHhQamFwT3h5YmdkRW5qSUFDZVgwcGFqNkJNZ1dHTGp0OVdvdHVjbUFpQWtUNGRyckVMZWRFZVozalVlWW9tUVAxblVqM3c0cC1yd1pVc2wweG5pM1cwbnJGVDVKS2lWUkJBVW9nYU0tbXlmQ0NXX1RPWHlnMjlncldENFpuMExqWnBuSUIyM2M5VzZvaXlOVFNLWDVpVXYwRC1kdmpmRkZQMTVaWjktTWp5eXIyR3dqOE15MVE?oc=5",
-          "published_at": "2026-08-15T22:17:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "cafonline.com",
-            "url": "https://www.cafonline.com",
-            "domain": "cafonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "50e7dfafbc35698fe92e",
-      "title": "L’Algérie s’offre le bronze au bout du suspense face au Maroc",
-      "published_at": "2026-08-15T22:15:07Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "cafonline.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "5c38d6c640706455be34",
-          "title": "L’Algérie s’offre le bronze au bout du suspense face au Maroc",
-          "raw_title": "L’Algérie s’offre le bronze au bout du suspense face au Maroc - cafonline.com",
-          "normalized_title": "l algerie s offre le bronze au bout du suspense face au maroc",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWUhwczZDZ1ZJRTNTeW1WQWcyZUt5d3paVDFTN1NYdHN6aXVZcWNwdHZKNXpqTkxaS1Z6TFdQNlBQMFRmemcxMkw0QWRxQUh0NmRkMmxHVTJjbk4waXhCYzJ1a3c2WWx0R2VDQ2E2T2g2NzdSMlhZUGhVVXQyVENNN0ZVcFFUaHlBU250NU96R1dkaVlzOWxpWkFQWkNxaWwxTndVVVI4bnNyTHRiN3ZsRkZ1dVFSb1VOX0hLcWxwWVlxUnZFaTZxR2ZxemlsQQ?oc=5",
-          "published_at": "2026-08-15T22:15:07Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "cafonline.com",
-            "url": "https://www.cafonline.com",
-            "domain": "cafonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "afd8492470d3432cc967",
-      "title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات",
-      "published_at": "2026-08-15T22:12:51Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "alghad.tv"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "dc55638ae83cdd956b6c",
-          "title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات",
-          "raw_title": "الجزائر تفوز على المغرب وتحرز برونزية أمم إفريقيا للسيدات - alghad.tv",
-          "normalized_title": "الجزاير تفوز على المغرب وتحرز برونزية امم افريقيا للسيدات",
-          "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOS05FS0ZrQmpELWNpckhXVVUwNUtHVWZ3d0VSN2FyYktJUzFOd3BlM0VEcUlWM2ZhQnhwZ1lXbmFZQ2IwX3pkQXBTbElXcUZHQ1N1RDdSY0VsZFRidlYxZTlmSVdldV81YnNBU0xiLWFJWXRmX2RMcEw5SDVPT2ZNb0p2LXJvY0VvQkpUNWFZV0l5Y2tRTHlGWWVNZzRINWlRT0xFX3hGeW9qeEdzQW85M2FZLTMyaUhfeEJ1aHFtU2gtWlF1Q250ZjZBLWwxMTl1OERfZzZpX1ZDUDh6RWhVWWE2bFdLdTYzb04ycXFKbUVCTUtjYkVLcXR3MXp0VDlZVTA3SmRJcGRJSzlLbFV5VHp2bEdfSnJNT1Y3X2RFVGJvVTcyMTdOcXhlVk5wZkZBXzU4YjUtX1N4UGJTY29kMGgzeEhTM2VyX2M0MktCV3VjUWJWd2h4TFVUYzZNQjkxdFRLa2xveTdNeHMxYXl4ckVuNXdGQ1g2cVNLbWtzLUI3aHVJZl8ydjlSX3hCd2tGVVVNQzk4TFQ1bDZHSnFzUXoyMWpzYmpPYjRmbXNEc1l1WFhYWDF0V3N2MUJIZVh0b2FjWDNLUk1XcUxVa3NVRlhGTEdjQ3JERzFidUxicVJ5Rkx2THM3MFlNNTBvbEROcl9xZFhZenE1YU0wUHE2eE90R0l2SXFsZmt4RmlUUGF5MmFLSG50cDI4emU2QQ?oc=5",
-          "published_at": "2026-08-15T22:12:51Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "alghad.tv",
-            "url": "https://www.alghad.tv",
-            "domain": "alghad.tv",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "52c51bf3dbb8ae05bac6",
-      "title": "تقارير: المغرب يوقف عشرات المهاجرين أثناء محاولتهم العبور إلى سبتة",
-      "published_at": "2026-08-15T22:09:44Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "صحيفة أحوال الإلكترونية"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "95bb82218432f9a59e19",
-          "title": "تقارير: المغرب يوقف عشرات المهاجرين أثناء محاولتهم العبور إلى سبتة",
-          "raw_title": "تقارير: المغرب يوقف عشرات المهاجرين أثناء محاولتهم العبور إلى سبتة - صحيفة أحوال الإلكترونية",
-          "normalized_title": "تقارير المغرب يوقف عشرات المهاجرين اثناء محاولتهم العبور الى سبتة",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMMjYxdTlXeXViS0dYTXVRS3FiM3hCc1BWOUx0WXNFbnpPQzNXbDNPS1d2QXhuYk5lZ3hDcmpsdjVJWWI4ZGhn?oc=5",
-          "published_at": "2026-08-15T22:09:44Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "صحيفة أحوال الإلكترونية",
-            "url": "https://ahwal.sa",
-            "domain": "ahwal.sa",
             "weight": 0.35,
             "category": "unrated"
           }
