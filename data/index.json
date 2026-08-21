@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T04:54:21Z",
+  "generated_at": "2026-08-21T05:48:51Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1198,
     "fact_checks": 2,
-    "clusters": 1054,
-    "sources": 312,
+    "clusters": 1055,
+    "sources": 311,
     "matched_clusters": 0,
-    "needs_review": 999,
-    "medium_evidence": 54,
+    "needs_review": 1001,
+    "medium_evidence": 53,
     "corroborated": 1
   },
   "fact_checks": [
@@ -50,6 +50,46 @@
     }
   ],
   "items": [
+    {
+      "id": "c42fe10ca9f0c545180b",
+      "title": "Morrocco: migrants caught between Ceuta dreams and reality",
+      "published_at": "2026-08-21T05:02:21Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "DW.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "a11c05209558083ea524",
+          "title": "Morrocco: migrants caught between Ceuta dreams and reality",
+          "raw_title": "Morrocco: migrants caught between Ceuta dreams and reality - DW.com",
+          "normalized_title": "morrocco migrants caught between ceuta dreams and reality",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1RNcHA5emRRQ3BWSVI0eS1LMlV0blhjZXpLS2o4ai1sMG5ldVhGZjJoWUVCem51aENQZzYwOUZuNHZiR1pMUUxTQlVFbXQySGsxOE1fd3BHSXk4UmI4MnEweWZmbm8tSTdZemJzMEhQRWVETE1LS2JwaWYzNl9ER2FaNjRfcFlXVnVTcXJ3LWFRWnNP0gGUAUFVX3lxTFA2V1lwVEo2MmJ0ZmFodkZ5Y0tuWnU1UW9MRUZaU2I4ZTRYZjhMelh2Q3JyYXVFd3BURVlmMWhSc0hVa0l5MEs4OEJNb1VKbmszQ2YzZ2NmTzczSlhiT2hWWUZxZm5aYVkxWXRqM2l1cGZDazNRTlE4MmxpV2RCUU9UYUx1QllqbEtwOHJncWNLcGtMMjU?oc=5",
+          "published_at": "2026-08-21T05:02:21Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "DW.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "3f0e97df990b8830a2aa",
       "title": "قراءة في الصحف العربية - العربي الجديد: المغرب أمام مرآة الهجرة",
@@ -91,6 +131,64 @@
       ]
     },
     {
+      "id": "12ac38f35a424c27186c",
+      "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+      "published_at": "2026-08-21T04:13:45Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "Newsday",
+        "The Washington Post"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "7d07a9d0ee9b61ea2021",
+          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - The Washington Post",
+          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01wTXVCUzlDekswbUxCUGpNNnNVN2RMQm5RZjNhMEpHMG5vTWJOcFJHMENxVmZOUXFVUWJPLU0wbC11Qms5akRMR3BaVm1ORzZ2Z3ladDYwTjBCQTRkbU9pdEY1SVpkeWtKYnlRSFd2WUV6X3hOZTRxVk9FQ2FWZ2gwSFdCUGMwZUgwdzNWOEJYaXdSTHhiRXYtSExpRkQwVTh3ZC15NDBWd3RFYnRlbFZXaV9rME10ZF9GUkNfVmZrMWs?oc=5",
+          "published_at": "2026-08-21T04:13:45Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com",
+            "domain": "washingtonpost.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "a8c8d4372ae2dfe4c317",
+          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - Newsday",
+          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lWDdBTzFXeTVZQzlDbDhDNW5rZkdxQnlDaHpGN0RNb3ZkYUlGTUl4NlhKdjhZeWxsNGhWY1hPTTJqVzNLSnNpcWx4b2hYRVJxM1QwbmdSVjMteUlTczJzYUVRYTNBMXgwRUdlU0VEY3lwS3h1MjkwMFVKWXE?oc=5",
+          "published_at": "2026-08-20T20:08:15Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Newsday",
+            "url": "https://www.newsday.com",
+            "domain": "newsday.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "a1867bfd6c431433492d",
       "title": "دراسة تكشف التفاوتات بين أنظمة تصنيف استدامة المباني في المغرب",
       "published_at": "2026-08-21T04:05:32Z",
@@ -124,64 +222,6 @@
             "name": "Hespress",
             "url": "https://www.hespress.com",
             "domain": "hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "12ac38f35a424c27186c",
-      "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-      "published_at": "2026-08-21T03:55:32Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
-      "sources": [
-        "Newsday",
-        "The Washington Post"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "7d07a9d0ee9b61ea2021",
-          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - The Washington Post",
-          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01wTXVCUzlDekswbUxCUGpNNnNVN2RMQm5RZjNhMEpHMG5vTWJOcFJHMENxVmZOUXFVUWJPLU0wbC11Qms5akRMR3BaVm1ORzZ2Z3ladDYwTjBCQTRkbU9pdEY1SVpkeWtKYnlRSFd2WUV6X3hOZTRxVk9FQ2FWZ2gwSFdCUGMwZUgwdzNWOEJYaXdSTHhiRXYtSExpRkQwVTh3ZC15NDBWd3RFYnRlbFZXaV9rME10ZF9GUkNfVmZrMWs?oc=5",
-          "published_at": "2026-08-21T03:55:32Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "The Washington Post",
-            "url": "https://www.washingtonpost.com",
-            "domain": "washingtonpost.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "a8c8d4372ae2dfe4c317",
-          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - Newsday",
-          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lWDdBTzFXeTVZQzlDbDhDNW5rZkdxQnlDaHpGN0RNb3ZkYUlGTUl4NlhKdjhZeWxsNGhWY1hPTTJqVzNLSnNpcWx4b2hYRVJxM1QwbmdSVjMteUlTczJzYUVRYTNBMXgwRUdlU0VEY3lwS3h1MjkwMFVKWXE?oc=5",
-          "published_at": "2026-08-20T20:08:15Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Newsday",
-            "url": "https://www.newsday.com",
-            "domain": "newsday.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -311,6 +351,46 @@
       ]
     },
     {
+      "id": "1d0c7586b7ee96bc9409",
+      "title": "هل المغرب معني بكسوف الشمس الكلي المرتقب؟",
+      "published_at": "2026-08-21T02:20:20Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "1191bf90f218fe3c1a3d",
+          "title": "هل المغرب معني بكسوف الشمس الكلي المرتقب؟",
+          "raw_title": "هل المغرب معني بكسوف الشمس الكلي المرتقب؟ - SNRTnews",
+          "normalized_title": "هل المغرب معني بكسوف الشمس الكلي المرتقب؟",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2VmVISkUwVVFOVGY4ZmZvYkZULXp5SHhFd0dEYkRwVU1FQk9aNUNGSGNmckxSdVJsQjAxNW4tRzVQZkpfX2lILV84Z3gyYzJzcnY0?oc=5",
+          "published_at": "2026-08-21T02:20:20Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://www.snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "30a81aa2a70666d39c4f",
       "title": "لعب مغربية تخلق \"البديل الممتع\" وتلبي حاجة الأطفال إلى الانتماء والتعلم",
       "published_at": "2026-08-21T02:03:25Z",
@@ -386,6 +466,46 @@
             "domain": "mc-doualiya.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d5c5db8946d1d79c90f2",
+      "title": "المغرب - فلسطين: مذكرة تفاهم من أجل إنشاء مجلس الأعمال",
+      "published_at": "2026-08-21T01:05:55Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "feb9a52fb22856947cc5",
+          "title": "المغرب - فلسطين: مذكرة تفاهم من أجل إنشاء مجلس الأعمال",
+          "raw_title": "المغرب - فلسطين: مذكرة تفاهم من أجل إنشاء مجلس الأعمال - SNRTnews",
+          "normalized_title": "المغرب فلسطين مذكرة تفاهم من اجل انشاء مجلس الاعمال",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzSllGZHZVWmJ6NWFHdHNYV0FWSzJzc1E0TW9Zek9aXzZ0TzJjVzdnUGwzUzdGZnFDNnEtYjRSdFZfZkZWTE9DbDRfS2FpUQ?oc=5",
+          "published_at": "2026-08-21T01:05:55Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -1232,6 +1352,47 @@
       ]
     },
     {
+      "id": "b63327713ebfb9cf54cb",
+      "title": "السفير العمراني: المغرب يجعل من نيوجيرسي محورا أساسيا لمونديال 2026",
+      "published_at": "2026-08-20T20:19:45Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "ab0afef2e108df341d44",
+          "title": "السفير العمراني: المغرب يجعل من نيوجيرسي محورا أساسيا لمونديال 2026",
+          "raw_title": "السفير العمراني: المغرب يجعل من نيوجيرسي محورا أساسيا لمونديال 2026 - SNRTnews",
+          "normalized_title": "السفير العمراني المغرب يجعل من نيوجيرسي محورا اساسيا لمونديال 2026",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DRjJOV0pzMkhBbkd3RmJMRHhjOHVQWF96SlFoeDY3bGd0TkctZ01yTW1tTW1aME5Mdks3QktkeGFZcUs5dl9nSG5iejFXeDA?oc=5",
+          "published_at": "2026-08-20T20:19:45Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "71cf5862bc6e5f5e59b8",
       "title": "Maroc-Législatives 2026 : le calendrier électoral connu",
       "published_at": "2026-08-20T20:13:45Z",
@@ -1550,6 +1711,46 @@
             "domain": "moroccoworldnews.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "21e3c51115f8202021cb",
+      "title": "بطولة .. أولمبيك آسفي يتعادل مع ضيفه المغرب الفاسي",
+      "published_at": "2026-08-20T19:27:37Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "f3370636f6b84d62e3d3",
+          "title": "بطولة .. أولمبيك آسفي يتعادل مع ضيفه المغرب الفاسي",
+          "raw_title": "بطولة .. أولمبيك آسفي يتعادل مع ضيفه المغرب الفاسي - SNRTnews",
+          "normalized_title": "بطولة اولمبيك اسفي يتعادل مع ضيفه المغرب الفاسي",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xb2p3WTlqUXlJMFg5b0Z1QkVVMW5uZ1k3QjBobnFsUnN4VGpmRlJXVF9nUDBOOXlwS1VtOXdnc3VfaFAzckpGX1hLYXdrQQ?oc=5",
+          "published_at": "2026-08-20T19:27:37Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -1989,6 +2190,46 @@
             "domain": "masrawy.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "c0bbee3848a8c1317647",
+      "title": "فيفا : المغرب يواصل كتابة التاريخ",
+      "published_at": "2026-08-20T18:25:18Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "99a3edcef130c8cdc4b0",
+          "title": "فيفا : المغرب يواصل كتابة التاريخ",
+          "raw_title": "فيفا : المغرب يواصل كتابة التاريخ - SNRTnews",
+          "normalized_title": "فيفا المغرب يواصل كتابة التاريخ",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qSzQzNjFrNE5SSzZLd083VkdQOC1vand0bmlBMG5XMHM1OVZDZk1mNjZLLTAzYTlkdnVQQjVuWExJdVByY0kxUm1TcTZCanc?oc=5",
+          "published_at": "2026-08-20T18:25:18Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -17406,6 +17647,46 @@
             "domain": "maroc-diplomatique.net",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "87fafeeaf2d96465ea07",
+      "title": "La Révolution du Roi et du Peuple, une épopée historique aux enseignements renouvelés",
+      "published_at": "2026-08-19T12:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.45,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Maroc.ma"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "2602e536a53bab28cb11",
+          "title": "La Révolution du Roi et du Peuple, une épopée historique aux enseignements renouvelés",
+          "raw_title": "La Révolution du Roi et du Peuple, une épopée historique aux enseignements renouvelés - Maroc.ma",
+          "normalized_title": "la revolution du roi et du peuple une epopee historique aux enseignements renouveles",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTXc1YVhkMVZEbGlpRWp1VEY2bmRxWmZHNEl3dWlLN213OW1IaG9aRDBHQk9GRjlKQkFMbnJOUkJEaDJicDZHaWlQWFFKMG9OUEx1X1ZUR2NqOFJibjNqTEJtdmNXTVBCbmRTZjdLQTRRd0NjWF9ZMThCSTR2c3AzMjVMNzlveTFIWmQ0Yl9KUVVHRXVlUmV2b0ZYYno2dU1lS2MwR2Z2ajZ6NGpTaEtrdzRiX2ZBdw?oc=5",
+          "published_at": "2026-08-19T12:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Maroc.ma",
+            "url": "https://maroc.ma",
+            "domain": "maroc.ma",
+            "weight": 1.0,
+            "category": "official"
           }
         }
       ]
@@ -33056,6 +33337,86 @@
       ]
     },
     {
+      "id": "a83181680532cb9aced5",
+      "title": "استعدادا لمواجهة المغرب .. البرازيل تستعد في ملعب طنجة الكبير",
+      "published_at": "2026-08-18T01:24:47Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "4e203c7f7acd61b7b23c",
+          "title": "استعدادا لمواجهة المغرب .. البرازيل تستعد في ملعب طنجة الكبير",
+          "raw_title": "استعدادا لمواجهة المغرب .. البرازيل تستعد في ملعب طنجة الكبير - SNRTnews",
+          "normalized_title": "استعدادا لمواجهة المغرب البرازيل تستعد في ملعب طنجة الكبير",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QeWR2QnRzQjJ3dFhMc3hhZzB3ZnByN2lqQmIwMmNMYjIwbGRCZy1kSU1lWXQxWjF2VmEtbHpPbHN3UXNiQ1BSOWQwdzZxQQ?oc=5",
+          "published_at": "2026-08-18T01:24:47Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bdb3ee730b85457e446e",
+      "title": "هل يعتزم المغرب القضاء على 3 ملايين كلب ضال ؟",
+      "published_at": "2026-08-18T01:24:41Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "fa35f2b6064da0440da2",
+          "title": "هل يعتزم المغرب القضاء على 3 ملايين كلب ضال ؟",
+          "raw_title": "هل يعتزم المغرب القضاء على 3 ملايين كلب ضال ؟ - SNRTnews",
+          "normalized_title": "هل يعتزم المغرب القضاء على 3 ملايين كلب ضال ؟",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CRnFKclAwc0ktZ2R2eVUyTnFaMUs2bkRjY3F4SUdJN2FjSEt4bTBkam5XUG1tdm96Sll3UGRFZ2o4MGs0R25VMk1JS1J1Vms?oc=5",
+          "published_at": "2026-08-18T01:24:41Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "d5258c9b8976434226ca",
       "title": "الفوسفات المغربي يعود إلى السوق الأميركية بعد غياب 5 سنوات",
       "published_at": "2026-08-18T01:18:29Z",
@@ -38168,22 +38529,21 @@
       ]
     },
     {
-      "id": "30e874b86dfe9f88c852",
+      "id": "18ecc4bae30ee3e3b039",
       "title": "Carburants au Maroc : le gasoil grimpe, l’essence recule",
       "published_at": "2026-08-17T13:32:27Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": false,
       "claim_score": 0.1,
       "claim_reasons": [
         "specific_statement"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "Infomédiaire",
-        "Le Nouvelliste Maroc"
+        "Infomédiaire"
       ],
       "languages": [
         "fr"
@@ -38202,23 +38562,6 @@
             "name": "Infomédiaire",
             "url": "https://www.infomediaire.net",
             "domain": "infomediaire.net",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "b50662c3ece841419106",
-          "title": "Carburants au Maroc : le gasoil grimpe encore tandis que l’essence recule",
-          "raw_title": "Carburants au Maroc : le gasoil grimpe encore tandis que l’essence recule - Le Nouvelliste Maroc",
-          "normalized_title": "carburants au maroc le gasoil grimpe encore tandis que l essence recule",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOTM0b003Vy1VV0ZRSEtKdGM1WjFrWGd2Ty1lVXNQb2djd3NmTDNjQWZkdjVHR21MQWJmR2U4d2E4YTNsWTY5Z0ozY0x1UzFKc25PV1lxUTlRMTFXU09ZRWtrajZMVUJOM1FPQUZxYUlpOHAwUkhock5jRDR3cnhENUhsLWJ2ajZHNExuaFNWVno0R3JPME9kSHFPT2dVUHJBSWc?oc=5",
-          "published_at": "2026-08-16T22:43:59Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Nouvelliste Maroc",
-            "url": "https://www.lenouvelliste.ma",
-            "domain": "lenouvelliste.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -44807,329 +45150,6 @@
             "domain": "snrtnews.com",
             "weight": 0.8,
             "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "baaef40c3ab07f8ee391",
-      "title": "Retour de Sebta au Maroc : l’issue que Foreign Policy estime inévitable",
-      "published_at": "2026-08-16T22:55:13Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Le Nouvelliste Maroc"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "4fe7c1bdff8a453d5d93",
-          "title": "Retour de Sebta au Maroc : l’issue que Foreign Policy estime inévitable",
-          "raw_title": "Retour de Sebta au Maroc : l’issue que Foreign Policy estime inévitable - Le Nouvelliste Maroc",
-          "normalized_title": "retour de sebta au maroc l issue que foreign policy estime inevitable",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaC1rbVo5LU1FdmphZENIazJFSGo4U3BNOXpLVkQtbTYwOTAxbXlQRTFBRm8xVFRXS0JJUy1tb0pxdk5hTlhOZUtqNllPYjFZTEk1QXBDdDFrUF9aamV2YmdKYzhVajBQS2E0RTdOTG1oa3Z2UTFVSVpDUExCUnlQN0dwajk4UVBRb0JHZk5JWjREeXMwal94NkZ0ZlFWTjA?oc=5",
-          "published_at": "2026-08-16T22:55:13Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Nouvelliste Maroc",
-            "url": "https://www.lenouvelliste.ma",
-            "domain": "lenouvelliste.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b257668491a6e50d0a6a",
-      "title": "المغرب حاضر في افتتاح القمة الإفريقية الأوروبية ببروكسيل",
-      "published_at": "2026-08-16T22:53:27Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.3,
-      "claim_reasons": [
-        "specific_statement",
-        "event_assertion"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "5182ac6c843fc732bba3",
-          "title": "المغرب حاضر في افتتاح القمة الإفريقية الأوروبية ببروكسيل",
-          "raw_title": "المغرب حاضر في افتتاح القمة الإفريقية الأوروبية ببروكسيل - SNRTnews",
-          "normalized_title": "المغرب حاضر في افتتاح القمة الافريقية الاوروبية ببروكسيل",
-          "url": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNQnNyMGZmWm1qenFqMTZKSFZQemd2eDAtdjNDWDkxUnFSQ0R5SlotVjlzaU1hZU51MkxhZ3gwVXZwdktKcFlYZmZjaE5WcFIxV2YtcWhBcnV5RWYwR29lWXZyYmh5alZON09KY29zSkR4UFY0RVlIOURBSDE1aGZpa0VtejhqTUhpa05haV9OT2hCTkN0M0RCTS1GMk5pcE5fUEVfcnhsTFUwWXBJTExfcHloalZOTEswVk8weTJqbXZibmVUMDEtNnI4T2J4S0NmRHBpcEl1dlc2ZElkNW9KYUdjVHc2RFVFai1HQlQ4SFJZbFVDUnpIcVZFWkFmYktOb2NnQ2ZWMVdyNER5aUhXSzE0OEhfMS1nUU1RenlpcFJuR1FCTGVBX3lVV21rYXlxS01WMFNIMWlJLVdDT3I1MFdyVU9fQXlDZ3hEeTktaEhyUU9lRHFQQ1RKcTRjdjRpcjJ1bWY1el9jVEo0Y0ZjamdQTGRmRE1Ec0d1RjRKdDg4ejlldU1zR2VJTG1sVHE4aEUtU0d5MF9hcFBOMXNtbUFHQjFuQzZxVWs5amxDYnpXR2hqV1dYSERwaFhVTzJGY2RjUDZWQ2pDc1IzSC1fLWhmXzVsVEhm?oc=5",
-          "published_at": "2026-08-16T22:53:27Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "76ca43de2e520a055612",
-      "title": "Sebta: Une escalade italienne contre le Maroc ravive les tensions autour de la migration",
-      "published_at": "2026-08-16T22:37:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Hespress Français - Actualités du Maroc"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "df28f4dfc6424a00628d",
-          "title": "Sebta: Une escalade italienne contre le Maroc ravive les tensions autour de la migration",
-          "raw_title": "Sebta: Une escalade italienne contre le Maroc ravive les tensions autour de la migration - Hespress Français - Actualités du Maroc",
-          "normalized_title": "sebta une escalade italienne contre le maroc ravive les tensions autour de la migration",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUDJMbzdoLTdoaDhYSUNPbWVJYUNlWVpVb28xRWJrNWdQYzlQS3MzYnE1TVdnT25DUGFqMjZaTDBrd0ktVXlTTWZxeGZERUpxWkpmN3MxVEJvSF8xLWc2S183NDk2eDZGOWNIMG05MlZmcm12ajZDQjVSWVdCdUExN2NiZWctYk4wNmp5bmJiUFpGOXZnRVN2SjRMdEZ3QXpMMElpLUVKMFV2RGMzWlFTWm1STEJiYi1zb2RRRkF2UWM?oc=5",
-          "published_at": "2026-08-16T22:37:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Hespress Français - Actualités du Maroc",
-            "url": "https://fr.hespress.com",
-            "domain": "fr.hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "80f90f2050c969f68a65",
-      "title": "Le Maroc, un partenaire indispensable pour une gestion durable de la migration irrégulière en Méditerranée",
-      "published_at": "2026-08-16T22:36:31Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Le Reporter.ma"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "7ff905d4f9c65139ef80",
-          "title": "Le Maroc, un partenaire indispensable pour une gestion durable de la migration irrégulière en Méditerranée",
-          "raw_title": "Le Maroc, un partenaire indispensable pour une gestion durable de la migration irrégulière en Méditerranée - Le Reporter.ma",
-          "normalized_title": "le maroc un partenaire indispensable pour une gestion durable de la migration irreguliere en mediterranee",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUVJQjBNSkNOWXhwYVlWV1pFR18xeUdBa2g2SjktRVJWUmZadnItdnVkcnE4SkVBT3BpYmJxRHQ2NjBwaHM4aXpfeGcwUUNSekJnVjk2aEVEbEkwc0xMczMtMF9Cbno3eDFHaEx1R1ZZQWkyQ3I0NW15MU5MVS1GMHZ4THk5eWtVbmNRbnlZZDF0LVpkUmNyOWRUTm1vN3I1UW80SkpvMk1sQ0plY00xRmtSY3lIRVQ5eGZLSV9ObENoVTlyUm9hWGhNb24?oc=5",
-          "published_at": "2026-08-16T22:36:31Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Le Reporter.ma",
-            "url": "https://www.lereporter.ma",
-            "domain": "lereporter.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0b9fbf58697d79caab9b",
-      "title": "CAN Dames Maroc 2026: Ces distinctions individuelles confortant la mainmise du Cameroun sur le tournoi",
-      "published_at": "2026-08-16T22:30:23Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Afriquinfos"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "1cc21a28b5af3527aa5a",
-          "title": "CAN Dames Maroc 2026: Ces distinctions individuelles confortant la mainmise du Cameroun sur le tournoi",
-          "raw_title": "CAN Dames Maroc 2026: Ces distinctions individuelles confortant la mainmise du Cameroun sur le tournoi - Afriquinfos",
-          "normalized_title": "can dames maroc 2026 ces distinctions individuelles confortant la mainmise du cameroun sur le tournoi",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc3EwUENnazJGVmZTNl9ydi1xWkhaeVdoR043TnAxTWJLb1FETGpLRkp0aFlYOGhLSWdFd090OUNYX1FIWld3MHlFcU0xdW1xcEtGUUxJdTNSS3JLb0ZGTjFqcVA1NXlzRGZoVHMydEpYY0pmOVNuYUJXYVlCQ2xuV29kWW9uOWRjdEhLWTJ3YUl4SDRqc1lJb2szaWJ1NV91aUtSWnRhc05LaFE4TW4xWDNsTWhyOWQ4YlBKd21maTMwN25U?oc=5",
-          "published_at": "2026-08-16T22:30:23Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Afriquinfos",
-            "url": "https://afriquinfos.com",
-            "domain": "afriquinfos.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "15b01cc5374fefea695e",
-      "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
-      "published_at": "2026-08-16T22:27:13Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "The Washington Post"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "fd1fd5c1bdd10dc0d293",
-          "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
-          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta - The Washington Post",
-          "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlZ1czA0bVRkYm5CSGRLYkNNR2dXZFNTZ08tZ2xEUTVGVVlGNVR0cXJRdnA0a0dFZlZFeDNQWk5JWTkyVWZwUlZ2cjdYcFQ4SlJkRENVNWlPcWxvV0lCTW45ckRqSFlVWEszWTJGcVNUajVkM3RRclNEM25zWlVDVzlxX2dVeGE4UjhrZENVQmU4RDJpcDVzMVJ1ZFV4Q3VMNVhzY25SMk80QVlXbjRLcUtfT2kxLUtmTzRqUVU2VVlIZlE?oc=5",
-          "published_at": "2026-08-16T22:27:13Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "The Washington Post",
-            "url": "https://www.washingtonpost.com",
-            "domain": "washingtonpost.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "496c6f0cee1cf76b248f",
-      "title": "Erratum : Toutes nos excuses à Mme Touraya Bouabid",
-      "published_at": "2026-08-16T22:25:32Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Maroc Hebdo"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "78fa3e76e33c8767a33d",
-          "title": "Erratum : Toutes nos excuses à Mme Touraya Bouabid",
-          "raw_title": "Erratum : Toutes nos excuses à Mme Touraya Bouabid - Maroc Hebdo",
-          "normalized_title": "erratum toutes nos excuses a mme touraya bouabid",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnAtanpfXzl3TGNFNHRCWEVtaTNOSDF6azY0dVJmQnlMVDlod3NmNlFYVzVmSGw3MjJCYkp1ek01YXhUX2o0SHlQVG5FYTBVTjlVMWhPQ1UwdUtyMm91WFpqWmNhck1mYUtsdEhuVGxWczhBOXBsQlRGb2lxd1JwSHNYUXp3U1NLWTFJ?oc=5",
-          "published_at": "2026-08-16T22:25:32Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Maroc Hebdo",
-            "url": "https://www.maroc-hebdo.com",
-            "domain": "maroc-hebdo.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "dee59970ccc858964612",
-      "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
-      "published_at": "2026-08-16T22:03:19Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "59acd8c040762b402c88",
-          "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
-          "raw_title": "Hundreds of migrants arrested near Ceuta border in latest crackdown - Al Jazeera",
-          "normalized_title": "hundreds of migrants arrested near ceuta border in latest crackdown",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVJPS2RxU0Vmc3hhSWdpRS1RZ2J1eWxqbHFhLUtiSGE3TGVuV1otcUZiSTRyYUFuc1pQZGE0bmJHQXpCcUpNb0t2R2tEd1dSa2FSZU94OEdydm5jTUlMMHBPbjM0MEp0UjlUNlhsY1BqNTZYckh1N2tDUjRzN1F2RjZySXpUTXo1QWhZbkFLTFVoR3ZHRFJubi1pVmJaOW5pNVdidXcwRDZwMlZ10gGyAUFVX3lxTFAta2t0OTlUcWZyQk16dGFXTU1wbVBUaDNqT0xkUnZmTXM4RlUtaURRS1V0aVBvUThuOFF1Z2VTVFdZNGdFZmJ6SW9aTVU1NWdCd3QzaTAwdXBnd3B4ajJJelNob2pZaEJRbU9iMWRuMDdkVkNlWkU1bXlZdHJLaXN5M1pZa3dLaEthU3hCRWVPYVNqei1sanF3bFN6aXRfV1BydFFfWDdLZ2dtXzl5dWFKMlE?oc=5",
-          "published_at": "2026-08-16T22:03:19Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Al Jazeera",
-            "url": "https://www.aljazeera.com",
-            "domain": "aljazeera.com",
-            "weight": 0.35,
-            "category": "unrated"
           }
         }
       ]
