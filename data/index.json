@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T01:58:30Z",
+  "generated_at": "2026-08-21T03:15:54Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1198,
     "fact_checks": 2,
-    "clusters": 1054,
-    "sources": 317,
+    "clusters": 1055,
+    "sources": 313,
     "matched_clusters": 0,
-    "needs_review": 999,
-    "medium_evidence": 54,
+    "needs_review": 1001,
+    "medium_evidence": 53,
     "corroborated": 1
   },
   "fact_checks": [
@@ -50,6 +50,127 @@
     }
   ],
   "items": [
+    {
+      "id": "f161e3c4358d99d3486c",
+      "title": "بعد العودة للاتحاد الإفريقي.. المغرب يشيد شراكات استراتيجية عابرة للحدود",
+      "published_at": "2026-08-21T03:03:02Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "b54006c9ad0b99529034",
+          "title": "بعد العودة للاتحاد الإفريقي.. المغرب يشيد شراكات استراتيجية عابرة للحدود",
+          "raw_title": "بعد العودة للاتحاد الإفريقي.. المغرب يشيد شراكات استراتيجية عابرة للحدود - Hespress",
+          "normalized_title": "بعد العودة للاتحاد الافريقي المغرب يشيد شراكات استراتيجية عابرة للحدود",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPY25OejNTa0RIRjY5cUxqNTFOM1M4VVVnNnphVkQ0TDNCQmR0M0plRHlUZVZVUmRzRnozTWs5VjcyMndwM1poeHVuMHFRcTkwQ1FaYXNsTmxQdmtKaVpTVEJGYmo0TU5BTVBUa2ZlNzd1N281SnNMZWd4aTItZERKVExkUkVKd1lVUTVJUmR3cE5ZWE9xMDBYOXdyeDNPY2FyWWxtLTRHOElmTlh3ZW5EN1Ezckh3WkJJZzdocDVtdmQ5OHRPVGlUU1FPRlNZdW04b3J0RHdmcVFGTWExUHZUSThHVUVOcE1BRFFqdTFpTnA5Rm9tSThpUFFCQzBaYzlGNlhqVEp2R2R0N1Y2WEdTaTNQLVlJQ09QMmRjZEdvWnBTajI3VHMyTnpZWUVUS2cycTFVMmNaTjRYZ1h0V0RSanFDTGpIbi1EWFlacFRfb0tLQTZNVEE?oc=5",
+          "published_at": "2026-08-21T03:03:02Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d22bec8c445ba4803d5a",
+      "title": "Le Maroc a fait chuter la déscolarisation, mais 570 000 adolescents et jeunes restent hors de l'école",
+      "published_at": "2026-08-21T03:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Bladi.net"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "6656e8a6582b55d767fa",
+          "title": "Le Maroc a fait chuter la déscolarisation, mais 570 000 adolescents et jeunes restent hors de l'école",
+          "raw_title": "Le Maroc a fait chuter la déscolarisation, mais 570 000 adolescents et jeunes restent hors de l'école - Bladi.net",
+          "normalized_title": "le maroc a fait chuter la descolarisation mais 570 000 adolescents et jeunes restent hors de l ecole",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1A0OTg5aEhjYTdObW9fVWFZV2hacUVTUkFvVTlOcUZnSnpjY0NZSnJjamhWTFlBX2NxNGxRRVgyTU9ZNVdLckRjMWY0d0tlQkNVaEJDd1pSd1ZoeU8taG5BTmNFYlZEcGpPRkpCc1FEQnhEakJLeTZNQlNRSFk1VVNVcWJsUEVTR1JWX2l1VUZKMnkyT3VDa2VFM3lKRENSb1E?oc=5",
+          "published_at": "2026-08-21T03:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Bladi.net",
+            "url": "https://www.bladi.net",
+            "domain": "bladi.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "30a81aa2a70666d39c4f",
+      "title": "لعب مغربية تخلق \"البديل الممتع\" وتلبي حاجة الأطفال إلى الانتماء والتعلم",
+      "published_at": "2026-08-21T02:03:25Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "34999021aa0e9088ec49",
+          "title": "لعب مغربية تخلق \"البديل الممتع\" وتلبي حاجة الأطفال إلى الانتماء والتعلم",
+          "raw_title": "لعب مغربية تخلق \"البديل الممتع\" وتلبي حاجة الأطفال إلى الانتماء والتعلم - Hespress",
+          "normalized_title": "لعب مغربية تخلق البديل الممتع وتلبي حاجة الاطفال الى الانتماء والتعلم",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNX2xrZDU5Rjh2RllRVy1JakVZcGRnWFRjQThQWi1LTGx2RkMyQy1zek1FejFrRjJHOE9qLWlnT2FQdldXWDZXOUJnRDBFd3R3aDh2N2ZuU2ZfMEdVR0IyT2FwblNGUjFvUF9ES3h0eDlLU09ZQ2pIS0ktVnpNWkZFVnhQUTgwdzByTE1vYnpBWlpCdlk1XzFxcVl5VGphdmtNLXoza1hQMFpEbFFmRm5vYVBEaWI5ODFlY1RxS0FBMXduTEtsek5FSGJYM1JxaC1ET19sc18xNkhTTE1WVzBiLWZJaEdaYXA1UUkzX2JsU3NPeEppVzVhZ2toQ0tJMkd3Qm9ZbXFTZ0pod0pUSUNnbU9ZSXZkRDA1S1F5MUlOeS00bjlMMDVUS3N1czlUdEItbFRkSTc3MGgyYUU4Q01lM1NINnRLcWJ1aGtMTWhvRQ?oc=5",
+          "published_at": "2026-08-21T02:03:25Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "83d31da8d12babcc9809",
       "title": "ما وراء أزمة سبتة بين إسبانيا والمغرب.. التاريخ والقانون والهجرة جدل مفتوح بين أوروبا وأفريقيا",
@@ -224,6 +345,87 @@
             "name": "Le Desk",
             "url": "http://ledesk.ma",
             "domain": "ledesk.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f7546817bdeab43fc0f5",
+      "title": "Internationale - Le MAE italien charge le Maroc",
+      "published_at": "2026-08-21T00:40:26Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "L'Expression"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "f2900da7ae1df1f70a56",
+          "title": "Internationale - Le MAE italien charge le Maroc",
+          "raw_title": "Internationale - Le MAE italien charge le Maroc - L'Expression",
+          "normalized_title": "internationale le mae italien charge le maroc",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT01UWFQ0Z2hnbEIwSkpIUnFQbzJUNGFzLXQ5SWdmemZOdm1jWFAybXFYNl9WN0NVYzB6cnNpVU5UZ0E2NHpfMWtxUUV3TTFRcUR6TFMzb1FjQVpEWEpKV3NSNjlDTEZ3b0hyQjVaM2ttY0xLN0N2MDBVUGxxMVBDRk5LSnpveGFSOWc?oc=5",
+          "published_at": "2026-08-21T00:40:26Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "L'Expression",
+            "url": "https://www.lexpressiondz.com",
+            "domain": "lexpressiondz.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cfc88a25182efc62a835",
+      "title": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco",
+      "published_at": "2026-08-21T00:39:12Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "U.S. Soccer"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "1ca654d3756fdabcca6d",
+          "title": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco",
+          "raw_title": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco - U.S. Soccer",
+          "normalized_title": "u s under 17 women s national team downs canada 4 1 to finish final training camp before 2026 fifa u 17 women s world cup in morocco",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamQ3ajhaNVBkTXJ3OG5vS1FtdTBQOS01TnNQekFuVkgtNjlreWtyc21JM2F5MXBYdFAxdDBaeS1zNFNxUGU5Zzl6bXBxYVgxRllBdmZNYkpSaUs5bURRRGpSTkJBUnI1RnB2T2lBWDg3dzNlSEFuczVCX3M5TFFxM1Fvd2ZBY3d0YnlnT0V3eVFlSHMwLWtkaGZDSVpPb0NmVU9VVFB4UGtVeElmX29rekUyQnM5UmUxcndiMzloWGR1cjJL?oc=5",
+          "published_at": "2026-08-21T00:39:12Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "U.S. Soccer",
+            "url": "https://www.ussoccer.com",
+            "domain": "ussoccer.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -674,7 +876,7 @@
     {
       "id": "7f8daa0d8dcbfd2df346",
       "title": "Grâce Royale au profit de 667 personnes à l'occasion de la Fête de la Jeunesse",
-      "published_at": "2026-08-20T21:09:34Z",
+      "published_at": "2026-08-20T21:13:05Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": true,
@@ -699,7 +901,7 @@
           "raw_title": "Grâce Royale au profit de 667 personnes à l'occasion de la Fête de la Jeunesse - lopinion.ma",
           "normalized_title": "grace royale au profit de 667 personnes a l occasion de la fete de la jeunesse",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbkZCNV9mWHlGRXJxN1RGSjQ0WkRkZjlER21nOHY2OERWZTlQSHBwTWMybXhnc2xBczhjXzd6anBXZS0xNWtLUmhqN2dWMHhkUGZWSkUtMDVwZkZ1eVNZNUZ1c2tPUFJnZlVlQ1E4UVJHM3llNFBXZUVjZ1FxMDFtU2JQeWhvZXJCTGFqQlpGYXNQd2h5WUFuM1ktdTFJaHd4djBzQ0ZJTUtLdENZY0dxeE41X1ZRbE5SXzFjWG9qYWZjTi1IVVVHaHptMTJkd2JpWFpVS0RMWWVWaUVWT2ZzQkNPRFlEZU1YRnQtQW84a2U3My0wSlF6TDJ3?oc=5",
-          "published_at": "2026-08-20T21:09:34Z",
+          "published_at": "2026-08-20T21:13:05Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
@@ -943,6 +1145,46 @@
             "name": "APAnews - Agence de Presse Africaine",
             "url": "https://fr.apanews.net",
             "domain": "fr.apanews.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ebb662d09a032ab9180b",
+      "title": "قانون مهنة المحاماة ينشر بالجريدة الرسمية وسط استمرار شلل المحاكم",
+      "published_at": "2026-08-20T20:06:52Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "صوت المغرب"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "0f74ad3d37556ea61e93",
+          "title": "قانون مهنة المحاماة ينشر بالجريدة الرسمية وسط استمرار شلل المحاكم",
+          "raw_title": "قانون مهنة المحاماة ينشر بالجريدة الرسمية وسط استمرار شلل المحاكم - صوت المغرب",
+          "normalized_title": "قانون مهنة المحاماة ينشر بالجريدة الرسمية وسط استمرار شلل المحاكم",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRlpPYlp0RkFYVXBhOF94eU1JWTFKbENmVlluT21CTlhLMTR4VXdibS1RdFl2enZmMHJtQWNqMTAyN0d1QVlweWRLWElLVFhySWFLVDlTR1NPMHV6RTVBVUhEMVNaU1FwNlg1b1pSZzRDOV96LXRIcEZFX0FPMVNWc2dRaklrblhCYXl1RnN4X21JcGw0b1F0ekQ0TlNHT3QzZWFoTlkySXdfY29xbUQtd2Itd3BObDh5WU5UQ0JTeXZyV0YzbFhJeW5wSWc2YmYwV1Q4eEp1cmxtR2d0NnBUMFdxZ1ZKR3FTX1JoZDV3aEVoRUpLLXJjdk5nVTdIRm4ycG0xR193Y3hlZEZPRnJSam42MmtjQUVLRzVXLTE3aVpCUHpab3ZCYmNaYVdQemZVb3RvV2hkUVhwZlczdGtqdQ?oc=5",
+          "published_at": "2026-08-20T20:06:52Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "صوت المغرب",
+            "url": "https://thevoice.ma",
+            "domain": "thevoice.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -1314,6 +1556,64 @@
       ]
     },
     {
+      "id": "4e4ac21c2756f1b84790",
+      "title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ",
+      "published_at": "2026-08-20T19:04:31Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "Medi1 News",
+        "برلمان.كوم"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "3d0646f67cf4786645ed",
+          "title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ",
+          "raw_title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ - برلمان.كوم",
+          "normalized_title": "المغرب يشدد الخناق على القرصنة وتجار iptv تعديل قانوني يدخل حيز التنفيذ",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOVGRTdzdTbVo0T0I2SDRwQldtZzVCeklqV09UQ2M4WC1NVGR0bGJtV2pmdVR4bWFVMWwxQk9qQmtKbFM1RXFLY3U2WWpFbXlUVUVtWmo4UnNkYmhxbDNEMml2V0RUOXE5a1hCVy1JQVF0UUhKdTNyRDl4WWxOa25fWldULTBxWE4tdjJ6MHY3bVhFaFM4eDdiRzB5X2VYbHhobDFZaWVxQm1YNDJTb2M0LXRtX2FLRWRJRVZQTWQxc0xaZlkycmQ3OVkzb1VMV2d4ZEh2SERqMmFadVFuX05wbG9vNTZDNDA5MElqdmkxWnc2VVV4SWJYWjFKY3BYUFRrOE82ZklRQnlaUW1lUkRmcXZ2VDFEQ3VTMVdMNlRCcEk5TGNOaUlWWVg1N0QzMXVfZnhzcTBIV1ZqZVE0d2dKbA?oc=5",
+          "published_at": "2026-08-20T19:04:31Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "برلمان.كوم",
+            "url": "https://barlamane.com",
+            "domain": "barlamane.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "6e141589134a1e17630d",
+          "title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ",
+          "raw_title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ - Medi1 News",
+          "normalized_title": "المغرب يشدد الخناق على القرصنة وتجار iptv تعديل قانوني يدخل حيز التنفيذ",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45QVlJUGMxS21BVXlUZHRJRGs0V3YwVThVVGxIZU1abHNjZUJMNjdmZXo0MUFtaENrdnRIWjNsbjZkdERGM2xVdFhyc0dhYTlWMngyUUMza3lPNmVw?oc=5",
+          "published_at": "2026-08-20T15:18:35Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Medi1 News",
+            "url": "https://www.medi1news.com",
+            "domain": "medi1news.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "70ea046e03a281bc03ea",
       "title": "الحكومة المحلية بسبتة المحتلة ترفض نقل القاصرين إلى إسبانيا وتتمسك بإعادتهم إلى المغرب",
       "published_at": "2026-08-20T19:03:16Z",
@@ -1389,6 +1689,46 @@
             "domain": "24saa.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8390c85211bec68311d4",
+      "title": "مدير عام TUI الألمانية: المغرب يتيح فرصا هائلة للاستثمار في السياحة",
+      "published_at": "2026-08-20T19:00:54Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "07f08622ebefdf555910",
+          "title": "مدير عام TUI الألمانية: المغرب يتيح فرصا هائلة للاستثمار في السياحة",
+          "raw_title": "مدير عام TUI الألمانية: المغرب يتيح فرصا هائلة للاستثمار في السياحة - SNRTnews",
+          "normalized_title": "مدير عام tui الالمانية المغرب يتيح فرصا هايلة للاستثمار في السياحة",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfcGpTYnNidHZUeUp1emNfZXE4cnVFSnZZa0xBU2NRV2R6X21Na3g3QVVIZS1VWnA3aVNQakZxN0sxSXI3dENENEtEMVlzZw?oc=5",
+          "published_at": "2026-08-20T19:00:54Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -1934,6 +2274,47 @@
             "domain": "maroc-hebdo.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4aadd979cf74e24dac40",
+      "title": "مكافحة الحرائق : إسبانيا تجدد تأكيد التزامها بمواصلة تعاونها مع المغرب",
+      "published_at": "2026-08-20T17:19:03Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "specific_statement",
+        "opinion_or_analysis"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "5c5920634f4c97c98b55",
+          "title": "مكافحة الحرائق : إسبانيا تجدد تأكيد التزامها بمواصلة تعاونها مع المغرب",
+          "raw_title": "مكافحة الحرائق : إسبانيا تجدد تأكيد التزامها بمواصلة تعاونها مع المغرب - SNRTnews",
+          "normalized_title": "مكافحة الحرايق اسبانيا تجدد تاكيد التزامها بمواصلة تعاونها مع المغرب",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00T1JobzVLb2VGdHJUWDJjWTRVdG5YRFRqMzYzNDVfOHU1YWxKMldhVG1WcDZqcWJiZnRkZzlwa0MwRXhObDcyV2FBRGlDZw?oc=5",
+          "published_at": "2026-08-20T17:19:03Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -2762,6 +3143,47 @@
       ]
     },
     {
+      "id": "f04b328c92209ad622f4",
+      "title": "زامبيا تجدد تأكيد دعمها لسيادة المغرب على صحرائه",
+      "published_at": "2026-08-20T16:25:43Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "specific_statement",
+        "opinion_or_analysis"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "99a8b62b9bb437e7e1d5",
+          "title": "زامبيا تجدد تأكيد دعمها لسيادة المغرب على صحرائه",
+          "raw_title": "زامبيا تجدد تأكيد دعمها لسيادة المغرب على صحرائه - SNRTnews",
+          "normalized_title": "زامبيا تجدد تاكيد دعمها لسيادة المغرب على صحرايه",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhTmNKRGZnTTVudTVEUEZBdHpOMW5qWmFabkFNTFdTcGJiTV8tVUZtR24xREo1Y05hem1zbUp6WGR6SXFBWmNabHpwVTJ5VXc?oc=5",
+          "published_at": "2026-08-20T16:25:43Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "b1f7f614a36dda6df44a",
       "title": "Morocco: Addoha, the resurrection through African stone",
       "published_at": "2026-08-20T16:24:13Z",
@@ -2955,6 +3377,86 @@
             "domain": "echoroukonline.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bc65f25a13d2083f7b86",
+      "title": "الصحراء المغربية.. الإمارات تجدد تأكيد موقفها الداعم لسيادة المغرب",
+      "published_at": "2026-08-20T15:52:18Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "330b3b1e3fb30dc6165d",
+          "title": "الصحراء المغربية.. الإمارات تجدد تأكيد موقفها الداعم لسيادة المغرب",
+          "raw_title": "الصحراء المغربية.. الإمارات تجدد تأكيد موقفها الداعم لسيادة المغرب - SNRTnews",
+          "normalized_title": "الصحراء المغربية الامارات تجدد تاكيد موقفها الداعم لسيادة المغرب",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoUGlHNHlwZFJxb2ZMeTJFM1N5aWJKd01XTjZLVGFocF9PS1ItNWdYeGFFdGlJSWh0RGFzM3pJQ0VIdGZlMGdwRTF4QzQtUQ?oc=5",
+          "published_at": "2026-08-20T15:52:18Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d628b4bb48ecea812a6",
+      "title": "ديما دروبي .. من سبق إلى الطب من نساء المغرب؟",
+      "published_at": "2026-08-20T15:46:18Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "fe65f843b2388ab3a0f0",
+          "title": "ديما دروبي .. من سبق إلى الطب من نساء المغرب؟",
+          "raw_title": "ديما دروبي .. من سبق إلى الطب من نساء المغرب؟ - SNRTnews",
+          "normalized_title": "ديما دروبي من سبق الى الطب من نساء المغرب؟",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWU045eHBHRXBibGV4YUt5dWN4alUtczBWejJZbHBYT0V1X0dzRVJpZ29qX3BJeEtzWVl6cEg1OXdfU0hSVXdjZjg3LXdVQQ?oc=5",
+          "published_at": "2026-08-20T15:46:18Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -3516,46 +4018,6 @@
       ]
     },
     {
-      "id": "5ade3fb1acef3858ccec",
-      "title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ",
-      "published_at": "2026-08-20T15:18:35Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Medi1 News"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "6e141589134a1e17630d",
-          "title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ",
-          "raw_title": "المغرب يشدد الخناق على القرصنة وتجار \"IPTV\".. تعديل قانوني يدخل حيز التنفيذ - Medi1 News",
-          "normalized_title": "المغرب يشدد الخناق على القرصنة وتجار iptv تعديل قانوني يدخل حيز التنفيذ",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45QVlJUGMxS21BVXlUZHRJRGs0V3YwVThVVGxIZU1abHNjZUJMNjdmZXo0MUFtaENrdnRIWjNsbjZkdERGM2xVdFhyc0dhYTlWMngyUUMza3lPNmVw?oc=5",
-          "published_at": "2026-08-20T15:18:35Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Medi1 News",
-            "url": "https://www.medi1news.com",
-            "domain": "medi1news.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "acdae9cc9f59de362f8f",
       "title": "عزاء والد الفنان أحمد عزيز اليوم بعد صلاة المغرب",
       "published_at": "2026-08-20T15:16:00Z",
@@ -3950,7 +4412,7 @@
     {
       "id": "3973f99ac304db2f4991",
       "title": "المغرب: بوادر خلاف بين المحامين حول استمرار الإضراب وتصعيد حقوقي لحماية المتقاضين",
-      "published_at": "2026-08-20T14:58:21Z",
+      "published_at": "2026-08-20T14:58:42Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -3974,7 +4436,7 @@
           "raw_title": "المغرب: بوادر خلاف بين المحامين حول استمرار الإضراب وتصعيد حقوقي لحماية المتقاضين - القدس العربي",
           "normalized_title": "المغرب بوادر خلاف بين المحامين حول استمرار الاضراب وتصعيد حقوقي لحماية المتقاضين",
           "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNLTFYY2E5TDVURUs5dHJXenU0WGwtRlJxLWpRUXNnRG12Rmd2TGtGanNVMVNXcEdobGdUczUwSlExRGpqVklzamV6NTkzQ1B4TzFkUWFxclpGeS1CUTlEZ3ZEVktteS1NRkpDa091aHVUbnlZa3VVR3RoYkRNTXpaSTNVbmsxV3gyclY2ckZSTXducUhtQUlrd3kyYW1MNjhwWEl6R2xWSEg1SE91MzAxTVFoZ1U0c3pIdktzbmxFaC1ZWmVyWlVaOFNyWXhqcFYwN0hCTG4zU2VqblBEbkllemJrYm8zT3lZcnJQdzY5djUxcV9sRDd2Sk5Gc2JVblgyLU9zOUNHSm1DOWczTUJpRUFQUjBHeF9QMzRwaGxpMXhQdHJmUUlTUnp4YVc0NDB4ZThKanMwWmJ1QUd6NTg4NnhUTjh1OTA?oc=5",
-          "published_at": "2026-08-20T14:58:21Z",
+          "published_at": "2026-08-20T14:58:42Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
@@ -4842,6 +5304,46 @@
       ]
     },
     {
+      "id": "1550abb63c16c8f9deb0",
+      "title": "انخفاض أسعار الغازوال في المغرب",
+      "published_at": "2026-08-20T13:54:40Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "75a22b5a35b5b2fea023",
+          "title": "انخفاض أسعار الغازوال في المغرب",
+          "raw_title": "انخفاض أسعار الغازوال في المغرب - SNRTnews",
+          "normalized_title": "انخفاض اسعار الغازوال في المغرب",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBIUHhIaXlBcE03ZW5SZTZoTkZfRVNqam5NTzYzRTNkQ3B1UlhiZTM3VG5XdnRYNG9LUno1cUFMZV91Y19RSFFpZjVmcTlGdw?oc=5",
+          "published_at": "2026-08-20T13:54:40Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "fdb9f183f33b76990d22",
       "title": "ثورة الملك والشعب",
       "published_at": "2026-08-20T13:54:09Z",
@@ -5304,6 +5806,47 @@
             "domain": "newturkpost.com",
             "weight": 0.35,
             "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "453b6a6809935fd74b26",
+      "title": "بايتاس : حصيلة المغرب من العرائض ضعيفة",
+      "published_at": "2026-08-20T12:54:12Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "specific_statement",
+        "opinion_or_analysis"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "cb1d3f7de6e9c73b125f",
+          "title": "بايتاس : حصيلة المغرب من العرائض ضعيفة",
+          "raw_title": "بايتاس : حصيلة المغرب من العرائض ضعيفة - SNRTnews",
+          "normalized_title": "بايتاس حصيلة المغرب من العرايض ضعيفة",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FdXAxQ1JVdkNEeHB5VkpkZURDMHluQjE5Nkk5NEFHVEx1UmR4UHY1TDlGNDhadlhtdzRvcjc0UzV3dGN3SWZmYTZnZ2RMUQ?oc=5",
+          "published_at": "2026-08-20T12:54:12Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
           }
         }
       ]
@@ -20230,7 +20773,7 @@
       ]
     },
     {
-      "id": "7738baf7bd9f1946cee6",
+      "id": "3804caaa8c93aae6a299",
       "title": "Porté disparu, un entraîneur britannique retrouvé incarcéré au Maroc pour agression sexuelle",
       "published_at": "2026-08-19T07:00:00Z",
       "status": "needs_review",
@@ -20242,7 +20785,7 @@
       ],
       "fact_check_matches": [],
       "source_count": 1,
-      "article_count": 1,
+      "article_count": 2,
       "sources": [
         "lopinion.ma"
       ],
@@ -20256,6 +20799,23 @@
           "raw_title": "Porté disparu, un entraîneur britannique retrouvé incarcéré au Maroc pour agression sexuelle - lopinion.ma",
           "normalized_title": "porte disparu un entraineur britannique retrouve incarcere au maroc pour agression sexuelle",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWm1yZF9XSEVNaE43S0IzMVdORVUzWjZWUFdKSGRrOExVU0k2Y2k3VTRyS2VzRG5BT2hQdkhXbEZCd0FpajhQZ0huQ3IxZUxqT1NnazNCWkZPOERla0J5dk9xVnRMdUx5UTh6UGFPSFJFVXFfVjF4WWtfQnRjb3hrb2txYUlSRGJyODFwS1lqNExIVG52QVAyTzNNWFR6WnNmcmlxQ2VpWU80SVhTekIzN2lHV2dIcjYyZWtGcDZxQ1lTR3NMaWNiOVV0WkV4T0xnYkVZdHBXMjZTbUJySEdYVW43WVA5YnQyU1g3SDNuM0E4QlBWN21mQjJRQzd3S0Nja2N3blZ2RHY?oc=5",
+          "published_at": "2026-08-19T07:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "lopinion.ma",
+            "url": "https://lopinion.ma",
+            "domain": "lopinion.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "8c1f8d728c7ac0b1d069",
+          "title": "Porté disparu, un entraîneur britannique retrouvé incarcéré au Maroc pour agression sexuelle",
+          "raw_title": "Porté disparu, un entraîneur britannique retrouvé incarcéré au Maroc pour agression sexuelle - lopinion.ma",
+          "normalized_title": "porte disparu un entraineur britannique retrouve incarcere au maroc pour agression sexuelle",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeW5RbGp3NGVraGhSMVRJd1A2SmhyVWVNMTlPZXZnYjBOeWIxVDFvNlRrc1lnYVVWNHVtT184QmZnb1ZmSmI1MWYtLTNUcEY4bHBIdUQzRUNuOG1TamxzNzZNSkc1SnlBMzZwMGJER1laZDBmSUtkMEVTaU9rOFlleGZqcHlRa3ZiVXQzMWVvMW9ab3BCaURVSEhGTXJtbTdHWmROYVBVNmV4MjQxWXgzOTM1dkJEaFphazRhS2sxMW90djVlZHhFZ2cxbnB1WDcwVnhKaFc1dXNNNjlBX0xhSTZzcTdWdmE4cXdRMVZQbDNUS0JaRFR4LUdFNXVrQlNoc3BaYjVwb20xQ1lp?oc=5",
           "published_at": "2026-08-19T07:00:00Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
@@ -44317,11 +44877,11 @@
       ]
     },
     {
-      "id": "0fc26943e8518e7662b7",
+      "id": "15b01cc5374fefea695e",
       "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta",
       "published_at": "2026-08-16T22:27:13Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -44329,10 +44889,9 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "PBS",
         "The Washington Post"
       ],
       "languages": [
@@ -44352,23 +44911,6 @@
             "name": "The Washington Post",
             "url": "https://www.washingtonpost.com",
             "domain": "washingtonpost.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "c5844354b3b44e7cab70",
-          "title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta",
-          "raw_title": "Moroccan security forces arrest nearly 300 migrants trying to reach Spain's Ceuta - PBS",
-          "normalized_title": "moroccan security forces arrest nearly 300 migrants trying to reach spain s ceuta",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWElFSU5sS0VEUTBGaTdESEgtb29uMDNPbHZPajRacU1fM1NEUUx4TWp2ekN2Ym0zbTlGYXZUVnVUM3VsVjctbEstbW80Mk9Ra2J1a2tyZHpRc041bjZqT2tSLU9HbC1YR0w0am5Ya3JUVnNCT0pLZ2FPdzg3bDJpcThyRmRIVkdJSnhlWGU0VUtJSGRzd19JRHlhZjZOSUtwQlp2cVJJT2ZLRUwwc2x3RzB5OHRFZ9IBuwFBVV95cUxPTkwtZ2xuWFpSUkpFVHhrTTRGRXJrUERvSk9NU0RaM3hmQ2xEMGJCbzRnYmViNTY0SmlMRENKSHZTNG9fR0pUMmtZbUxOZHFjWDhZX3lYdHRqcEIxSTJsNnVrZHF3QjJjQi1OalB4TlFQSHFpd0R2NEQyV051Wkl6QUdleFI4VWNyWU1MbjV2ZVNoTmF3UmJ6UW9zOEI3QVYzZ1p5U0dPZGNXVXR3cU9ZUDVsQ0tON3VQN0gw?oc=5",
-          "published_at": "2026-08-16T20:34:41Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "PBS",
-            "url": "https://www.pbs.org",
-            "domain": "pbs.org",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -44456,11 +44998,11 @@
       ]
     },
     {
-      "id": "351241c685807a2eacc5",
+      "id": "dc385c1fbcc121e8ca55",
       "title": "Cameroon beats Malawi 3-0 to win Women’s Africa Cup of Nations for the first time",
       "published_at": "2026-08-16T21:59:26Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.608,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -44468,11 +45010,9 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 3,
-      "article_count": 3,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "FOX 44",
-        "Seattle Post-Intelligencer",
         "WOWK 13 News"
       ],
       "languages": [
@@ -44492,40 +45032,6 @@
             "name": "WOWK 13 News",
             "url": "https://www.wowktv.com",
             "domain": "wowktv.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "dc7f5690bf1ecc4b68d7",
-          "title": "Cameroon beats Malawi 3-0 to win Women’s Africa Cup of Nations for the first time",
-          "raw_title": "Cameroon beats Malawi 3-0 to win Women’s Africa Cup of Nations for the first time - FOX 44",
-          "normalized_title": "cameroon beats malawi 3 0 to win women s africa cup of nations for the first time",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1FfZ09KMGlma2FNU05uei1NNHNieV9pTldnaVF4MjVmSHZVTWN4RFVCRElmQXJiR0lnX2Z3OEMyWVR4U0tyWmhocXR6ekd3dFhQOEF2SmJxamxwblUxc3ZIVU5KdXU3VE5lYzA4S09iaGRKQmNVV1FCb1lpR3p1QTZTYk90cmoxUnljRUdVMi1lTDZPSnUtUWtHZjBQbzlldzdfRFpvcXlfZmxlQUpRVHlNMmxOTUpJ?oc=5",
-          "published_at": "2026-08-16T21:19:46Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "FOX 44",
-            "url": "https://www.fox44news.com",
-            "domain": "fox44news.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "1d09adb9ec99554a8a47",
-          "title": "Cameroon beats Malawi 3-0 to win Women’s Africa Cup of Nations for the first time",
-          "raw_title": "Cameroon beats Malawi 3-0 to win Women’s Africa Cup of Nations for the first time - Seattle Post-Intelligencer",
-          "normalized_title": "cameroon beats malawi 3 0 to win women s africa cup of nations for the first time",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcl9fM2E1LS1UWm9yaXd2Y3VMRlRVb2FWUWFUMGRxS1VlbUdpVllJNVJNN0I2WkV5OXBpdmp2ZTlYR2dlT1ExSkVSbmxNT3dqblRDNG1qbmp0Mkoyc1JYX0x2NldIX2tmOV9laUtucUhQaUx0aVpHVVc3ZUFHVDlDMjJlbTlwU2Jzb3U2Rg?oc=5",
-          "published_at": "2026-08-16T21:16:06Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Seattle Post-Intelligencer",
-            "url": "https://www.seattlepi.com",
-            "domain": "seattlepi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -44647,491 +45153,6 @@
             "name": "الهيئة الوطنية للإعلام",
             "url": "https://www.maspero.eg",
             "domain": "maspero.eg",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7d6e775ca9c93178ae58",
-      "title": "المغرب الأولمبي تاريخ يستحق أن يروى",
-      "published_at": "2026-08-16T21:31:53Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "7b3e0f93441b72ae697c",
-          "title": "المغرب الأولمبي تاريخ يستحق أن يروى",
-          "raw_title": "المغرب الأولمبي تاريخ يستحق أن يروى - SNRTnews",
-          "normalized_title": "المغرب الاولمبي تاريخ يستحق ان يروى",
-          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPbmVFV0dBWUpBQW5kZUwyTlhUWW1rZXlLWnhsenhPMzQxTTVPRVNTeElSay1fSDBHanZiRXJ6ZWJsZFlJaE1melo5bUVHUXg4SUJBdm9HX2tZYWEwMld4Vng5RjFXcW9YekpwWXFiMTkzNTZpWTNpcDhWVEYwcE10cHNoZ2VOTHhxX3JzRFoycEY1QmlQNmZpamNqVzhpNE52cEpVbWs2LVdocm5YTzJEbUN4UG9qbzBBNmIxQnNGWjVrdGIxMURCR1NlX3JzVU10SHo5TnV3cV9vaXpqdVdWQ3JUczMxbWpqeEQ2Zlc1OXpKb1ZyUjdkaFBsWUJxNkd2QndLbkZ0aUgyRmhMTFl6bmJNSEZRM2JCY0tvNWlrd0lDWnpzbWdjWmlxcWpnVmpTZFg4R05veDV2cF90M1E?oc=5",
-          "published_at": "2026-08-16T21:31:53Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8c2baa92b929be6896c6",
-      "title": "الولايات المتحدة الأمريكية تعتمد خريطة المغرب بـصحرائه",
-      "published_at": "2026-08-16T21:26:19Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "specific_statement",
-        "opinion_or_analysis"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "1d2deebc1770ac11bd86",
-          "title": "الولايات المتحدة الأمريكية تعتمد خريطة المغرب بـصحرائه",
-          "raw_title": "الولايات المتحدة الأمريكية تعتمد خريطة المغرب بـصحرائه - SNRTnews",
-          "normalized_title": "الولايات المتحدة الامريكية تعتمد خريطة المغرب بـصحرايه",
-          "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNRFZDMUFEdENuemF0WWJJYTRDY0t6NUVKM1ZNUUFwMng0RzNPTm9jclVjXzM2UUVlVkR3cV85SGUzd0ZucU5JMjVZd2R0Z3pJUGVWZVJSZXcxQzZnTnRYNElnWFlfQmxDbDFJeHg5SkE0ejhzUk16NVV4cEdxaDFIOXlTanNmV0VUcGJYTzRXZXRMeUNaanQyTFc0d2xIWk1tSnZHOHMwQ0QtaTlfT3JRZ3dZSk5VZ2hvZUVOcnRzUmQ5elZ6N2dpcHFNelpqNHA2TkJtVnp5Z0xPampPY3kzVVRzanQzbmRIemhPcENCckRuTXpMNm12TEpWVEJXdloyclpuRW9Ia2QyeW5OVERVNnd2Y2JMSmNZX1ozS1Y4RVVELXhsWXRQRnViV0xzNDVJR3FNWHhnSy1GQ1pIQ1BlM29ZTVI5eWtCZnZCcE8yLVllTTRMbG94MGZCTVExWXZhcUtzOXVaSzMyZmNOVjdGLVZfdGVSZ0lPRVRzMUY0YnFxdVA1by1oRzVnNE1PMkVrRVJsOXk5M2RmVlI5SXYxSWJkSFFaMDA3bFNaYkFjbUJJVzljaVNXdFpTRHdqbUV6TEU5OUZHenF5WTJOOWg4?oc=5",
-          "published_at": "2026-08-16T21:26:19Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d8d5fda81f97c8cde0c6",
-      "title": "الكاميرون تتوج بلقب \"كأس إفريقيا للسيدات المغرب 2026\"",
-      "published_at": "2026-08-16T21:26:14Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "24saa.com"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "fd2f41d18eb801f4979b",
-          "title": "الكاميرون تتوج بلقب \"كأس إفريقيا للسيدات المغرب 2026\"",
-          "raw_title": "الكاميرون تتوج بلقب \"كأس إفريقيا للسيدات المغرب 2026\" - 24saa.com",
-          "normalized_title": "الكاميرون تتوج بلقب كاس افريقيا للسيدات المغرب 2026",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQZjlKSmpmbmItM1hxaXZzZ0tacU1VQU4yN2pQVWRzcXZUNzFDak1QMXFQc0NCZkJzb2Nqb0hLUEZzZjhNV3ppWUlWTEE4TGFoaHU5TkZOTjNDcExkdVcxdFFleVprYmlKeWp5cUc1d3d3RWZLaUs2N212YkJiVmRmbHJab3pUNFVMUWcxaS1LQnV1WlpDTmJZdGl5Nm5RanR4YmVUQzk3VkxOVTF4TWROY3dJY0ppd2hMN3g1WGpDNkh0aW81QU9mVXJNN3JTcjFZYmJlR1lZMHpSdmQtVEFqTUJBeFNFSS1SbDFRZmxFRE1QLXRJanFwZkR5VFpVaXlYaTVmSU82UVJ0akVKcUxlMXNQZUJKSzZIeTRXbXVMTnBsQWpJVmNDZXhxODZJM1R5SllwbFR4ZW9fTjJQ?oc=5",
-          "published_at": "2026-08-16T21:26:14Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "24saa.com",
-            "url": "https://24saa.com",
-            "domain": "24saa.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e01c36c05edcfec5add5",
-      "title": "المغرب يقرر مواصلة دعم أسعار الكمامات",
-      "published_at": "2026-08-16T21:18:07Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": true,
-      "claim_score": 0.4,
-      "claim_reasons": [
-        "specific_statement",
-        "reported_assertion"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "077c02a79a1e771af132",
-          "title": "المغرب يقرر مواصلة دعم أسعار الكمامات",
-          "raw_title": "المغرب يقرر مواصلة دعم أسعار الكمامات - SNRTnews",
-          "normalized_title": "المغرب يقرر مواصلة دعم اسعار الكمامات",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNYWJCOUpmNEc4akJoTTNUcDFuUFRZM1NJNHA0T0N2ZFBVZDZQeGc5cnFqY0dwWXJ0WFhuRDFRSzNBZnVfQnJaNmZ2WlZGMWtkcWFZODd4YTB1MHktdjZpVk1kdnV5MFRvMnBZcVNrMklPWmZURjNmaGgxM3NhbGo4bmROcFJhX291b1oyQWV4YWF5ekFhX0UxdDByRzd5NzBhM0FtS1VYLURyNHNwMHUxc3dwNDYzWHB2QkVwSF9MRWl2d25RM1lKeWZBSlZJUWhhWVg2OWpONXBJR2lVZUJsOXRlaHpUQUxfVDNxaGFTcUoxYnRZOS1FbmpkT2hrdllTdV9CSlQtWmJVNjN5eEtMZm80bExiWFItUlU3c091RlV6Mk1tTHQ4RHNxMTFkR0k2Z25OZzVJdU1wZVBzTzVJQ2RFNkN4TmYyUU5YeGtB?oc=5",
-          "published_at": "2026-08-16T21:18:07Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "41a1be71bda642c5722f",
-      "title": "خبر : الجزائر تحتل المركز الثالث في أمم إفريقيا.. المغرب يخسر في الترجيح مجددًا",
-      "published_at": "2026-08-16T21:18:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "samanews.ps"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "f65fddaf7e7c7b8aec12",
-          "title": "خبر : الجزائر تحتل المركز الثالث في أمم إفريقيا.. المغرب يخسر في الترجيح مجددًا",
-          "raw_title": "خبر : الجزائر تحتل المركز الثالث في أمم إفريقيا.. المغرب يخسر في الترجيح مجددًا - samanews.ps",
-          "normalized_title": "خبر الجزاير تحتل المركز الثالث في امم افريقيا المغرب يخسر في الترجيح مجددا",
-          "url": "https://news.google.com/rss/articles/CBMisgRBVV95cUxOY2dNTF9xWmd3YWxHaG5BbElJeGhlR3h3LWQ5MGhGOGxKRWE3a21QN0ZPZ3FCMldmT2JSNGQ0MHFrVUtRVWw0VjVVUnowMEpxUmNmVWFDMVE0elVUTmVlS2JnNllQbFlFX281cTBsLW1UVURCNzdSR0RINjE2Y0M3bkhUTXNfTlp2WWxxQVRJXzEyZF9lX1dNN2YxVUtFZXZEZ3Y0b3NMSTVvazZLVVY2OGYweFI3cDVhTmJkREE0SkdjQU9EWHpIY0Z4RmowRkY4TnBCVWllRjdXaER3U2ZMa3hEcVFiUmFrYTFJeTdvS2c5QUZkQ3o1Yk51a0M1ekZzb0dQYjUzd1g1NkdVQnUyT2prb3pFV2tGeUFVejlLUzNELXYwbVRGV1NfY0JNOHpLZ1BfRkF0QUxZOXZPS2NUbmluWldNOVh4cm5ZQzhKRm1TTm4wSUVmc2ZHX3dEcUhZSHNBMWxiRExKQWYtWkVTVVl5NGctM0pXUUdta2ZqaDYxQnhUUVUzNTFVeEh6ZHk5MmJSUDNGNmRMVGZXbFd4NGNvcXp4Z2hsbVNLUFZoZGJMa1d1ZnlIampCTERpRW1UQkFfYVhFUDdzLWJMdXpHbml2YWNnd1VkOFZ2VWstSklPMmd2ZDhJZTdLUGVBWEZMNVRYLVMtUjU3bUhEZUpqRjNGVlJyTldwRS1qdWlJUEhCcnVOeTh3Rm50cUVuXzdKd2tYVGdBdlN6cWFkRHp5MXp3?oc=5",
-          "published_at": "2026-08-16T21:18:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "samanews.ps",
-            "url": "https://samanews.ps",
-            "domain": "samanews.ps",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0d5022629549b53fef10",
-      "title": "Cameroon Beat Malawi 3-0 to Win First WAFCON Title",
-      "published_at": "2026-08-16T21:14:58Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Morocco World News"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "9d9cbf6c71ac2c282be5",
-          "title": "Cameroon Beat Malawi 3-0 to Win First WAFCON Title",
-          "raw_title": "Cameroon Beat Malawi 3-0 to Win First WAFCON Title - Morocco World News",
-          "normalized_title": "cameroon beat malawi 3 0 to win first wafcon title",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGxxenlOWkJ2OElfTUotaU1XZ1cwb1lFdDZ1SW00eEpIX0RoVTlybGJkLVlLd3NQU3kxSjd3QmsxdG05OG11YV9tRG1GX2tONnpyY3N1SjBtdVJvbmtPaExNb3JpMkRMa2x4d1l5NXhuUUQ2VEZpbUxNbFc4cFJaQUVHRlFkNVJBaDg5RHhFdzI3anRxQ3FFY2JsN04tV0ls?oc=5",
-          "published_at": "2026-08-16T21:14:58Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Morocco World News",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "88a4765c5814cc5463e4",
-      "title": "Le Maroc ciblé par un fonds panafricain de 200 millions de dollars pour l’hydrogène, les batteries et les renouvelables",
-      "published_at": "2026-08-16T21:07:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "برلمان.كوم"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "4518a0cbd5446f3f28d0",
-          "title": "Le Maroc ciblé par un fonds panafricain de 200 millions de dollars pour l’hydrogène, les batteries et les renouvelables",
-          "raw_title": "Le Maroc ciblé par un fonds panafricain de 200 millions de dollars pour l’hydrogène, les batteries et les renouvelables - برلمان.كوم",
-          "normalized_title": "le maroc cible par un fonds panafricain de 200 millions de dollars pour l hydrogene les batteries et les renouvelables",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMGlFcDBJT0U3SElFRUFlOFY4WWJVSVN5dVFWaVRWaHFyMEJNMmtHNTVoYWIzRHNZVC00RTlkRUNFUmVONHNOQXEwWnpQMjUwbkFRSWZBLVJFbFNNemRCZW53aGpKN3lvUzJNMFJMYk1JOVctaVZKelpmcmJkTDRrb183WEVhZDRGYnMxSmVvOXBLUDhrdnlOdmpNT2JZUW42NVlzZlcyZjV0NDdiZ1dJOC1sZ29aNlpnb0QxV3dMYi1fZEtqSTVlcXVsNWFrMkoyTGcyQXF3RVJrZGM?oc=5",
-          "published_at": "2026-08-16T21:07:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "برلمان.كوم",
-            "url": "https://barlamane.com",
-            "domain": "barlamane.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8f9f49dd5dc7b6070eb4",
-      "title": "Routes, eau et électricité pas encore terminées : le Maroc pourra quand même autoriser à construire",
-      "published_at": "2026-08-16T21:00:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Bladi.net"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "60f8753447c83c7188df",
-          "title": "Routes, eau et électricité pas encore terminées : le Maroc pourra quand même autoriser à construire",
-          "raw_title": "Routes, eau et électricité pas encore terminées : le Maroc pourra quand même autoriser à construire - Bladi.net",
-          "normalized_title": "routes eau et electricite pas encore terminees le maroc pourra quand meme autoriser a construire",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXk5cTA0WWg3TkpoMldmZWhwOXBlWTd4bEJDUC1OckM0NXRORmRURkNwNXpaZTBWZldrOUFBRkUySm1DZ0puX3RYWGJaSzBZdV9KRW1Vbl9YOElSRVBxbUt4Q1E3UXoyeDlaSU42TERUQ1haazU5Z3UxbVdOQ3Jjd0lJeTZDZGhtelJvRTdGMGo4alRaUFdGVkwwQ3pfQnRlRVE?oc=5",
-          "published_at": "2026-08-16T21:00:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Bladi.net",
-            "url": "https://www.bladi.net",
-            "domain": "bladi.net",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8a45badc5d4742905a9a",
-      "title": "What caused the migration crisis in Ceuta?",
-      "published_at": "2026-08-16T20:44:19Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "question"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "NPR"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "d87def4d54a0fa7bdacb",
-          "title": "What caused the migration crisis in Ceuta?",
-          "raw_title": "What caused the migration crisis in Ceuta? - NPR",
-          "normalized_title": "what caused the migration crisis in ceuta",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnFOYjVueTkwSXU5bVhfNXFIMUtjXzVhTUtoZlhNMTEzRFN0WmhBT184VzdMWWt6WndiTXBTNEtUemVYa2VJUTlMVWlCSmE5ZjdpTlE0SzNFTDY2QjMwdm5fanFob2p3eGRFVE1ZYkVZTUFnaEkwUlRNQlBkU3RpR29YdVl1a0RHTGI2d2I1TQ?oc=5",
-          "published_at": "2026-08-16T20:44:19Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "NPR",
-            "url": "https://www.npr.org",
-            "domain": "npr.org",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "aeb5a079a5a4040cf294",
-      "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-      "published_at": "2026-08-16T20:42:45Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "AP News"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "356f6ee9b5cfd24fa5d7",
-          "title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings",
-          "raw_title": "Morocco beefs up security at Ceuta and Melilla borders after online calls for new crossings - AP News",
-          "normalized_title": "morocco beefs up security at ceuta and melilla borders after online calls for new crossings",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUluUDhBQ1dPN3lQS3hCcWhsb0h6TkVQalZJc3Nsek92NEVFajJ6X2x0MTdWeXpQQnB0aUxPLVFmcTJMN3NCYkl1cS02Tm4tcmRiYUNkcmt2dHhISGdMZW9kS1AtTUxncXFzVVdCNVRQMnVpa0Q0bk9DR2tqUzMwaWQtZ2tUZlFYaFZTMGtPVjIyVk5NZlVzekNoVDF6Zw?oc=5",
-          "published_at": "2026-08-16T20:42:45Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "AP News",
-            "url": "https://apnews.com",
-            "domain": "apnews.com",
-            "weight": 0.8,
-            "category": "newsroom"
-          }
-        }
-      ]
-    },
-    {
-      "id": "abce744518ac04ee3c81",
-      "title": "الاتحاد والاتفاق يتنافسان على ضم موهبة المغرب",
-      "published_at": "2026-08-16T20:34:59Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "365Scores"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "7781b4d05d89e3bcd8fe",
-          "title": "الاتحاد والاتفاق يتنافسان على ضم موهبة المغرب",
-          "raw_title": "الاتحاد والاتفاق يتنافسان على ضم موهبة المغرب - 365Scores",
-          "normalized_title": "الاتحاد والاتفاق يتنافسان على ضم موهبة المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOWTlxWVg1MTl2c2xvRUZRTmlpRzFxdzFLeGt5RkpfeEZRUDY1RGxFbXhsT2VpY3J1bGhVX1p2SGpTeWNIVkYwRW9jUG9yMVE0Q3FzUno2bHdXdm01eEUtYkZZLU1odlFwSXFXT3dZVHJIellpNzBSN3phak01cE9RRGpVTTcyRUZkQ3RHQi1qQXVUeElQQzdCbTJsYUVvNlowdmljNzJRX3RiSGN3VE9ucXo3UUt5c19zcDRLbV9Nc2VraUhYR196eXc4VVhPZUt3ZFBQRlYxR01nbUlzYVNmVWhqSGczRm91ZlQxMmYyU2VnR2xyODUwLWg3V2diS2FyU1V1TktFMWtISXNYRmlTM0txUDBaLVM5RVdNYmZaVW00SkJnWkJOelQyWnp2RDNqUjd4MWFDcjZMZ19UOWRWczN6U3FHUnhVNEdHLTN4OFJ4VWhxZm9pVlZtcGs0UQ?oc=5",
-          "published_at": "2026-08-16T20:34:59Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "365Scores",
-            "url": "https://www.365scores.com",
-            "domain": "365scores.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "279761779b2c86933c93",
-      "title": "مئات المهاجرين ينظمون مظاهرة في سبتة الإسبانية ويطالبون باللجوء",
-      "published_at": "2026-08-16T20:32:30Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "alghad.tv"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "331687f8f7500c367fa5",
-          "title": "مئات المهاجرين ينظمون مظاهرة في سبتة الإسبانية ويطالبون باللجوء",
-          "raw_title": "مئات المهاجرين ينظمون مظاهرة في سبتة الإسبانية ويطالبون باللجوء - alghad.tv",
-          "normalized_title": "ميات المهاجرين ينظمون مظاهرة في سبتة الاسبانية ويطالبون باللجوء",
-          "url": "https://news.google.com/rss/articles/CBMizgRBVV95cUxQNWxHRzhqRVhLcV85M3NySzl2eWdtaHQ5NVpJcWIxVWhYVFJRUmlVZU1hZnVxUnI0czdkTU1sdFJvdUhZYjlCTzd3NElfUVV6eUpod2prZzh5T3BlMkNlN0dhWmZ0amxmV3BpN2NDTWRPSVY3ejRPTk9aM1p4alk0SHRNb21JSTVaZjk2VFVTQ0lxQ0pJdy1ZUFRtenZ1ZlJOdWJzTXpqTEVFbkFGTzYtQ2hnTDcyV0FBY2xfZm9wR2RSaElSQll4bEM3ZEkzRkdwa3YtaTF6UWgxOEoyeHdoaGEwNEJpcUVpcS04ZVQ3ZEZYQWhyNWtCS1hTTGxDU2dhejRSSUJVMkE1d3FoaENQVVdkMFA1aWVqelN3MVZ0NV8yaEhuQVc5RWZTeUNNcVVSSUtzRHJ4V25PMlAyYTF6ajVBMXVNS1h2S3NkRkVpVzhIYkE0TlZVUDBVVVMydG5tcGRmNnc2b2dwZWhhRElrY0xoTnJwRVprTS1yYng3Uk91REw0eG1EbmdHd3QyVDFKczZmOTBPaUJobWxrRzBYWWg1dDI5UXZUcnRiWTZacDFJZmJMVzh3S190dkdnYkxOY0RscTBYbU55VG1qMkJRcC1XeTlCdjN3T0pfWXRtSGl1ZUhTeFk1T2Nxc09nbGZDYXY0UXFpRGJuVkZ6ZWRBaEJxNDJwYjJFWmFxMUJ5djhlZ2I3YkZkMUJ5bG5PeG5yckxaeFdBQ01Qc1liaWZXUy10eDRCTkdtUHlCRWNpNDFXTEhOWWN1WHdWSXB5Zw?oc=5",
-          "published_at": "2026-08-16T20:32:30Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "alghad.tv",
-            "url": "https://www.alghad.tv",
-            "domain": "alghad.tv",
             "weight": 0.35,
             "category": "unrated"
           }
