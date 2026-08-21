@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:48:51Z",
+  "generated_at": "2026-08-21T07:07:49Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
@@ -9,8 +9,8 @@
     "clusters": 1055,
     "sources": 311,
     "matched_clusters": 0,
-    "needs_review": 1001,
-    "medium_evidence": 53,
+    "needs_review": 1002,
+    "medium_evidence": 52,
     "corroborated": 1
   },
   "fact_checks": [
@@ -50,6 +50,144 @@
     }
   ],
   "items": [
+    {
+      "id": "16b28c82277e52391cb9",
+      "title": "طقس الجمعة.. أجواء حارة مستمرة بعدد من الجهات",
+      "published_at": "2026-08-21T07:02:31Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 2,
+      "sources": [
+        "صوت المغرب"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "28f8f79cf5a88cd02bc1",
+          "title": "طقس الجمعة.. أجواء حارة مستمرة بعدد من الجهات",
+          "raw_title": "طقس الجمعة.. أجواء حارة مستمرة بعدد من الجهات - صوت المغرب",
+          "normalized_title": "طقس الجمعة اجواء حارة مستمرة بعدد من الجهات",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNbXBscHdXT3VCenlEZzNkZVM3T3RZMHNXRzdQVk5XV1YxaVdETHp2OVo5YlYzUE5yWGhiV3pwbGdlYVE3aHR4YTR2TTI1VmU1YkIzZkk0M2RFWnZGdjZ5U2RxRUJNZ3NiVGdBN2F1TWRVMVZJb2c3S005S0F5dmJ1TGJ6cmQzZTBLY0REdEJJbnhWVDVETGlGSmFsX0pWakNSVWFIWWhLRENIa29PY3AweGNpTW1hdHl6R0U3XzludG5yNFpORVl6Tnh4UmVvVThjdms5Y1BHNkZWQWgwT1oxUjFmN2x2bmlpcUpXbFRfR1JYb3gwMkYwZmNTV1pRTFFXVDN3bHc3cHJzQy1yYUhOUkk1Mm9TTnJWblVCMEQwWWY1ZU51cHZhbzM0bFlFTy1Jbm8yTDFMYUhjQQ?oc=5",
+          "published_at": "2026-08-21T07:02:31Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "صوت المغرب",
+            "url": "https://thevoice.ma",
+            "domain": "thevoice.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "248753757e96b41a3a3d",
+          "title": "طقس الخميس.. أجواء حارة بعدد من الجهات",
+          "raw_title": "طقس الخميس.. أجواء حارة بعدد من الجهات - صوت المغرب",
+          "normalized_title": "طقس الخميس اجواء حارة بعدد من الجهات",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQU9LUld3dzdfc084c2FaWVZtbVF3aF9QQmJoM2FiQnVTNTBuU2MwVUdXMmtWWklkMVBraXlUMzNjVFh3RnZpMlRiOTBza01WLVN2LVFZeVBremYzdXlwVDcwVEpfOUxDNUFqNHlscnpFZ21fOTM1NVFHODhYdy03cjJaRWhRMDg4VjRhMFVxbHBRMnRob0habjdKUG9Bc1g2THF1al9ncTNLenZYN3hyZVZZMkl0eXlnNHFzVnZaTjlSVURRbHUyekdQWXJzY0dXUmVyMW1INXNPcHI2Ym9MQjFybmNtd3FlbC1sZlVtVFg2eFhFREZsY3NmUFZRY3JKcW1sd1VFV2t0TjRZc1JiODF4SWlNcUUwQm5jRTBGa0ExTGhEb0VKSGxiQ2FrTGoz?oc=5",
+          "published_at": "2026-08-20T07:04:48Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "صوت المغرب",
+            "url": "https://thevoice.ma",
+            "domain": "thevoice.ma",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4fe0b7daa138c5e7a59b",
+      "title": "Au Maroc, le sol monte à 50 °C, la végétation fait chuter la température de plus de 5 °C",
+      "published_at": "2026-08-21T07:00:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Bladi.net"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "31b052a2d7ab3d66725c",
+          "title": "Au Maroc, le sol monte à 50 °C, la végétation fait chuter la température de plus de 5 °C",
+          "raw_title": "Au Maroc, le sol monte à 50 °C, la végétation fait chuter la température de plus de 5 °C - Bladi.net",
+          "normalized_title": "au maroc le sol monte a 50 c la vegetation fait chuter la temperature de plus de 5 c",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOUd6d3Y4eWplclItc0hOOVVNMFhrX211aFowMlE3ZlZfUjlCRFdJZWJqazdMQW1jTkFoRVNOY2hIVDJiMnBXTnh6V2ZFZ2wyaHZNaFBFZTZLTE5JblhZWHRRdUN3emQ1MFkxb21faXlUdDlNdjZUUkdHYS1YVnJaU01qNFdUdw?oc=5",
+          "published_at": "2026-08-21T07:00:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Bladi.net",
+            "url": "https://www.bladi.net",
+            "domain": "bladi.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "97fa41481bcee51cb135",
+      "title": "تصنيف عالمي يرصد قوة الشركات الصغيرة والمتوسطة في المغرب",
+      "published_at": "2026-08-21T06:05:33Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "643886319313d469b7ff",
+          "title": "تصنيف عالمي يرصد قوة الشركات الصغيرة والمتوسطة في المغرب",
+          "raw_title": "تصنيف عالمي يرصد قوة الشركات الصغيرة والمتوسطة في المغرب - Hespress",
+          "normalized_title": "تصنيف عالمي يرصد قوة الشركات الصغيرة والمتوسطة في المغرب",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNVzFYVjI0X2hyWExDbmZHMGdsRXN2eEdZOVkyN3FhV2hzY25PNGpVc3Jxb2RBRDhqY3hLelpUaW5MYkxXX0dnZkd3ZGMxeXRoUzlTaUpIVmZleFNTSEt5b1l0MjJOLXgyYUNveDZvX3g2MFRMRU5iRlFuV01veUZRRXAxU0d4R3J3UkpaYllfX2JWN0taNld3SkRleXdJZWpxb2taYjJUZHd1eG16c01VZ0JraVZVemJDRnlxbXdkUE5jVFBralVmdVJGaXh3bkFHTXVxLU9OcURfak1nVGZUXzJsXzV0NzlEaTJ1eE9HWWJLTEMwbUJabVFQY2pqSVV1bFprSUluX3JMQ0lmOGI3cTd4OXdadXdscHM4ZUVueThyM3BfZDg2WERjLWtRWFpTTjR4ckN0ZzBPWm93TXhOUmdfcGtOc2VQUmNtTm1KaHNOSE1zOTBr?oc=5",
+          "published_at": "2026-08-21T06:05:33Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "c42fe10ca9f0c545180b",
       "title": "Morrocco: migrants caught between Ceuta dreams and reality",
@@ -674,6 +812,46 @@
       ]
     },
     {
+      "id": "bc750e2163abf87df5b4",
+      "title": "الجزائر والمغرب إلى أين؟",
+      "published_at": "2026-08-20T23:50:05Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "العربي الجديد"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "94cbb3ad1792b21a988e",
+          "title": "الجزائر والمغرب إلى أين؟",
+          "raw_title": "الجزائر والمغرب إلى أين؟ - العربي الجديد",
+          "normalized_title": "الجزاير والمغرب الى اين؟",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWNUSUNPLXpvNnp4SDVqYzJIV1pZWi1JQlQzd1ZZOTZtdlFrMDEwWklUUVhKWlRrTGFzNGN4bEZBYXJfNmJwaWVfS3V3TFdvQWNmNkh3Uk11elRPcVVLVFV5Rk9uQXFpaTNPZUd4RFZCVXhkZ2VpdkI3cE51Tk5OenU4NWdUenNaSmRMVG9TbDhHenBmNkd1eDUtSmVzY21kb0ZkMW9QTy1DSVZkblJlSlJQejZnZWo0ZGdUYTh3NjRaQkM4ZUpyejhiYlkzQTBTSkxCZ2xTZ3Z1ZHdaQ2hyRlg2MGNUZDhWd1hIVG5B?oc=5",
+          "published_at": "2026-08-20T23:50:05Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "العربي الجديد",
+            "url": "https://www.alaraby.co.uk",
+            "domain": "alaraby.co.uk",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "297c3b07a582c2c415e6",
       "title": "قانون تنظيم مهنة المحاماة الجديد في المغرب يغير معالم ممارستها",
       "published_at": "2026-08-20T23:42:03Z",
@@ -1170,7 +1348,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "Euronews"
+        "Euronews.com"
       ],
       "languages": [
         "ar"
@@ -1179,14 +1357,14 @@
         {
           "id": "4ff2f2f97c18b32960aa",
           "title": "\"يورونيوز\": الاتحاد الأوروبي يعتزم زيادة تمويل المغرب لضبط الحدود والهجرة بعد أزمة سبتة",
-          "raw_title": "\"يورونيوز\": الاتحاد الأوروبي يعتزم زيادة تمويل المغرب لضبط الحدود والهجرة بعد أزمة سبتة - Euronews",
+          "raw_title": "\"يورونيوز\": الاتحاد الأوروبي يعتزم زيادة تمويل المغرب لضبط الحدود والهجرة بعد أزمة سبتة - Euronews.com",
           "normalized_title": "يورونيوز الاتحاد الاوروبي يعتزم زيادة تمويل المغرب لضبط الحدود والهجرة بعد ازمة سبتة",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGVFN3ZydGxnQlhJYXNqemFJMVMxUFZKZm5PSDg5RF82bDZLdkNkQWs0Y0NnRm1kdENvdE55X3d4eXF5Q1pYNmZfV09kRGx0cjNJZm5NLUxVdms3b3lGdVgzNUlpWng5c0ZJV0NpQkxUZUxBeWtfMEQzNlMxNUt1NHNFOGRVX3RkeDRLcnpMaXRldDhrUWMxMDFsdDVjSFozV2R0N01QdXFHWVBPaUFnWDFhRExtWHJFRVVDS1RKaC1vVnU1dTViN084T0FwUQ?oc=5",
           "published_at": "2026-08-20T21:00:26Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "Euronews",
+            "name": "Euronews.com",
             "url": "https://arabic.euronews.com",
             "domain": "arabic.euronews.com",
             "weight": 0.35,
@@ -2521,6 +2699,46 @@
       ]
     },
     {
+      "id": "2386cfd8b697748bd545",
+      "title": "Mercato : Adil El Khalloufi rejoint officiellement le Wydad de Casablanca",
+      "published_at": "2026-08-20T17:33:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Maroc Hebdo"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "4e4877aacf13c732435f",
+          "title": "Mercato : Adil El Khalloufi rejoint officiellement le Wydad de Casablanca",
+          "raw_title": "Mercato : Adil El Khalloufi rejoint officiellement le Wydad de Casablanca - Maroc Hebdo",
+          "normalized_title": "mercato adil el khalloufi rejoint officiellement le wydad de casablanca",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0RmODBnWXRGMFc1QTA1Z3ZseGJ2cXBPMVEyRnd6QnZ0N0wtSEJYeTJWMTRfMjVPRHFXYmVBRW45VkJ2eU5jTUM2YnVLeFNpT0hNSjIyT1JndFdILWlnX29oNDFwcmtXMXpEZ2NlNXBFOTFjZ3BIbTJqdUpVSmRmT3k0TzdPOE1nNFNpS25WSW9rcFRYQlVQQmZ5cURvaUJ3SUxrMFpPMzNJaU0?oc=5",
+          "published_at": "2026-08-20T17:33:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Maroc Hebdo",
+            "url": "https://www.maroc-hebdo.com",
+            "domain": "maroc-hebdo.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "d03490c904bc5cd53434",
       "title": "الأسمدة المغربية تستفيد من اضطرابات الأسواق العالمية",
       "published_at": "2026-08-20T17:31:00Z",
@@ -2634,6 +2852,46 @@
             "name": "Maroc Hebdo",
             "url": "https://www.maroc-hebdo.com",
             "domain": "maroc-hebdo.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "316d76f8c06fd83fae02",
+      "title": "الصين تعلق تصدير الفوسفات وواشنطن تتجه نحو المغرب وتونس",
+      "published_at": "2026-08-20T17:23:15Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "اندبندنت عربية"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "3032001e1960bc989e4e",
+          "title": "الصين تعلق تصدير الفوسفات وواشنطن تتجه نحو المغرب وتونس",
+          "raw_title": "الصين تعلق تصدير الفوسفات وواشنطن تتجه نحو المغرب وتونس - اندبندنت عربية",
+          "normalized_title": "الصين تعلق تصدير الفوسفات وواشنطن تتجه نحو المغرب وتونس",
+          "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxNcFA1LW5DRjNWdm8wOFNMSXNNdUVUM1RwNmpOVEhSeFUtZEVYTXJsTlVRZHllaS15X0RDNkhEVHY4NlRMS0pDNFMzb0UxeTJ5TGRVUHpfdDZremJGbmxfc3AwTXd1dVFBMy16cUxLWVEzRGozWXZCelp5S1VVb0ZBcGRTbmhWWmdsSHVpNU5JX254eGVxR0RmRXdTeEJFSXFiNFVvQjV6NkxfaGNzNjZhbEZici1rVmVvcXhXTmd0T21BYkxTVWEzbWU2WjFvUFF0Nm1zN2x6Nl93QlBTZ0tPaVFNaTB6T3poNThDcjN4VFZVWjI5emVTRmUtVEJ3eDVzRXpLSnl2LXAtMWR6V3pScE9Ed0J6cEEtYnNwQTM2QnZuSUJweEg2bkhzMzhtNE5FN0ttYzhiM3RsN0prc29WUkgzRkZobHFNbTFZWUczTlRBYzNXQjRXd25ZcGpEQ0dneVRzWmlnYzFpVmdiQ0p5UnJlcVpBYjYzR1p4UGNpN2hndElvb25Dd05DdjJiV3BFZF90QnJPVzBDZ0JJdUZZc24tQzNlNEZBU3BTbXhtM3M5XzFkOTBwaWpsR1YzM3FkRkYyVVBPUXMxZ2NLcGZ1d2NraUNZd09uSDJUWGtBck1QSmlhbF91QjZ2dUVHS2Vtd201RFNKLXE1akNtQm9MYU1jdUxFYWpETmhYNWhhY3JwQXJIcGFqbDNLV0tLMzJtWVdZU2V3MFlvcHdJRE95NF8yTzM4ZGZCaGJqbS1lbTdXNmtVd1ZWdkJQZTBXQmZGejBHd3FVMjd1MEZEVzEyaFJrZExuSGNDemhhSmRmRHlCY0g1bVRaZDRSejFKczJmOWJhLTZZN2VLM1otaElBZl9ueEJUb0RlNjdjcDBTTE9BTG9TcWttc1dsT3lrSmc4dHc?oc=5",
+          "published_at": "2026-08-20T17:23:15Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "اندبندنت عربية",
+            "url": "https://www.independentarabia.com",
+            "domain": "independentarabia.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -8718,6 +8976,47 @@
       ]
     },
     {
+      "id": "c890588960c00e91a840",
+      "title": "Plus de 930 personnes graciées par le Roi Mohammed VI",
+      "published_at": "2026-08-20T09:12:00Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "LeSiteinfo.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "3899688be8de77825cda",
+          "title": "Plus de 930 personnes graciées par le Roi Mohammed VI",
+          "raw_title": "Plus de 930 personnes graciées par le Roi Mohammed VI - LeSiteinfo.com",
+          "normalized_title": "plus de 930 personnes graciees par le roi mohammed vi",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEUwX01vTEd0Sm0zUV9mT1FHRm1XRUVVVm1vY1AyNUJzQXpUWWNzRVdrZC1DRUdqUmtmU1ZzcWRoNmZDT3NtTlBBREd2dHM3aTZQR3NjelhQN25wcXlZc0RDMG9YOU12TDl6WXdGZWFwY2swZTBTWER5ZXVVem5qYnZWdEhkXzVwZmI0WWh4V1lfbDNPczJFYUV4YVNlT3PSAaQBQVVfeXFMT2o2X0x0MTNvV0pFUjYzeWJrMlp6OXJMSmR3dFdoc0F0cG91RlltNzBocFQ2YlBQemFCUFN6SFFxbHRWakxZY2g0YlJWOF81YnJwY0t4SUlLQ190elh5QlNSTE5QQzhBTGE0WEh5aUZ3ejdFWHpNYVhoc01kQ3RWdG5pWGNEdE1jOWM0ZEI2TzVDZTE0aTRIWTVxbWlqeUhuTzA5TGI?oc=5",
+          "published_at": "2026-08-20T09:12:00Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "LeSiteinfo.com",
+            "url": "https://www.lesiteinfo.com",
+            "domain": "lesiteinfo.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "72b724c606399e35248e",
       "title": "Révolution du Roi et du Peuple: grâce Royale au profit de 935 personnes",
       "published_at": "2026-08-20T09:01:29Z",
@@ -9406,46 +9705,6 @@
             "name": "Medias24",
             "url": "https://medias24.com",
             "domain": "medias24.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "074c98e0500d453d008e",
-      "title": "طقس الخميس.. أجواء حارة بعدد من الجهات",
-      "published_at": "2026-08-20T07:04:48Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "صوت المغرب"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "248753757e96b41a3a3d",
-          "title": "طقس الخميس.. أجواء حارة بعدد من الجهات",
-          "raw_title": "طقس الخميس.. أجواء حارة بعدد من الجهات - صوت المغرب",
-          "normalized_title": "طقس الخميس اجواء حارة بعدد من الجهات",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQQU9LUld3dzdfc084c2FaWVZtbVF3aF9QQmJoM2FiQnVTNTBuU2MwVUdXMmtWWklkMVBraXlUMzNjVFh3RnZpMlRiOTBza01WLVN2LVFZeVBremYzdXlwVDcwVEpfOUxDNUFqNHlscnpFZ21fOTM1NVFHODhYdy03cjJaRWhRMDg4VjRhMFVxbHBRMnRob0habjdKUG9Bc1g2THF1al9ncTNLenZYN3hyZVZZMkl0eXlnNHFzVnZaTjlSVURRbHUyekdQWXJzY0dXUmVyMW1INXNPcHI2Ym9MQjFybmNtd3FlbC1sZlVtVFg2eFhFREZsY3NmUFZRY3JKcW1sd1VFV2t0TjRZc1JiODF4SWlNcUUwQm5jRTBGa0ExTGhEb0VKSGxiQ2FrTGoz?oc=5",
-          "published_at": "2026-08-20T07:04:48Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "صوت المغرب",
-            "url": "https://thevoice.ma",
-            "domain": "thevoice.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -32236,7 +32495,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "DW.com"
+        "dw.com"
       ],
       "languages": [
         "ar"
@@ -32245,14 +32504,14 @@
         {
           "id": "4560a614317dacb8c45c",
           "title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة",
-          "raw_title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة - DW.com",
+          "raw_title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة - dw.com",
           "normalized_title": "المغرب في الفنيدق يلتقي واقع البطالة بحلم العبور الى سبتة",
           "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPc1c1aFZ3Vmg4Z3NadDlWTmh3aC0yZUphQlFRQWZYWkdrcmQ1RlpjVktpNzJwNVczdVptUmdsX0FONjktYXB2WEpKTFIxWDVFYzRBSjVLbTQ0NS11ajJ1SjlNREl2aXB5Ykl2NDk4amV1UEttcFlTRHBYU0FzN1VaOEJkcnpxbWFVLWNpYXloNXAwMGhyaFItal9CUVdBQkN1WXhvNkowTkdMaFExTEpma0dNN3BWOVo0ZElUUzVJX25RWWVGeDNDVUs5dWlxLWgwS3RkWW02M3VqZ3pGQUNKeGo2Qnk3ZTdyX2ZKMXBtS0laemt4ak04aHpHeXYxUzlhU1hFTnBmMDZJS3lqTFByRU5hNVlEeDhlQXVNZnBhSnRQM1NLampIVHFwWTh1Y1gtV21mc3lKc0t1WC1GVFc1NC05ZlE2RzNVeXRzZlB1eEZrRmVodzd3Q0lPZ19wRkN4QUd3Zy1Ma2JPRlZSSVlkZWo1cnREajJxSmxYZDJPNU5lZnJPWnJ0SmdHMGVUaGtqOG4wTjNqNUFTc3hiaW94aXpQUjFPdzVtODBSa3JTbW5nSWo4TEY1a0ZueWJMMFB6UDd0RXg4bWpIRGszX1ZYZWxtRzTSAdQDQVVfeXFMUHNkNTZFZDZ3QVV4ZlNQcll3NGx2azl2ekp6ckJpakZVTW52dlplTXJDUktzLUJHajAxWEh2ZDd0RjZSWU15S2pmSmFQcUlyODV6djJNdG9QV1N6MEp0SEJVaHNVWndvX0dlMVRzQ0FaMkJYRGdyLUZqWF9mMW4wdUlUS2tEVmN1RHpiSHcteXF5TW9HdGNSMmltWHl3RkRjU1Y4UXJkOXoyMGRjQWEzZFlOck9DX0RiVkFEMkhiM1dDSWlIblprVTlWRVp2MExCdUZVbEt5X1dNd3NNTENzNGg1dHlwVXJRUzl2N1p0Z3kzZVMxQ0x4Wm1YU2tNeGFMRHNuSXUxS19CWHRHbFNVdE1TNmtEZ1FMN1JZS0JFcHF1NUFKX2lPN3V1RVJLdnkzeEI5RzBxdjhIakw5Yk9GUVRITmR0QVM2SWhJay1ZZXZjcDBlLVRLUUlpMDR5QnRxNm1sNjZUUGR1YnZOQW5DUmlidE83R3pvblJuUVpUUzE4NUVRVnV2VDBHQVg2MzFhSW5pYkxRSWpkTmZvV1NfZDRFN3FQWnU5TVk2aElyLUxid2IzelM4VVpKc2lDb3RLaWVhWnFmX1ZlRWZPRklSZVJxM2dv?oc=5",
           "published_at": "2026-08-18T07:36:11Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "DW.com",
+            "name": "dw.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -42593,11 +42852,11 @@
       ]
     },
     {
-      "id": "d5ab38dc4f79d2a51b5d",
+      "id": "ad4578998a76e9a5c7c5",
       "title": "المغرب يوقف 294 مهاجراً حاولوا الوصول إلى سبتة براً وبحراً",
       "published_at": "2026-08-17T08:30:21Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
       "claim_score": 0.35,
       "claim_reasons": [
@@ -42605,11 +42864,10 @@
         "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "sarmad.com",
-        "سكاي نيوز عربية"
+        "sarmad.com"
       ],
       "languages": [
         "ar"
@@ -42628,23 +42886,6 @@
             "name": "sarmad.com",
             "url": "https://sarmad.com",
             "domain": "sarmad.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "d6d8751d938371017e29",
-          "title": "المغرب يوقف 294 مهاجرا حاولوا الوصول إلى سبتة",
-          "raw_title": "المغرب يوقف 294 مهاجرا حاولوا الوصول إلى سبتة - سكاي نيوز عربية",
-          "normalized_title": "المغرب يوقف 294 مهاجرا حاولوا الوصول الى سبتة",
-          "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQT29KaGRHLUtkOE5XOVVzeU02aTl2SWR3dHp1X2g4N3doRERiSWZVbGdXRzYyUTZsS2hoUVFuNTR6UVJyai1HNmc0QlYxZUxOcnRmTHlhYnV5bDdLME8xYlVfb2x0Y3MxbU1NbnEwQzZDTXZRV1JrUlBWb210RFNRTWRyTTVKYlVUMVdONVluaElhVWhSVk9LTFRRQ0FzcjZkS2E1amg4OGIwTWppdjczR1k3QTlKMXEzcEozNFJPd2lHT3ZaMGJHaTk3Z2NJdVNmM0ZWS2FrdTBBall4M0ctbDJuLWIwMjBiMmM4eUlfb2NYM2dHbVY4NW9fNXZYV21BSHZMNno3OXVCZXNwOHZYLUFrQTIyU2F2SVloTmNMa1dPSVg0dlFCZ0RJQUNVVFJfZnMyYTA5Z2pfblg1amtsYnFWS0FZRmswNVF4al85bThCdDJrd29PYl9MM3pXSVFkTGJlRGZ3WGkwMWPSAfACQVVfeXFMUHh3dndaTFJGUURQM1hMbXVrUHpxRlVfemlIc1Q2MWJCM0w5ekRkZl9JMWdZM05LVGw2MXNMYmhPSzBKTFNsNjhhOXMteVF6RFo2UUFoTzJhbUZPQW9JZDllV0ZhNy1LYVFSTzRCOTg0OVIxV3FDU1lyTmY1dGhwOG5CZjExcGV5MnhWa0M1Qmdib3FzX2FhS1ViR05ZeVNlR0hBYWU0a3FXaWlGVktJS2VnMDgzNmd5MW1mSXYzZ0h3U2o2eExvSER0bzRwMkRfLXJ5MWowWjdJV0szSl9lZ3ZJazVOcV9zVVdkQkxpRDF0UzVvdlh6RXpIQS1vTG4tOTNNUkVkcHo5T3JxS1h1QjJMNnFQY2VzNnZkNEdpUTFjdzNUdms4YjJjQnAxaWFqVm1NdFhCdEpwZVlsNmwwSEdhNEMzdlI3T1l1bDMxRmd4bk5uNzRKV2RGbDdIc25yUVpPeTEzZ0huLWRlYTJWYzM?oc=5",
-          "published_at": "2026-08-16T23:30:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "سكاي نيوز عربية",
-            "url": "https://www.skynewsarabia.com",
-            "domain": "skynewsarabia.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -44901,247 +45142,6 @@
           "normalized_title": "المغرب يستورد 40 مليون قنطار من القمح",
           "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPQVZ5SmZPUDV5SVhISXQtel80MUExMlozZW5ISV8yV0k0cnI5S2VaelB2SHhwb0dDb3ZWZk9jb1VxYTNEZmRMTTl0WkJtTlhmazFqaEZSamxWT3BRcEZ3M01LRUQ5OFdyX0s2czViRi15UXFyMlNpS3BRX3Q0aEw3UFp5Y3VlQWtlcGY4a2FYVEhkOHMtaUw1enhpWFdKTkc2TmF4TE85aGJvN0RkSzhpRUZ0OUJhbzFnR1ZWUl9tV1h4a2lEN2JSWXhEejhuVGo0QlM5dXZtS29idjJMVjZnbF9tM09oV3ZULWd2LWtRZGp1VVZyWTVndEhMeHpERmhTVDNZZW5WVmRscmxVcnZQNmZyVml0TjE1WHA5bU12MHRXYl9CeVBQcUhZdTNxbGdfcTlIU2dYSUJuUQ?oc=5",
           "published_at": "2026-08-17T00:06:18Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d8be6fc9cc818e7df4b3",
-      "title": "خبيران أمريكي وبلجيكي: جهود المغرب في مكافحة الهجرة تستوجب دعما أوروبيا مستداما",
-      "published_at": "2026-08-17T00:04:33Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "مدار21"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "3caa867a9e1231bba89f",
-          "title": "خبيران أمريكي وبلجيكي: جهود المغرب في مكافحة الهجرة تستوجب دعما أوروبيا مستداما",
-          "raw_title": "خبيران أمريكي وبلجيكي: جهود المغرب في مكافحة الهجرة تستوجب دعما أوروبيا مستداما - مدار21",
-          "normalized_title": "خبيران امريكي وبلجيكي جهود المغرب في مكافحة الهجرة تستوجب دعما اوروبيا مستداما",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jQzBoUVlMdDBZTEN1cGV4R2hqM09BRkw5aUhhcWFWd2NXdzZsbGNiTnR6U2JRTVZCeUktZXJzamh3TGxEaGc?oc=5",
-          "published_at": "2026-08-17T00:04:33Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "مدار21",
-            "url": "https://madar21.com",
-            "domain": "madar21.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "6765b7153a8a373e6f6d",
-      "title": "Attentat de Skhirat, « coup d’État des aviateurs »… La malédiction d’Azrou",
-      "published_at": "2026-08-16T23:55:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Jeune Afrique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "5e18b15a1bc65a3a2d23",
-          "title": "Attentat de Skhirat, « coup d’État des aviateurs »… La malédiction d’Azrou",
-          "raw_title": "Attentat de Skhirat, « coup d’État des aviateurs »… La malédiction d’Azrou - Jeune Afrique",
-          "normalized_title": "attentat de skhirat coup d etat des aviateurs la malediction d azrou",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWktTGdhT0JaLVJucnp6V0JOa3Q4N1BxTW50MkhGRzZwNVBWME5ua1hzQ0lFcjNfNHFZbVpnd0hBT0l3eTNoUENXS3l0WHdhSm13Z2Z0SF9JX2Njal9lNTNDTE1jMmlQb0N1cXVSN0xzUGFjSlNaNUc3eHh6UEVjaTlMMVM5Mk5NWUZRYlRRRGhOb193bzFXX3BaaXZMMWJfN2hLWHpINUM5V3FLSG4tLTZlaGk?oc=5",
-          "published_at": "2026-08-16T23:55:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Jeune Afrique",
-            "url": "https://www.jeuneafrique.com",
-            "domain": "jeuneafrique.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "7b95611cdb133f4a4715",
-      "title": "إلغاء مباراة المغرب والرأس الأخضر",
-      "published_at": "2026-08-16T23:41:05Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.3,
-      "claim_reasons": [
-        "specific_statement",
-        "event_assertion"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "b87bd568e86f6b92b184",
-          "title": "إلغاء مباراة المغرب والرأس الأخضر",
-          "raw_title": "إلغاء مباراة المغرب والرأس الأخضر - SNRTnews",
-          "normalized_title": "الغاء مباراة المغرب والراس الاخضر",
-          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNYmEyUlJYTmdHQnYzZElPc0o1RTZMZkNXVjN2dHhpcGlHd3oyM015cU1nc2xya3oyeHQzcTlibnhwb3pZMV8yMGJESTVMcWJGZzd3THhKd0k0UGViRXpoQzZOUVg2MHpBdlRKaklLZFpCMXBiNXVFeWllNlUwZkdaV2YzR1pnNEJqTkRWcWdHRGgwTUtqTTFSUjFXSXh6MmVkcC1ocUVCLWo3d1E1ck1yeS1vUG4xMGFDQzBVbWtxcmpTOVFlLUFPWThCUGY3cEhnOHZyVEdxNzQ1RDVmRVFaR0dCV0R5SVVpNlpjdl9kb1YtalltQ3NTbDJZaUZKR0wzWkhvWS1UZVRMQmRZR21ZZHdQWldBTW90aWlKR1gyeHhGMnc1TTBWMXlFSWJKbXctRG5KUw?oc=5",
-          "published_at": "2026-08-16T23:41:05Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "d063be921b6cd018fe66",
-      "title": "لماذا يطالب المغرب بمنع المواد البلاستيكية ذات الاستخدام الواحد؟",
-      "published_at": "2026-08-16T23:30:58Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "question"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "6494574600ca6ed6ad6e",
-          "title": "لماذا يطالب المغرب بمنع المواد البلاستيكية ذات الاستخدام الواحد؟",
-          "raw_title": "لماذا يطالب المغرب بمنع المواد البلاستيكية ذات الاستخدام الواحد؟ - SNRTnews",
-          "normalized_title": "لماذا يطالب المغرب بمنع المواد البلاستيكية ذات الاستخدام الواحد؟",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02NGM5MVA3UDJ2NHZYWl9kOFdJd1BjUjFDSV9VYTJqZUFMSWZqME1iTFhNeTFiMGxVOGNqdEtxazhMUkdiaDNUYktTRVhHdw?oc=5",
-          "published_at": "2026-08-16T23:30:58Z",
-          "language": "ar",
-          "channel": "Google News — SNRTnews (AR)",
-          "source": {
-            "name": "SNRTnews",
-            "url": "https://snrtnews.com",
-            "domain": "snrtnews.com",
-            "weight": 0.8,
-            "category": "public_broadcaster"
-          }
-        }
-      ]
-    },
-    {
-      "id": "44a2ce2f455181647928",
-      "title": "Entre départ, transit et installation, le Maroc affronte simultanément les deux visages d’une même crise migratoire",
-      "published_at": "2026-08-16T23:01:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "libe.ma"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "d14349424cc8bd8a0fde",
-          "title": "Entre départ, transit et installation, le Maroc affronte simultanément les deux visages d’une même crise migratoire",
-          "raw_title": "Entre départ, transit et installation, le Maroc affronte simultanément les deux visages d’une même crise migratoire - libe.ma",
-          "normalized_title": "entre depart transit et installation le maroc affronte simultanement les deux visages d une meme crise migratoire",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3pqYmNyX0xhQktOLXgyY19XT3pJaEROcExTekRQQ2tLX0lZX3VVeV9JM0VDTXdKVWFERldXSDlNVWx6NU92cmtpSHo3YzVZX1hvbGhuWHVEVW5ERncwU1VQRWV1d3gzX0xnYzdvR3FqRjBuZGFFSnZVZ0RRY1lvYjBfUllOTFZoOE54ZXRBU3RZTUhzUHp3M2pjN3FtZVlkZ1FEcXJEamhMR0pVNU1oNENTRnJCTkd0R0xVUnRVMjFMOWxCZG9pMg?oc=5",
-          "published_at": "2026-08-16T23:01:00Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "libe.ma",
-            "url": "https://libe.ma",
-            "domain": "libe.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "20290d447d238f57fdec",
-      "title": "دراسة : ربع سكان العالم مصابون بفقر الدم .. ماذا عن المغرب؟",
-      "published_at": "2026-08-16T22:56:27Z",
-      "status": "needs_review",
-      "evidence_score": 0.36,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "question"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "SNRTnews"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "7f23f83dd3ccdfc3bca0",
-          "title": "دراسة : ربع سكان العالم مصابون بفقر الدم .. ماذا عن المغرب؟",
-          "raw_title": "دراسة : ربع سكان العالم مصابون بفقر الدم .. ماذا عن المغرب؟ - SNRTnews",
-          "normalized_title": "دراسة ربع سكان العالم مصابون بفقر الدم ماذا عن المغرب؟",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FU3dLZjVQUnVfUi0tOEw1LVlka3lEemJNVlBnZGczamFNVVllS25uU3NoeDlzS0MxVThvd25fSlZXMWJLajBfanhIZElYUQ?oc=5",
-          "published_at": "2026-08-16T22:56:27Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
