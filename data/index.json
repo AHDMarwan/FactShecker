@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-21T03:15:54Z",
+  "generated_at": "2026-08-21T04:03:39Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1198,
     "fact_checks": 2,
-    "clusters": 1055,
+    "clusters": 1054,
     "sources": 313,
     "matched_clusters": 0,
-    "needs_review": 1001,
-    "medium_evidence": 53,
+    "needs_review": 999,
+    "medium_evidence": 54,
     "corroborated": 1
   },
   "fact_checks": [
@@ -50,6 +50,64 @@
     }
   ],
   "items": [
+    {
+      "id": "12ac38f35a424c27186c",
+      "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+      "published_at": "2026-08-21T03:55:32Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "Newsday",
+        "The Washington Post"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "7d07a9d0ee9b61ea2021",
+          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - The Washington Post",
+          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01wTXVCUzlDekswbUxCUGpNNnNVN2RMQm5RZjNhMEpHMG5vTWJOcFJHMENxVmZOUXFVUWJPLU0wbC11Qms5akRMR3BaVm1ORzZ2Z3ladDYwTjBCQTRkbU9pdEY1SVpkeWtKYnlRSFd2WUV6X3hOZTRxVk9FQ2FWZ2gwSFdCUGMwZUgwdzNWOEJYaXdSTHhiRXYtSExpRkQwVTh3ZC15NDBWd3RFYnRlbFZXaV9rME10ZF9GUkNfVmZrMWs?oc=5",
+          "published_at": "2026-08-21T03:55:32Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "The Washington Post",
+            "url": "https://www.washingtonpost.com",
+            "domain": "washingtonpost.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "a8c8d4372ae2dfe4c317",
+          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
+          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - Newsday",
+          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lWDdBTzFXeTVZQzlDbDhDNW5rZkdxQnlDaHpGN0RNb3ZkYUlGTUl4NlhKdjhZeWxsNGhWY1hPTTJqVzNLSnNpcWx4b2hYRVJxM1QwbmdSVjMteUlTczJzYUVRYTNBMXgwRUdlU0VEY3lwS3h1MjkwMFVKWXE?oc=5",
+          "published_at": "2026-08-20T20:08:15Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "Newsday",
+            "url": "https://www.newsday.com",
+            "domain": "newsday.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "f161e3c4358d99d3486c",
       "title": "بعد العودة للاتحاد الإفريقي.. المغرب يشيد شراكات استراتيجية عابرة للحدود",
@@ -205,64 +263,6 @@
             "name": "مونت كارلو الدولية",
             "url": "https://www.mc-doualiya.com",
             "domain": "mc-doualiya.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "12ac38f35a424c27186c",
-      "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-      "published_at": "2026-08-21T01:12:10Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
-      "sources": [
-        "Newsday",
-        "The Washington Post"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "7d07a9d0ee9b61ea2021",
-          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - The Washington Post",
-          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01wTXVCUzlDekswbUxCUGpNNnNVN2RMQm5RZjNhMEpHMG5vTWJOcFJHMENxVmZOUXFVUWJPLU0wbC11Qms5akRMR3BaVm1ORzZ2Z3ladDYwTjBCQTRkbU9pdEY1SVpkeWtKYnlRSFd2WUV6X3hOZTRxVk9FQ2FWZ2gwSFdCUGMwZUgwdzNWOEJYaXdSTHhiRXYtSExpRkQwVTh3ZC15NDBWd3RFYnRlbFZXaV9rME10ZF9GUkNfVmZrMWs?oc=5",
-          "published_at": "2026-08-21T01:12:10Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "The Washington Post",
-            "url": "https://www.washingtonpost.com",
-            "domain": "washingtonpost.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "a8c8d4372ae2dfe4c317",
-          "title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them",
-          "raw_title": "Thousands of migrants in Ceuta wait in limbo while Spain figures out what to do with them - Newsday",
-          "normalized_title": "thousands of migrants in ceuta wait in limbo while spain figures out what to do with them",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lWDdBTzFXeTVZQzlDbDhDNW5rZkdxQnlDaHpGN0RNb3ZkYUlGTUl4NlhKdjhZeWxsNGhWY1hPTTJqVzNLSnNpcWx4b2hYRVJxM1QwbmdSVjMteUlTczJzYUVRYTNBMXgwRUdlU0VEY3lwS3h1MjkwMFVKWXE?oc=5",
-          "published_at": "2026-08-20T20:08:15Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Newsday",
-            "url": "https://www.newsday.com",
-            "domain": "newsday.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -3513,6 +3513,64 @@
             "name": "العين الإخبارية",
             "url": "https://al-ain.com",
             "domain": "al-ain.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "71ccc616ad9b1256c5c2",
+      "title": "Maroc : pourquoi les 20 et 21 août sont-ils fériés ?",
+      "published_at": "2026-08-20T15:38:12Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.0,
+      "claim_reasons": [
+        "question"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 2,
+      "sources": [
+        "La Tribune de Marrakech",
+        "Lepetitjournal.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "76ae57a251758979a190",
+          "title": "Maroc : pourquoi les 20 et 21 août sont-ils fériés ?",
+          "raw_title": "Maroc : pourquoi les 20 et 21 août sont-ils fériés ? - Lepetitjournal.com",
+          "normalized_title": "maroc pourquoi les 20 et 21 aout sont ils feries",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXRTRkpCWTRNYnpUV1M0bjA1VzlOMlpvRWlJOWFYekhJTURhaXdCTkNTV2QyU1RwLTVFUGo5bU5ZTDJmQmphRzJOUzg4ak4tVE43VGJtdWxleHdacHN4OU0xOFV2dzVhSllpeHhaN0tSOG5LVGxzeHJwU2dOdHIwOUFFSlBwbDBrRDNtcWRwaENmdw?oc=5",
+          "published_at": "2026-08-20T15:38:12Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Lepetitjournal.com",
+            "url": "https://lepetitjournal.com",
+            "domain": "lepetitjournal.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "a1532111c1b059813012",
+          "title": "Pourquoi les 20 et 21 août sont fériés au Maroc",
+          "raw_title": "Pourquoi les 20 et 21 août sont fériés au Maroc - La Tribune de Marrakech",
+          "normalized_title": "pourquoi les 20 et 21 aout sont feries au maroc",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bVRPNnVGR0JyaWwtdDhPSFJNMDQyYVBCMnBsdVNaX21qbnNWQ2xkWDU2aXpwMlN3ekpUSnNIUXFKQzBSSGlfZ0V1dFlPXzZmX29sY2d1cW00R2Fua3NiRHQ0MlFhdHY0SDVJZTZkSlN0aW9u?oc=5",
+          "published_at": "2026-08-18T02:06:38Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "La Tribune de Marrakech",
+            "url": "https://latribunedemarrakech.com",
+            "domain": "latribunedemarrakech.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -32835,48 +32893,6 @@
       ]
     },
     {
-      "id": "b266a40498dc09316324",
-      "title": "Pourquoi les 20 et 21 août sont fériés au Maroc",
-      "published_at": "2026-08-18T02:06:38Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.0,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail",
-        "opinion_or_analysis"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "La Tribune de Marrakech"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "a1532111c1b059813012",
-          "title": "Pourquoi les 20 et 21 août sont fériés au Maroc",
-          "raw_title": "Pourquoi les 20 et 21 août sont fériés au Maroc - La Tribune de Marrakech",
-          "normalized_title": "pourquoi les 20 et 21 aout sont feries au maroc",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bVRPNnVGR0JyaWwtdDhPSFJNMDQyYVBCMnBsdVNaX21qbnNWQ2xkWDU2aXpwMlN3ekpUSnNIUXFKQzBSSGlfZ0V1dFlPXzZmX29sY2d1cW00R2Fua3NiRHQ0MlFhdHY0SDVJZTZkSlN0aW9u?oc=5",
-          "published_at": "2026-08-18T02:06:38Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "La Tribune de Marrakech",
-            "url": "https://latribunedemarrakech.com",
-            "domain": "latribunedemarrakech.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "2ecfbcbd3b7e9550cba0",
       "title": "Pourquoi les 20 et 21 août sont-ils fériés au Maroc ? L’histoire passe aussi par Marrakech",
       "published_at": "2026-08-18T02:06:38Z",
@@ -45113,46 +45129,6 @@
             "name": "cafonline.com",
             "url": "https://www.cafonline.com",
             "domain": "cafonline.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1bbb6d88498945c6e71f",
-      "title": "الجزائر تحصد برونزية أمم أفريقيا للسيدات على حساب المغرب",
-      "published_at": "2026-08-16T21:38:00Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "الهيئة الوطنية للإعلام"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "8984def118f3c0251b3b",
-          "title": "الجزائر تحصد برونزية أمم أفريقيا للسيدات على حساب المغرب",
-          "raw_title": "الجزائر تحصد برونزية أمم أفريقيا للسيدات على حساب المغرب - الهيئة الوطنية للإعلام",
-          "normalized_title": "الجزاير تحصد برونزية امم افريقيا للسيدات على حساب المغرب",
-          "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPN1RqQVlOOGh0M1c5RGVXN1pyVzBzdmNtZTZMM0thLWFhRUE0Qmh5d2RZR3RkdG02MUNobUZjVEFyay1ieVJqS0FVZ250clNtRVliNEEwVDhOWXFmUWtDalhUTjktZEcwbXlxcjdMR3FTdC1MSHpoVVpHTklaTTlyVFhSbXh0czhQMDlpTkw5dlFJNlpYYjdkN25aeHA5anhHQ2NCYWc4Ym9xa1o5WC1KeDM3S2VOS3htUklDc0w3ZlM0MXhWdmp2V1gzWFE2TlhJVXgxS0k2OFpOUUZ4dXRZVU1udzdZb2tnVTk0RDRNNDZ0a25XcEZnOGJOVk84NFBvSjhwa2EzTF9qSXp2aEJKb0dSQ3p2Y0tMVm1DMVpFQnAwaG0tT1BTNXJ3TXVLVVZwYWpxdmNWRm5YdnRfVmFHQzRWQVROek9wclh0RWlNS1Z2aUROWXlhM1paZm8yOU1FNllQVTBJQ0VRQ3ZRVzNMNkhGTE9hdWc1bEt4RDZqenJ5aWNleGVaS0toMEFJSjYyMWpsd0Y4S1ZnbGlacU55LTJMekZqc1BuakdSc0xvaGhVdlpYdmY1YzFzamxBd1d0WnJJb2R3WTg3SUZ4YjdkOHhyUTJ1TkUxVjhJYWVsd3ZJcy02Snc?oc=5",
-          "published_at": "2026-08-16T21:38:00Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "الهيئة الوطنية للإعلام",
-            "url": "https://www.maspero.eg",
-            "domain": "maspero.eg",
             "weight": 0.35,
             "category": "unrated"
           }
