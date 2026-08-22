@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-22T03:07:47Z",
+  "generated_at": "2026-08-22T03:57:02Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1198,
     "fact_checks": 2,
-    "clusters": 1062,
+    "clusters": 1064,
     "sources": 304,
     "matched_clusters": 0,
-    "needs_review": 1011,
-    "medium_evidence": 48,
+    "needs_review": 1014,
+    "medium_evidence": 47,
     "corroborated": 3
   },
   "fact_checks": [
@@ -50,6 +50,47 @@
     }
   ],
   "items": [
+    {
+      "id": "fade139a29819935f0f7",
+      "title": "Sebta : Ouahbi réaffirme les \"droits historiques\" du Maroc et fait des mineurs une \"priorité absolue\"",
+      "published_at": "2026-08-22T03:41:56Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.4,
+      "claim_reasons": [
+        "specific_statement",
+        "reported_assertion"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Atlasinfo"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "97a790fc573813ea0cb5",
+          "title": "Sebta : Ouahbi réaffirme les \"droits historiques\" du Maroc et fait des mineurs une \"priorité absolue\"",
+          "raw_title": "Sebta : Ouahbi réaffirme les \"droits historiques\" du Maroc et fait des mineurs une \"priorité absolue\" - Atlasinfo",
+          "normalized_title": "sebta ouahbi reaffirme les droits historiques du maroc et fait des mineurs une priorite absolue",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFdEQk05YUNobmpuM0dIbnluTkEwZEpDelVhN2FkYmo5Ymc1U3d5aXJlZkJ1Uk1UaHlMRnM0cUt4eFZfYkFibkUwd0JvQ0pjRlpxZUh5b2JwTVpoc2hid2VsZjhPVE4xWUdKLXl1N00xRWtpcV93M2EyVW5wVDZlQUVXb2ZfNlBrdjUxMmpVbXJETFpXSmpXZ1hQZ2Zxb3JhQXZvd2RYVGhSZDBySE9sS2ZNRWdPU0NrZVNEWWVn?oc=5",
+          "published_at": "2026-08-22T03:41:56Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Atlasinfo",
+            "url": "https://atlasinfo.fr",
+            "domain": "atlasinfo.fr",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "8de1e19367d711a6b4ac",
       "title": "دراسة ألمانية: المغرب ضمن أكبر 5 بلدان مصدّرة للهجرة التعليمية",
@@ -125,6 +166,46 @@
             "name": "Just-InfoDZ",
             "url": "https://just-infodz.com",
             "domain": "just-infodz.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e2fa36d6957d78e570ff",
+      "title": "شركة تعدين بولندية كبرى تضع المغرب ضمن خياراتها للتوسع والاستثمار دوليا",
+      "published_at": "2026-08-22T01:50:01Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "تليكسبريس"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "14c7be81032b695cd3a0",
+          "title": "شركة تعدين بولندية كبرى تضع المغرب ضمن خياراتها للتوسع والاستثمار دوليا",
+          "raw_title": "شركة تعدين بولندية كبرى تضع المغرب ضمن خياراتها للتوسع والاستثمار دوليا - تليكسبريس",
+          "normalized_title": "شركة تعدين بولندية كبرى تضع المغرب ضمن خياراتها للتوسع والاستثمار دوليا",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ma3dvdkVyMWJPNVZvRmVzbGludThLQVZoWThjYWRTZ2xpcjdEQ3d3ajJtQ21QdmVJYzNYSnFvLWlTLTBXWVVVLVNOSQ?oc=5",
+          "published_at": "2026-08-22T01:50:01Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "تليكسبريس",
+            "url": "https://telexpresse.com",
+            "domain": "telexpresse.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -333,46 +414,6 @@
       ]
     },
     {
-      "id": "69660829d59e3a0f265b",
-      "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
-      "published_at": "2026-08-21T22:28:35Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "e9235cfed0b97ca23902",
-          "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
-          "raw_title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive» - Yabiladi.com",
-          "normalized_title": "recuperation de ceuta et melilla le maroc veut impliquer l ue dans la recherche d une solution definitive",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUdLUUhlcXRIWE1TY0Z1a2FMNFM1QWIwQzVWbkZyQy1mLVNsMXpuQ0xWekp2M3NqNGM3ZWpfcjJlRFk2VmR6T2Y4UjcwdU9LYkpMSlN3NVN2ZjYta2xIeDA0TlNjXzd5bUpVV012cUoyQ3ZpWkxlLXpnckY0SEQ4d2k1SEJIN2ZXSHU4enlDc3hZTTVnTVE?oc=5",
-          "published_at": "2026-08-21T22:28:35Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://www.yabiladi.com",
-            "domain": "yabiladi.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
       "id": "178b18513625a353e2ba",
       "title": "عن عبور الشباب من المغرب إلى إسبانيا",
       "published_at": "2026-08-21T22:14:56Z",
@@ -463,6 +504,46 @@
             "name": "Goal.com",
             "url": "https://www.goal.com",
             "domain": "goal.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "69660829d59e3a0f265b",
+      "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
+      "published_at": "2026-08-21T22:07:22Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "e9235cfed0b97ca23902",
+          "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
+          "raw_title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive» - Yabiladi.com",
+          "normalized_title": "recuperation de ceuta et melilla le maroc veut impliquer l ue dans la recherche d une solution definitive",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUdLUUhlcXRIWE1TY0Z1a2FMNFM1QWIwQzVWbkZyQy1mLVNsMXpuQ0xWekp2M3NqNGM3ZWpfcjJlRFk2VmR6T2Y4UjcwdU9LYkpMSlN3NVN2ZjYta2xIeDA0TlNjXzd5bUpVV012cUoyQ3ZpWkxlLXpnckY0SEQ4d2k1SEJIN2ZXSHU4enlDc3hZTTVnTVE?oc=5",
+          "published_at": "2026-08-21T22:07:22Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://www.yabiladi.com",
+            "domain": "yabiladi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -714,7 +795,7 @@
     {
       "id": "98b6b2ce95e9ca551a00",
       "title": "Ouahbi réaffirme le droit historique du Maroc sur Sebta et Melilia",
-      "published_at": "2026-08-21T21:37:15Z",
+      "published_at": "2026-08-21T21:37:37Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": true,
@@ -739,7 +820,7 @@
           "raw_title": "Ouahbi réaffirme le droit historique du Maroc sur Sebta et Melilia - lopinion.ma",
           "normalized_title": "ouahbi reaffirme le droit historique du maroc sur sebta et melilia",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdTY2dFJEN3ZxQTktN1phOTRaVFpLM2RWQ1dtVDh2NXk2VWoxYzVWR2pwbFVoS1ZGcEdoZGMwd1pNR2pOQWlpemhiUXdkR0dzU2FPdzVhQjgtTks1cG9TOWk3bFRJNFlfUWhRLXh4QlFzMUFkTVZoMDVRUjhUbU9BZVRrMGFzYTZIcEJsYjBYZmxxaUtncjYxaVBhOFp6X0lWWkx1U0FoTHpQR0pYUVZKZGpqb3Z1UzBsU29FcjZGYktLSnVTZ1ZhTHJ3UGNLa3RTY0tqbTZ6THpCR05ZLWNRenMwSTdNWUhKRVE?oc=5",
-          "published_at": "2026-08-21T21:37:15Z",
+          "published_at": "2026-08-21T21:37:37Z",
           "language": "fr",
           "channel": "Google News — Maroc (FR)",
           "source": {
@@ -2258,14 +2339,14 @@
         {
           "id": "157d719cc1abbe6deadd",
           "title": "Morocco: Migrants caught between Ceuta dreams and reality",
-          "raw_title": "Morocco: Migrants caught between Ceuta dreams and reality - dw.com",
+          "raw_title": "Morocco: Migrants caught between Ceuta dreams and reality - DW.com",
           "normalized_title": "morocco migrants caught between ceuta dreams and reality",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR29QUGVmU1lQS3JfcXA5UC1ZWEhqRkxZa1ZuamlraTdHRURVMDNOUFNrTC1Id3pnVG5tMGprcmdsLXRWLVdBdXRTbnZmSVo5OVl5dXVwTjNIUUgxbzBkQlYxRlJsTGVaYWlmTzVBalJuUWF1bGFCRDJFVHl3VHNweDFqa3JDcUtuMTFrOVlGbFJoSDZXQjhhamxYa3pQazhiQjRybTdYQkg0dU5Da0pwVlplMnFsSmJYVjhoRjZCOTlNOURrbEJUNk5TWFBVMVFOLXRNRHFpMHlYZEZuWXNMLUdR0gHiAUFVX3lxTE5CM0plTUl0bkRNNDJNQmpVbkF2QkJfWFNyRjJVVXZ2cmFyblpERG5NTklXcEVNRm5ZOVRQT2gzckU5V0R6UnZ1UHFlRW1LckRVdzFhNkJid3ZCb2VHaVhkeU5pdlhnQnIxalMxM0ZQU1hGbWN3UERQM29pSFh5S0pmamRYRl9yME5xcmFobG1MbmhCNzdlMFROMG5kZnoteGY4dUY1RUdtUWRSc0VQVFEyMWtWazlhLXRMdjZJU2lQTTZYM1djXzJuWDJJMkVpcVA2SUZlWC1uUktGYnRBZjFUZmc?oc=5",
           "published_at": "2026-08-21T17:59:48Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
-            "name": "dw.com",
+            "name": "DW.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -8885,6 +8966,46 @@
       ]
     },
     {
+      "id": "145863b6dc9a4466ed14",
+      "title": "المغرب وأذربيجان .. آفاق واعدة للعلاقات بين البلدين",
+      "published_at": "2026-08-21T04:26:32Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "5430b44bac5b6cc10958",
+          "title": "المغرب وأذربيجان .. آفاق واعدة للعلاقات بين البلدين",
+          "raw_title": "المغرب وأذربيجان .. آفاق واعدة للعلاقات بين البلدين - SNRTnews",
+          "normalized_title": "المغرب واذربيجان افاق واعدة للعلاقات بين البلدين",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1nYWtlR2dFelZSSHE3akdqMGZWSnBWTEhtYWtLeVlyeU9ndmk1M3h0cnM1ZG5MUEE2SzFrRm9xaWdaU2dXRklQYjhaUzRsUQ?oc=5",
+          "published_at": "2026-08-21T04:26:32Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
       "id": "903ad283ed9c3cde9398",
       "title": "اليونسكو .. إعادة انتخاب المغرب بالمجلس التنفيذي للجنة علوم المحيطات",
       "published_at": "2026-08-21T04:10:47Z",
@@ -9438,6 +9559,46 @@
           "normalized_title": "اديبايو اتمنى تاهل المغرب الى مونديال 2026",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DRlpjRU4tVVVmWUdWRGpkRzNpcGoyRkxVcVhjQngtUnpNXzdaN081cUFjc3I2enpGRFdQX1ZUVEtDWlhCRzdWVVhCOTQ3dw?oc=5",
           "published_at": "2026-08-21T02:16:34Z",
+          "language": "ar",
+          "channel": "Google News — SNRTnews (AR)",
+          "source": {
+            "name": "SNRTnews",
+            "url": "https://snrtnews.com",
+            "domain": "snrtnews.com",
+            "weight": 0.8,
+            "category": "public_broadcaster"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7881986adaa6fa9d7ce6",
+      "title": "أوروبا .. عودة أسود المغرب إلى التهديف",
+      "published_at": "2026-08-21T02:05:55Z",
+      "status": "needs_review",
+      "evidence_score": 0.36,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "SNRTnews"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "c7d8c447d584b1371d1b",
+          "title": "أوروبا .. عودة أسود المغرب إلى التهديف",
+          "raw_title": "أوروبا .. عودة أسود المغرب إلى التهديف - SNRTnews",
+          "normalized_title": "اوروبا عودة اسود المغرب الى التهديف",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lcGxfNWowS01sMXRqVUtwczRwVEFXVGVmRUNoX1p2X2QxZWc4bDBzSG93R3ViTENyLUhiRjZtX0VGbHZEdlBsMUF5VGp0QQ?oc=5",
+          "published_at": "2026-08-21T02:05:55Z",
           "language": "ar",
           "channel": "Google News — SNRTnews (AR)",
           "source": {
@@ -39098,24 +39259,22 @@
       ]
     },
     {
-      "id": "6acdbf1cb47a75ba5735",
+      "id": "709264a06ac3b0de7795",
       "title": "Morocco Named Among 13 Priority Markets for African Energy Transition Fund",
       "published_at": "2026-08-18T11:52:10Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
+      "status": "needs_review",
+      "evidence_score": 0.158,
       "claim_candidate": true,
-      "claim_score": 0.45,
+      "claim_score": 0.35,
       "claim_reasons": [
         "specific_statement",
-        "numeric_detail",
-        "quantified_value"
+        "numeric_detail"
       ],
       "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
+      "source_count": 1,
+      "article_count": 1,
       "sources": [
-        "The North Africa Post",
-        "moroccoworldnews.com"
+        "The North Africa Post"
       ],
       "languages": [
         "en"
@@ -39134,23 +39293,6 @@
             "name": "The North Africa Post",
             "url": "https://northafricapost.com",
             "domain": "northafricapost.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "d90fcd5331e498378bf5",
-          "title": "Morocco Among Key Markets for $200 Million African Energy Transition Fund",
-          "raw_title": "Morocco Among Key Markets for $200 Million African Energy Transition Fund - moroccoworldnews.com",
-          "normalized_title": "morocco among key markets for 200 million african energy transition fund",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmc4bHNraTJhWmczZHFtaDlQMFZXTWhPNGZJNlhGOGxUN0ZMMktZQnFlMjR6RzVzelRMYW5tMTJobE1CQ3JjSG1JWjZCRVZaaE5uaUdOajVBQWtvY3RHTW93bkg0ZjIzb3hhbjBoV0lKekg2a0VwQ0hyTmFSTC1pbHJCRzBJWUp4NjlXOTFCWl9fN3o4ODB6X2ZUMEVuZ3ZHdlZDV1RfSGl6dWlXZ0JwMGJsT2RMS0c5d25PckRn?oc=5",
-          "published_at": "2026-08-17T17:48:11Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "moroccoworldnews.com",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -43995,7 +44137,7 @@
       ]
     },
     {
-      "id": "7d74873ce761e83f60b4",
+      "id": "4353d41bd8ea5cad61c4",
       "title": "Morocco authorities arrest hundreds of migrants trying to reach Spain",
       "published_at": "2026-08-17T21:11:58Z",
       "status": "needs_review",
@@ -44007,7 +44149,7 @@
       ],
       "fact_check_matches": [],
       "source_count": 1,
-      "article_count": 2,
+      "article_count": 1,
       "sources": [
         "Jurist.org"
       ],
@@ -44022,23 +44164,6 @@
           "normalized_title": "morocco authorities arrest hundreds of migrants trying to reach spain",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkMxamdsYWltRkZRMVJmOG14V2ExUGhRTmFldEk2RElsVkRoN2JWeE5sdWlkQXV6cVZwcjNpQ0pvSV80ZXlGLUhyay1ObEZHRFpBWjc2TjZvZjgwb0FRNUhfeTE1SURkWUxUOWxNd05nWkxGSnJ5SVJsMzIyWEVhc0d3dkpYMU1rbEhibzBidXNuYllTVFlNQkVyUVExb3phcng3QWFZeVZYdw?oc=5",
           "published_at": "2026-08-17T21:11:58Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Jurist.org",
-            "url": "https://www.jurist.org",
-            "domain": "jurist.org",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "6ade061152b5f6941ddb",
-          "title": "Morocco authorities arrest hundreds of migrants trying to reach Spain - JURIST - News",
-          "raw_title": "Morocco authorities arrest hundreds of migrants trying to reach Spain - JURIST - News - Jurist.org",
-          "normalized_title": "morocco authorities arrest hundreds of migrants trying to reach spain jurist news",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkMxamdsYWltRkZRMVJmOG14V2ExUGhRTmFldEk2RElsVkRoN2JWeE5sdWlkQXV6cVZwcjNpQ0pvSV80ZXlGLUhyay1ObEZHRFpBWjc2TjZvZjgwb0FRNUhfeTE1SURkWUxUOWxNd05nWkxGSnJ5SVJsMzIyWEVhc0d3dkpYMU1rbEhibzBidXNuYllTVFlNQkVyUVExb3phcng3QWFZeVZYdw?oc=5",
-          "published_at": "2026-08-17T17:46:15Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -45191,88 +45316,6 @@
             "name": "العربي الجديد",
             "url": "https://www.alaraby.co.uk",
             "domain": "alaraby.co.uk",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0e7c90afc5a8c7943d7a",
-      "title": "المغرب يؤسس أربعة معاهد لدعم الذكاء الاصطناعي والتعليم والصناعة والمدن الذكية",
-      "published_at": "2026-08-17T17:52:31Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "entARABI"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "39957b122adedb95d71c",
-          "title": "المغرب يؤسس أربعة معاهد لدعم الذكاء الاصطناعي والتعليم والصناعة والمدن الذكية",
-          "raw_title": "المغرب يؤسس أربعة معاهد لدعم الذكاء الاصطناعي والتعليم والصناعة والمدن الذكية - entARABI",
-          "normalized_title": "المغرب يوسس اربعة معاهد لدعم الذكاء الاصطناعي والتعليم والصناعة والمدن الذكية",
-          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZnh4Qm43VUxMdDE4MlNqVFQ2QkI1R3JPSER2N2RRMVhDdkhTWm9DZ29PckJGN2x4OXZ3VjA3YXcyQm01NllEb2R2eDh2R1JKQVJPTkY5ZlFfaEVLRXM4NFR3UHNfVlZBWDAzamtJUkJiTG9NY1BKbzUyM1JaZzlYMjJLYWdXXzB2NlFpV3d1MmdyZ3o0MEVJd0JyYzkydDdoQkZNdmJ6UE85bHFoT0hZdWlFWDMzc0NHeXRLbDZaRklIaEp1VTJUdnlob1lPTGcwMEZlQVkwUEE1YWR5cngzdEhaR25DWXRfZWlCb0lQekZYRC1wMXZHZFlmdVJHa2xZb2F0Z3E5cHZKZV9fYk9OMnRvRGZodGxvMUpkSTR4dmgta3dEMU1qTWxMSlZYU2Vva2hNUUdyNnhSYmc1N2JTSnNKYjhlOHlhb3FveQ?oc=5",
-          "published_at": "2026-08-17T17:52:31Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "entARABI",
-            "url": "https://entarabi.com",
-            "domain": "entarabi.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9c4ef98b8ebe204c1835",
-      "title": "Morocco Women’s Team Earns $1.56 Million After World Cup Qualification",
-      "published_at": "2026-08-17T17:38:18Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.45,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail",
-        "quantified_value"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Morocco World News"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "7a03e2552c89b84a5b24",
-          "title": "Morocco Women’s Team Earns $1.56 Million After World Cup Qualification",
-          "raw_title": "Morocco Women’s Team Earns $1.56 Million After World Cup Qualification - Morocco World News",
-          "normalized_title": "morocco women s team earns 1 56 million after world cup qualification",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQTNGZ3BqaVI2elBLQ1BFNUZiUnRvV0lCYktRbGx1SHpjMWZaSmRCVUZQLWYyaFVFT3JfSm02ckRlMGhBc0V0Q3ZZcFlSWVZRZ0ZfQkJuNGJjMHdPVnEyYmUzWTRpQThfSW1kV0s3Q0lTemhqbWh1WktBMk03eUFMTTFodGFtaWJqRUJaVmtkTDJxS0FpbmFiR05ROEQ5aHVmMzdLV29RREpmWE1MNS1zSGFsbVRad0ds?oc=5",
-          "published_at": "2026-08-17T17:38:18Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "Morocco World News",
-            "url": "https://www.moroccoworldnews.com",
-            "domain": "moroccoworldnews.com",
             "weight": 0.35,
             "category": "unrated"
           }
