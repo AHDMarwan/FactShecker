@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-22T01:51:01Z",
+  "generated_at": "2026-08-22T03:07:47Z",
   "methodology_version": "0.2",
   "notice": "Evidence-support and text-match signals only; not an automated truth verdict.",
   "stats": {
     "records": 1200,
     "articles": 1198,
     "fact_checks": 2,
-    "clusters": 1063,
+    "clusters": 1062,
     "sources": 304,
     "matched_clusters": 0,
-    "needs_review": 1012,
+    "needs_review": 1011,
     "medium_evidence": 48,
     "corroborated": 3
   },
@@ -50,6 +50,87 @@
     }
   ],
   "items": [
+    {
+      "id": "8de1e19367d711a6b4ac",
+      "title": "دراسة ألمانية: المغرب ضمن أكبر 5 بلدان مصدّرة للهجرة التعليمية",
+      "published_at": "2026-08-22T02:05:54Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": true,
+      "claim_score": 0.35,
+      "claim_reasons": [
+        "specific_statement",
+        "numeric_detail"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Hespress"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "articles": [
+        {
+          "id": "8838155d9b9fa5d1211e",
+          "title": "دراسة ألمانية: المغرب ضمن أكبر 5 بلدان مصدّرة للهجرة التعليمية",
+          "raw_title": "دراسة ألمانية: المغرب ضمن أكبر 5 بلدان مصدّرة للهجرة التعليمية - Hespress",
+          "normalized_title": "دراسة المانية المغرب ضمن اكبر 5 بلدان مصدرة للهجرة التعليمية",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPRFhtQWZvc3I0cFZHVi1xcTN2WHQ1VGx6dXNVVE9oTjI5Nmo0Yk1LZHFFb0VMOGdxUkdHRDdiVE1WVWpjR2dBTEtnT3VIelZoUFc0ZjZES3hrUnJqR3pIeXBfdEFKam5NX1JSdGtFODhiQjl1YWtVU2htdlZQSjNXdGxkTThNcnAyaUkzMVE5RTZvWHhFQU1iNk9pc0JMeE5YSlREWWZ3SnU0LUFsZTQzV3dXWVlTMFBDUTJ5VV95dFZmaTdLMFVyN2gwMkQzbVRZeWRTcnVKZnBTWEE4cWFQTktxWnFHUmZSNHozZlFkRmVwSEdXVjBTeFBwTmQ2YWpVTVFGY2E2M1BsOWdBYkl3dXl0Y0NmQXZBZGNKME5HUjlNTGJoaHJsOF9GQnc4REVQRkZOQ01va0licUp6dkJMTmNNRUUxVzVMeVE0RFZ5QVZBQQ?oc=5",
+          "published_at": "2026-08-22T02:05:54Z",
+          "language": "ar",
+          "channel": "Google News — المغرب (AR)",
+          "source": {
+            "name": "Hespress",
+            "url": "https://www.hespress.com",
+            "domain": "hespress.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "38c6e54c05f954a60281",
+      "title": "Espagne-Maroc : le PP vilipende le Makhzen et tacle Sánchez",
+      "published_at": "2026-08-22T02:02:36Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Just-InfoDZ"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "53e47010877bae509d9b",
+          "title": "Espagne-Maroc : le PP vilipende le Makhzen et tacle Sánchez",
+          "raw_title": "Espagne-Maroc : le PP vilipende le Makhzen et tacle Sánchez - Just-InfoDZ",
+          "normalized_title": "espagne maroc le pp vilipende le makhzen et tacle sanchez",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1lTcUdOX01vUDFpMzRQTnFCZVo4UTBaa1ItMzBDZHU0MjB2NkN5MGhaRVRpUS1WRFJjMnBZd21XQjRRZkRSMlVvNU5rNzFGb2ZVVWJNRmlCSENiTE1hSlNyUjA3MkJKeEJxREpMUnlOSXlwclpVenZoQThWczh4dEFqd3U?oc=5",
+          "published_at": "2026-08-22T02:02:36Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Just-InfoDZ",
+            "url": "https://just-infodz.com",
+            "domain": "just-infodz.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
     {
       "id": "6026df18b6c0986f1472",
       "title": "الكرة الطائرة الشاطئية.. المغرب يتأهل بنجاح إلى نصف نهائي بطولة إفريقيا للرجال والسيدات",
@@ -124,46 +205,6 @@
             "name": "inews.ma",
             "url": "https://inews.ma",
             "domain": "inews.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "69660829d59e3a0f265b",
-      "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
-      "published_at": "2026-08-21T22:49:24Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Yabiladi.com"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "e9235cfed0b97ca23902",
-          "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
-          "raw_title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive» - Yabiladi.com",
-          "normalized_title": "recuperation de ceuta et melilla le maroc veut impliquer l ue dans la recherche d une solution definitive",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUdLUUhlcXRIWE1TY0Z1a2FMNFM1QWIwQzVWbkZyQy1mLVNsMXpuQ0xWekp2M3NqNGM3ZWpfcjJlRFk2VmR6T2Y4UjcwdU9LYkpMSlN3NVN2ZjYta2xIeDA0TlNjXzd5bUpVV012cUoyQ3ZpWkxlLXpnckY0SEQ4d2k1SEJIN2ZXSHU4enlDc3hZTTVnTVE?oc=5",
-          "published_at": "2026-08-21T22:49:24Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Yabiladi.com",
-            "url": "https://www.yabiladi.com",
-            "domain": "yabiladi.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -292,6 +333,46 @@
       ]
     },
     {
+      "id": "69660829d59e3a0f265b",
+      "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
+      "published_at": "2026-08-21T22:28:35Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "Yabiladi.com"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "e9235cfed0b97ca23902",
+          "title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive»",
+          "raw_title": "Récupération de Ceuta et Melilla : Le Maroc veut impliquer l’UE dans la recherche d’une «solution définitive» - Yabiladi.com",
+          "normalized_title": "recuperation de ceuta et melilla le maroc veut impliquer l ue dans la recherche d une solution definitive",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUdLUUhlcXRIWE1TY0Z1a2FMNFM1QWIwQzVWbkZyQy1mLVNsMXpuQ0xWekp2M3NqNGM3ZWpfcjJlRFk2VmR6T2Y4UjcwdU9LYkpMSlN3NVN2ZjYta2xIeDA0TlNjXzd5bUpVV012cUoyQ3ZpWkxlLXpnckY0SEQ4d2k1SEJIN2ZXSHU4enlDc3hZTTVnTVE?oc=5",
+          "published_at": "2026-08-21T22:28:35Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "Yabiladi.com",
+            "url": "https://www.yabiladi.com",
+            "domain": "yabiladi.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
       "id": "178b18513625a353e2ba",
       "title": "عن عبور الشباب من المغرب إلى إسبانيا",
       "published_at": "2026-08-21T22:14:56Z",
@@ -334,7 +415,7 @@
     {
       "id": "063ebaab0f73b5563c83",
       "title": "Surprise deal: could Riyad Mahrez move to Wydad of Morocco?",
-      "published_at": "2026-08-21T22:13:50Z",
+      "published_at": "2026-08-21T22:14:08Z",
       "status": "needs_review",
       "evidence_score": 0.158,
       "claim_candidate": false,
@@ -358,7 +439,7 @@
           "raw_title": "Surprise deal: could Riyad Mahrez move to Wydad of Morocco? - Goal.com",
           "normalized_title": "surprise deal could riyad mahrez move to wydad of morocco",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnB3YjUwZjRKaTVHOWJqckFsNUtZbzlyT25OQmZRZmhlT250cEpSbHJDMUEtcTNiUnB2ZkpNNGdoRTRhM3RJMjB2NVhpbUJ4WlJEUERZRmgyMzRmOC13cGU5Q1FVTFh4Zzg1RE1QR1lnTWFBLUtFVE1KQ0pfSkdtT2xnLWlTNFNQRFRnTnNEMkg0eFBRQnc?oc=5",
-          "published_at": "2026-08-21T22:13:50Z",
+          "published_at": "2026-08-21T22:14:08Z",
           "language": "en",
           "channel": "Google News — Morocco (EN)",
           "source": {
@@ -969,6 +1050,46 @@
             "name": "بوابة الأهرام",
             "url": "https://gate.ahram.org.eg",
             "domain": "gate.ahram.org.eg",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b7c11aaca5a67e398f03",
+      "title": "PAM. Fouzi Lekjaa défend la jeunesse marocaine à Taounate",
+      "published_at": "2026-08-21T20:19:59Z",
+      "status": "needs_review",
+      "evidence_score": 0.158,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 1,
+      "article_count": 1,
+      "sources": [
+        "LesEco.ma"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "articles": [
+        {
+          "id": "d56aba6e179500c350bb",
+          "title": "PAM. Fouzi Lekjaa défend la jeunesse marocaine à Taounate",
+          "raw_title": "PAM. Fouzi Lekjaa défend la jeunesse marocaine à Taounate - LesEco.ma",
+          "normalized_title": "pam fouzi lekjaa defend la jeunesse marocaine a taounate",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd3RtdWdYdi1oaF9wc2dqUXl2cDh5cklLQjBkN3BPQmhLSkZoZHQ3MmpPQzhMQ2NGTzMxVkhxYUlvTWdyZDI0ZkFqUW5ldWhLUW5aYVZYSVBjRmRYRzAyOTUwWUk2QUZkZ3dkUXA2ZnhqUkVkZlJva2R3LWJKbnVGY29sU2Y2Yk9TY3VDaW1B?oc=5",
+          "published_at": "2026-08-21T20:19:59Z",
+          "language": "fr",
+          "channel": "Google News — Maroc (FR)",
+          "source": {
+            "name": "LesEco.ma",
+            "url": "https://leseco.ma",
+            "domain": "leseco.ma",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -2106,6 +2227,81 @@
             "name": "الجزيرة نت",
             "url": "https://www.aljazeera.net",
             "domain": "aljazeera.net",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7b8ff753f7b0e53d7e60",
+      "title": "Morocco: Migrants caught between Ceuta dreams and reality",
+      "published_at": "2026-08-21T17:59:48Z",
+      "status": "medium_evidence",
+      "evidence_score": 0.383,
+      "claim_candidate": false,
+      "claim_score": 0.1,
+      "claim_reasons": [
+        "specific_statement"
+      ],
+      "fact_check_matches": [],
+      "source_count": 2,
+      "article_count": 3,
+      "sources": [
+        "DW.com",
+        "dw.com"
+      ],
+      "languages": [
+        "en"
+      ],
+      "articles": [
+        {
+          "id": "157d719cc1abbe6deadd",
+          "title": "Morocco: Migrants caught between Ceuta dreams and reality",
+          "raw_title": "Morocco: Migrants caught between Ceuta dreams and reality - dw.com",
+          "normalized_title": "morocco migrants caught between ceuta dreams and reality",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR29QUGVmU1lQS3JfcXA5UC1ZWEhqRkxZa1ZuamlraTdHRURVMDNOUFNrTC1Id3pnVG5tMGprcmdsLXRWLVdBdXRTbnZmSVo5OVl5dXVwTjNIUUgxbzBkQlYxRlJsTGVaYWlmTzVBalJuUWF1bGFCRDJFVHl3VHNweDFqa3JDcUtuMTFrOVlGbFJoSDZXQjhhamxYa3pQazhiQjRybTdYQkg0dU5Da0pwVlplMnFsSmJYVjhoRjZCOTlNOURrbEJUNk5TWFBVMVFOLXRNRHFpMHlYZEZuWXNMLUdR0gHiAUFVX3lxTE5CM0plTUl0bkRNNDJNQmpVbkF2QkJfWFNyRjJVVXZ2cmFyblpERG5NTklXcEVNRm5ZOVRQT2gzckU5V0R6UnZ1UHFlRW1LckRVdzFhNkJid3ZCb2VHaVhkeU5pdlhnQnIxalMxM0ZQU1hGbWN3UERQM29pSFh5S0pmamRYRl9yME5xcmFobG1MbmhCNzdlMFROMG5kZnoteGY4dUY1RUdtUWRSc0VQVFEyMWtWazlhLXRMdjZJU2lQTTZYM1djXzJuWDJJMkVpcVA2SUZlWC1uUktGYnRBZjFUZmc?oc=5",
+          "published_at": "2026-08-21T17:59:48Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "dw.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "344a1922d79f0b92b5d7",
+          "title": "Morocco: Migrants caught between Ceuta dreams and reality",
+          "raw_title": "Morocco: Migrants caught between Ceuta dreams and reality - DW.com",
+          "normalized_title": "morocco migrants caught between ceuta dreams and reality",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2ZTS24zbDhpRzhvTHA2U01Wb1pBUGZYaHJFVWZlLS0yLXRBQ0cxNlJFUDBFb2pBUXZzNERXLUxpUWZaQTI0VDNjQV9rSTl5UXpfcHlLSjlBWUEyWjQySzZYOUJpQVRhYmdTSWVuc1JjRTBrVWhhUUtJdmFMTDVCUzIwa01jZHc2THpZbWtjUHVXOW_SAZMBQVVfeXFMTUNweDhPZEdPc2Juckhvb3o4eHh1OW9iRmZmel9tZWxIMnVSdTJPSXhVZWQ4Qks3WVEtc1JLNTI5MlJ0MTZkeHBYeTcycWhfMHFXLVZIUFUzSXh3Z1FjdUZjXzNsY1hETDVMclB2cUxNOVNLTWRNNVNxZnhIek1POVFya1QxNHowbHhYY2luMUlfTmxZ?oc=5",
+          "published_at": "2026-08-21T05:45:07Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "DW.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
+            "weight": 0.35,
+            "category": "unrated"
+          }
+        },
+        {
+          "id": "a11c05209558083ea524",
+          "title": "Morrocco: migrants caught between Ceuta dreams and reality",
+          "raw_title": "Morrocco: migrants caught between Ceuta dreams and reality - dw.com",
+          "normalized_title": "morrocco migrants caught between ceuta dreams and reality",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1RNcHA5emRRQ3BWSVI0eS1LMlV0blhjZXpLS2o4ai1sMG5ldVhGZjJoWUVCem51aENQZzYwOUZuNHZiR1pMUUxTQlVFbXQySGsxOE1fd3BHSXk4UmI4MnEweWZmbm8tSTdZemJzMEhQRWVETE1LS2JwaWYzNl9ER2FaNjRfcFlXVnVTcXJ3LWFRWnNP0gGUAUFVX3lxTFA2V1lwVEo2MmJ0ZmFodkZ5Y0tuWnU1UW9MRUZaU2I4ZTRYZjhMelh2Q3JyYXVFd3BURVlmMWhSc0hVa0l5MEs4OEJNb1VKbmszQ2YzZ2NmTzczSlhiT2hWWUZxZm5aYVkxWXRqM2l1cGZDazNRTlE4MmxpV2RCUU9UYUx1QllqbEtwOHJncWNLcGtMMjU?oc=5",
+          "published_at": "2026-08-21T05:02:21Z",
+          "language": "en",
+          "channel": "Google News — Morocco (EN)",
+          "source": {
+            "name": "dw.com",
+            "url": "https://www.dw.com",
+            "domain": "dw.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -8481,64 +8677,6 @@
             "name": "Hespress",
             "url": "https://www.hespress.com",
             "domain": "hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "fbf4083c44bbaa7c1d86",
-      "title": "Morocco: Migrants caught between Ceuta dreams and reality",
-      "published_at": "2026-08-21T05:45:07Z",
-      "status": "medium_evidence",
-      "evidence_score": 0.383,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 2,
-      "article_count": 2,
-      "sources": [
-        "DW.com",
-        "dw.com"
-      ],
-      "languages": [
-        "en"
-      ],
-      "articles": [
-        {
-          "id": "344a1922d79f0b92b5d7",
-          "title": "Morocco: Migrants caught between Ceuta dreams and reality",
-          "raw_title": "Morocco: Migrants caught between Ceuta dreams and reality - DW.com",
-          "normalized_title": "morocco migrants caught between ceuta dreams and reality",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd2ZTS24zbDhpRzhvTHA2U01Wb1pBUGZYaHJFVWZlLS0yLXRBQ0cxNlJFUDBFb2pBUXZzNERXLUxpUWZaQTI0VDNjQV9rSTl5UXpfcHlLSjlBWUEyWjQySzZYOUJpQVRhYmdTSWVuc1JjRTBrVWhhUUtJdmFMTDVCUzIwa01jZHc2THpZbWtjUHVXOW_SAZMBQVVfeXFMTUNweDhPZEdPc2Juckhvb3o4eHh1OW9iRmZmel9tZWxIMnVSdTJPSXhVZWQ4Qks3WVEtc1JLNTI5MlJ0MTZkeHBYeTcycWhfMHFXLVZIUFUzSXh3Z1FjdUZjXzNsY1hETDVMclB2cUxNOVNLTWRNNVNxZnhIek1POVFya1QxNHowbHhYY2luMUlfTmxZ?oc=5",
-          "published_at": "2026-08-21T05:45:07Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "DW.com",
-            "url": "https://www.dw.com",
-            "domain": "dw.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        },
-        {
-          "id": "a11c05209558083ea524",
-          "title": "Morrocco: migrants caught between Ceuta dreams and reality",
-          "raw_title": "Morrocco: migrants caught between Ceuta dreams and reality - dw.com",
-          "normalized_title": "morrocco migrants caught between ceuta dreams and reality",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1RNcHA5emRRQ3BWSVI0eS1LMlV0blhjZXpLS2o4ai1sMG5ldVhGZjJoWUVCem51aENQZzYwOUZuNHZiR1pMUUxTQlVFbXQySGsxOE1fd3BHSXk4UmI4MnEweWZmbm8tSTdZemJzMEhQRWVETE1LS2JwaWYzNl9ER2FaNjRfcFlXVnVTcXJ3LWFRWnNP0gGUAUFVX3lxTFA2V1lwVEo2MmJ0ZmFodkZ5Y0tuWnU1UW9MRUZaU2I4ZTRYZjhMelh2Q3JyYXVFd3BURVlmMWhSc0hVa0l5MEs4OEJNb1VKbmszQ2YzZ2NmTzczSlhiT2hWWUZxZm5aYVkxWXRqM2l1cGZDazNRTlE4MmxpV2RCUU9UYUx1QllqbEtwOHJncWNLcGtMMjU?oc=5",
-          "published_at": "2026-08-21T05:02:21Z",
-          "language": "en",
-          "channel": "Google News — Morocco (EN)",
-          "source": {
-            "name": "dw.com",
-            "url": "https://www.dw.com",
-            "domain": "dw.com",
             "weight": 0.35,
             "category": "unrated"
           }
@@ -42045,7 +42183,7 @@
       "source_count": 1,
       "article_count": 1,
       "sources": [
-        "DW.com"
+        "dw.com"
       ],
       "languages": [
         "ar"
@@ -42054,14 +42192,14 @@
         {
           "id": "4560a614317dacb8c45c",
           "title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة",
-          "raw_title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة - DW.com",
+          "raw_title": "المغرب.. في الفنيدق يلتقي واقع البطالة بحلم العبور إلى سبتة - dw.com",
           "normalized_title": "المغرب في الفنيدق يلتقي واقع البطالة بحلم العبور الى سبتة",
           "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPc1c1aFZ3Vmg4Z3NadDlWTmh3aC0yZUphQlFRQWZYWkdrcmQ1RlpjVktpNzJwNVczdVptUmdsX0FONjktYXB2WEpKTFIxWDVFYzRBSjVLbTQ0NS11ajJ1SjlNREl2aXB5Ykl2NDk4amV1UEttcFlTRHBYU0FzN1VaOEJkcnpxbWFVLWNpYXloNXAwMGhyaFItal9CUVdBQkN1WXhvNkowTkdMaFExTEpma0dNN3BWOVo0ZElUUzVJX25RWWVGeDNDVUs5dWlxLWgwS3RkWW02M3VqZ3pGQUNKeGo2Qnk3ZTdyX2ZKMXBtS0laemt4ak04aHpHeXYxUzlhU1hFTnBmMDZJS3lqTFByRU5hNVlEeDhlQXVNZnBhSnRQM1NLampIVHFwWTh1Y1gtV21mc3lKc0t1WC1GVFc1NC05ZlE2RzNVeXRzZlB1eEZrRmVodzd3Q0lPZ19wRkN4QUd3Zy1Ma2JPRlZSSVlkZWo1cnREajJxSmxYZDJPNU5lZnJPWnJ0SmdHMGVUaGtqOG4wTjNqNUFTc3hiaW94aXpQUjFPdzVtODBSa3JTbW5nSWo4TEY1a0ZueWJMMFB6UDd0RXg4bWpIRGszX1ZYZWxtRzTSAdQDQVVfeXFMUHNkNTZFZDZ3QVV4ZlNQcll3NGx2azl2ekp6ckJpakZVTW52dlplTXJDUktzLUJHajAxWEh2ZDd0RjZSWU15S2pmSmFQcUlyODV6djJNdG9QV1N6MEp0SEJVaHNVWndvX0dlMVRzQ0FaMkJYRGdyLUZqWF9mMW4wdUlUS2tEVmN1RHpiSHcteXF5TW9HdGNSMmltWHl3RkRjU1Y4UXJkOXoyMGRjQWEzZFlOck9DX0RiVkFEMkhiM1dDSWlIblprVTlWRVp2MExCdUZVbEt5X1dNd3NNTENzNGg1dHlwVXJRUzl2N1p0Z3kzZVMxQ0x4Wm1YU2tNeGFMRHNuSXUxS19CWHRHbFNVdE1TNmtEZ1FMN1JZS0JFcHF1NUFKX2lPN3V1RVJLdnkzeEI5RzBxdjhIakw5Yk9GUVRITmR0QVM2SWhJay1ZZXZjcDBlLVRLUUlpMDR5QnRxNm1sNjZUUGR1YnZOQW5DUmlidE83R3pvblJuUVpUUzE4NUVRVnV2VDBHQVg2MzFhSW5pYkxRSWpkTmZvV1NfZDRFN3FQWnU5TVk2aElyLUxid2IzelM4VVpKc2lDb3RLaWVhWnFmX1ZlRWZPRklSZVJxM2dv?oc=5",
           "published_at": "2026-08-18T07:36:11Z",
           "language": "ar",
           "channel": "Google News — المغرب (AR)",
           "source": {
-            "name": "DW.com",
+            "name": "dw.com",
             "url": "https://www.dw.com",
             "domain": "dw.com",
             "weight": 0.35,
@@ -45135,167 +45273,6 @@
             "name": "Morocco World News",
             "url": "https://www.moroccoworldnews.com",
             "domain": "moroccoworldnews.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1a115e7ba6808b059813",
-      "title": "برلماني إسباني يتخبط في بروكسل",
-      "published_at": "2026-08-17T17:37:44Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Hespress"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "58e4454b94b190402a0e",
-          "title": "برلماني إسباني يتخبط في بروكسل",
-          "raw_title": "برلماني إسباني يتخبط في بروكسل - Hespress",
-          "normalized_title": "برلماني اسباني يتخبط في بروكسل",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOX1h1UTZudFRMU1I5UVhUS1Z0d1NacU8xa3lxVU84QktNY2ZfX0ttRXp5VkVfZENkM2JnY0tDOFh5dWlQN215UEhCV093UEtmUEhDOU94ZDQwcUxUdldoZzNMMjdMVWs0UVVVR1BPY2pIM1RUV0pmZjNRREs4SWxObXB1aTcyTDRqb0NzTGdDNWxDcVRaODZZOHRxN0ZUMC1hVWptUk12cEVIQk9LUFBUbXVvNWNUMF83SkMwbEFLYTRtamdvQVEyakF6ZXM2aFd3Q0VzU0xSdWVyMkowcjdta2xkekRiS3dUeG8zVHdEc21iRVZUb0UwMW9MUTVGWDMxQzliZ3V2OTczdEd4aGpRcy1nd19PRnF1a3VWd2dfT2R1RU90?oc=5",
-          "published_at": "2026-08-17T17:37:44Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "Hespress",
-            "url": "https://www.hespress.com",
-            "domain": "hespress.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "392c929b056648eb36fe",
-      "title": "كأس أمم إفريقيا للسيدات: الجزائر تفوز على المغرب وتتوج بالبرونزية",
-      "published_at": "2026-08-17T17:37:38Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "BBC"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "articles": [
-        {
-          "id": "268dbaad147e463774fc",
-          "title": "كأس أمم إفريقيا للسيدات: الجزائر تفوز على المغرب وتتوج بالبرونزية",
-          "raw_title": "كأس أمم إفريقيا للسيدات: الجزائر تفوز على المغرب وتتوج بالبرونزية - BBC",
-          "normalized_title": "كاس امم افريقيا للسيدات الجزاير تفوز على المغرب وتتوج بالبرونزية",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Ga0FGamdiSUZtVUR0RTc1SVNhVHJOckRSOUFJVUhQX2I0bzVOM1JxaDYwaVk1M1pMQS1aZmJXTi1HMkZfVFlBd0lQYkxEM2doay0ydk1fYXBSUVZ20gFiQVVfeXFMT2FpSUs0UXZaRUJDMko1eVFjdWFHSURFMGQ1cktDdEtpUEszcGxZWUtuUHU0WTlZZjd0WTgtV1dlSmhYMDBDTHVISFI5TW9laUktUnBHbHlfRUtxeGpOcnRVLWc?oc=5",
-          "published_at": "2026-08-17T17:37:38Z",
-          "language": "ar",
-          "channel": "Google News — المغرب (AR)",
-          "source": {
-            "name": "BBC",
-            "url": "https://www.bbc.com",
-            "domain": "bbc.com",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e5a1443dfec064e76fc9",
-      "title": "PLF 2027: le Maroc franchit le cap du budget vert",
-      "published_at": "2026-08-17T17:33:52Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": true,
-      "claim_score": 0.35,
-      "claim_reasons": [
-        "specific_statement",
-        "numeric_detail"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "challenge.ma"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "d34347dba1cb0f4968e9",
-          "title": "PLF 2027: le Maroc franchit le cap du budget vert",
-          "raw_title": "PLF 2027: le Maroc franchit le cap du budget vert - challenge.ma",
-          "normalized_title": "plf 2027 le maroc franchit le cap du budget vert",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWVjeWd3YVBrWjhzTjhqeU01S2Fxblh5STVvT3l1XzYwczZRanBXeW90NHRqanFGQmQ0cHhwWmJfbDdrX3oxdW0yYnBTNV8tUnJhMlFabkltX0FRbXNjOTdBN0dCRnJlT0VnazhCNHh2Wi1STmlUYTcyNUh2LVo3cjVqYmJ5Nmwx?oc=5",
-          "published_at": "2026-08-17T17:33:52Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "challenge.ma",
-            "url": "https://www.challenge.ma",
-            "domain": "challenge.ma",
-            "weight": 0.35,
-            "category": "unrated"
-          }
-        }
-      ]
-    },
-    {
-      "id": "2130d691d1b0997bc2e7",
-      "title": "Journée nationale des MRE : Les Marocains du monde, levier incontournable du Maroc de demain",
-      "published_at": "2026-08-17T17:29:51Z",
-      "status": "needs_review",
-      "evidence_score": 0.158,
-      "claim_candidate": false,
-      "claim_score": 0.1,
-      "claim_reasons": [
-        "specific_statement"
-      ],
-      "fact_check_matches": [],
-      "source_count": 1,
-      "article_count": 1,
-      "sources": [
-        "Maroc Diplomatique"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "articles": [
-        {
-          "id": "4f2cc2bbc1e84958d8f8",
-          "title": "Journée nationale des MRE : Les Marocains du monde, levier incontournable du Maroc de demain",
-          "raw_title": "Journée nationale des MRE : Les Marocains du monde, levier incontournable du Maroc de demain - Maroc Diplomatique",
-          "normalized_title": "journee nationale des mre les marocains du monde levier incontournable du maroc de demain",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZmlTdFJoMVlZZnBlWmp4ZHp0b2kzazYzRkhrdE1RSFZub2lsTjFFME5xZXVxcW9SWjRCM1lZQ2NsZXM5eXZKWTRGZXV0VjFZZDdRVkF6QkRobjJWSkpPNmNBbERpRjc5RThjYU9oZzdQMG5kRUFmVEJKNnVIRk9KdHU5cFdzbWpkMy1ycUxlVlVLZGk1R3JXT2IwU21ZWUlPamZiaFlQWEloY1huS2J2NHUzcGpqSWp0elFaR3Fn?oc=5",
-          "published_at": "2026-08-17T17:29:51Z",
-          "language": "fr",
-          "channel": "Google News — Maroc (FR)",
-          "source": {
-            "name": "Maroc Diplomatique",
-            "url": "https://maroc-diplomatique.net",
-            "domain": "maroc-diplomatique.net",
             "weight": 0.35,
             "category": "unrated"
           }
